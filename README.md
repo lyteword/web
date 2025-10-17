@@ -9,7 +9,7 @@ This repository contains a complete **World English Bible (WEB)** translation of
 - Simple and consistent syntax for easy parsing  
 - Fully open-source for use in apps, websites, and study tools  
 
-## Format Example
+## Format Examples
 
 `psalm/psalm-23.md`
 ```
@@ -18,6 +18,17 @@ This repository contains a complete **World English Bible (WEB)** translation of
 <sup>1</sup> Yahweh is my shepherd; I shall lack nothing.
 
 <sup>2</sup> He makes me lie down in green pastures. He leads me beside still waters.
+```
+
+`john/chapter-1.md`
+```
+# Chapter 1
+
+<sup>1</sup> In the beginning was the Word, and the Word was with God, and the Word was God.
+
+<sup>2</sup> The same was in the beginning with God.
+
+<sup>3</sup> All things were made through him. Without him, nothing was made that has been made. 
 ```
 
 ## Usage
