@@ -1,0 +1,36 @@
+---
+weight: 9
+---
+
+# Chapter 9
+
+<sup>1</sup> I saw the Lord standing beside the altar, and he said, “Strike the tops of the pillars, that the thresholds may shake. Break them in pieces on the head of all of them. I will kill the last of them with the sword. Not one of them will flee away. Not one of them will escape. 
+
+<sup>2</sup> Though they dig into Sheol, there my hand will take them; and though they climb up to heaven, there I will bring them down. 
+
+<sup>3</sup> Though they hide themselves in the top of Carmel, I will search and take them out from there; and though they be hidden from my sight in the bottom of the sea, there I will command the serpent, and it will bite them. 
+
+<sup>4</sup> Though they go into captivity before their enemies, there I will command the sword, and it will kill them. I will set my eyes on them for evil, and not for good. 
+
+<sup>5</sup> For the Lord, Yahweh of Armies, is he who touches the land and it melts, and all who dwell in it will mourn; and it will rise up wholly like the River, and will sink again, like the River of Egypt. 
+
+<sup>6</sup> It is he who builds his rooms in the heavens, and has founded his vault on the earth; he who calls for the waters of the sea, and pours them out on the surface of the earth—Yahweh is his name. 
+
+<sup>7</sup> Are you not like the children of the Ethiopians to me, children of Israel?” says Yahweh. “Haven’t I brought up Israel out of the land of Egypt, and the Philistines from Caphtor, and the Syrians from Kir? 
+
+<sup>8</sup> Behold, the eyes of the Lord Yahweh are on the sinful kingdom, and I will destroy it from off the surface of the earth, except that I will not utterly destroy the house of Jacob,” says Yahweh. 
+
+<sup>9</sup> “For behold, I will command, and I will sift the house of Israel among all the nations as grain is sifted in a sieve, yet not the least kernel will fall on the earth. 
+
+<sup>10</sup> All the sinners of my people will die by the sword, who say, ‘Evil won’t overtake nor meet us.’ 
+
+<sup>11</sup> In that day I will raise up the tent of David who is fallen and close up its breaches, and I will raise up its ruins, and I will build it as in the days of old, 
+
+<sup>12</sup> that they may possess the remnant of Edom and all the nations who are called by my name,” says Yahweh who does this. 
+
+<sup>13</sup> “Behold, the days come,” says Yahweh, “that the plowman shall overtake the reaper, and the one treading grapes him who sows seed; and sweet wine will drip from the mountains, and flow from the hills. 
+
+<sup>14</sup> I will bring my people Israel back from captivity, and they will rebuild the ruined cities, and inhabit them; and they will plant vineyards, and drink wine from them. They shall also make gardens, and eat their fruit. 
+
+<sup>15</sup> I will plant them on their land, and they will no more be plucked up out of their land which I have given them,” says Yahweh your God. 
+
