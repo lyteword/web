@@ -1,0 +1,67 @@
+---
+weight: 18
+---
+
+# Chapter 18
+
+<sup>1</sup> When he had finished speaking to Saul, the soul of Jonathan was knit with the soul of David, and Jonathan loved him as his own soul. 
+
+<sup>2</sup> Saul took him that day, and wouldn’t let him go home to his father’s house any more. 
+
+<sup>3</sup> Then Jonathan and David made a covenant, because he loved him as his own soul. 
+
+<sup>4</sup> Jonathan stripped himself of the robe that was on him and gave it to David with his clothing, even including his sword, his bow, and his sash. 
+
+<sup>5</sup> David went out wherever Saul sent him, and behaved himself wisely; and Saul set him over the men of war. It was good in the sight of all the people, and also in the sight of Saul’s servants. 
+
+<sup>6</sup> As they came, when David returned from the slaughter of the Philistine, the women came out of all the cities of Israel, singing and dancing, to meet King Saul with tambourines, with joy, and with instruments of music. 
+
+<sup>7</sup> The women sang to one another as they played, and said, “Saul has slain his thousands, and David his ten thousands.” 
+
+<sup>8</sup> Saul was very angry, and this saying displeased him. He said, “They have credited David with ten thousands, and they have only credited me with thousands. What can he have more but the kingdom?” 
+
+<sup>9</sup> Saul watched David from that day and forward. 
+
+<sup>10</sup> On the next day, an evil spirit from God came mightily on Saul, and he prophesied in the middle of the house. David played with his hand, as he did day by day. Saul had his spear in his hand; 
+
+<sup>11</sup> and Saul threw the spear, for he said, “I will pin David to the wall!” David escaped from his presence twice. 
+
+<sup>12</sup> Saul was afraid of David, because Yahweh was with him, and had departed from Saul. 
+
+<sup>13</sup> Therefore Saul removed him from his presence, and made him his captain over a thousand; and he went out and came in before the people. 
+
+<sup>14</sup> David behaved himself wisely in all his ways; and Yahweh was with him. 
+
+<sup>15</sup> When Saul saw that he behaved himself very wisely, he stood in awe of him. 
+
+<sup>16</sup> But all Israel and Judah loved David; for he went out and came in before them. 
+
+<sup>17</sup> Saul said to David, “Behold, my elder daughter Merab. I will give her to you as wife. Only be valiant for me, and fight Yahweh’s battles.” For Saul said, “Don’t let my hand be on him, but let the hand of the Philistines be on him.” 
+
+<sup>18</sup> David said to Saul, “Who am I, and what is my life, or my father’s family in Israel, that I should be son-in-law to the king?” 
+
+<sup>19</sup> But at the time when Merab, Saul’s daughter, should have been given to David, she was given to Adriel the Meholathite as wife. 
+
+<sup>20</sup> Michal, Saul’s daughter, loved David; and they told Saul, and the thing pleased him. 
+
+<sup>21</sup> Saul said, I will give her to him, that she may be a snare to him and that the hand of the Philistines may be against him. Therefore Saul said to David a second time, “You shall today be my son-in-law.” 
+
+<sup>22</sup> Saul commanded his servants, “Talk with David secretly, and say, ‘Behold, the king has delight in you, and all his servants love you. Now therefore be the king’s son-in-law.’” 
+
+<sup>23</sup> Saul’s servants spoke those words in the ears of David. David said, “Does it seem to you a light thing to be the king’s son-in-law, since I am a poor man and little known?” 
+
+<sup>24</sup> The servants of Saul told him, saying, “David spoke like this.” 
+
+<sup>25</sup> Saul said, “Tell David, ‘The king desires no dowry except one hundred foreskins of the Philistines, to be avenged of the king’s enemies.’” Now Saul thought he would make David fall by the hand of the Philistines. 
+
+<sup>26</sup> When his servants told David these words, it pleased David well to be the king’s son-in-law. Before the deadline, 
+
+<sup>27</sup> David arose and went, he and his men, and killed two hundred men of the Philistines. Then David brought their foreskins, and they gave them in full number to the king, that he might be the king’s son-in-law. Then Saul gave him Michal his daughter as wife. 
+
+<sup>28</sup> Saul saw and knew that Yahweh was with David; and Michal, Saul’s daughter, loved him. 
+
+<sup>29</sup> Saul was even more afraid of David; and Saul was David’s enemy continually. 
+
+<sup>30</sup> Then the princes of the Philistines went out; and as often as they went out, David behaved himself more wisely than all the servants of Saul, so that his name was highly esteemed. 
+
+
