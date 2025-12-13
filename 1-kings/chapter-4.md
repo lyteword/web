@@ -4,72 +4,72 @@ weight: 4
 
 # Chapter 4
 
-<sup>1</sup> King Solomon was king over all Israel. 
+<sup>1</sup> King Solomon was king over all Israel.
 
-<sup>2</sup> These were the princes whom he had: Azariah the son of Zadok, the priest; 
+<sup>2</sup> These were the princes whom he had: Azariah the son of Zadok, the priest;
 
-<sup>3</sup> Elihoreph and Ahijah, the sons of Shisha, scribes; Jehoshaphat the son of Ahilud, the recorder; 
+<sup>3</sup> Elihoreph and Ahijah, the sons of Shisha, scribes; Jehoshaphat the son of Ahilud, the recorder;
 
-<sup>4</sup> Benaiah the son of Jehoiada was over the army; Zadok and Abiathar were priests; 
+<sup>4</sup> Benaiah the son of Jehoiada was over the army; Zadok and Abiathar were priests;
 
-<sup>5</sup> Azariah the son of Nathan was over the officers; Zabud the son of Nathan was chief minister, the king’s friend; 
+<sup>5</sup> Azariah the son of Nathan was over the officers; Zabud the son of Nathan was chief minister, the king’s friend;
 
-<sup>6</sup> Ahishar was over the household; and Adoniram the son of Abda was over the men subject to forced labor. 
+<sup>6</sup> Ahishar was over the household; and Adoniram the son of Abda was over the men subject to forced labor.
 
-<sup>7</sup> Solomon had twelve officers over all Israel, who provided food for the king and his household. Each man had to make provision for a month in the year. 
+<sup>7</sup> Solomon had twelve officers over all Israel, who provided food for the king and his household. Each man had to make provision for a month in the year.
 
-<sup>8</sup> These are their names: Ben Hur, in the hill country of Ephraim; 
+<sup>8</sup> These are their names: Ben Hur, in the hill country of Ephraim;
 
-<sup>9</sup> Ben Deker, in Makaz, in Shaalbim, Beth Shemesh, and Elon Beth Hanan; 
+<sup>9</sup> Ben Deker, in Makaz, in Shaalbim, Beth Shemesh, and Elon Beth Hanan;
 
-<sup>10</sup> Ben Hesed, in Arubboth (Socoh and all the land of Hepher belonged to him); 
+<sup>10</sup> Ben Hesed, in Arubboth (Socoh and all the land of Hepher belonged to him);
 
-<sup>11</sup> Ben Abinadab, in all the height of Dor (he had Taphath, Solomon’s daughter, as wife); 
+<sup>11</sup> Ben Abinadab, in all the height of Dor (he had Taphath, Solomon’s daughter, as wife);
 
-<sup>12</sup> Baana the son of Ahilud, in Taanach and Megiddo, and all Beth Shean which is beside Zarethan, beneath Jezreel, from Beth Shean to Abel Meholah, as far as beyond Jokmeam; 
+<sup>12</sup> Baana the son of Ahilud, in Taanach and Megiddo, and all Beth Shean which is beside Zarethan, beneath Jezreel, from Beth Shean to Abel Meholah, as far as beyond Jokmeam;
 
-<sup>13</sup> Ben Geber, in Ramoth Gilead (the towns of Jair the son of Manasseh, which are in Gilead, belonged to him; and the region of Argob, which is in Bashan, sixty great cities with walls and bronze bars, belonged to him); 
+<sup>13</sup> Ben Geber, in Ramoth Gilead (the towns of Jair the son of Manasseh, which are in Gilead, belonged to him; and the region of Argob, which is in Bashan, sixty great cities with walls and bronze bars, belonged to him);
 
-<sup>14</sup> Ahinadab the son of Iddo, in Mahanaim; 
+<sup>14</sup> Ahinadab the son of Iddo, in Mahanaim;
 
-<sup>15</sup> Ahimaaz, in Naphtali (he also took Basemath the daughter of Solomon as wife); 
+<sup>15</sup> Ahimaaz, in Naphtali (he also took Basemath the daughter of Solomon as wife);
 
-<sup>16</sup> Baana the son of Hushai, in Asher and Bealoth; 
+<sup>16</sup> Baana the son of Hushai, in Asher and Bealoth;
 
-<sup>17</sup> Jehoshaphat the son of Paruah, in Issachar; 
+<sup>17</sup> Jehoshaphat the son of Paruah, in Issachar;
 
-<sup>18</sup> Shimei the son of Ela, in Benjamin; 
+<sup>18</sup> Shimei the son of Ela, in Benjamin;
 
-<sup>19</sup> Geber the son of Uri, in the land of Gilead, the country of Sihon king of the Amorites and of Og king of Bashan; and he was the only officer who was in the land. 
+<sup>19</sup> Geber the son of Uri, in the land of Gilead, the country of Sihon king of the Amorites and of Og king of Bashan; and he was the only officer who was in the land.
 
-<sup>20</sup> Judah and Israel were numerous as the sand which is by the sea in multitude, eating and drinking and making merry. 
+<sup>20</sup> Judah and Israel were numerous as the sand which is by the sea in multitude, eating and drinking and making merry.
 
-<sup>21</sup> Solomon ruled over all the kingdoms from the River to the land of the Philistines, and to the border of Egypt. They brought tribute and served Solomon all the days of his life. 
+<sup>21</sup> Solomon ruled over all the kingdoms from the River to the land of the Philistines, and to the border of Egypt. They brought tribute and served Solomon all the days of his life.
 
-<sup>22</sup> Solomon’s provision for one day was thirty cors of fine flour, sixty measures of meal, 
+<sup>22</sup> Solomon’s provision for one day was thirty cors[^269] of fine flour, sixty measures of meal,
 
-<sup>23</sup> ten head of fat cattle, twenty head of cattle out of the pastures, and one hundred sheep, in addition to deer, gazelles, roebucks, and fattened fowl. 
+<sup>23</sup> ten head of fat cattle, twenty head of cattle out of the pastures, and one hundred sheep, in addition to deer, gazelles, roebucks, and fattened fowl.
 
-<sup>24</sup> For he had dominion over all on this side of the River, from Tiphsah even to Gaza, over all the kings on this side of the River; and he had peace on all sides around him. 
+<sup>24</sup> For he had dominion over all on this side of the River, from Tiphsah even to Gaza, over all the kings on this side of the River; and he had peace on all sides around him.
 
-<sup>25</sup> Judah and Israel lived safely, every man under his vine and under his fig tree, from Dan even to Beersheba, all the days of Solomon. 
+<sup>25</sup> Judah and Israel lived safely, every man under his vine and under his fig tree, from Dan even to Beersheba, all the days of Solomon.
 
-<sup>26</sup> Solomon had forty thousand stalls of horses for his chariots, and twelve thousand horsemen. 
+<sup>26</sup> Solomon had forty thousand stalls of horses for his chariots, and twelve thousand horsemen.
 
-<sup>27</sup> Those officers provided food for King Solomon, and for all who came to King Solomon’s table, every man in his month. They let nothing be lacking. 
+<sup>27</sup> Those officers provided food for King Solomon, and for all who came to King Solomon’s table, every man in his month. They let nothing be lacking.
 
-<sup>28</sup> They also brought barley and straw for the horses and swift steeds to the place where the officers were, each man according to his duty. 
+<sup>28</sup> They also brought barley and straw for the horses and swift steeds to the place where the officers were, each man according to his duty.
 
-<sup>29</sup> God gave Solomon abundant wisdom, understanding, and breadth of mind like the sand that is on the seashore. 
+<sup>29</sup> God gave Solomon abundant wisdom, understanding, and breadth of mind like the sand that is on the seashore.
 
-<sup>30</sup> Solomon’s wisdom excelled the wisdom of all the children of the east and all the wisdom of Egypt. 
+<sup>30</sup> Solomon’s wisdom excelled the wisdom of all the children of the east and all the wisdom of Egypt.
 
-<sup>31</sup> For he was wiser than all men—wiser than Ethan the Ezrahite, Heman, Calcol, and Darda, the sons of Mahol; and his fame was in all the nations all around. 
+<sup>31</sup> For he was wiser than all men—wiser than Ethan the Ezrahite, Heman, Calcol, and Darda, the sons of Mahol; and his fame was in all the nations all around.
 
-<sup>32</sup> He spoke three thousand proverbs, and his songs numbered one thousand five. 
+<sup>32</sup> He spoke three thousand proverbs, and his songs numbered one thousand five.
 
-<sup>33</sup> He spoke of trees, from the cedar that is in Lebanon even to the hyssop that grows out of the wall; he also spoke of animals, of birds, of creeping things, and of fish. 
+<sup>33</sup> He spoke of trees, from the cedar that is in Lebanon even to the hyssop that grows out of the wall; he also spoke of animals, of birds, of creeping things, and of fish.
 
-<sup>34</sup> People of all nations came to hear the wisdom of Solomon, sent by all kings of the earth who had heard of his wisdom. 
+<sup>34</sup> People of all nations came to hear the wisdom of Solomon, sent by all kings of the earth who had heard of his wisdom.
 
-
+[^269]: 4:22 1 cor is the same as a homer, or about 55.9 U. S. gallons (liquid) or 211 liters or 6 bushels

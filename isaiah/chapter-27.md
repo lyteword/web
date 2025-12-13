@@ -4,30 +4,28 @@ weight: 27
 
 # Chapter 27
 
-<sup>1</sup> In that day, Yahweh with his hard and great and strong sword will punish leviathan, the fleeing serpent, and leviathan, the twisted serpent; and he will kill the dragon that is in the sea. 
+<sup>1</sup> In that day, Yahweh with his hard and great and strong sword will punish leviathan, the fleeing serpent, and leviathan, the twisted serpent; and he will kill the dragon that is in the sea.
 
-<sup>2</sup> In that day, sing to her, “A pleasant vineyard! 
+<sup>2</sup> In that day, sing to her, “A pleasant vineyard!
 
-<sup>3</sup> I, Yahweh, am its keeper. I will water it every moment. Lest anyone damage it, I will keep it night and day. 
+<sup>3</sup> I, Yahweh, am its keeper. I will water it every moment. Lest anyone damage it, I will keep it night and day.
 
-<sup>4</sup> Wrath is not in me, but if I should find briers and thorns, I would do battle! I would march on them and I would burn them together. 
+<sup>4</sup> Wrath is not in me, but if I should find briers and thorns, I would do battle! I would march on them and I would burn them together.
 
-<sup>5</sup> Or else let him take hold of my strength, that he may make peace with me. Let him make peace with me.” 
+<sup>5</sup> Or else let him take hold of my strength, that he may make peace with me. Let him make peace with me.”
 
-<sup>6</sup> In days to come, Jacob will take root. Israel will blossom and bud. They will fill the surface of the world with fruit. 
+<sup>6</sup> In days to come, Jacob will take root. Israel will blossom and bud. They will fill the surface of the world with fruit.
 
-<sup>7</sup> Has he struck them as he struck those who struck them? Or are they killed like those who killed them were killed? 
+<sup>7</sup> Has he struck them as he struck those who struck them? Or are they killed like those who killed them were killed?
 
-<sup>8</sup> In measure, when you send them away, you contend with them. He has removed them with his rough blast in the day of the east wind. 
+<sup>8</sup> In measure, when you send them away, you contend with them. He has removed them with his rough blast in the day of the east wind.
 
-<sup>9</sup> Therefore by this the iniquity of Jacob will be forgiven, and this is all the fruit of taking away his sin: that he makes all the stones of the altar as chalk stones that are beaten in pieces, so that the Asherah poles and the incense altars shall rise no more. 
+<sup>9</sup> Therefore by this the iniquity of Jacob will be forgiven, and this is all the fruit of taking away his sin: that he makes all the stones of the altar as chalk stones that are beaten in pieces, so that the Asherah poles and the incense altars shall rise no more.
 
-<sup>10</sup> For the fortified city is solitary, a habitation deserted and forsaken, like the wilderness. The calf will feed there, and there he will lie down, and consume its branches. 
+<sup>10</sup> For the fortified city is solitary, a habitation deserted and forsaken, like the wilderness. The calf will feed there, and there he will lie down, and consume its branches.
 
-<sup>11</sup> When its boughs are withered, they will be broken off. The women will come and set them on fire, for they are a people of no understanding. Therefore he who made them will not have compassion on them, and he who formed them will show them no favor. 
+<sup>11</sup> When its boughs are withered, they will be broken off. The women will come and set them on fire, for they are a people of no understanding. Therefore he who made them will not have compassion on them, and he who formed them will show them no favor.
 
-<sup>12</sup> It will happen in that day that Yahweh will thresh from the flowing stream of the Euphrates to the brook of Egypt; and you will be gathered one by one, children of Israel. 
+<sup>12</sup> It will happen in that day that Yahweh will thresh from the flowing stream of the Euphrates to the brook of Egypt; and you will be gathered one by one, children of Israel.
 
-<sup>13</sup> It will happen in that day that a great trumpet will be blown; and those who were ready to perish in the land of Assyria, and those who were outcasts in the land of Egypt, shall come; and they will worship Yahweh in the holy mountain at Jerusalem. 
-
-
+<sup>13</sup> It will happen in that day that a great trumpet will be blown; and those who were ready to perish in the land of Assyria, and those who were outcasts in the land of Egypt, shall come; and they will worship Yahweh in the holy mountain at Jerusalem.

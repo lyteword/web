@@ -4,38 +4,42 @@ weight: 90
 
 # Psalm 90
 
-<sup>1</sup> A Prayer by Moses, the man of God. Lord, you have been our dwelling place for all generations. 
+A Prayer by Moses, the man of God.[^450]
 
-<sup>2</sup> Before the mountains were born, before you had formed the earth and the world, even from everlasting to everlasting, you are God. 
+<sup>1</sup> Lord,[^451] you have been our dwelling place for all generations.
 
-<sup>3</sup> You turn man to destruction, saying, “Return, you children of men.” 
+<sup>2</sup> Before the mountains were born, before you had formed the earth and the world, even from everlasting to everlasting, you are God.
 
-<sup>4</sup> For a thousand years in your sight are just like yesterday when it is past, like a watch in the night. 
+<sup>3</sup> You turn man to destruction, saying, “Return, you children of men.”
 
-<sup>5</sup> You sweep them away as they sleep. In the morning they sprout like new grass. 
+<sup>4</sup> For a thousand years in your sight are just like yesterday when it is past, like a watch in the night.
 
-<sup>6</sup> In the morning it sprouts and springs up. By evening, it is withered and dry. 
+<sup>5</sup> You sweep them away as they sleep. In the morning they sprout like new grass.
 
-<sup>7</sup> For we are consumed in your anger. We are troubled in your wrath. 
+<sup>6</sup> In the morning it sprouts and springs up. By evening, it is withered and dry.
 
-<sup>8</sup> You have set our iniquities before you, our secret sins in the light of your presence. 
+<sup>7</sup> For we are consumed in your anger. We are troubled in your wrath.
 
-<sup>9</sup> For all our days have passed away in your wrath. We bring our years to an end as a sigh. 
+<sup>8</sup> You have set our iniquities before you, our secret sins in the light of your presence.
 
-<sup>10</sup> The days of our years are seventy, or even by reason of strength eighty years; yet their pride is but labor and sorrow, for it passes quickly, and we fly away. 
+<sup>9</sup> For all our days have passed away in your wrath. We bring our years to an end as a sigh.
 
-<sup>11</sup> Who knows the power of your anger, your wrath according to the fear that is due to you? 
+<sup>10</sup> The days of our years are seventy, or even by reason of strength eighty years; yet their pride is but labor and sorrow, for it passes quickly, and we fly away.
 
-<sup>12</sup> So teach us to count our days, that we may gain a heart of wisdom. 
+<sup>11</sup> Who knows the power of your anger, your wrath according to the fear that is due to you?
 
-<sup>13</sup> Relent, Yahweh! How long? Have compassion on your servants! 
+<sup>12</sup> So teach us to count our days, that we may gain a heart of wisdom.
 
-<sup>14</sup> Satisfy us in the morning with your loving kindness, that we may rejoice and be glad all our days. 
+<sup>13</sup> Relent, Yahweh![^452] How long? Have compassion on your servants!
 
-<sup>15</sup> Make us glad for as many days as you have afflicted us, for as many years as we have seen evil. 
+<sup>14</sup> Satisfy us in the morning with your loving kindness, that we may rejoice and be glad all our days.
 
-<sup>16</sup> Let your work appear to your servants, your glory to their children. 
+<sup>15</sup> Make us glad for as many days as you have afflicted us, for as many years as we have seen evil.
 
-<sup>17</sup> Let the favor of the Lord our God be on us. Establish the work of our hands for us. Yes, establish the work of our hands. 
+<sup>16</sup> Let your work appear to your servants, your glory to their children.
 
+<sup>17</sup> Let the favor of the Lord our God be on us. Establish the work of our hands for us. Yes, establish the work of our hands.
 
+[^450]: 90:0 The Hebrew word rendered “God” is “ אֱלֹהִ֑ים” (Elohim).
+[^451]: 90:1 The word translated “Lord” is “Adonai.”
+[^452]: 90:13 “Yahweh” is God’s proper Name, sometimes rendered “LORD” (all caps) in other translations.

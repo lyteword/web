@@ -4,34 +4,32 @@ weight: 35
 
 # Chapter 35
 
-<sup>1</sup> Moreover Yahweh’s word came to me, saying, 
+<sup>1</sup> Moreover Yahweh’s word came to me, saying,
 
-<sup>2</sup> “Son of man, set your face against Mount Seir, and prophesy against it, 
+<sup>2</sup> “Son of man, set your face against Mount Seir, and prophesy against it,
 
-<sup>3</sup> and tell it, ‘The Lord Yahweh says: “Behold, I am against you, Mount Seir, and I will stretch out my hand against you. I will make you a desolation and an astonishment. 
+<sup>3</sup> and tell it, ‘The Lord Yahweh says: “Behold, I am against you, Mount Seir, and I will stretch out my hand against you. I will make you a desolation and an astonishment.
 
-<sup>4</sup> I will lay your cities waste, and you will be desolate. Then you will know that I am Yahweh. 
+<sup>4</sup> I will lay your cities waste, and you will be desolate. Then you will know that I am Yahweh.
 
-<sup>5</sup> “‘“Because you have had a perpetual hostility, and have given over the children of Israel to the power of the sword in the time of their calamity, in the time of the iniquity of the end, 
+<sup>5</sup> “‘“Because you have had a perpetual hostility, and have given over the children of Israel to the power of the sword in the time of their calamity, in the time of the iniquity of the end,
 
-<sup>6</sup> therefore, as I live,” says the Lord Yahweh, “I will prepare you for blood, and blood will pursue you. Since you have not hated blood, therefore blood will pursue you. 
+<sup>6</sup> therefore, as I live,” says the Lord Yahweh, “I will prepare you for blood, and blood will pursue you. Since you have not hated blood, therefore blood will pursue you.
 
-<sup>7</sup> Thus I will make Mount Seir an astonishment and a desolation. I will cut off from it him who passes through and him who returns. 
+<sup>7</sup> Thus I will make Mount Seir an astonishment and a desolation. I will cut off from it him who passes through and him who returns.
 
-<sup>8</sup> I will fill its mountains with its slain. The slain with the sword will fall in your hills and in your valleys and in all your watercourses. 
+<sup>8</sup> I will fill its mountains with its slain. The slain with the sword will fall in your hills and in your valleys and in all your watercourses.
 
-<sup>9</sup> I will make you a perpetual desolation, and your cities will not be inhabited. Then you will know that I am Yahweh. 
+<sup>9</sup> I will make you a perpetual desolation, and your cities will not be inhabited. Then you will know that I am Yahweh.
 
-<sup>10</sup> “‘“Because you have said, ‘These two nations and these two countries will be mine, and we will possess it,’ although Yahweh was there, 
+<sup>10</sup> “‘“Because you have said, ‘These two nations and these two countries will be mine, and we will possess it,’ although Yahweh was there,
 
-<sup>11</sup> therefore, as I live,” says the Lord Yahweh, “I will do according to your anger, and according to your envy which you have shown out of your hatred against them; and I will make myself known among them when I judge you. 
+<sup>11</sup> therefore, as I live,” says the Lord Yahweh, “I will do according to your anger, and according to your envy which you have shown out of your hatred against them; and I will make myself known among them when I judge you.
 
-<sup>12</sup> You will know that I, Yahweh, have heard all your insults which you have spoken against the mountains of Israel, saying, ‘They have been laid desolate. They have been given to us to devour.’ 
+<sup>12</sup> You will know that I, Yahweh, have heard all your insults which you have spoken against the mountains of Israel, saying, ‘They have been laid desolate. They have been given to us to devour.’
 
-<sup>13</sup> You have magnified yourselves against me with your mouth, and have multiplied your words against me. I have heard it.” 
+<sup>13</sup> You have magnified yourselves against me with your mouth, and have multiplied your words against me. I have heard it.”
 
-<sup>14</sup> The Lord Yahweh says: “When the whole earth rejoices, I will make you desolate. 
+<sup>14</sup> The Lord Yahweh says: “When the whole earth rejoices, I will make you desolate.
 
-<sup>15</sup> As you rejoiced over the inheritance of the house of Israel because it was desolate, so I will do to you. You will be desolate, Mount Seir, and all Edom, even all of it. Then they will know that I am Yahweh.’” 
-
-
+<sup>15</sup> As you rejoiced over the inheritance of the house of Israel because it was desolate, so I will do to you. You will be desolate, Mount Seir, and all Edom, even all of it. Then they will know that I am Yahweh.’”

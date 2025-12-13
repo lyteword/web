@@ -4,76 +4,85 @@ weight: 8
 
 # Chapter 8
 
-<sup>1</sup> Saul was consenting to his death. A great persecution arose against the assembly which was in Jerusalem in that day. They were all scattered abroad throughout the regions of Judea and Samaria, except for the apostles. 
+<sup>1</sup> Saul was consenting to his death. A great persecution arose against the assembly which was in Jerusalem in that day. They were all scattered abroad throughout the regions of Judea and Samaria, except for the apostles.
 
-<sup>2</sup> Devout men buried Stephen and lamented greatly over him. 
+<sup>2</sup> Devout men buried Stephen and lamented greatly over him.
 
-<sup>3</sup> But Saul ravaged the assembly, entering into every house and dragged both men and women off to prison. 
+<sup>3</sup> But Saul ravaged the assembly, entering into every house and dragged both men and women off to prison.
 
-<sup>4</sup> Therefore those who were scattered abroad went around preaching the word. 
+<sup>4</sup> Therefore those who were scattered abroad went around preaching the word.
 
-<sup>5</sup> Philip went down to the city of Samaria and proclaimed to them the Christ. 
+<sup>5</sup> Philip went down to the city of Samaria and proclaimed to them the Christ.
 
-<sup>6</sup> The multitudes listened with one accord to the things that were spoken by Philip when they heard and saw the signs which he did. 
+<sup>6</sup> The multitudes listened with one accord to the things that were spoken by Philip when they heard and saw the signs which he did.
 
-<sup>7</sup> For unclean spirits came out of many of those who had them. They came out, crying with a loud voice. Many who had been paralyzed and lame were healed. 
+<sup>7</sup> For unclean spirits came out of many of those who had them. They came out, crying with a loud voice. Many who had been paralyzed and lame were healed.
 
-<sup>8</sup> There was great joy in that city. 
+<sup>8</sup> There was great joy in that city.
 
-<sup>9</sup> But there was a certain man, Simon by name, who used to practice sorcery in the city and amazed the people of Samaria, making himself out to be some great one, 
+<sup>9</sup> But there was a certain man, Simon by name, who used to practice sorcery in the city and amazed the people of Samaria, making himself out to be some great one,
 
-<sup>10</sup> to whom they all listened, from the least to the greatest, saying, “This man is that great power of God.” 
+<sup>10</sup> to whom they all listened, from the least to the greatest, saying, “This man is that great power of God.”
 
-<sup>11</sup> They listened to him because for a long time he had amazed them with his sorceries. 
+<sup>11</sup> They listened to him because for a long time he had amazed them with his sorceries.
 
-<sup>12</sup> But when they believed Philip preaching good news concerning God’s Kingdom and the name of Jesus Christ, they were baptized, both men and women. 
+<sup>12</sup> But when they believed Philip preaching good news concerning God’s Kingdom and the name of Jesus Christ, they were baptized, both men and women.
 
-<sup>13</sup> Simon himself also believed. Being baptized, he continued with Philip. Seeing signs and great miracles occurring, he was amazed. 
+<sup>13</sup> Simon himself also believed. Being baptized, he continued with Philip. Seeing signs and great miracles occurring, he was amazed.
 
-<sup>14</sup> Now when the apostles who were at Jerusalem heard that Samaria had received the word of God, they sent Peter and John to them, 
+<sup>14</sup> Now when the apostles who were at Jerusalem heard that Samaria had received the word of God, they sent Peter and John to them,
 
-<sup>15</sup> who, when they had come down, prayed for them, that they might receive the Holy Spirit; 
+<sup>15</sup> who, when they had come down, prayed for them, that they might receive the Holy Spirit;
 
-<sup>16</sup> for as yet he had fallen on none of them. They had only been baptized in the name of Christ Jesus. 
+<sup>16</sup> for as yet he had fallen on none of them. They had only been baptized in the name of Christ Jesus.
 
-<sup>17</sup> Then they laid their hands on them, and they received the Holy Spirit. 
+<sup>17</sup> Then they laid their hands on them, and they received the Holy Spirit.
 
-<sup>18</sup> Now when Simon saw that the Holy Spirit was given through the laying on of the apostles’ hands, he offered them money, 
+<sup>18</sup> Now when Simon saw that the Holy Spirit was given through the laying on of the apostles’ hands, he offered them money,
 
-<sup>19</sup> saying, “Give me also this power, that whomever I lay my hands on may receive the Holy Spirit.” 
+<sup>19</sup> saying, “Give me also this power, that whomever I lay my hands on may receive the Holy Spirit.”
 
-<sup>20</sup> But Peter said to him, “May your silver perish with you, because you thought you could obtain the gift of God with money! 
+<sup>20</sup> But Peter said to him, “May your silver perish with you, because you thought you could obtain the gift of God with money!
 
-<sup>21</sup> You have neither part nor lot in this matter, for your heart isn’t right before God. 
+<sup>21</sup> You have neither part nor lot in this matter, for your heart isn’t right before God.
 
-<sup>22</sup> Repent therefore of this, your wickedness, and ask God if perhaps the thought of your heart may be forgiven you. 
+<sup>22</sup> Repent therefore of this, your wickedness, and ask God if perhaps the thought of your heart may be forgiven you.
 
-<sup>23</sup> For I see that you are in the poison of bitterness and in the bondage of iniquity.” 
+<sup>23</sup> For I see that you are in the poison of bitterness and in the bondage of iniquity.”
 
-<sup>24</sup> Simon answered, “Pray for me to the Lord, that none of the things which you have spoken happen to me.” 
+<sup>24</sup> Simon answered, “Pray for me to the Lord, that none of the things which you have spoken happen to me.”
 
-<sup>25</sup> They therefore, when they had testified and spoken the word of the Lord, returned to Jerusalem, and preached the Good News to many villages of the Samaritans. 
+<sup>25</sup> They therefore, when they had testified and spoken the word of the Lord, returned to Jerusalem, and preached the Good News to many villages of the Samaritans.
 
-<sup>26</sup> Then an angel of the Lord spoke to Philip, saying, “Arise, and go toward the south to the way that goes down from Jerusalem to Gaza. This is a desert.” 
+<sup>26</sup> Then an angel of the Lord spoke to Philip, saying, “Arise, and go toward the south to the way that goes down from Jerusalem to Gaza. This is a desert.”
 
-<sup>27</sup> He arose and went; and behold, there was a man of Ethiopia, a eunuch of great authority under Candace, queen of the Ethiopians, who was over all her treasure, who had come to Jerusalem to worship. 
+<sup>27</sup> He arose and went; and behold, there was a man of Ethiopia, a eunuch of great authority under Candace, queen of the Ethiopians, who was over all her treasure, who had come to Jerusalem to worship.
 
-<sup>28</sup> He was returning and sitting in his chariot, and was reading the prophet Isaiah. 
+<sup>28</sup> He was returning and sitting in his chariot, and was reading the prophet Isaiah.
 
-<sup>29</sup> The Spirit said to Philip, “Go near, and join yourself to this chariot.” 
+<sup>29</sup> The Spirit said to Philip, “Go near, and join yourself to this chariot.”
 
-<sup>30</sup> Philip ran to him, and heard him reading Isaiah the prophet, and said, “Do you understand what you are reading?” 
+<sup>30</sup> Philip ran to him, and heard him reading Isaiah the prophet, and said, “Do you understand what you are reading?”
 
-<sup>31</sup> He said, “How can I, unless someone explains it to me?” He begged Philip to come up and sit with him. 
+<sup>31</sup> He said, “How can I, unless someone explains it to me?” He begged Philip to come up and sit with him.
 
-<sup>32</sup> Now the passage of the Scripture which he was reading was this, “He was led as a sheep to the slaughter. As a lamb before his shearer is silent, so he doesn’t open his mouth. 
+<sup>32</sup> Now the passage of the Scripture which he was reading was this, “He was led as a sheep to the slaughter. As a lamb before his shearer is silent, so he doesn’t open his mouth.
 
-<sup>33</sup> In his humiliation, his judgment was taken away. Who will declare His generation? For his life is taken from the earth.” 
+<sup>33</sup> In his humiliation, his judgment was taken away. Who will declare His generation? For his life is taken from the earth.”[^1049]
 
-<sup>34</sup> The eunuch answered Philip, “Who is the prophet talking about? About himself, or about someone else?” 
+<sup>34</sup> The eunuch answered Philip, “Who is the prophet talking about? About himself, or about someone else?”
 
-<sup>35</sup> Philip opened his mouth, and beginning from this Scripture, preached to him about Jesus. 
+<sup>35</sup> Philip opened his mouth, and beginning from this Scripture, preached to him about Jesus.
 
-<sup>36</sup> As they went on the way, they came to some water; and the eunuch said, “Behold, here is water. What is keeping me from being baptized?” 
+<sup>36</sup> As they went on the way, they came to some water; and the eunuch said, “Behold, here is water. What is keeping me from being baptized?”
 
+<sup>37</sup> [^1050]
 
+<sup>38</sup> He commanded the chariot to stand still, and they both went down into the water, both Philip and the eunuch, and he baptized him.
+
+<sup>39</sup> When they came up out of the water, the Spirit of the Lord caught Philip away, and the eunuch didn’t see him any more, for he went on his way rejoicing.
+
+<sup>40</sup> But Philip was found at Azotus. Passing through, he preached the Good News to all the cities until he came to Caesarea.
+
+[^1049]: 8:33 Isaiah 53:7,8
+[^1050]: 8:37 TR adds Philip said, “If you believe with all your heart, you may.” He answered, “I believe that Jesus Christ is the Son of God.”

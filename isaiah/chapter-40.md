@@ -4,66 +4,64 @@ weight: 40
 
 # Chapter 40
 
-<sup>1</sup> “Comfort, comfort my people,” says your God. 
+<sup>1</sup> “Comfort, comfort my people,” says your God.
 
-<sup>2</sup> “Speak comfortably to Jerusalem, and call out to her that her warfare is accomplished, that her iniquity is pardoned, that she has received of Yahweh’s hand double for all her sins.” 
+<sup>2</sup> “Speak comfortably to Jerusalem, and call out to her that her warfare is accomplished, that her iniquity is pardoned, that she has received of Yahweh’s hand double for all her sins.”
 
-<sup>3</sup> The voice of one who calls out, “Prepare the way of Yahweh in the wilderness! Make a level highway in the desert for our God. 
+<sup>3</sup> The voice of one who calls out, “Prepare the way of Yahweh in the wilderness! Make a level highway in the desert for our God.
 
-<sup>4</sup> Every valley shall be exalted, and every mountain and hill shall be made low. The uneven shall be made level, and the rough places a plain. 
+<sup>4</sup> Every valley shall be exalted, and every mountain and hill shall be made low. The uneven shall be made level, and the rough places a plain.
 
-<sup>5</sup> Yahweh’s glory shall be revealed, and all flesh shall see it together; for the mouth of Yahweh has spoken it.” 
+<sup>5</sup> Yahweh’s glory shall be revealed, and all flesh shall see it together; for the mouth of Yahweh has spoken it.”
 
-<sup>6</sup> The voice of one saying, “Cry out!” One said, “What shall I cry?” “All flesh is like grass, and all its glory is like the flower of the field. 
+<sup>6</sup> The voice of one saying, “Cry out!” One said, “What shall I cry?” “All flesh is like grass, and all its glory is like the flower of the field.
 
-<sup>7</sup> The grass withers, the flower fades, because Yahweh’s breath blows on it. Surely the people are like grass. 
+<sup>7</sup> The grass withers, the flower fades, because Yahweh’s breath blows on it. Surely the people are like grass.
 
-<sup>8</sup> The grass withers, the flower fades; but the word of our God stands forever.” 
+<sup>8</sup> The grass withers, the flower fades; but the word of our God stands forever.”
 
-<sup>9</sup> You who tell good news to Zion, go up on a high mountain. You who tell good news to Jerusalem, lift up your voice with strength! Lift it up! Don’t be afraid! Say to the cities of Judah, “Behold, your God!” 
+<sup>9</sup> You who tell good news to Zion, go up on a high mountain. You who tell good news to Jerusalem, lift up your voice with strength! Lift it up! Don’t be afraid! Say to the cities of Judah, “Behold, your God!”
 
-<sup>10</sup> Behold, the Lord Yahweh will come as a mighty one, and his arm will rule for him. Behold, his reward is with him, and his recompense before him. 
+<sup>10</sup> Behold, the Lord Yahweh will come as a mighty one, and his arm will rule for him. Behold, his reward is with him, and his recompense before him.
 
-<sup>11</sup> He will feed his flock like a shepherd. He will gather the lambs in his arm, and carry them in his bosom. He will gently lead those who have their young. 
+<sup>11</sup> He will feed his flock like a shepherd. He will gather the lambs in his arm, and carry them in his bosom. He will gently lead those who have their young.
 
-<sup>12</sup> Who has measured the waters in the hollow of his hand, and marked off the sky with his span, and calculated the dust of the earth in a measuring basket, and weighed the mountains in scales, and the hills in a balance? 
+<sup>12</sup> Who has measured the waters in the hollow of his hand, and marked off the sky with his span, and calculated the dust of the earth in a measuring basket, and weighed the mountains in scales, and the hills in a balance?
 
-<sup>13</sup> Who has directed Yahweh’s Spirit, or has taught him as his counselor? 
+<sup>13</sup> Who has directed Yahweh’s Spirit, or has taught him as his counselor?
 
-<sup>14</sup> Who did he take counsel with, and who instructed him, and taught him in the path of justice, and taught him knowledge, and showed him the way of understanding? 
+<sup>14</sup> Who did he take counsel with, and who instructed him, and taught him in the path of justice, and taught him knowledge, and showed him the way of understanding?
 
-<sup>15</sup> Behold, the nations are like a drop in a bucket, and are regarded as a speck of dust on a balance. Behold, he lifts up the islands like a very little thing. 
+<sup>15</sup> Behold, the nations are like a drop in a bucket, and are regarded as a speck of dust on a balance. Behold, he lifts up the islands like a very little thing.
 
-<sup>16</sup> Lebanon is not sufficient to burn, nor its animals sufficient for a burnt offering. 
+<sup>16</sup> Lebanon is not sufficient to burn, nor its animals sufficient for a burnt offering.
 
-<sup>17</sup> All the nations are like nothing before him. They are regarded by him as less than nothing, and vanity. 
+<sup>17</sup> All the nations are like nothing before him. They are regarded by him as less than nothing, and vanity.
 
-<sup>18</sup> To whom then will you liken God? Or what likeness will you compare to him? 
+<sup>18</sup> To whom then will you liken God? Or what likeness will you compare to him?
 
-<sup>19</sup> A workman has cast an image, and the goldsmith overlays it with gold, and casts silver chains for it. 
+<sup>19</sup> A workman has cast an image, and the goldsmith overlays it with gold, and casts silver chains for it.
 
-<sup>20</sup> He who is too impoverished for such an offering chooses a tree that will not rot. He seeks a skillful workman to set up a carved image for him that will not be moved. 
+<sup>20</sup> He who is too impoverished for such an offering chooses a tree that will not rot. He seeks a skillful workman to set up a carved image for him that will not be moved.
 
-<sup>21</sup> Haven’t you known? Haven’t you heard? Haven’t you been told from the beginning? Haven’t you understood from the foundations of the earth? 
+<sup>21</sup> Haven’t you known? Haven’t you heard? Haven’t you been told from the beginning? Haven’t you understood from the foundations of the earth?
 
-<sup>22</sup> It is he who sits above the circle of the earth, and its inhabitants are like grasshoppers; who stretches out the heavens like a curtain, and spreads them out like a tent to dwell in, 
+<sup>22</sup> It is he who sits above the circle of the earth, and its inhabitants are like grasshoppers; who stretches out the heavens like a curtain, and spreads them out like a tent to dwell in,
 
-<sup>23</sup> who brings princes to nothing, who makes the judges of the earth meaningless. 
+<sup>23</sup> who brings princes to nothing, who makes the judges of the earth meaningless.
 
-<sup>24</sup> They are planted scarcely. They are sown scarcely. Their stock has scarcely taken root in the ground. He merely blows on them, and they wither, and the whirlwind takes them away as stubble. 
+<sup>24</sup> They are planted scarcely. They are sown scarcely. Their stock has scarcely taken root in the ground. He merely blows on them, and they wither, and the whirlwind takes them away as stubble.
 
-<sup>25</sup> “To whom then will you liken me? Who is my equal?” says the Holy One. 
+<sup>25</sup> “To whom then will you liken me? Who is my equal?” says the Holy One.
 
-<sup>26</sup> Lift up your eyes on high, and see who has created these, who brings out their army by number. He calls them all by name. By the greatness of his might, and because he is strong in power, not one is lacking. 
+<sup>26</sup> Lift up your eyes on high, and see who has created these, who brings out their army by number. He calls them all by name. By the greatness of his might, and because he is strong in power, not one is lacking.
 
-<sup>27</sup> Why do you say, Jacob, and speak, Israel, “My way is hidden from Yahweh, and the justice due me is disregarded by my God”? 
+<sup>27</sup> Why do you say, Jacob, and speak, Israel, “My way is hidden from Yahweh, and the justice due me is disregarded by my God”?
 
-<sup>28</sup> Haven’t you known? Haven’t you heard? The everlasting God, Yahweh, the Creator of the ends of the earth, doesn’t faint. He isn’t weary. His understanding is unsearchable. 
+<sup>28</sup> Haven’t you known? Haven’t you heard? The everlasting God, Yahweh, the Creator of the ends of the earth, doesn’t faint. He isn’t weary. His understanding is unsearchable.
 
-<sup>29</sup> He gives power to the weak. He increases the strength of him who has no might. 
+<sup>29</sup> He gives power to the weak. He increases the strength of him who has no might.
 
-<sup>30</sup> Even the youths faint and get weary, and the young men utterly fall; 
+<sup>30</sup> Even the youths faint and get weary, and the young men utterly fall;
 
-<sup>31</sup> but those who wait for Yahweh will renew their strength. They will mount up with wings like eagles. They will run, and not be weary. They will walk, and not faint. 
-
-
+<sup>31</sup> but those who wait for Yahweh will renew their strength. They will mount up with wings like eagles. They will run, and not be weary. They will walk, and not faint.

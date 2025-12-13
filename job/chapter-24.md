@@ -4,54 +4,54 @@ weight: 24
 
 # Chapter 24
 
-<sup>1</sup> “Why aren’t times laid up by the Almighty? Why don’t those who know him see his days? 
+<sup>1</sup> “Why aren’t times laid up by the Almighty? Why don’t those who know him see his days?
 
-<sup>2</sup> There are people who remove the landmarks. They violently take away flocks, and feed them. 
+<sup>2</sup> There are people who remove the landmarks. They violently take away flocks, and feed them.
 
-<sup>3</sup> They drive away the donkey of the fatherless, and they take the widow’s ox for a pledge. 
+<sup>3</sup> They drive away the donkey of the fatherless, and they take the widow’s ox for a pledge.
 
-<sup>4</sup> They turn the needy out of the way. The poor of the earth all hide themselves. 
+<sup>4</sup> They turn the needy out of the way. The poor of the earth all hide themselves.
 
-<sup>5</sup> Behold, as wild donkeys in the desert, they go out to their work, seeking diligently for food. The wilderness yields them bread for their children. 
+<sup>5</sup> Behold, as wild donkeys in the desert, they go out to their work, seeking diligently for food. The wilderness yields them bread for their children.
 
-<sup>6</sup> They cut their food in the field. They glean the vineyard of the wicked. 
+<sup>6</sup> They cut their food in the field. They glean the vineyard of the wicked.
 
-<sup>7</sup> They lie all night naked without clothing, and have no covering in the cold. 
+<sup>7</sup> They lie all night naked without clothing, and have no covering in the cold.
 
-<sup>8</sup> They are wet with the showers of the mountains, and embrace the rock for lack of a shelter. 
+<sup>8</sup> They are wet with the showers of the mountains, and embrace the rock for lack of a shelter.
 
-<sup>9</sup> There are those who pluck the fatherless from the breast, and take a pledge of the poor, 
+<sup>9</sup> There are those who pluck the fatherless from the breast, and take a pledge of the poor,
 
-<sup>10</sup> so that they go around naked without clothing. Being hungry, they carry the sheaves. 
+<sup>10</sup> so that they go around naked without clothing. Being hungry, they carry the sheaves.
 
-<sup>11</sup> They make oil within the walls of these men. They tread wine presses, and suffer thirst. 
+<sup>11</sup> They make oil within the walls of these men. They tread wine presses, and suffer thirst.
 
-<sup>12</sup> From out of the populous city, men groan. The soul of the wounded cries out, yet God doesn’t regard the folly. 
+<sup>12</sup> From out of the populous city, men groan. The soul of the wounded cries out, yet God doesn’t regard the folly.
 
-<sup>13</sup> “These are of those who rebel against the light. They don’t know its ways, nor stay in its paths. 
+<sup>13</sup> “These are of those who rebel against the light. They don’t know its ways, nor stay in its paths.
 
-<sup>14</sup> The murderer rises with the light. He kills the poor and needy. In the night he is like a thief. 
+<sup>14</sup> The murderer rises with the light. He kills the poor and needy. In the night he is like a thief.
 
-<sup>15</sup> The eye also of the adulterer waits for the twilight, saying, ‘No eye will see me.’ He disguises his face. 
+<sup>15</sup> The eye also of the adulterer waits for the twilight, saying, ‘No eye will see me.’ He disguises his face.
 
-<sup>16</sup> In the dark they dig through houses. They shut themselves up in the daytime. They don’t know the light. 
+<sup>16</sup> In the dark they dig through houses. They shut themselves up in the daytime. They don’t know the light.
 
-<sup>17</sup> For the morning is to all of them like thick darkness, for they know the terrors of the thick darkness. 
+<sup>17</sup> For the morning is to all of them like thick darkness, for they know the terrors of the thick darkness.
 
-<sup>18</sup> “They are foam on the surface of the waters. Their portion is cursed in the earth. They don’t turn into the way of the vineyards. 
+<sup>18</sup> “They are foam on the surface of the waters. Their portion is cursed in the earth. They don’t turn into the way of the vineyards.
 
-<sup>19</sup> Drought and heat consume the snow waters, so does Sheol those who have sinned. 
+<sup>19</sup> Drought and heat consume the snow waters, so does Sheol[^411] those who have sinned.
 
-<sup>20</sup> The womb will forget him. The worm will feed sweetly on him. He will be no more remembered. Unrighteousness will be broken as a tree. 
+<sup>20</sup> The womb will forget him. The worm will feed sweetly on him. He will be no more remembered. Unrighteousness will be broken as a tree.
 
-<sup>21</sup> He devours the barren who don’t bear. He shows no kindness to the widow. 
+<sup>21</sup> He devours the barren who don’t bear. He shows no kindness to the widow.
 
-<sup>22</sup> Yet God preserves the mighty by his power. He rises up who has no assurance of life. 
+<sup>22</sup> Yet God preserves the mighty by his power. He rises up who has no assurance of life.
 
-<sup>23</sup> God gives them security, and they rest in it. His eyes are on their ways. 
+<sup>23</sup> God gives them security, and they rest in it. His eyes are on their ways.
 
-<sup>24</sup> They are exalted; yet a little while, and they are gone. Yes, they are brought low, they are taken out of the way as all others, and are cut off as the tops of the ears of grain. 
+<sup>24</sup> They are exalted; yet a little while, and they are gone. Yes, they are brought low, they are taken out of the way as all others, and are cut off as the tops of the ears of grain.
 
-<sup>25</sup> If it isn’t so now, who will prove me a liar, and make my speech worth nothing?” 
+<sup>25</sup> If it isn’t so now, who will prove me a liar, and make my speech worth nothing?”
 
-
+[^411]: 24:19 Sheol is the place of the dead.

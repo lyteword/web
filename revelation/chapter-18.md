@@ -4,52 +4,50 @@ weight: 18
 
 # Chapter 18
 
-<sup>1</sup> After these things, I saw another angel coming down out of the sky, having great authority. The earth was illuminated with his glory. 
+<sup>1</sup> After these things, I saw another angel coming down out of the sky, having great authority. The earth was illuminated with his glory.
 
-<sup>2</sup> He cried with a mighty voice, saying, “Fallen, fallen is Babylon the great, and she has become a habitation of demons, a prison of every unclean spirit, and a prison of every unclean and hated bird! 
+<sup>2</sup> He cried with a mighty voice, saying, “Fallen, fallen is Babylon the great, and she has become a habitation of demons, a prison of every unclean spirit, and a prison of every unclean and hated bird!
 
-<sup>3</sup> For all the nations have drunk of the wine of the wrath of her sexual immorality, the kings of the earth committed sexual immorality with her, and the merchants of the earth grew rich from the abundance of her luxury.” 
+<sup>3</sup> For all the nations have drunk of the wine of the wrath of her sexual immorality, the kings of the earth committed sexual immorality with her, and the merchants of the earth grew rich from the abundance of her luxury.”
 
-<sup>4</sup> I heard another voice from heaven, saying, “Come out of her, my people, that you have no participation in her sins, and that you don’t receive of her plagues, 
+<sup>4</sup> I heard another voice from heaven, saying, “Come out of her, my people, that you have no participation in her sins, and that you don’t receive of her plagues,
 
-<sup>5</sup> for her sins have reached to the sky, and God has remembered her iniquities. 
+<sup>5</sup> for her sins have reached to the sky, and God has remembered her iniquities.
 
-<sup>6</sup> Return to her just as she returned, and repay her double as she did, and according to her works. In the cup which she mixed, mix to her double. 
+<sup>6</sup> Return to her just as she returned, and repay her double as she did, and according to her works. In the cup which she mixed, mix to her double.
 
-<sup>7</sup> However much she glorified herself and grew wanton, so much give her of torment and mourning. For she says in her heart, ‘I sit a queen, and am no widow, and will in no way see mourning.’ 
+<sup>7</sup> However much she glorified herself and grew wanton, so much give her of torment and mourning. For she says in her heart, ‘I sit a queen, and am no widow, and will in no way see mourning.’
 
-<sup>8</sup> Therefore in one day her plagues will come: death, mourning, and famine; and she will be utterly burned with fire, for the Lord God who has judged her is strong. 
+<sup>8</sup> Therefore in one day her plagues will come: death, mourning, and famine; and she will be utterly burned with fire, for the Lord God who has judged her is strong.
 
-<sup>9</sup> The kings of the earth who committed sexual immorality and lived wantonly with her will weep and wail over her, when they look at the smoke of her burning, 
+<sup>9</sup> The kings of the earth who committed sexual immorality and lived wantonly with her will weep and wail over her, when they look at the smoke of her burning,
 
-<sup>10</sup> standing far away for the fear of her torment, saying, ‘Woe, woe, the great city, Babylon, the strong city! For your judgment has come in one hour.’ 
+<sup>10</sup> standing far away for the fear of her torment, saying, ‘Woe, woe, the great city, Babylon, the strong city! For your judgment has come in one hour.’
 
-<sup>11</sup> The merchants of the earth weep and mourn over her, for no one buys their merchandise any more: 
+<sup>11</sup> The merchants of the earth weep and mourn over her, for no one buys their merchandise any more:
 
-<sup>12</sup> merchandise of gold, silver, precious stones, pearls, fine linen, purple, silk, scarlet, all expensive wood, every vessel of ivory, every vessel made of most precious wood, and of brass, and iron, and marble; 
+<sup>12</sup> merchandise of gold, silver, precious stones, pearls, fine linen, purple, silk, scarlet, all expensive wood, every vessel of ivory, every vessel made of most precious wood, and of brass, and iron, and marble;
 
-<sup>13</sup> and cinnamon, incense, perfume, frankincense, wine, olive oil, fine flour, wheat, cattle, sheep, horses, chariots, and people’s bodies and souls. 
+<sup>13</sup> and cinnamon, incense, perfume, frankincense, wine, olive oil, fine flour, wheat, cattle, sheep, horses, chariots, and people’s bodies and souls.
 
-<sup>14</sup> The fruits which your soul lusted after have been lost to you. All things that were dainty and sumptuous have perished from you, and you will find them no more at all. 
+<sup>14</sup> The fruits which your soul lusted after have been lost to you. All things that were dainty and sumptuous have perished from you, and you will find them no more at all.
 
-<sup>15</sup> The merchants of these things, who were made rich by her, will stand far away for the fear of her torment, weeping and mourning, 
+<sup>15</sup> The merchants of these things, who were made rich by her, will stand far away for the fear of her torment, weeping and mourning,
 
-<sup>16</sup> saying, ‘Woe, woe, the great city, she who was dressed in fine linen, purple, and scarlet, and decked with gold and precious stones and pearls! 
+<sup>16</sup> saying, ‘Woe, woe, the great city, she who was dressed in fine linen, purple, and scarlet, and decked with gold and precious stones and pearls!
 
-<sup>17</sup> For in an hour such great riches are made desolate.’ Every ship master, and everyone who sails anywhere, and mariners, and as many as gain their living by sea, stood far away, 
+<sup>17</sup> For in an hour such great riches are made desolate.’ Every ship master, and everyone who sails anywhere, and mariners, and as many as gain their living by sea, stood far away,
 
-<sup>18</sup> and cried out as they looked at the smoke of her burning, saying, ‘What is like the great city?’ 
+<sup>18</sup> and cried out as they looked at the smoke of her burning, saying, ‘What is like the great city?’
 
-<sup>19</sup> They cast dust on their heads, and cried, weeping and mourning, saying, ‘Woe, woe, the great city, in which all who had their ships in the sea were made rich by reason of her great wealth!’ For she is made desolate in one hour. 
+<sup>19</sup> They cast dust on their heads, and cried, weeping and mourning, saying, ‘Woe, woe, the great city, in which all who had their ships in the sea were made rich by reason of her great wealth!’ For she is made desolate in one hour.
 
-<sup>20</sup> “Rejoice over her, O heaven, you saints, apostles, and prophets, for God has judged your judgment on her.” 
+<sup>20</sup> “Rejoice over her, O heaven, you saints, apostles, and prophets, for God has judged your judgment on her.”
 
-<sup>21</sup> A mighty angel took up a stone like a great millstone and cast it into the sea, saying, “Thus with violence will Babylon, the great city, be thrown down, and will be found no more at all. 
+<sup>21</sup> A mighty angel took up a stone like a great millstone and cast it into the sea, saying, “Thus with violence will Babylon, the great city, be thrown down, and will be found no more at all.
 
-<sup>22</sup> The voice of harpists, minstrels, flute players, and trumpeters will be heard no more at all in you. No craftsman of whatever craft will be found any more at all in you. The sound of a mill will be heard no more at all in you. 
+<sup>22</sup> The voice of harpists, minstrels, flute players, and trumpeters will be heard no more at all in you. No craftsman of whatever craft will be found any more at all in you. The sound of a mill will be heard no more at all in you.
 
-<sup>23</sup> The light of a lamp will shine no more at all in you. The voice of the bridegroom and of the bride will be heard no more at all in you, for your merchants were the princes of the earth; for with your sorcery all the nations were deceived. 
+<sup>23</sup> The light of a lamp will shine no more at all in you. The voice of the bridegroom and of the bride will be heard no more at all in you, for your merchants were the princes of the earth; for with your sorcery all the nations were deceived.
 
-<sup>24</sup> In her was found the blood of prophets and of saints, and of all who have been slain on the earth.” 
-
-
+<sup>24</sup> In her was found the blood of prophets and of saints, and of all who have been slain on the earth.”

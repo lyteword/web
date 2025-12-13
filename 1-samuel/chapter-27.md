@@ -4,28 +4,26 @@ weight: 27
 
 # Chapter 27
 
-<sup>1</sup> David said in his heart, “I will now perish one day by the hand of Saul. There is nothing better for me than that I should escape into the land of the Philistines; and Saul will despair of me, to seek me any more in all the borders of Israel. So I will escape out of his hand.” 
+<sup>1</sup> David said in his heart, “I will now perish one day by the hand of Saul. There is nothing better for me than that I should escape into the land of the Philistines; and Saul will despair of me, to seek me any more in all the borders of Israel. So I will escape out of his hand.”
 
-<sup>2</sup> David arose and passed over, he and the six hundred men who were with him, to Achish the son of Maoch, king of Gath. 
+<sup>2</sup> David arose and passed over, he and the six hundred men who were with him, to Achish the son of Maoch, king of Gath.
 
-<sup>3</sup> David lived with Achish at Gath, he and his men, every man with his household, even David with his two wives, Ahinoam the Jezreelitess and Abigail the Carmelitess, Nabal’s wife. 
+<sup>3</sup> David lived with Achish at Gath, he and his men, every man with his household, even David with his two wives, Ahinoam the Jezreelitess and Abigail the Carmelitess, Nabal’s wife.
 
-<sup>4</sup> Saul was told that David had fled to Gath, so he stopped looking for him. 
+<sup>4</sup> Saul was told that David had fled to Gath, so he stopped looking for him.
 
-<sup>5</sup> David said to Achish, “If now I have found favor in your eyes, let them give me a place in one of the cities in the country, that I may dwell there. For why should your servant dwell in the royal city with you?” 
+<sup>5</sup> David said to Achish, “If now I have found favor in your eyes, let them give me a place in one of the cities in the country, that I may dwell there. For why should your servant dwell in the royal city with you?”
 
-<sup>6</sup> Then Achish gave him Ziklag that day: therefore Ziklag belongs to the kings of Judah to this day. 
+<sup>6</sup> Then Achish gave him Ziklag that day: therefore Ziklag belongs to the kings of Judah to this day.
 
-<sup>7</sup> The number of the days that David lived in the country of the Philistines was a full year and four months. 
+<sup>7</sup> The number of the days that David lived in the country of the Philistines was a full year and four months.
 
-<sup>8</sup> David and his men went up and raided the Geshurites, the Girzites, and the Amalekites; for those were the inhabitants of the land who were of old, on the way to Shur, even to the land of Egypt. 
+<sup>8</sup> David and his men went up and raided the Geshurites, the Girzites, and the Amalekites; for those were the inhabitants of the land who were of old, on the way to Shur, even to the land of Egypt.
 
-<sup>9</sup> David struck the land, and saved no man or woman alive, and took away the sheep, the cattle, the donkeys, the camels, and the clothing. Then he returned, and came to Achish. 
+<sup>9</sup> David struck the land, and saved no man or woman alive, and took away the sheep, the cattle, the donkeys, the camels, and the clothing. Then he returned, and came to Achish.
 
-<sup>10</sup> Achish said, “Against whom have you made a raid today?” David said, “Against the South of Judah, against the South of the Jerahmeelites, and against the South of the Kenites.” 
+<sup>10</sup> Achish said, “Against whom have you made a raid today?” David said, “Against the South of Judah, against the South of the Jerahmeelites, and against the South of the Kenites.”
 
-<sup>11</sup> David saved neither man nor woman alive to bring them to Gath, saying, “Lest they should tell about us, saying, ‘David did this, and this has been his way all the time he has lived in the country of the Philistines.’” 
+<sup>11</sup> David saved neither man nor woman alive to bring them to Gath, saying, “Lest they should tell about us, saying, ‘David did this, and this has been his way all the time he has lived in the country of the Philistines.’”
 
-<sup>12</sup> Achish believed David, saying, “He has made his people Israel utterly to abhor him. Therefore he will be my servant forever.” 
-
-
+<sup>12</sup> Achish believed David, saying, “He has made his people Israel utterly to abhor him. Therefore he will be my servant forever.”

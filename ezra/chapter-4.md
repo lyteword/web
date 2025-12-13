@@ -4,52 +4,50 @@ weight: 4
 
 # Chapter 4
 
-<sup>1</sup> Now when the adversaries of Judah and Benjamin heard that the children of the captivity were building a temple to Yahweh, the God of Israel, 
+<sup>1</sup> Now when the adversaries of Judah and Benjamin heard that the children of the captivity were building a temple to Yahweh, the God of Israel,
 
-<sup>2</sup> they came near to Zerubbabel, and to the heads of fathers’ households, and said to them, “Let us build with you, for we seek your God as you do; and we have been sacrificing to him since the days of Esar Haddon king of Assyria, who brought us up here.” 
+<sup>2</sup> they came near to Zerubbabel, and to the heads of fathers’ households, and said to them, “Let us build with you, for we seek your God as you do; and we have been sacrificing to him since the days of Esar Haddon king of Assyria, who brought us up here.”
 
-<sup>3</sup> But Zerubbabel, Jeshua, and the rest of the heads of fathers’ households of Israel said to them, “You have nothing to do with us in building a house to our God; but we ourselves together will build to Yahweh, the God of Israel, as King Cyrus the king of Persia has commanded us.” 
+<sup>3</sup> But Zerubbabel, Jeshua, and the rest of the heads of fathers’ households of Israel said to them, “You have nothing to do with us in building a house to our God; but we ourselves together will build to Yahweh, the God of Israel, as King Cyrus the king of Persia has commanded us.”
 
-<sup>4</sup> Then the people of the land weakened the hands of the people of Judah, and troubled them in building. 
+<sup>4</sup> Then the people of the land weakened the hands of the people of Judah, and troubled them in building.
 
-<sup>5</sup> They hired counselors against them to frustrate their purpose all the days of Cyrus king of Persia, even until the reign of Darius king of Persia. 
+<sup>5</sup> They hired counselors against them to frustrate their purpose all the days of Cyrus king of Persia, even until the reign of Darius king of Persia.
 
-<sup>6</sup> In the reign of Ahasuerus, in the beginning of his reign, they wrote an accusation against the inhabitants of Judah and Jerusalem. 
+<sup>6</sup> In the reign of Ahasuerus, in the beginning of his reign, they wrote an accusation against the inhabitants of Judah and Jerusalem.
 
-<sup>7</sup> In the days of Artaxerxes, Bishlam, Mithredath, Tabeel, and the rest of his companions wrote to Artaxerxes king of Persia; and the writing of the letter was written in Syrian and delivered in the Syrian language. 
+<sup>7</sup> In the days of Artaxerxes, Bishlam, Mithredath, Tabeel, and the rest of his companions wrote to Artaxerxes king of Persia; and the writing of the letter was written in Syrian and delivered in the Syrian language.
 
-<sup>8</sup> Rehum the chancellor and Shimshai the scribe wrote a letter against Jerusalem to Artaxerxes the king as follows. 
+<sup>8</sup> Rehum the chancellor and Shimshai the scribe wrote a letter against Jerusalem to Artaxerxes the king as follows.
 
-<sup>9</sup> Then Rehum the chancellor, Shimshai the scribe, and the rest of their companions, the Dinaites, and the Apharsathchites, the Tarpelites, the Apharsites, the Archevites, the Babylonians, the Shushanchites, the Dehaites, the Elamites, 
+<sup>9</sup> Then Rehum the chancellor, Shimshai the scribe, and the rest of their companions, the Dinaites, and the Apharsathchites, the Tarpelites, the Apharsites, the Archevites, the Babylonians, the Shushanchites, the Dehaites, the Elamites,
 
-<sup>10</sup> and the rest of the nations whom the great and noble Osnappar brought over and settled in the city of Samaria, and in the rest of the country beyond the River, and so forth, wrote. 
+<sup>10</sup> and the rest of the nations whom the great and noble Osnappar brought over and settled in the city of Samaria, and in the rest of the country beyond the River, and so forth, wrote.
 
-<sup>11</sup> This is the copy of the letter that they sent: To King Artaxerxes, from your servants, the people beyond the River. 
+<sup>11</sup> This is the copy of the letter that they sent: To King Artaxerxes, from your servants, the people beyond the River.
 
-<sup>12</sup> Be it known to the king that the Jews who came up from you have come to us to Jerusalem. They are building the rebellious and bad city, and have finished the walls and repaired the foundations. 
+<sup>12</sup> Be it known to the king that the Jews who came up from you have come to us to Jerusalem. They are building the rebellious and bad city, and have finished the walls and repaired the foundations.
 
-<sup>13</sup> Be it known now to the king that if this city is built and the walls finished, they will not pay tribute, custom, or toll, and in the end it will be hurtful to the kings. 
+<sup>13</sup> Be it known now to the king that if this city is built and the walls finished, they will not pay tribute, custom, or toll, and in the end it will be hurtful to the kings.
 
-<sup>14</sup> Now because we eat the salt of the palace and it is not appropriate for us to see the king’s dishonor, therefore we have sent and informed the king, 
+<sup>14</sup> Now because we eat the salt of the palace and it is not appropriate for us to see the king’s dishonor, therefore we have sent and informed the king,
 
-<sup>15</sup> that search may be made in the book of the records of your fathers. You will see in the book of the records, and know that this city is a rebellious city, and hurtful to kings and provinces, and that they have started rebellions within it in the past. That is why this city was destroyed. 
+<sup>15</sup> that search may be made in the book of the records of your fathers. You will see in the book of the records, and know that this city is a rebellious city, and hurtful to kings and provinces, and that they have started rebellions within it in the past. That is why this city was destroyed.
 
-<sup>16</sup> We inform the king that if this city is built and the walls finished, then you will have no possession beyond the River. 
+<sup>16</sup> We inform the king that if this city is built and the walls finished, then you will have no possession beyond the River.
 
-<sup>17</sup> Then the king sent an answer to Rehum the chancellor, and to Shimshai the scribe, and to the rest of their companions who live in Samaria, and in the rest of the country beyond the River: Peace. 
+<sup>17</sup> Then the king sent an answer to Rehum the chancellor, and to Shimshai the scribe, and to the rest of their companions who live in Samaria, and in the rest of the country beyond the River: Peace.
 
-<sup>18</sup> The letter which you sent to us has been plainly read before me. 
+<sup>18</sup> The letter which you sent to us has been plainly read before me.
 
-<sup>19</sup> I decreed, and search has been made, and it was found that this city has made insurrection against kings in the past, and that rebellion and revolts have been made in it. 
+<sup>19</sup> I decreed, and search has been made, and it was found that this city has made insurrection against kings in the past, and that rebellion and revolts have been made in it.
 
-<sup>20</sup> There have also been mighty kings over Jerusalem who have ruled over all the country beyond the River; and tribute, custom, and toll was paid to them. 
+<sup>20</sup> There have also been mighty kings over Jerusalem who have ruled over all the country beyond the River; and tribute, custom, and toll was paid to them.
 
-<sup>21</sup> Make a decree now to cause these men to cease, and that this city not be built until a decree is made by me. 
+<sup>21</sup> Make a decree now to cause these men to cease, and that this city not be built until a decree is made by me.
 
-<sup>22</sup> Be careful that you not be slack doing so. Why should damage grow to the hurt of the kings? 
+<sup>22</sup> Be careful that you not be slack doing so. Why should damage grow to the hurt of the kings?
 
-<sup>23</sup> Then when the copy of King Artaxerxes’ letter was read before Rehum, Shimshai the scribe, and their companions, they went in haste to Jerusalem to the Jews, and made them to cease by force of arms. 
+<sup>23</sup> Then when the copy of King Artaxerxes’ letter was read before Rehum, Shimshai the scribe, and their companions, they went in haste to Jerusalem to the Jews, and made them to cease by force of arms.
 
-<sup>24</sup> Then work stopped on God’s house which is at Jerusalem. It stopped until the second year of the reign of Darius king of Persia. 
-
-
+<sup>24</sup> Then work stopped on God’s house which is at Jerusalem. It stopped until the second year of the reign of Darius king of Persia.

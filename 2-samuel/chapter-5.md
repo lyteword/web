@@ -4,54 +4,54 @@ weight: 5
 
 # Chapter 5
 
-<sup>1</sup> Then all the tribes of Israel came to David at Hebron and spoke, saying, “Behold, we are your bone and your flesh. 
+<sup>1</sup> Then all the tribes of Israel came to David at Hebron and spoke, saying, “Behold, we are your bone and your flesh.
 
-<sup>2</sup> In times past, when Saul was king over us, it was you who led Israel out and in. Yahweh said to you, ‘You will be shepherd of my people Israel, and you will be prince over Israel.’” 
+<sup>2</sup> In times past, when Saul was king over us, it was you who led Israel out and in. Yahweh said to you, ‘You will be shepherd of my people Israel, and you will be prince over Israel.’”
 
-<sup>3</sup> So all the elders of Israel came to the king to Hebron, and King David made a covenant with them in Hebron before Yahweh; and they anointed David king over Israel. 
+<sup>3</sup> So all the elders of Israel came to the king to Hebron, and King David made a covenant with them in Hebron before Yahweh; and they anointed David king over Israel.
 
-<sup>4</sup> David was thirty years old when he began to reign, and he reigned forty years. 
+<sup>4</sup> David was thirty years old when he began to reign, and he reigned forty years.
 
-<sup>5</sup> In Hebron he reigned over Judah seven years and six months, and in Jerusalem he reigned thirty-three years over all Israel and Judah. 
+<sup>5</sup> In Hebron he reigned over Judah seven years and six months, and in Jerusalem he reigned thirty-three years over all Israel and Judah.
 
-<sup>6</sup> The king and his men went to Jerusalem against the Jebusites, the inhabitants of the land, who spoke to David, saying, “The blind and the lame will keep you out of here,” thinking, “David can’t come in here.” 
+<sup>6</sup> The king and his men went to Jerusalem against the Jebusites, the inhabitants of the land, who spoke to David, saying, “The blind and the lame will keep you out of here,” thinking, “David can’t come in here.”
 
-<sup>7</sup> Nevertheless David took the stronghold of Zion. This is David’s city. 
+<sup>7</sup> Nevertheless David took the stronghold of Zion. This is David’s city.
 
-<sup>8</sup> David said on that day, “Whoever strikes the Jebusites, let him go up to the watercourse and strike those lame and blind, who are hated by David’s soul.” Therefore they say, “The blind and the lame can’t come into the house.” 
+<sup>8</sup> David said on that day, “Whoever strikes the Jebusites, let him go up to the watercourse and strike those lame and blind, who are hated by David’s soul.” Therefore they say, “The blind and the lame can’t come into the house.”
 
-<sup>9</sup> David lived in the stronghold, and called it David’s city. David built around from Millo and inward. 
+<sup>9</sup> David lived in the stronghold, and called it David’s city. David built around from Millo and inward.
 
-<sup>10</sup> David grew greater and greater, for Yahweh, the God of Armies, was with him. 
+<sup>10</sup> David grew greater and greater, for Yahweh, the God of Armies, was with him.
 
-<sup>11</sup> Hiram king of Tyre sent messengers to David, with cedar trees, carpenters, and masons; and they built David a house. 
+<sup>11</sup> Hiram king of Tyre sent messengers to David, with cedar trees, carpenters, and masons; and they built David a house.
 
-<sup>12</sup> David perceived that Yahweh had established him king over Israel, and that he had exalted his kingdom for his people Israel’s sake. 
+<sup>12</sup> David perceived that Yahweh had established him king over Israel, and that he had exalted his kingdom for his people Israel’s sake.
 
-<sup>13</sup> David took more concubines and wives for himself out of Jerusalem, after he had come from Hebron; and more sons and daughters were born to David. 
+<sup>13</sup> David took more concubines and wives for himself out of Jerusalem, after he had come from Hebron; and more sons and daughters were born to David.
 
-<sup>14</sup> These are the names of those who were born to him in Jerusalem: Shammua, Shobab, Nathan, Solomon, 
+<sup>14</sup> These are the names of those who were born to him in Jerusalem: Shammua, Shobab, Nathan, Solomon,
 
-<sup>15</sup> Ibhar, Elishua, Nepheg, Japhia, 
+<sup>15</sup> Ibhar, Elishua, Nepheg, Japhia,
 
-<sup>16</sup> Elishama, Eliada, and Eliphelet. 
+<sup>16</sup> Elishama, Eliada, and Eliphelet.
 
-<sup>17</sup> When the Philistines heard that they had anointed David king over Israel, all the Philistines went up to seek David, but David heard about it and went down to the stronghold. 
+<sup>17</sup> When the Philistines heard that they had anointed David king over Israel, all the Philistines went up to seek David, but David heard about it and went down to the stronghold.
 
-<sup>18</sup> Now the Philistines had come and spread themselves in the valley of Rephaim. 
+<sup>18</sup> Now the Philistines had come and spread themselves in the valley of Rephaim.
 
-<sup>19</sup> David inquired of Yahweh, saying, “Shall I go up against the Philistines? Will you deliver them into my hand?” Yahweh said to David, “Go up; for I will certainly deliver the Philistines into your hand.” 
+<sup>19</sup> David inquired of Yahweh, saying, “Shall I go up against the Philistines? Will you deliver them into my hand?” Yahweh said to David, “Go up; for I will certainly deliver the Philistines into your hand.”
 
-<sup>20</sup> David came to Baal Perazim, and David struck them there. Then he said, “Yahweh has broken my enemies before me, like the breach of waters.” Therefore he called the name of that place Baal Perazim. 
+<sup>20</sup> David came to Baal Perazim, and David struck them there. Then he said, “Yahweh has broken my enemies before me, like the breach of waters.” Therefore he called the name of that place Baal Perazim.[^254]
 
-<sup>21</sup> They left their images there, and David and his men took them away. 
+<sup>21</sup> They left their images there, and David and his men took them away.
 
-<sup>22</sup> The Philistines came up yet again and spread themselves in the valley of Rephaim. 
+<sup>22</sup> The Philistines came up yet again and spread themselves in the valley of Rephaim.
 
-<sup>23</sup> When David inquired of Yahweh, he said, “You shall not go up. Circle around behind them, and attack them in front of the mulberry trees. 
+<sup>23</sup> When David inquired of Yahweh, he said, “You shall not go up. Circle around behind them, and attack them in front of the mulberry trees.
 
-<sup>24</sup> When you hear the sound of marching in the tops of the mulberry trees, then stir yourself up; for then Yahweh has gone out before you to strike the army of the Philistines.” 
+<sup>24</sup> When you hear the sound of marching in the tops of the mulberry trees, then stir yourself up; for then Yahweh has gone out before you to strike the army of the Philistines.”
 
-<sup>25</sup> David did so, as Yahweh commanded him, and struck the Philistines all the way from Geba to Gezer. 
+<sup>25</sup> David did so, as Yahweh commanded him, and struck the Philistines all the way from Geba to Gezer.
 
-
+[^254]: 5:20 “Baal Perazim” means “Lord who breaks out”.

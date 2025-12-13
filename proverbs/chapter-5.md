@@ -4,50 +4,50 @@ weight: 5
 
 # Chapter 5
 
-<sup>1</sup> My son, pay attention to my wisdom. Turn your ear to my understanding, 
+<sup>1</sup> My son, pay attention to my wisdom. Turn your ear to my understanding,
 
-<sup>2</sup> that you may maintain discretion, that your lips may preserve knowledge. 
+<sup>2</sup> that you may maintain discretion, that your lips may preserve knowledge.
 
-<sup>3</sup> For the lips of an adulteress drip honey. Her mouth is smoother than oil, 
+<sup>3</sup> For the lips of an adulteress drip honey. Her mouth is smoother than oil,
 
-<sup>4</sup> but in the end she is as bitter as wormwood, and as sharp as a two-edged sword. 
+<sup>4</sup> but in the end she is as bitter as wormwood, and as sharp as a two-edged sword.
 
-<sup>5</sup> Her feet go down to death. Her steps lead straight to Sheol. 
+<sup>5</sup> Her feet go down to death. Her steps lead straight to Sheol.[^471]
 
-<sup>6</sup> She gives no thought to the way of life. Her ways are crooked, and she doesn’t know it. 
+<sup>6</sup> She gives no thought to the way of life. Her ways are crooked, and she doesn’t know it.
 
-<sup>7</sup> Now therefore, my sons, listen to me. Don’t depart from the words of my mouth. 
+<sup>7</sup> Now therefore, my sons, listen to me. Don’t depart from the words of my mouth.
 
-<sup>8</sup> Remove your way far from her. Don’t come near the door of her house, 
+<sup>8</sup> Remove your way far from her. Don’t come near the door of her house,
 
-<sup>9</sup> lest you give your honor to others, and your years to the cruel one; 
+<sup>9</sup> lest you give your honor to others, and your years to the cruel one;
 
-<sup>10</sup> lest strangers feast on your wealth, and your labors enrich another man’s house. 
+<sup>10</sup> lest strangers feast on your wealth, and your labors enrich another man’s house.
 
-<sup>11</sup> You will groan at your latter end, when your flesh and your body are consumed, 
+<sup>11</sup> You will groan at your latter end, when your flesh and your body are consumed,
 
-<sup>12</sup> and say, “How I have hated instruction, and my heart despised reproof. 
+<sup>12</sup> and say, “How I have hated instruction, and my heart despised reproof.
 
-<sup>13</sup> I haven’t obeyed the voice of my teachers, nor turned my ear to those who instructed me! 
+<sup>13</sup> I haven’t obeyed the voice of my teachers, nor turned my ear to those who instructed me!
 
-<sup>14</sup> I have come to the brink of utter ruin, among the gathered assembly.” 
+<sup>14</sup> I have come to the brink of utter ruin, among the gathered assembly.”
 
-<sup>15</sup> Drink water out of your own cistern, running water out of your own well. 
+<sup>15</sup> Drink water out of your own cistern, running water out of your own well.
 
-<sup>16</sup> Should your springs overflow in the streets, streams of water in the public squares? 
+<sup>16</sup> Should your springs overflow in the streets, streams of water in the public squares?
 
-<sup>17</sup> Let them be for yourself alone, not for strangers with you. 
+<sup>17</sup> Let them be for yourself alone, not for strangers with you.
 
-<sup>18</sup> Let your spring be blessed. Rejoice in the wife of your youth. 
+<sup>18</sup> Let your spring be blessed. Rejoice in the wife of your youth.
 
-<sup>19</sup> A loving doe and a graceful deer— let her breasts satisfy you at all times. Be captivated always with her love. 
+<sup>19</sup> A loving doe and a graceful deer— let her breasts satisfy you at all times. Be captivated always with her love.
 
-<sup>20</sup> For why should you, my son, be captivated with an adulteress? Why embrace the bosom of another? 
+<sup>20</sup> For why should you, my son, be captivated with an adulteress? Why embrace the bosom of another?
 
-<sup>21</sup> For the ways of man are before Yahweh’s eyes. He examines all his paths. 
+<sup>21</sup> For the ways of man are before Yahweh’s eyes. He examines all his paths.
 
-<sup>22</sup> The evil deeds of the wicked ensnare him. The cords of his sin hold him firmly. 
+<sup>22</sup> The evil deeds of the wicked ensnare him. The cords of his sin hold him firmly.
 
-<sup>23</sup> He will die for lack of instruction. In the greatness of his folly, he will go astray. 
+<sup>23</sup> He will die for lack of instruction. In the greatness of his folly, he will go astray.
 
-
+[^471]: 5:5 Sheol is the place of the dead.

@@ -4,62 +4,60 @@ weight: 15
 
 # Chapter 15
 
-<sup>1</sup> David made himself houses in David’s city; and he prepared a place for God’s ark, and pitched a tent for it. 
+<sup>1</sup> David made himself houses in David’s city; and he prepared a place for God’s ark, and pitched a tent for it.
 
-<sup>2</sup> Then David said, “No one ought to carry God’s ark but the Levites. For Yahweh has chosen them to carry God’s ark, and to minister to him forever.” 
+<sup>2</sup> Then David said, “No one ought to carry God’s ark but the Levites. For Yahweh has chosen them to carry God’s ark, and to minister to him forever.”
 
-<sup>3</sup> David assembled all Israel at Jerusalem, to bring up Yahweh’s ark to its place, which he had prepared for it. 
+<sup>3</sup> David assembled all Israel at Jerusalem, to bring up Yahweh’s ark to its place, which he had prepared for it.
 
-<sup>4</sup> David gathered together the sons of Aaron and the Levites: 
+<sup>4</sup> David gathered together the sons of Aaron and the Levites:
 
-<sup>5</sup> of the sons of Kohath, Uriel the chief, and his brothers one hundred twenty; 
+<sup>5</sup> of the sons of Kohath, Uriel the chief, and his brothers one hundred twenty;
 
-<sup>6</sup> of the sons of Merari, Asaiah the chief, and his brothers two hundred twenty; 
+<sup>6</sup> of the sons of Merari, Asaiah the chief, and his brothers two hundred twenty;
 
-<sup>7</sup> of the sons of Gershom, Joel the chief, and his brothers one hundred thirty; 
+<sup>7</sup> of the sons of Gershom, Joel the chief, and his brothers one hundred thirty;
 
-<sup>8</sup> of the sons of Elizaphan, Shemaiah the chief, and his brothers two hundred; 
+<sup>8</sup> of the sons of Elizaphan, Shemaiah the chief, and his brothers two hundred;
 
-<sup>9</sup> of the sons of Hebron, Eliel the chief, and his brothers eighty; 
+<sup>9</sup> of the sons of Hebron, Eliel the chief, and his brothers eighty;
 
-<sup>10</sup> of the sons of Uzziel, Amminadab the chief, and his brothers one hundred twelve. 
+<sup>10</sup> of the sons of Uzziel, Amminadab the chief, and his brothers one hundred twelve.
 
-<sup>11</sup> David called for Zadok and Abiathar the priests, and for the Levites: for Uriel, Asaiah, Joel, Shemaiah, Eliel, and Amminadab, 
+<sup>11</sup> David called for Zadok and Abiathar the priests, and for the Levites: for Uriel, Asaiah, Joel, Shemaiah, Eliel, and Amminadab,
 
-<sup>12</sup> and said to them, “You are the heads of the fathers’ households of the Levites. Sanctify yourselves, both you and your brothers, that you may bring the ark of Yahweh, the God of Israel, up to the place that I have prepared for it. 
+<sup>12</sup> and said to them, “You are the heads of the fathers’ households of the Levites. Sanctify yourselves, both you and your brothers, that you may bring the ark of Yahweh, the God of Israel, up to the place that I have prepared for it.
 
-<sup>13</sup> For because you didn’t carry it at first, Yahweh our God broke out in anger against us, because we didn’t seek him according to the ordinance.” 
+<sup>13</sup> For because you didn’t carry it at first, Yahweh our God broke out in anger against us, because we didn’t seek him according to the ordinance.”
 
-<sup>14</sup> So the priests and the Levites sanctified themselves to bring up the ark of Yahweh, the God of Israel. 
+<sup>14</sup> So the priests and the Levites sanctified themselves to bring up the ark of Yahweh, the God of Israel.
 
-<sup>15</sup> The children of the Levites bore God’s ark on their shoulders with its poles, as Moses commanded according to Yahweh’s word. 
+<sup>15</sup> The children of the Levites bore God’s ark on their shoulders with its poles, as Moses commanded according to Yahweh’s word.
 
-<sup>16</sup> David spoke to the chief of the Levites to appoint their brothers as singers with instruments of music, stringed instruments, harps, and cymbals, sounding aloud and lifting up their voices with joy. 
+<sup>16</sup> David spoke to the chief of the Levites to appoint their brothers as singers with instruments of music, stringed instruments, harps, and cymbals, sounding aloud and lifting up their voices with joy.
 
-<sup>17</sup> So the Levites appointed Heman the son of Joel; and of his brothers, Asaph the son of Berechiah; and of the sons of Merari their brothers, Ethan the son of Kushaiah; 
+<sup>17</sup> So the Levites appointed Heman the son of Joel; and of his brothers, Asaph the son of Berechiah; and of the sons of Merari their brothers, Ethan the son of Kushaiah;
 
-<sup>18</sup> and with them their brothers of the second rank: Zechariah, Ben, Jaaziel, Shemiramoth, Jehiel, Unni, Eliab, Benaiah, Maaseiah, Mattithiah, Eliphelehu, Mikneiah, Obed-Edom, and Jeiel, the doorkeepers. 
+<sup>18</sup> and with them their brothers of the second rank: Zechariah, Ben, Jaaziel, Shemiramoth, Jehiel, Unni, Eliab, Benaiah, Maaseiah, Mattithiah, Eliphelehu, Mikneiah, Obed-Edom, and Jeiel, the doorkeepers.
 
-<sup>19</sup> So the singers, Heman, Asaph, and Ethan, were given cymbals of bronze to sound aloud; 
+<sup>19</sup> So the singers, Heman, Asaph, and Ethan, were given cymbals of bronze to sound aloud;
 
-<sup>20</sup> and Zechariah, Aziel, Shemiramoth, Jehiel, Unni, Eliab, Maaseiah, and Benaiah, with stringed instruments set to Alamoth; 
+<sup>20</sup> and Zechariah, Aziel, Shemiramoth, Jehiel, Unni, Eliab, Maaseiah, and Benaiah, with stringed instruments set to Alamoth;
 
-<sup>21</sup> and Mattithiah, Eliphelehu, Mikneiah, Obed-Edom, Jeiel, and Azaziah, with harps tuned to the eight-stringed lyre, to lead. 
+<sup>21</sup> and Mattithiah, Eliphelehu, Mikneiah, Obed-Edom, Jeiel, and Azaziah, with harps tuned to the eight-stringed lyre, to lead.
 
-<sup>22</sup> Chenaniah, chief of the Levites, was over the singing. He taught the singers, because he was skillful. 
+<sup>22</sup> Chenaniah, chief of the Levites, was over the singing. He taught the singers, because he was skillful.
 
-<sup>23</sup> Berechiah and Elkanah were doorkeepers for the ark. 
+<sup>23</sup> Berechiah and Elkanah were doorkeepers for the ark.
 
-<sup>24</sup> Shebaniah, Joshaphat, Nethanel, Amasai, Zechariah, Benaiah, and Eliezer, the priests, blew the trumpets before God’s ark; and Obed-Edom and Jehiah were doorkeepers for the ark. 
+<sup>24</sup> Shebaniah, Joshaphat, Nethanel, Amasai, Zechariah, Benaiah, and Eliezer, the priests, blew the trumpets before God’s ark; and Obed-Edom and Jehiah were doorkeepers for the ark.
 
-<sup>25</sup> So David, the elders of Israel, and the captains over thousands went to bring the ark of Yahweh’s covenant up out of the house of Obed-Edom with joy. 
+<sup>25</sup> So David, the elders of Israel, and the captains over thousands went to bring the ark of Yahweh’s covenant up out of the house of Obed-Edom with joy.
 
-<sup>26</sup> When God helped the Levites who bore the ark of Yahweh’s covenant, they sacrificed seven bulls and seven rams. 
+<sup>26</sup> When God helped the Levites who bore the ark of Yahweh’s covenant, they sacrificed seven bulls and seven rams.
 
-<sup>27</sup> David was clothed with a robe of fine linen, as were all the Levites who bore the ark, the singers, and Chenaniah the choir master with the singers; and David had an ephod of linen on him. 
+<sup>27</sup> David was clothed with a robe of fine linen, as were all the Levites who bore the ark, the singers, and Chenaniah the choir master with the singers; and David had an ephod of linen on him.
 
-<sup>28</sup> Thus all Israel brought the ark of Yahweh’s covenant up with shouting, with sound of the cornet, with trumpets, and with cymbals, sounding aloud with stringed instruments and harps. 
+<sup>28</sup> Thus all Israel brought the ark of Yahweh’s covenant up with shouting, with sound of the cornet, with trumpets, and with cymbals, sounding aloud with stringed instruments and harps.
 
-<sup>29</sup> As the ark of Yahweh’s covenant came to David’s city, Michal the daughter of Saul looked out at the window, and saw king David dancing and playing; and she despised him in her heart. 
-
-
+<sup>29</sup> As the ark of Yahweh’s covenant came to David’s city, Michal the daughter of Saul looked out at the window, and saw king David dancing and playing; and she despised him in her heart.

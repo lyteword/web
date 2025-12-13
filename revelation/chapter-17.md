@@ -4,40 +4,40 @@ weight: 17
 
 # Chapter 17
 
-<sup>1</sup> One of the seven angels who had the seven bowls came and spoke with me, saying, “Come here. I will show you the judgment of the great prostitute who sits on many waters, 
+<sup>1</sup> One of the seven angels who had the seven bowls came and spoke with me, saying, “Come here. I will show you the judgment of the great prostitute who sits on many waters,
 
-<sup>2</sup> with whom the kings of the earth committed sexual immorality. Those who dwell in the earth were made drunken with the wine of her sexual immorality.” 
+<sup>2</sup> with whom the kings of the earth committed sexual immorality. Those who dwell in the earth were made drunken with the wine of her sexual immorality.”
 
-<sup>3</sup> He carried me away in the Spirit into a wilderness. I saw a woman sitting on a scarlet-colored beast, full of blasphemous names, having seven heads and ten horns. 
+<sup>3</sup> He carried me away in the Spirit into a wilderness. I saw a woman sitting on a scarlet-colored beast, full of blasphemous names, having seven heads and ten horns.
 
-<sup>4</sup> The woman was dressed in purple and scarlet, and decked with gold and precious stones and pearls, having in her hand a golden cup full of abominations and the impurities of the sexual immorality of the earth. 
+<sup>4</sup> The woman was dressed in purple and scarlet, and decked with gold and precious stones and pearls, having in her hand a golden cup full of abominations and the impurities of the sexual immorality of the earth.
 
-<sup>5</sup> And on her forehead a name was written, “MYSTERY, BABYLON THE GREAT, THE MOTHER OF THE PROSTITUTES AND OF THE ABOMINATIONS OF THE EARTH.” 
+<sup>5</sup> And on her forehead a name was written, “MYSTERY, BABYLON THE GREAT, THE MOTHER OF THE PROSTITUTES AND OF THE ABOMINATIONS OF THE EARTH.”
 
-<sup>6</sup> I saw the woman drunken with the blood of the saints and with the blood of the martyrs of Jesus. When I saw her, I wondered with great amazement. 
+<sup>6</sup> I saw the woman drunken with the blood of the saints and with the blood of the martyrs of Jesus. When I saw her, I wondered with great amazement.
 
-<sup>7</sup> The angel said to me, “Why do you wonder? I will tell you the mystery of the woman and of the beast that carries her, which has the seven heads and the ten horns. 
+<sup>7</sup> The angel said to me, “Why do you wonder? I will tell you the mystery of the woman and of the beast that carries her, which has the seven heads and the ten horns.
 
-<sup>8</sup> The beast that you saw was, and is not; and is about to come up out of the abyss and to go into destruction. Those who dwell on the earth and whose names have not been written in the book of life from the foundation of the world will marvel when they see that the beast was, and is not, and shall be present. 
+<sup>8</sup> The beast that you saw was, and is not; and is about to come up out of the abyss and to go into destruction. Those who dwell on the earth and whose names have not been written in the book of life from the foundation of the world will marvel when they see that the beast was, and is not, and shall be present.[^1452]
 
-<sup>9</sup> Here is the mind that has wisdom. The seven heads are seven mountains on which the woman sits. 
+<sup>9</sup> Here is the mind that has wisdom. The seven heads are seven mountains on which the woman sits.
 
-<sup>10</sup> They are seven kings. Five have fallen, the one is, and the other has not yet come. When he comes, he must continue a little while. 
+<sup>10</sup> They are seven kings. Five have fallen, the one is, and the other has not yet come. When he comes, he must continue a little while.
 
-<sup>11</sup> The beast that was, and is not, is himself also an eighth, and is of the seven; and he goes to destruction. 
+<sup>11</sup> The beast that was, and is not, is himself also an eighth, and is of the seven; and he goes to destruction.
 
-<sup>12</sup> The ten horns that you saw are ten kings who have received no kingdom as yet, but they receive authority as kings with the beast for one hour. 
+<sup>12</sup> The ten horns that you saw are ten kings who have received no kingdom as yet, but they receive authority as kings with the beast for one hour.
 
-<sup>13</sup> These have one mind, and they give their power and authority to the beast. 
+<sup>13</sup> These have one mind, and they give their power and authority to the beast.
 
-<sup>14</sup> These will war against the Lamb, and the Lamb will overcome them, for he is Lord of lords and King of kings; and those who are with him are called, chosen, and faithful.” 
+<sup>14</sup> These will war against the Lamb, and the Lamb will overcome them, for he is Lord of lords and King of kings; and those who are with him are called, chosen, and faithful.”
 
-<sup>15</sup> He said to me, “The waters which you saw, where the prostitute sits, are peoples, multitudes, nations, and languages. 
+<sup>15</sup> He said to me, “The waters which you saw, where the prostitute sits, are peoples, multitudes, nations, and languages.
 
-<sup>16</sup> The ten horns which you saw, they and the beast will hate the prostitute, will make her desolate, will strip her naked, will eat her flesh, and will burn her utterly with fire. 
+<sup>16</sup> The ten horns which you saw, they and the beast will hate the prostitute, will make her desolate, will strip her naked, will eat her flesh, and will burn her utterly with fire.
 
-<sup>17</sup> For God has put in their hearts to do what he has in mind, to be of one mind, and to give their kingdom to the beast, until the words of God should be accomplished. 
+<sup>17</sup> For God has put in their hearts to do what he has in mind, to be of one mind, and to give their kingdom to the beast, until the words of God should be accomplished.
 
-<sup>18</sup> The woman whom you saw is the great city which reigns over the kings of the earth.” 
+<sup>18</sup> The woman whom you saw is the great city which reigns over the kings of the earth.”
 
-
+[^1452]: 17:8 TR reads “yet is” instead of “shall be present”

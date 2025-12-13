@@ -4,48 +4,49 @@ weight: 6
 
 # Chapter 6
 
-<sup>1</sup> When men began to multiply on the surface of the ground, and daughters were born to them, 
+<sup>1</sup> When men began to multiply on the surface of the ground, and daughters were born to them,
 
-<sup>2</sup> God’s sons saw that men’s daughters were beautiful, and they took any that they wanted for themselves as wives. 
+<sup>2</sup> God’s sons saw that men’s daughters were beautiful, and they took any that they wanted for themselves as wives.
 
-<sup>3</sup> Yahweh said, “My Spirit will not strive with man forever, because he also is flesh; so his days will be one hundred twenty years.” 
+<sup>3</sup> Yahweh said, “My Spirit will not strive with man forever, because he also is flesh; so his days will be one hundred twenty years.”
 
-<sup>4</sup> The Nephilim were in the earth in those days, and also after that, when God’s sons came in to men’s daughters and had children with them. Those were the mighty men who were of old, men of renown. 
+<sup>4</sup> The Nephilim[^10] were in the earth in those days, and also after that, when God’s sons came in to men’s daughters and had children with them. Those were the mighty men who were of old, men of renown.
 
-<sup>5</sup> Yahweh saw that the wickedness of man was great in the earth, and that every imagination of the thoughts of man’s heart was continually only evil. 
+<sup>5</sup> Yahweh saw that the wickedness of man was great in the earth, and that every imagination of the thoughts of man’s heart was continually only evil.
 
-<sup>6</sup> Yahweh was sorry that he had made man on the earth, and it grieved him in his heart. 
+<sup>6</sup> Yahweh was sorry that he had made man on the earth, and it grieved him in his heart.
 
-<sup>7</sup> Yahweh said, “I will destroy man whom I have created from the surface of the ground—man, along with animals, creeping things, and birds of the sky—for I am sorry that I have made them.” 
+<sup>7</sup> Yahweh said, “I will destroy man whom I have created from the surface of the ground—man, along with animals, creeping things, and birds of the sky—for I am sorry that I have made them.”
 
-<sup>8</sup> But Noah found favor in Yahweh’s eyes. 
+<sup>8</sup> But Noah found favor in Yahweh’s eyes.
 
-<sup>9</sup> This is the history of the generations of Noah: Noah was a righteous man, blameless among the people of his time. Noah walked with God. 
+<sup>9</sup> This is the history of the generations of Noah: Noah was a righteous man, blameless among the people of his time. Noah walked with God.
 
-<sup>10</sup> Noah became the father of three sons: Shem, Ham, and Japheth. 
+<sup>10</sup> Noah became the father of three sons: Shem, Ham, and Japheth.
 
-<sup>11</sup> The earth was corrupt before God, and the earth was filled with violence. 
+<sup>11</sup> The earth was corrupt before God, and the earth was filled with violence.
 
-<sup>12</sup> God saw the earth, and saw that it was corrupt, for all flesh had corrupted their way on the earth. 
+<sup>12</sup> God saw the earth, and saw that it was corrupt, for all flesh had corrupted their way on the earth.
 
-<sup>13</sup> God said to Noah, “I will bring an end to all flesh, for the earth is filled with violence through them. Behold, I will destroy them and the earth. 
+<sup>13</sup> God said to Noah, “I will bring an end to all flesh, for the earth is filled with violence through them. Behold, I will destroy them and the earth.
 
-<sup>14</sup> Make a ship of gopher wood. You shall make rooms in the ship, and shall seal it inside and outside with pitch. 
+<sup>14</sup> Make a ship of gopher wood. You shall make rooms in the ship, and shall seal it inside and outside with pitch.
 
-<sup>15</sup> This is how you shall make it. The length of the ship shall be three hundred cubits, its width fifty cubits, and its height thirty cubits. 
+<sup>15</sup> This is how you shall make it. The length of the ship shall be three hundred cubits,[^11] its width fifty cubits, and its height thirty cubits.
 
-<sup>16</sup> You shall make a roof in the ship, and you shall finish it to a cubit upward. You shall set the door of the ship in its side. You shall make it with lower, second, and third levels. 
+<sup>16</sup> You shall make a roof in the ship, and you shall finish it to a cubit upward. You shall set the door of the ship in its side. You shall make it with lower, second, and third levels.
 
-<sup>17</sup> I, even I, will bring the flood of waters on this earth, to destroy all flesh having the breath of life from under the sky. Everything that is in the earth will die. 
+<sup>17</sup> I, even I, will bring the flood of waters on this earth, to destroy all flesh having the breath of life from under the sky. Everything that is in the earth will die.
 
-<sup>18</sup> But I will establish my covenant with you. You shall come into the ship, you, your sons, your wife, and your sons’ wives with you. 
+<sup>18</sup> But I will establish my covenant with you. You shall come into the ship, you, your sons, your wife, and your sons’ wives with you.
 
-<sup>19</sup> Of every living thing of all flesh, you shall bring two of every sort into the ship, to keep them alive with you. They shall be male and female. 
+<sup>19</sup> Of every living thing of all flesh, you shall bring two of every sort into the ship, to keep them alive with you. They shall be male and female.
 
-<sup>20</sup> Of the birds after their kind, of the livestock after their kind, of every creeping thing of the ground after its kind, two of every sort will come to you, to keep them alive. 
+<sup>20</sup> Of the birds after their kind, of the livestock after their kind, of every creeping thing of the ground after its kind, two of every sort will come to you, to keep them alive.
 
-<sup>21</sup> Take with you some of all food that is eaten, and gather it to yourself; and it will be for food for you, and for them.” 
+<sup>21</sup> Take with you some of all food that is eaten, and gather it to yourself; and it will be for food for you, and for them.”
 
-<sup>22</sup> Thus Noah did. He did all that God commanded him. 
+<sup>22</sup> Thus Noah did. He did all that God commanded him.
 
-
+[^10]: 6:4 or, giants
+[^11]: 6:15 A cubit is the length from the tip of the middle finger to the elbow on a man’s arm, or about 18 inches or 46 centimeters.

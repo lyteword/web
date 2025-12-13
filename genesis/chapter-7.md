@@ -4,52 +4,52 @@ weight: 7
 
 # Chapter 7
 
-<sup>1</sup> Yahweh said to Noah, “Come with all of your household into the ship, for I have seen your righteousness before me in this generation. 
+<sup>1</sup> Yahweh said to Noah, “Come with all of your household into the ship, for I have seen your righteousness before me in this generation.
 
-<sup>2</sup> You shall take seven pairs of every clean animal with you, the male and his female. Of the animals that are not clean, take two, the male and his female. 
+<sup>2</sup> You shall take seven pairs of every clean animal with you, the male and his female. Of the animals that are not clean, take two, the male and his female.
 
-<sup>3</sup> Also of the birds of the sky, seven and seven, male and female, to keep seed alive on the surface of all the earth. 
+<sup>3</sup> Also of the birds of the sky, seven and seven, male and female, to keep seed alive on the surface of all the earth.
 
-<sup>4</sup> In seven days, I will cause it to rain on the earth for forty days and forty nights. I will destroy every living thing that I have made from the surface of the ground.” 
+<sup>4</sup> In seven days, I will cause it to rain on the earth for forty days and forty nights. I will destroy every living thing that I have made from the surface of the ground.”
 
-<sup>5</sup> Noah did everything that Yahweh commanded him. 
+<sup>5</sup> Noah did everything that Yahweh commanded him.
 
-<sup>6</sup> Noah was six hundred years old when the flood of waters came on the earth. 
+<sup>6</sup> Noah was six hundred years old when the flood of waters came on the earth.
 
-<sup>7</sup> Noah went into the ship with his sons, his wife, and his sons’ wives, because of the floodwaters. 
+<sup>7</sup> Noah went into the ship with his sons, his wife, and his sons’ wives, because of the floodwaters.
 
-<sup>8</sup> Clean animals, unclean animals, birds, and everything that creeps on the ground 
+<sup>8</sup> Clean animals, unclean animals, birds, and everything that creeps on the ground
 
-<sup>9</sup> went by pairs to Noah into the ship, male and female, as God commanded Noah. 
+<sup>9</sup> went by pairs to Noah into the ship, male and female, as God commanded Noah.
 
-<sup>10</sup> After the seven days, the floodwaters came on the earth. 
+<sup>10</sup> After the seven days, the floodwaters came on the earth.
 
-<sup>11</sup> In the six hundredth year of Noah’s life, in the second month, on the seventeenth day of the month, on that day all the fountains of the great deep burst open, and the sky’s windows opened. 
+<sup>11</sup> In the six hundredth year of Noah’s life, in the second month, on the seventeenth day of the month, on that day all the fountains of the great deep burst open, and the sky’s windows opened.
 
-<sup>12</sup> It rained on the earth forty days and forty nights. 
+<sup>12</sup> It rained on the earth forty days and forty nights.
 
-<sup>13</sup> In the same day Noah, and Shem, Ham, and Japheth—the sons of Noah—and Noah’s wife and the three wives of his sons with them, entered into the ship— 
+<sup>13</sup> In the same day Noah, and Shem, Ham, and Japheth—the sons of Noah—and Noah’s wife and the three wives of his sons with them, entered into the ship—
 
-<sup>14</sup> they, and every animal after its kind, all the livestock after their kind, every creeping thing that creeps on the earth after its kind, and every bird after its kind, every bird of every sort. 
+<sup>14</sup> they, and every animal after its kind, all the livestock after their kind, every creeping thing that creeps on the earth after its kind, and every bird after its kind, every bird of every sort.
 
-<sup>15</sup> Pairs from all flesh with the breath of life in them went into the ship to Noah. 
+<sup>15</sup> Pairs from all flesh with the breath of life in them went into the ship to Noah.
 
-<sup>16</sup> Those who went in, went in male and female of all flesh, as God commanded him; then Yahweh shut him in. 
+<sup>16</sup> Those who went in, went in male and female of all flesh, as God commanded him; then Yahweh shut him in.
 
-<sup>17</sup> The flood was forty days on the earth. The waters increased, and lifted up the ship, and it was lifted up above the earth. 
+<sup>17</sup> The flood was forty days on the earth. The waters increased, and lifted up the ship, and it was lifted up above the earth.
 
-<sup>18</sup> The waters rose, and increased greatly on the earth; and the ship floated on the surface of the waters. 
+<sup>18</sup> The waters rose, and increased greatly on the earth; and the ship floated on the surface of the waters.
 
-<sup>19</sup> The waters rose very high on the earth. All the high mountains that were under the whole sky were covered. 
+<sup>19</sup> The waters rose very high on the earth. All the high mountains that were under the whole sky were covered.
 
-<sup>20</sup> The waters rose fifteen cubits higher, and the mountains were covered. 
+<sup>20</sup> The waters rose fifteen cubits[^12] higher, and the mountains were covered.
 
-<sup>21</sup> All flesh died that moved on the earth, including birds, livestock, animals, every creeping thing that creeps on the earth, and every man. 
+<sup>21</sup> All flesh died that moved on the earth, including birds, livestock, animals, every creeping thing that creeps on the earth, and every man.
 
-<sup>22</sup> All on the dry land, in whose nostrils was the breath of the spirit of life, died. 
+<sup>22</sup> All on the dry land, in whose nostrils was the breath of the spirit of life, died.
 
-<sup>23</sup> Every living thing was destroyed that was on the surface of the ground, including man, livestock, creeping things, and birds of the sky. They were destroyed from the earth. Only Noah was left, and those who were with him in the ship. 
+<sup>23</sup> Every living thing was destroyed that was on the surface of the ground, including man, livestock, creeping things, and birds of the sky. They were destroyed from the earth. Only Noah was left, and those who were with him in the ship.
 
-<sup>24</sup> The waters flooded the earth one hundred fifty days. 
+<sup>24</sup> The waters flooded the earth one hundred fifty days.
 
-
+[^12]: 7:20 A cubit is the length from the tip of the middle finger to the elbow on a man’s arm, or about 18 inches or 46 centimeters.

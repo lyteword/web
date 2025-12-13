@@ -4,28 +4,28 @@ weight: 4
 
 # Chapter 4
 
-<sup>1</sup> When Saul’s son heard that Abner was dead in Hebron, his hands became feeble, and all the Israelites were troubled. 
+<sup>1</sup> When Saul’s son heard that Abner was dead in Hebron, his hands became feeble, and all the Israelites were troubled.
 
-<sup>2</sup> Saul’s son had two men who were captains of raiding bands. The name of one was Baanah and the name of the other Rechab, the sons of Rimmon the Beerothite, of the children of Benjamin (for Beeroth also is considered a part of Benjamin; 
+<sup>2</sup> Saul’s son had two men who were captains of raiding bands. The name of one was Baanah and the name of the other Rechab, the sons of Rimmon the Beerothite, of the children of Benjamin (for Beeroth also is considered a part of Benjamin;
 
-<sup>3</sup> and the Beerothites fled to Gittaim, and have lived as foreigners there until today). 
+<sup>3</sup> and the Beerothites fled to Gittaim, and have lived as foreigners there until today).
 
-<sup>4</sup> Now Jonathan, Saul’s son, had a son who was lame in his feet. He was five years old when the news came about Saul and Jonathan out of Jezreel; and his nurse picked him up and fled. As she hurried to flee, he fell and became lame. His name was Mephibosheth. 
+<sup>4</sup> Now Jonathan, Saul’s son, had a son who was lame in his feet. He was five years old when the news came about Saul and Jonathan out of Jezreel; and his nurse picked him up and fled. As she hurried to flee, he fell and became lame. His name was Mephibosheth.
 
-<sup>5</sup> The sons of Rimmon the Beerothite, Rechab and Baanah, went out and came at about the heat of the day to the house of Ishbosheth as he took his rest at noon. 
+<sup>5</sup> The sons of Rimmon the Beerothite, Rechab and Baanah, went out and came at about the heat of the day to the house of Ishbosheth as he took his rest at noon.
 
-<sup>6</sup> They came there into the middle of the house as though they would have fetched wheat, and they struck him in the body; and Rechab and Baanah his brother escaped. 
+<sup>6</sup> They came there into the middle of the house as though they would have fetched wheat, and they struck him in the body; and Rechab and Baanah his brother escaped.
 
-<sup>7</sup> Now when they came into the house as he lay on his bed in his bedroom, they struck him, killed him, beheaded him, and took his head, and went by the way of the Arabah all night. 
+<sup>7</sup> Now when they came into the house as he lay on his bed in his bedroom, they struck him, killed him, beheaded him, and took his head, and went by the way of the Arabah all night.
 
-<sup>8</sup> They brought the head of Ishbosheth to David to Hebron, and said to the king, “Behold, the head of Ishbosheth, the son of Saul, your enemy, who sought your life! Yahweh has avenged my lord the king today of Saul and of his offspring.” 
+<sup>8</sup> They brought the head of Ishbosheth to David to Hebron, and said to the king, “Behold, the head of Ishbosheth, the son of Saul, your enemy, who sought your life! Yahweh has avenged my lord the king today of Saul and of his offspring.[^253]”
 
-<sup>9</sup> David answered Rechab and Baanah his brother, the sons of Rimmon the Beerothite, and said to them, “As Yahweh lives, who has redeemed my soul out of all adversity, 
+<sup>9</sup> David answered Rechab and Baanah his brother, the sons of Rimmon the Beerothite, and said to them, “As Yahweh lives, who has redeemed my soul out of all adversity,
 
-<sup>10</sup> when someone told me, ‘Behold, Saul is dead,’ thinking that he brought good news, I seized him and killed him in Ziklag, which was the reward I gave him for his news. 
+<sup>10</sup> when someone told me, ‘Behold, Saul is dead,’ thinking that he brought good news, I seized him and killed him in Ziklag, which was the reward I gave him for his news.
 
-<sup>11</sup> How much more, when wicked men have slain a righteous person in his own house on his bed, should I not now require his blood from your hand, and rid the earth of you?” 
+<sup>11</sup> How much more, when wicked men have slain a righteous person in his own house on his bed, should I not now require his blood from your hand, and rid the earth of you?”
 
-<sup>12</sup> David commanded his young men, and they killed them, cut off their hands and their feet, and hanged them up beside the pool in Hebron. But they took the head of Ishbosheth and buried it in Abner’s grave in Hebron. 
+<sup>12</sup> David commanded his young men, and they killed them, cut off their hands and their feet, and hanged them up beside the pool in Hebron. But they took the head of Ishbosheth and buried it in Abner’s grave in Hebron.
 
-
+[^253]: 4:8 or, seed

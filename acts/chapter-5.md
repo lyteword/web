@@ -4,88 +4,86 @@ weight: 5
 
 # Chapter 5
 
-<sup>1</sup> But a certain man named Ananias, with Sapphira his wife, sold a possession, 
+<sup>1</sup> But a certain man named Ananias, with Sapphira his wife, sold a possession,
 
-<sup>2</sup> and kept back part of the price, his wife also being aware of it, then brought a certain part and laid it at the apostles’ feet. 
+<sup>2</sup> and kept back part of the price, his wife also being aware of it, then brought a certain part and laid it at the apostles’ feet.
 
-<sup>3</sup> But Peter said, “Ananias, why has Satan filled your heart to lie to the Holy Spirit and to keep back part of the price of the land? 
+<sup>3</sup> But Peter said, “Ananias, why has Satan filled your heart to lie to the Holy Spirit and to keep back part of the price of the land?
 
-<sup>4</sup> While you kept it, didn’t it remain your own? After it was sold, wasn’t it in your power? How is it that you have conceived this thing in your heart? You haven’t lied to men, but to God.” 
+<sup>4</sup> While you kept it, didn’t it remain your own? After it was sold, wasn’t it in your power? How is it that you have conceived this thing in your heart? You haven’t lied to men, but to God.”
 
-<sup>5</sup> Ananias, hearing these words, fell down and died. Great fear came on all who heard these things. 
+<sup>5</sup> Ananias, hearing these words, fell down and died. Great fear came on all who heard these things.
 
-<sup>6</sup> The young men arose and wrapped him up, and they carried him out and buried him. 
+<sup>6</sup> The young men arose and wrapped him up, and they carried him out and buried him.
 
-<sup>7</sup> About three hours later, his wife, not knowing what had happened, came in. 
+<sup>7</sup> About three hours later, his wife, not knowing what had happened, came in.
 
-<sup>8</sup> Peter answered her, “Tell me whether you sold the land for so much.” She said, “Yes, for so much.” 
+<sup>8</sup> Peter answered her, “Tell me whether you sold the land for so much.” She said, “Yes, for so much.”
 
-<sup>9</sup> But Peter asked her, “How is it that you have agreed together to tempt the Spirit of the Lord? Behold, the feet of those who have buried your husband are at the door, and they will carry you out.” 
+<sup>9</sup> But Peter asked her, “How is it that you have agreed together to tempt the Spirit of the Lord? Behold, the feet of those who have buried your husband are at the door, and they will carry you out.”
 
-<sup>10</sup> She fell down immediately at his feet and died. The young men came in and found her dead, and they carried her out and buried her by her husband. 
+<sup>10</sup> She fell down immediately at his feet and died. The young men came in and found her dead, and they carried her out and buried her by her husband.
 
-<sup>11</sup> Great fear came on the whole assembly, and on all who heard these things. 
+<sup>11</sup> Great fear came on the whole assembly, and on all who heard these things.
 
-<sup>12</sup> By the hands of the apostles many signs and wonders were done among the people. They were all with one accord in Solomon’s porch. 
+<sup>12</sup> By the hands of the apostles many signs and wonders were done among the people. They were all with one accord in Solomon’s porch.
 
-<sup>13</sup> None of the rest dared to join them; however, the people honored them. 
+<sup>13</sup> None of the rest dared to join them; however, the people honored them.
 
-<sup>14</sup> More believers were added to the Lord, multitudes of both men and women. 
+<sup>14</sup> More believers were added to the Lord, multitudes of both men and women.
 
-<sup>15</sup> They even carried out the sick into the streets and laid them on cots and mattresses, so that as Peter came by, at least his shadow might overshadow some of them. 
+<sup>15</sup> They even carried out the sick into the streets and laid them on cots and mattresses, so that as Peter came by, at least his shadow might overshadow some of them.
 
-<sup>16</sup> The multitude also came together from the cities around Jerusalem, bringing sick people and those who were tormented by unclean spirits; and they were all healed. 
+<sup>16</sup> The multitude also came together from the cities around Jerusalem, bringing sick people and those who were tormented by unclean spirits; and they were all healed.
 
-<sup>17</sup> But the high priest rose up, and all those who were with him (which is the sect of the Sadducees), and they were filled with jealousy 
+<sup>17</sup> But the high priest rose up, and all those who were with him (which is the sect of the Sadducees), and they were filled with jealousy
 
-<sup>18</sup> and laid hands on the apostles, then put them in public custody. 
+<sup>18</sup> and laid hands on the apostles, then put them in public custody.
 
-<sup>19</sup> But an angel of the Lord opened the prison doors by night, and brought them out and said, 
+<sup>19</sup> But an angel of the Lord opened the prison doors by night, and brought them out and said,
 
-<sup>20</sup> “Go stand and speak in the temple to the people all the words of this life.” 
+<sup>20</sup> “Go stand and speak in the temple to the people all the words of this life.”
 
-<sup>21</sup> When they heard this, they entered into the temple about daybreak and taught. But the high priest and those who were with him came and called the council together, with all the senate of the children of Israel, and sent to the prison to have them brought. 
+<sup>21</sup> When they heard this, they entered into the temple about daybreak and taught. But the high priest and those who were with him came and called the council together, with all the senate of the children of Israel, and sent to the prison to have them brought.
 
-<sup>22</sup> But the officers who came didn’t find them in the prison. They returned and reported, 
+<sup>22</sup> But the officers who came didn’t find them in the prison. They returned and reported,
 
-<sup>23</sup> “We found the prison shut and locked, and the guards standing before the doors, but when we opened them, we found no one inside!” 
+<sup>23</sup> “We found the prison shut and locked, and the guards standing before the doors, but when we opened them, we found no one inside!”
 
-<sup>24</sup> Now when the high priest, the captain of the temple, and the chief priests heard these words, they were very perplexed about them and what might become of this. 
+<sup>24</sup> Now when the high priest, the captain of the temple, and the chief priests heard these words, they were very perplexed about them and what might become of this.
 
-<sup>25</sup> One came and told them, “Behold, the men whom you put in prison are in the temple, standing and teaching the people.” 
+<sup>25</sup> One came and told them, “Behold, the men whom you put in prison are in the temple, standing and teaching the people.”
 
-<sup>26</sup> Then the captain went with the officers, and brought them without violence, for they were afraid that the people might stone them. 
+<sup>26</sup> Then the captain went with the officers, and brought them without violence, for they were afraid that the people might stone them.
 
-<sup>27</sup> When they had brought them, they set them before the council. The high priest questioned them, 
+<sup>27</sup> When they had brought them, they set them before the council. The high priest questioned them,
 
-<sup>28</sup> saying, “Didn’t we strictly command you not to teach in this name? Behold, you have filled Jerusalem with your teaching, and intend to bring this man’s blood on us.” 
+<sup>28</sup> saying, “Didn’t we strictly command you not to teach in this name? Behold, you have filled Jerusalem with your teaching, and intend to bring this man’s blood on us.”
 
-<sup>29</sup> But Peter and the apostles answered, “We must obey God rather than men. 
+<sup>29</sup> But Peter and the apostles answered, “We must obey God rather than men.
 
-<sup>30</sup> The God of our fathers raised up Jesus, whom you killed, hanging him on a tree. 
+<sup>30</sup> The God of our fathers raised up Jesus, whom you killed, hanging him on a tree.
 
-<sup>31</sup> God exalted him with his right hand to be a Prince and a Savior, to give repentance to Israel, and remission of sins. 
+<sup>31</sup> God exalted him with his right hand to be a Prince and a Savior, to give repentance to Israel, and remission of sins.
 
-<sup>32</sup> We are his witnesses of these things; and so also is the Holy Spirit, whom God has given to those who obey him.” 
+<sup>32</sup> We are his witnesses of these things; and so also is the Holy Spirit, whom God has given to those who obey him.”
 
-<sup>33</sup> But they, when they heard this, were cut to the heart, and were determined to kill them. 
+<sup>33</sup> But they, when they heard this, were cut to the heart, and were determined to kill them.
 
-<sup>34</sup> But one stood up in the council, a Pharisee named Gamaliel, a teacher of the law, honored by all the people, and commanded to put the apostles out for a little while. 
+<sup>34</sup> But one stood up in the council, a Pharisee named Gamaliel, a teacher of the law, honored by all the people, and commanded to put the apostles out for a little while.
 
-<sup>35</sup> He said to them, “You men of Israel, be careful concerning these men, what you are about to do. 
+<sup>35</sup> He said to them, “You men of Israel, be careful concerning these men, what you are about to do.
 
-<sup>36</sup> For before these days Theudas rose up, making himself out to be somebody; to whom a number of men, about four hundred, joined themselves. He was slain; and all, as many as obeyed him, were dispersed and came to nothing. 
+<sup>36</sup> For before these days Theudas rose up, making himself out to be somebody; to whom a number of men, about four hundred, joined themselves. He was slain; and all, as many as obeyed him, were dispersed and came to nothing.
 
-<sup>37</sup> After this man, Judas of Galilee rose up in the days of the enrollment, and drew away some people after him. He also perished, and all, as many as obeyed him, were scattered abroad. 
+<sup>37</sup> After this man, Judas of Galilee rose up in the days of the enrollment, and drew away some people after him. He also perished, and all, as many as obeyed him, were scattered abroad.
 
-<sup>38</sup> Now I tell you, withdraw from these men and leave them alone. For if this counsel or this work is of men, it will be overthrown. 
+<sup>38</sup> Now I tell you, withdraw from these men and leave them alone. For if this counsel or this work is of men, it will be overthrown.
 
-<sup>39</sup> But if it is of God, you will not be able to overthrow it, and you would be found even to be fighting against God!” 
+<sup>39</sup> But if it is of God, you will not be able to overthrow it, and you would be found even to be fighting against God!”
 
-<sup>40</sup> They agreed with him. Summoning the apostles, they beat them and commanded them not to speak in the name of Jesus, and let them go. 
+<sup>40</sup> They agreed with him. Summoning the apostles, they beat them and commanded them not to speak in the name of Jesus, and let them go.
 
-<sup>41</sup> They therefore departed from the presence of the council, rejoicing that they were counted worthy to suffer dishonor for Jesus’ name. 
+<sup>41</sup> They therefore departed from the presence of the council, rejoicing that they were counted worthy to suffer dishonor for Jesus’ name.
 
-<sup>42</sup> Every day, in the temple and at home, they never stopped teaching and preaching Jesus, the Christ. 
-
-
+<sup>42</sup> Every day, in the temple and at home, they never stopped teaching and preaching Jesus, the Christ.

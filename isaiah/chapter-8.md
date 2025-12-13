@@ -4,48 +4,48 @@ weight: 8
 
 # Chapter 8
 
-<sup>1</sup> Yahweh said to me, “Take a large tablet, and write on it with a man’s pen, ‘For Maher Shalal Hash Baz’; 
+<sup>1</sup> Yahweh said to me, “Take a large tablet, and write on it with a man’s pen, ‘For Maher Shalal Hash Baz’;[^501]
 
-<sup>2</sup> and I will take for myself faithful witnesses to testify: Uriah the priest, and Zechariah the son of Jeberechiah.” 
+<sup>2</sup> and I will take for myself faithful witnesses to testify: Uriah the priest, and Zechariah the son of Jeberechiah.”
 
-<sup>3</sup> I went to the prophetess, and she conceived, and bore a son. Then Yahweh said to me, “Call his name ‘Maher Shalal Hash Baz.’ 
+<sup>3</sup> I went to the prophetess, and she conceived, and bore a son. Then Yahweh said to me, “Call his name ‘Maher Shalal Hash Baz.’
 
-<sup>4</sup> For before the child knows how to say, ‘My father’ and ‘My mother,’ the riches of Damascus and the plunder of Samaria will be carried away by the king of Assyria.” 
+<sup>4</sup> For before the child knows how to say, ‘My father’ and ‘My mother,’ the riches of Damascus and the plunder of Samaria will be carried away by the king of Assyria.”
 
-<sup>5</sup> Yahweh spoke to me yet again, saying, 
+<sup>5</sup> Yahweh spoke to me yet again, saying,
 
-<sup>6</sup> “Because this people has refused the waters of Shiloah that go softly, and rejoice in Rezin and Remaliah’s son; 
+<sup>6</sup> “Because this people has refused the waters of Shiloah that go softly, and rejoice in Rezin and Remaliah’s son;
 
-<sup>7</sup> now therefore, behold, the Lord brings upon them the mighty flood waters of the River: the king of Assyria and all his glory. It will come up over all its channels, and go over all its banks. 
+<sup>7</sup> now therefore, behold, the Lord brings upon them the mighty flood waters of the River: the king of Assyria and all his glory. It will come up over all its channels, and go over all its banks.
 
-<sup>8</sup> It will sweep onward into Judah. It will overflow and pass through. It will reach even to the neck. The stretching out of its wings will fill the width of your land, O Immanuel. 
+<sup>8</sup> It will sweep onward into Judah. It will overflow and pass through. It will reach even to the neck. The stretching out of its wings will fill the width of your land, O Immanuel.
 
-<sup>9</sup> Make an uproar, you peoples, and be broken in pieces! Listen, all you from far countries: dress for battle, and be shattered! Dress for battle, and be shattered! 
+<sup>9</sup> Make an uproar, you peoples, and be broken in pieces! Listen, all you from far countries: dress for battle, and be shattered! Dress for battle, and be shattered!
 
-<sup>10</sup> Take counsel together, and it will be brought to nothing; speak the word, and it will not stand, for God is with us.” 
+<sup>10</sup> Take counsel together, and it will be brought to nothing; speak the word, and it will not stand, for God is with us.”
 
-<sup>11</sup> For Yahweh spoke this to me with a strong hand, and instructed me not to walk in the way of this people, saying, 
+<sup>11</sup> For Yahweh spoke this to me with a strong hand, and instructed me not to walk in the way of this people, saying,
 
-<sup>12</sup> “Don’t call a conspiracy all that this people call a conspiracy. Don’t fear their threats or be terrorized. 
+<sup>12</sup> “Don’t call a conspiracy all that this people call a conspiracy. Don’t fear their threats or be terrorized.
 
-<sup>13</sup> Yahweh of Armies is who you must respect as holy. He is the one you must fear. He is the one you must dread. 
+<sup>13</sup> Yahweh of Armies is who you must respect as holy. He is the one you must fear. He is the one you must dread.
 
-<sup>14</sup> He will be a sanctuary, but for both houses of Israel, he will be a stumbling stone and a rock that makes them fall. For the people of Jerusalem, he will be a trap and a snare. 
+<sup>14</sup> He will be a sanctuary, but for both houses of Israel, he will be a stumbling stone and a rock that makes them fall. For the people of Jerusalem, he will be a trap and a snare.
 
-<sup>15</sup> Many will stumble over it, fall, be broken, be snared, and be captured.” 
+<sup>15</sup> Many will stumble over it, fall, be broken, be snared, and be captured.”
 
-<sup>16</sup> Wrap up the covenant. Seal the law among my disciples. 
+<sup>16</sup> Wrap up the covenant. Seal the law among my disciples.
 
-<sup>17</sup> I will wait for Yahweh, who hides his face from the house of Jacob, and I will look for him. 
+<sup>17</sup> I will wait for Yahweh, who hides his face from the house of Jacob, and I will look for him.
 
-<sup>18</sup> Behold, I and the children whom Yahweh has given me are for signs and for wonders in Israel from Yahweh of Armies, who dwells in Mount Zion. 
+<sup>18</sup> Behold, I and the children whom Yahweh has given me are for signs and for wonders in Israel from Yahweh of Armies, who dwells in Mount Zion.
 
-<sup>19</sup> When they tell you, “Consult with those who have familiar spirits and with the wizards, who chirp and who mutter,” shouldn’t a people consult with their God? Should they consult the dead on behalf of the living? 
+<sup>19</sup> When they tell you, “Consult with those who have familiar spirits and with the wizards, who chirp and who mutter,” shouldn’t a people consult with their God? Should they consult the dead on behalf of the living?
 
-<sup>20</sup> Turn to the law and to the covenant! If they don’t speak according to this word, surely there is no morning for them. 
+<sup>20</sup> Turn to the law and to the covenant! If they don’t speak according to this word, surely there is no morning for them.
 
-<sup>21</sup> They will pass through it, very distressed and hungry. It will happen that when they are hungry, they will worry, and curse their king and their God. They will turn their faces upward, 
+<sup>21</sup> They will pass through it, very distressed and hungry. It will happen that when they are hungry, they will worry, and curse their king and their God. They will turn their faces upward,
 
-<sup>22</sup> then look to the earth and see distress, darkness, and the gloom of anguish. They will be driven into thick darkness. 
+<sup>22</sup> then look to the earth and see distress, darkness, and the gloom of anguish. They will be driven into thick darkness.
 
-
+[^501]: 8:1 “Maher Shalal Hash Baz” means “quick to the plunder, swift to the prey”.

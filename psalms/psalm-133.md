@@ -4,10 +4,10 @@ weight: 133
 
 # Psalm 133
 
-<sup>1</sup> A Song of Ascents. By David. See how good and how pleasant it is for brothers to live together in unity! 
+A Song of Ascents. By David.
 
-<sup>2</sup> It is like the precious oil on the head, that ran down on the beard, even Aaron’s beard, that came down on the edge of his robes, 
+<sup>1</sup> See how good and how pleasant it is for brothers to live together in unity!
 
-<sup>3</sup> like the dew of Hermon, that comes down on the hills of Zion; for there Yahweh gives the blessing, even life forever more. 
+<sup>2</sup> It is like the precious oil on the head, that ran down on the beard, even Aaron’s beard, that came down on the edge of his robes,
 
-
+<sup>3</sup> like the dew of Hermon, that comes down on the hills of Zion; for there Yahweh gives the blessing, even life forever more.

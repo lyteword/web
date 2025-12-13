@@ -4,40 +4,38 @@ weight: 31
 
 # Chapter 31
 
-<sup>1</sup> Yahweh spoke to Moses, saying, 
+<sup>1</sup> Yahweh spoke to Moses, saying,
 
-<sup>2</sup> “Behold, I have called by name Bezalel the son of Uri, the son of Hur, of the tribe of Judah. 
+<sup>2</sup> “Behold, I have called by name Bezalel the son of Uri, the son of Hur, of the tribe of Judah.
 
-<sup>3</sup> I have filled him with the Spirit of God, in wisdom, and in understanding, and in knowledge, and in all kinds of workmanship, 
+<sup>3</sup> I have filled him with the Spirit of God, in wisdom, and in understanding, and in knowledge, and in all kinds of workmanship,
 
-<sup>4</sup> to devise skillful works, to work in gold, and in silver, and in bronze, 
+<sup>4</sup> to devise skillful works, to work in gold, and in silver, and in bronze,
 
-<sup>5</sup> and in cutting of stones for setting, and in carving of wood, to work in all kinds of workmanship. 
+<sup>5</sup> and in cutting of stones for setting, and in carving of wood, to work in all kinds of workmanship.
 
-<sup>6</sup> Behold, I myself have appointed with him Oholiab, the son of Ahisamach, of the tribe of Dan; and in the heart of all who are wise-hearted I have put wisdom, that they may make all that I have commanded you: 
+<sup>6</sup> Behold, I myself have appointed with him Oholiab, the son of Ahisamach, of the tribe of Dan; and in the heart of all who are wise-hearted I have put wisdom, that they may make all that I have commanded you:
 
-<sup>7</sup> the Tent of Meeting, the ark of the covenant, the mercy seat that is on it, all the furniture of the Tent, 
+<sup>7</sup> the Tent of Meeting, the ark of the covenant, the mercy seat that is on it, all the furniture of the Tent,
 
-<sup>8</sup> the table and its vessels, the pure lamp stand with all its vessels, the altar of incense, 
+<sup>8</sup> the table and its vessels, the pure lamp stand with all its vessels, the altar of incense,
 
-<sup>9</sup> the altar of burnt offering with all its vessels, the basin and its base, 
+<sup>9</sup> the altar of burnt offering with all its vessels, the basin and its base,
 
-<sup>10</sup> the finely worked garments—the holy garments for Aaron the priest, the garments of his sons to minister in the priest’s office— 
+<sup>10</sup> the finely worked garments—the holy garments for Aaron the priest, the garments of his sons to minister in the priest’s office—
 
-<sup>11</sup> the anointing oil, and the incense of sweet spices for the holy place: according to all that I have commanded you they shall do.” 
+<sup>11</sup> the anointing oil, and the incense of sweet spices for the holy place: according to all that I have commanded you they shall do.”
 
-<sup>12</sup> Yahweh spoke to Moses, saying, 
+<sup>12</sup> Yahweh spoke to Moses, saying,
 
-<sup>13</sup> “Speak also to the children of Israel, saying, ‘Most certainly you shall keep my Sabbaths; for it is a sign between me and you throughout your generations, that you may know that I am Yahweh who sanctifies you. 
+<sup>13</sup> “Speak also to the children of Israel, saying, ‘Most certainly you shall keep my Sabbaths; for it is a sign between me and you throughout your generations, that you may know that I am Yahweh who sanctifies you.
 
-<sup>14</sup> You shall keep the Sabbath therefore, for it is holy to you. Everyone who profanes it shall surely be put to death; for whoever does any work therein, that soul shall be cut off from among his people. 
+<sup>14</sup> You shall keep the Sabbath therefore, for it is holy to you. Everyone who profanes it shall surely be put to death; for whoever does any work therein, that soul shall be cut off from among his people.
 
-<sup>15</sup> Six days shall work be done, but on the seventh day is a Sabbath of solemn rest, holy to Yahweh. Whoever does any work on the Sabbath day shall surely be put to death. 
+<sup>15</sup> Six days shall work be done, but on the seventh day is a Sabbath of solemn rest, holy to Yahweh. Whoever does any work on the Sabbath day shall surely be put to death.
 
-<sup>16</sup> Therefore the children of Israel shall keep the Sabbath, to observe the Sabbath throughout their generations, for a perpetual covenant. 
+<sup>16</sup> Therefore the children of Israel shall keep the Sabbath, to observe the Sabbath throughout their generations, for a perpetual covenant.
 
-<sup>17</sup> It is a sign between me and the children of Israel forever; for in six days Yahweh made heaven and earth, and on the seventh day he rested, and was refreshed.’” 
+<sup>17</sup> It is a sign between me and the children of Israel forever; for in six days Yahweh made heaven and earth, and on the seventh day he rested, and was refreshed.’”
 
-<sup>18</sup> When he finished speaking with him on Mount Sinai, he gave Moses the two tablets of the covenant, stone tablets, written with God’s finger. 
-
-
+<sup>18</sup> When he finished speaking with him on Mount Sinai, he gave Moses the two tablets of the covenant, stone tablets, written with God’s finger.

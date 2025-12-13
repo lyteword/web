@@ -4,46 +4,46 @@ weight: 12
 
 # Chapter 12
 
-<sup>1</sup> Jehoash began to reign in the seventh year of Jehu, and he reigned forty years in Jerusalem. His mother’s name was Zibiah of Beersheba. 
+<sup>1</sup> Jehoash began to reign in the seventh year of Jehu, and he reigned forty years in Jerusalem. His mother’s name was Zibiah of Beersheba.
 
-<sup>2</sup> Jehoash did that which was right in Yahweh’s eyes all his days in which Jehoiada the priest instructed him. 
+<sup>2</sup> Jehoash did that which was right in Yahweh’s eyes all his days in which Jehoiada the priest instructed him.
 
-<sup>3</sup> However, the high places were not taken away. The people still sacrificed and burned incense in the high places. 
+<sup>3</sup> However, the high places were not taken away. The people still sacrificed and burned incense in the high places.
 
-<sup>4</sup> Jehoash said to the priests, “All the money of the holy things that is brought into Yahweh’s house, in current money, the money of the people for whom each man is evaluated, and all the money that it comes into any man’s heart to bring into Yahweh’s house, 
+<sup>4</sup> Jehoash said to the priests, “All the money of the holy things that is brought into Yahweh’s house, in current money, the money of the people for whom each man is evaluated,[^306] and all the money that it comes into any man’s heart to bring into Yahweh’s house,
 
-<sup>5</sup> let the priests take it to them, each man from his donor; and they shall repair the damage to the house, wherever any damage is found.” 
+<sup>5</sup> let the priests take it to them, each man from his donor; and they shall repair the damage to the house, wherever any damage is found.”
 
-<sup>6</sup> But it was so, that in the twenty-third year of King Jehoash the priests had not repaired the damage to the house. 
+<sup>6</sup> But it was so, that in the twenty-third year of King Jehoash the priests had not repaired the damage to the house.
 
-<sup>7</sup> Then King Jehoash called for Jehoiada the priest, and for the other priests, and said to them, “Why aren’t you repairing the damage to the house? Now therefore take no more money from your treasurers, but deliver it for repair of the damage to the house.” 
+<sup>7</sup> Then King Jehoash called for Jehoiada the priest, and for the other priests, and said to them, “Why aren’t you repairing the damage to the house? Now therefore take no more money from your treasurers, but deliver it for repair of the damage to the house.”
 
-<sup>8</sup> The priests consented that they should take no more money from the people, and not repair the damage to the house. 
+<sup>8</sup> The priests consented that they should take no more money from the people, and not repair the damage to the house.
 
-<sup>9</sup> But Jehoiada the priest took a chest and bored a hole in its lid, and set it beside the altar, on the right side as one comes into Yahweh’s house; and the priests who kept the threshold put all the money that was brought into Yahweh’s house into it. 
+<sup>9</sup> But Jehoiada the priest took a chest and bored a hole in its lid, and set it beside the altar, on the right side as one comes into Yahweh’s house; and the priests who kept the threshold put all the money that was brought into Yahweh’s house into it.
 
-<sup>10</sup> When they saw that there was much money in the chest, the king’s scribe and the high priest came up, and they put it in bags and counted the money that was found in Yahweh’s house. 
+<sup>10</sup> When they saw that there was much money in the chest, the king’s scribe and the high priest came up, and they put it in bags and counted the money that was found in Yahweh’s house.
 
-<sup>11</sup> They gave the money that was weighed out into the hands of those who did the work, who had the oversight of Yahweh’s house; and they paid it out to the carpenters and the builders who worked on Yahweh’s house, 
+<sup>11</sup> They gave the money that was weighed out into the hands of those who did the work, who had the oversight of Yahweh’s house; and they paid it out to the carpenters and the builders who worked on Yahweh’s house,
 
-<sup>12</sup> and to the masons and the stone cutters, and for buying timber and cut stone to repair the damage to Yahweh’s house, and for all that was laid out for the house to repair it. 
+<sup>12</sup> and to the masons and the stone cutters, and for buying timber and cut stone to repair the damage to Yahweh’s house, and for all that was laid out for the house to repair it.
 
-<sup>13</sup> But there were not made for Yahweh’s house cups of silver, snuffers, basins, trumpets, any vessels of gold or vessels of silver, of the money that was brought into Yahweh’s house; 
+<sup>13</sup> But there were not made for Yahweh’s house cups of silver, snuffers, basins, trumpets, any vessels of gold or vessels of silver, of the money that was brought into Yahweh’s house;
 
-<sup>14</sup> for they gave that to those who did the work, and repaired Yahweh’s house with it. 
+<sup>14</sup> for they gave that to those who did the work, and repaired Yahweh’s house with it.
 
-<sup>15</sup> Moreover they didn’t demand an accounting from the men into whose hand they delivered the money to give to those who did the work; for they dealt faithfully. 
+<sup>15</sup> Moreover they didn’t demand an accounting from the men into whose hand they delivered the money to give to those who did the work; for they dealt faithfully.
 
-<sup>16</sup> The money for the trespass offerings and the money for the sin offerings was not brought into Yahweh’s house. It was the priests’. 
+<sup>16</sup> The money for the trespass offerings and the money for the sin offerings was not brought into Yahweh’s house. It was the priests’.
 
-<sup>17</sup> Then Hazael king of Syria went up and fought against Gath, and took it; and Hazael set his face to go up to Jerusalem. 
+<sup>17</sup> Then Hazael king of Syria went up and fought against Gath, and took it; and Hazael set his face to go up to Jerusalem.
 
-<sup>18</sup> Jehoash king of Judah took all the holy things that Jehoshaphat and Jehoram and Ahaziah, his fathers, kings of Judah, had dedicated, and his own holy things, and all the gold that was found in the treasures of Yahweh’s house, and of the king’s house, and sent it to Hazael king of Syria; and he went away from Jerusalem. 
+<sup>18</sup> Jehoash king of Judah took all the holy things that Jehoshaphat and Jehoram and Ahaziah, his fathers, kings of Judah, had dedicated, and his own holy things, and all the gold that was found in the treasures of Yahweh’s house, and of the king’s house, and sent it to Hazael king of Syria; and he went away from Jerusalem.
 
-<sup>19</sup> Now the rest of the acts of Joash, and all that he did, aren’t they written in the book of the chronicles of the kings of Judah? 
+<sup>19</sup> Now the rest of the acts of Joash, and all that he did, aren’t they written in the book of the chronicles of the kings of Judah?
 
-<sup>20</sup> His servants arose and made a conspiracy, and struck Joash at the house of Millo, on the way that goes down to Silla. 
+<sup>20</sup> His servants arose and made a conspiracy, and struck Joash at the house of Millo, on the way that goes down to Silla.
 
-<sup>21</sup> For Jozacar the son of Shimeath, and Jehozabad the son of Shomer, his servants, struck him, and he died; and they buried him with his fathers in David’s city; and Amaziah his son reigned in his place. 
+<sup>21</sup> For Jozacar the son of Shimeath, and Jehozabad the son of Shomer, his servants, struck him, and he died; and they buried him with his fathers in David’s city; and Amaziah his son reigned in his place.
 
-
+[^306]: 12:4 Exodus 30:12

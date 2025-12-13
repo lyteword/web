@@ -4,48 +4,50 @@ weight: 1
 
 # Chapter 1
 
-<sup>1</sup> There was a man in the land of Uz, whose name was Job. That man was blameless and upright, and one who feared God, and turned away from evil. 
+<sup>1</sup> There was a man in the land of Uz, whose name was Job. That man was blameless and upright, and one who feared God,[^401] and turned away from evil.
 
-<sup>2</sup> There were born to him seven sons and three daughters. 
+<sup>2</sup> There were born to him seven sons and three daughters.
 
-<sup>3</sup> His possessions also were seven thousand sheep, three thousand camels, five hundred yoke of oxen, five hundred female donkeys, and a very great household; so that this man was the greatest of all the children of the east. 
+<sup>3</sup> His possessions also were seven thousand sheep, three thousand camels, five hundred yoke of oxen, five hundred female donkeys, and a very great household; so that this man was the greatest of all the children of the east.
 
-<sup>4</sup> His sons went and held a feast in the house of each one on his birthday; and they sent and called for their three sisters to eat and to drink with them. 
+<sup>4</sup> His sons went and held a feast in the house of each one on his birthday; and they sent and called for their three sisters to eat and to drink with them.
 
-<sup>5</sup> It was so, when the days of their feasting had run their course, that Job sent and sanctified them, and rose up early in the morning, and offered burnt offerings according to the number of them all. For Job said, “It may be that my sons have sinned, and renounced God in their hearts.” Job did so continually. 
+<sup>5</sup> It was so, when the days of their feasting had run their course, that Job sent and sanctified them, and rose up early in the morning, and offered burnt offerings according to the number of them all. For Job said, “It may be that my sons have sinned, and renounced God in their hearts.” Job did so continually.
 
-<sup>6</sup> Now on the day when God’s sons came to present themselves before Yahweh, Satan also came among them. 
+<sup>6</sup> Now on the day when God’s sons came to present themselves before Yahweh,[^402] Satan also came among them.
 
-<sup>7</sup> Yahweh said to Satan, “Where have you come from?” Then Satan answered Yahweh, and said, “From going back and forth in the earth, and from walking up and down in it.” 
+<sup>7</sup> Yahweh said to Satan, “Where have you come from?” Then Satan answered Yahweh, and said, “From going back and forth in the earth, and from walking up and down in it.”
 
-<sup>8</sup> Yahweh said to Satan, “Have you considered my servant, Job? For there is no one like him in the earth, a blameless and an upright man, one who fears God, and turns away from evil.” 
+<sup>8</sup> Yahweh said to Satan, “Have you considered my servant, Job? For there is no one like him in the earth, a blameless and an upright man, one who fears God, and turns away from evil.”
 
-<sup>9</sup> Then Satan answered Yahweh, and said, “Does Job fear God for nothing? 
+<sup>9</sup> Then Satan answered Yahweh, and said, “Does Job fear God for nothing?
 
-<sup>10</sup> Haven’t you made a hedge around him, and around his house, and around all that he has, on every side? You have blessed the work of his hands, and his substance is increased in the land. 
+<sup>10</sup> Haven’t you made a hedge around him, and around his house, and around all that he has, on every side? You have blessed the work of his hands, and his substance is increased in the land.
 
-<sup>11</sup> But stretch out your hand now, and touch all that he has, and he will renounce you to your face.” 
+<sup>11</sup> But stretch out your hand now, and touch all that he has, and he will renounce you to your face.”
 
-<sup>12</sup> Yahweh said to Satan, “Behold, all that he has is in your power. Only on himself don’t stretch out your hand.” So Satan went out from the presence of Yahweh. 
+<sup>12</sup> Yahweh said to Satan, “Behold,[^403] all that he has is in your power. Only on himself don’t stretch out your hand.” So Satan went out from the presence of Yahweh.
 
-<sup>13</sup> It fell on a day when his sons and his daughters were eating and drinking wine in their oldest brother’s house, 
+<sup>13</sup> It fell on a day when his sons and his daughters were eating and drinking wine in their oldest brother’s house,
 
-<sup>14</sup> that a messenger came to Job, and said, “The oxen were plowing, and the donkeys feeding beside them, 
+<sup>14</sup> that a messenger came to Job, and said, “The oxen were plowing, and the donkeys feeding beside them,
 
-<sup>15</sup> and the Sabeans attacked, and took them away. Yes, they have killed the servants with the edge of the sword, and I alone have escaped to tell you.” 
+<sup>15</sup> and the Sabeans attacked, and took them away. Yes, they have killed the servants with the edge of the sword, and I alone have escaped to tell you.”
 
-<sup>16</sup> While he was still speaking, another also came and said, “The fire of God has fallen from the sky, and has burned up the sheep and the servants, and consumed them, and I alone have escaped to tell you.” 
+<sup>16</sup> While he was still speaking, another also came and said, “The fire of God has fallen from the sky, and has burned up the sheep and the servants, and consumed them, and I alone have escaped to tell you.”
 
-<sup>17</sup> While he was still speaking, another also came and said, “The Chaldeans made three bands, and swept down on the camels, and have taken them away, yes, and killed the servants with the edge of the sword; and I alone have escaped to tell you.” 
+<sup>17</sup> While he was still speaking, another also came and said, “The Chaldeans made three bands, and swept down on the camels, and have taken them away, yes, and killed the servants with the edge of the sword; and I alone have escaped to tell you.”
 
-<sup>18</sup> While he was still speaking, there came also another, and said, “Your sons and your daughters were eating and drinking wine in their oldest brother’s house, 
+<sup>18</sup> While he was still speaking, there came also another, and said, “Your sons and your daughters were eating and drinking wine in their oldest brother’s house,
 
-<sup>19</sup> and behold, there came a great wind from the wilderness, and struck the four corners of the house, and it fell on the young men, and they are dead. I alone have escaped to tell you.” 
+<sup>19</sup> and behold, there came a great wind from the wilderness, and struck the four corners of the house, and it fell on the young men, and they are dead. I alone have escaped to tell you.”
 
-<sup>20</sup> Then Job arose, and tore his robe, and shaved his head, and fell down on the ground, and worshiped. 
+<sup>20</sup> Then Job arose, and tore his robe, and shaved his head, and fell down on the ground, and worshiped.
 
-<sup>21</sup> He said, “Naked I came out of my mother’s womb, and naked will I return there. Yahweh gave, and Yahweh has taken away. Blessed be Yahweh’s name.” 
+<sup>21</sup> He said, “Naked I came out of my mother’s womb, and naked will I return there. Yahweh gave, and Yahweh has taken away. Blessed be Yahweh’s name.”
 
-<sup>22</sup> In all this, Job didn’t sin, nor charge God with wrongdoing. 
+<sup>22</sup> In all this, Job didn’t sin, nor charge God with wrongdoing.
 
-
+[^401]: 1:1 The Hebrew word rendered “God” is “ אֱלֹהִ֑ים” (Elohim).
+[^402]: 1:6 “Yahweh” is God’s proper Name, sometimes rendered “LORD” (all caps) in other translations.
+[^403]: 1:12 “Behold”, from “ הִנֵּה”, means look at, take notice, observe, see, or gaze at. It is often used as an interjection.

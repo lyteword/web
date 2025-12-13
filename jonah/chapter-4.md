@@ -4,25 +4,24 @@ weight: 4
 
 # Chapter 4
 
-<sup>1</sup> But it displeased Jonah exceedingly, and he was angry. 
+<sup>1</sup> But it displeased Jonah exceedingly, and he was angry.
 
-<sup>2</sup> He prayed to Yahweh, and said, “Please, Yahweh, wasn’t this what I said when I was still in my own country? Therefore I hurried to flee to Tarshish, for I knew that you are a gracious God and merciful, slow to anger, and abundant in loving kindness, and you relent of doing harm. 
+<sup>2</sup> He prayed to Yahweh, and said, “Please, Yahweh, wasn’t this what I said when I was still in my own country? Therefore I hurried to flee to Tarshish, for I knew that you are a gracious God and merciful, slow to anger, and abundant in loving kindness, and you relent of doing harm.
 
-<sup>3</sup> Therefore now, Yahweh, take, I beg you, my life from me, for it is better for me to die than to live.” 
+<sup>3</sup> Therefore now, Yahweh, take, I beg you, my life from me, for it is better for me to die than to live.”
 
-<sup>4</sup> Yahweh said, “Is it right for you to be angry?” 
+<sup>4</sup> Yahweh said, “Is it right for you to be angry?”
 
-<sup>5</sup> Then Jonah went out of the city and sat on the east side of the city, and there made himself a booth and sat under it in the shade, until he might see what would become of the city. 
+<sup>5</sup> Then Jonah went out of the city and sat on the east side of the city, and there made himself a booth and sat under it in the shade, until he might see what would become of the city.
 
-<sup>6</sup> Yahweh God prepared a vine and made it to come up over Jonah, that it might be a shade over his head to deliver him from his discomfort. So Jonah was exceedingly glad because of the vine. 
+<sup>6</sup> Yahweh God prepared a vine and made it to come up over Jonah, that it might be a shade over his head to deliver him from his discomfort. So Jonah was exceedingly glad because of the vine.
 
-<sup>7</sup> But God prepared a worm at dawn the next day, and it chewed on the vine so that it withered. 
+<sup>7</sup> But God prepared a worm at dawn the next day, and it chewed on the vine so that it withered.
 
-<sup>8</sup> When the sun arose, God prepared a sultry east wind; and the sun beat on Jonah’s head, so that he was faint and requested for himself that he might die. He said, “It is better for me to die than to live.” 
+<sup>8</sup> When the sun arose, God prepared a sultry east wind; and the sun beat on Jonah’s head, so that he was faint and requested for himself that he might die. He said, “It is better for me to die than to live.”
 
-<sup>9</sup> God said to Jonah, “Is it right for you to be angry about the vine?” He said, “I am right to be angry, even to death.” 
+<sup>9</sup> God said to Jonah, “Is it right for you to be angry about the vine?” He said, “I am right to be angry, even to death.”
 
-<sup>10</sup> Yahweh said, “You have been concerned for the vine, for which you have not labored, neither made it grow; which came up in a night and perished in a night. 
+<sup>10</sup> Yahweh said, “You have been concerned for the vine, for which you have not labored, neither made it grow; which came up in a night and perished in a night.
 
-<sup>11</sup> Shouldn’t I be concerned for Nineveh, that great city, in which are more than one hundred twenty thousand persons who can’t discern between their right hand and their left hand, and also many animals?” 
-
+<sup>11</sup> Shouldn’t I be concerned for Nineveh, that great city, in which are more than one hundred twenty thousand persons who can’t discern between their right hand and their left hand, and also many animals?”

@@ -4,50 +4,48 @@ weight: 33
 
 # Chapter 33
 
-<sup>1</sup> Yahweh spoke to Moses, “Depart, go up from here, you and the people that you have brought up out of the land of Egypt, to the land of which I swore to Abraham, to Isaac, and to Jacob, saying, ‘I will give it to your offspring.’ 
+<sup>1</sup> Yahweh spoke to Moses, “Depart, go up from here, you and the people that you have brought up out of the land of Egypt, to the land of which I swore to Abraham, to Isaac, and to Jacob, saying, ‘I will give it to your offspring.’
 
-<sup>2</sup> I will send an angel before you; and I will drive out the Canaanite, the Amorite, and the Hittite, and the Perizzite, the Hivite, and the Jebusite. 
+<sup>2</sup> I will send an angel before you; and I will drive out the Canaanite, the Amorite, and the Hittite, and the Perizzite, the Hivite, and the Jebusite.
 
-<sup>3</sup> Go to a land flowing with milk and honey; but I will not go up among you, for you are a stiff-necked people, lest I consume you on the way.” 
+<sup>3</sup> Go to a land flowing with milk and honey; but I will not go up among you, for you are a stiff-necked people, lest I consume you on the way.”
 
-<sup>4</sup> When the people heard this evil news, they mourned; and no one put on his jewelry. 
+<sup>4</sup> When the people heard this evil news, they mourned; and no one put on his jewelry.
 
-<sup>5</sup> Yahweh had said to Moses, “Tell the children of Israel, ‘You are a stiff-necked people. If I were to go up among you for one moment, I would consume you. Therefore now take off your jewelry from you, that I may know what to do to you.’” 
+<sup>5</sup> Yahweh had said to Moses, “Tell the children of Israel, ‘You are a stiff-necked people. If I were to go up among you for one moment, I would consume you. Therefore now take off your jewelry from you, that I may know what to do to you.’”
 
-<sup>6</sup> The children of Israel stripped themselves of their jewelry from Mount Horeb onward. 
+<sup>6</sup> The children of Israel stripped themselves of their jewelry from Mount Horeb onward.
 
-<sup>7</sup> Now Moses used to take the tent and pitch it outside the camp, far away from the camp, and he called it “The Tent of Meeting.” Everyone who sought Yahweh went out to the Tent of Meeting, which was outside the camp. 
+<sup>7</sup> Now Moses used to take the tent and pitch it outside the camp, far away from the camp, and he called it “The Tent of Meeting.” Everyone who sought Yahweh went out to the Tent of Meeting, which was outside the camp.
 
-<sup>8</sup> When Moses went out to the Tent, all the people rose up, and stood, everyone at their tent door, and watched Moses, until he had gone into the Tent. 
+<sup>8</sup> When Moses went out to the Tent, all the people rose up, and stood, everyone at their tent door, and watched Moses, until he had gone into the Tent.
 
-<sup>9</sup> When Moses entered into the Tent, the pillar of cloud descended, stood at the door of the Tent, and Yahweh spoke with Moses. 
+<sup>9</sup> When Moses entered into the Tent, the pillar of cloud descended, stood at the door of the Tent, and Yahweh spoke with Moses.
 
-<sup>10</sup> All the people saw the pillar of cloud stand at the door of the Tent, and all the people rose up and worshiped, everyone at their tent door. 
+<sup>10</sup> All the people saw the pillar of cloud stand at the door of the Tent, and all the people rose up and worshiped, everyone at their tent door.
 
-<sup>11</sup> Yahweh spoke to Moses face to face, as a man speaks to his friend. He turned again into the camp, but his servant Joshua, the son of Nun, a young man, didn’t depart from the Tent. 
+<sup>11</sup> Yahweh spoke to Moses face to face, as a man speaks to his friend. He turned again into the camp, but his servant Joshua, the son of Nun, a young man, didn’t depart from the Tent.
 
-<sup>12</sup> Moses said to Yahweh, “Behold, you tell me, ‘Bring up this people;’ and you haven’t let me know whom you will send with me. Yet you have said, ‘I know you by name, and you have also found favor in my sight.’ 
+<sup>12</sup> Moses said to Yahweh, “Behold, you tell me, ‘Bring up this people;’ and you haven’t let me know whom you will send with me. Yet you have said, ‘I know you by name, and you have also found favor in my sight.’
 
-<sup>13</sup> Now therefore, if I have found favor in your sight, please show me your way, now, that I may know you, so that I may find favor in your sight; and consider that this nation is your people.” 
+<sup>13</sup> Now therefore, if I have found favor in your sight, please show me your way, now, that I may know you, so that I may find favor in your sight; and consider that this nation is your people.”
 
-<sup>14</sup> He said, “My presence will go with you, and I will give you rest.” 
+<sup>14</sup> He said, “My presence will go with you, and I will give you rest.”
 
-<sup>15</sup> Moses said to him, “If your presence doesn’t go with me, don’t carry us up from here. 
+<sup>15</sup> Moses said to him, “If your presence doesn’t go with me, don’t carry us up from here.
 
-<sup>16</sup> For how would people know that I have found favor in your sight, I and your people? Isn’t it that you go with us, so that we are separated, I and your people, from all the people who are on the surface of the earth?” 
+<sup>16</sup> For how would people know that I have found favor in your sight, I and your people? Isn’t it that you go with us, so that we are separated, I and your people, from all the people who are on the surface of the earth?”
 
-<sup>17</sup> Yahweh said to Moses, “I will do this thing also that you have spoken; for you have found favor in my sight, and I know you by name.” 
+<sup>17</sup> Yahweh said to Moses, “I will do this thing also that you have spoken; for you have found favor in my sight, and I know you by name.”
 
-<sup>18</sup> Moses said, “Please show me your glory.” 
+<sup>18</sup> Moses said, “Please show me your glory.”
 
-<sup>19</sup> He said, “I will make all my goodness pass before you, and will proclaim Yahweh’s name before you. I will be gracious to whom I will be gracious, and will show mercy on whom I will show mercy.” 
+<sup>19</sup> He said, “I will make all my goodness pass before you, and will proclaim Yahweh’s name before you. I will be gracious to whom I will be gracious, and will show mercy on whom I will show mercy.”
 
-<sup>20</sup> He said, “You cannot see my face, for man may not see me and live.” 
+<sup>20</sup> He said, “You cannot see my face, for man may not see me and live.”
 
-<sup>21</sup> Yahweh also said, “Behold, there is a place by me, and you shall stand on the rock. 
+<sup>21</sup> Yahweh also said, “Behold, there is a place by me, and you shall stand on the rock.
 
-<sup>22</sup> It will happen, while my glory passes by, that I will put you in a cleft of the rock, and will cover you with my hand until I have passed by; 
+<sup>22</sup> It will happen, while my glory passes by, that I will put you in a cleft of the rock, and will cover you with my hand until I have passed by;
 
-<sup>23</sup> then I will take away my hand, and you will see my back; but my face shall not be seen.” 
-
-
+<sup>23</sup> then I will take away my hand, and you will see my back; but my face shall not be seen.”

@@ -4,46 +4,46 @@ weight: 10
 
 # Chapter 10
 
-<sup>1</sup> In the third year of Cyrus king of Persia a message was revealed to Daniel, whose name was called Belteshazzar; and the message was true, even a great warfare. He understood the message, and had understanding of the vision. 
+<sup>1</sup> In the third year of Cyrus king of Persia a message was revealed to Daniel, whose name was called Belteshazzar; and the message was true, even a great warfare. He understood the message, and had understanding of the vision.
 
-<sup>2</sup> In those days I, Daniel, was mourning three whole weeks. 
+<sup>2</sup> In those days I, Daniel, was mourning three whole weeks.
 
-<sup>3</sup> I ate no pleasant food. No meat or wine came into my mouth. I didn’t anoint myself at all, until three whole weeks were fulfilled. 
+<sup>3</sup> I ate no pleasant food. No meat or wine came into my mouth. I didn’t anoint myself at all, until three whole weeks were fulfilled.
 
-<sup>4</sup> In the twenty-fourth day of the first month, as I was by the side of the great river, which is Hiddekel, 
+<sup>4</sup> In the twenty-fourth day of the first month, as I was by the side of the great river, which is Hiddekel,[^580]
 
-<sup>5</sup> I lifted up my eyes and looked, and behold, there was a man clothed in linen, whose waist was adorned with pure gold of Uphaz. 
+<sup>5</sup> I lifted up my eyes and looked, and behold, there was a man clothed in linen, whose waist was adorned with pure gold of Uphaz.
 
-<sup>6</sup> His body also was like beryl, and his face as the appearance of lightning, and his eyes as flaming torches. His arms and his feet were like burnished bronze. The voice of his words was like the voice of a multitude. 
+<sup>6</sup> His body also was like beryl, and his face as the appearance of lightning, and his eyes as flaming torches. His arms and his feet were like burnished bronze. The voice of his words was like the voice of a multitude.
 
-<sup>7</sup> I, Daniel, alone saw the vision, for the men who were with me didn’t see the vision, but a great quaking fell on them, and they fled to hide themselves. 
+<sup>7</sup> I, Daniel, alone saw the vision, for the men who were with me didn’t see the vision, but a great quaking fell on them, and they fled to hide themselves.
 
-<sup>8</sup> So I was left alone and saw this great vision. No strength remained in me; for my face grew deathly pale, and I retained no strength. 
+<sup>8</sup> So I was left alone and saw this great vision. No strength remained in me; for my face grew deathly pale, and I retained no strength.
 
-<sup>9</sup> Yet I heard the voice of his words. When I heard the voice of his words, then I fell into a deep sleep on my face, with my face toward the ground. 
+<sup>9</sup> Yet I heard the voice of his words. When I heard the voice of his words, then I fell into a deep sleep on my face, with my face toward the ground.
 
-<sup>10</sup> Behold, a hand touched me, which set me on my knees and on the palms of my hands. 
+<sup>10</sup> Behold, a hand touched me, which set me on my knees and on the palms of my hands.
 
-<sup>11</sup> He said to me, “Daniel, you greatly beloved man, understand the words that I speak to you, and stand upright, for I have been sent to you, now.” When he had spoken this word to me, I stood trembling. 
+<sup>11</sup> He said to me, “Daniel, you greatly beloved man, understand the words that I speak to you, and stand upright, for I have been sent to you, now.” When he had spoken this word to me, I stood trembling.
 
-<sup>12</sup> Then he said to me, “Don’t be afraid, Daniel; for from the first day that you set your heart to understand, and to humble yourself before your God, your words were heard. I have come for your words’ sake. 
+<sup>12</sup> Then he said to me, “Don’t be afraid, Daniel; for from the first day that you set your heart to understand, and to humble yourself before your God, your words were heard. I have come for your words’ sake.
 
-<sup>13</sup> But the prince of the kingdom of Persia withstood me twenty-one days; but, behold, Michael, one of the chief princes, came to help me because I remained there with the kings of Persia. 
+<sup>13</sup> But the prince of the kingdom of Persia withstood me twenty-one days; but, behold, Michael, one of the chief princes, came to help me because I remained there with the kings of Persia.
 
-<sup>14</sup> Now I have come to make you understand what will happen to your people in the latter days, for the vision is yet for many days.” 
+<sup>14</sup> Now I have come to make you understand what will happen to your people in the latter days, for the vision is yet for many days.”
 
-<sup>15</sup> When he had spoken these words to me, I set my face toward the ground and was mute. 
+<sup>15</sup> When he had spoken these words to me, I set my face toward the ground and was mute.
 
-<sup>16</sup> Behold, one in the likeness of the sons of men touched my lips. Then I opened my mouth, and spoke and said to him who stood before me, “My lord, by reason of the vision my sorrows have overtaken me, and I retain no strength. 
+<sup>16</sup> Behold, one in the likeness of the sons of men touched my lips. Then I opened my mouth, and spoke and said to him who stood before me, “My lord, by reason of the vision my sorrows have overtaken me, and I retain no strength.
 
-<sup>17</sup> For how can the servant of this my lord talk with this my lord? For as for me, immediately there remained no strength in me. There was no breath left in me.” 
+<sup>17</sup> For how can the servant of this my lord talk with this my lord? For as for me, immediately there remained no strength in me. There was no breath left in me.”
 
-<sup>18</sup> Then one like the appearance of a man touched me again, and he strengthened me. 
+<sup>18</sup> Then one like the appearance of a man touched me again, and he strengthened me.
 
-<sup>19</sup> He said, “Greatly beloved man, don’t be afraid. Peace be to you. Be strong. Yes, be strong.” When he spoke to me, I was strengthened, and said, “Let my lord speak, for you have strengthened me.” 
+<sup>19</sup> He said, “Greatly beloved man, don’t be afraid. Peace be to you. Be strong. Yes, be strong.” When he spoke to me, I was strengthened, and said, “Let my lord speak, for you have strengthened me.”
 
-<sup>20</sup> Then he said, “Do you know why I have come to you? Now I will return to fight with the prince of Persia. When I go out, behold, the prince of Greece will come. 
+<sup>20</sup> Then he said, “Do you know why I have come to you? Now I will return to fight with the prince of Persia. When I go out, behold, the prince of Greece will come.
 
-<sup>21</sup> But I will tell you that which is inscribed in the writing of truth. There is no one who holds with me against these but Michael your prince. 
+<sup>21</sup> But I will tell you that which is inscribed in the writing of truth. There is no one who holds with me against these but Michael your prince.
 
-
+[^580]: 10:4 or, Tigris River

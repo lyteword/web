@@ -4,66 +4,69 @@ weight: 20
 
 # Chapter 20
 
-<sup>1</sup> Now on the first day of the week, Mary Magdalene went early, while it was still dark, to the tomb, and saw that the stone had been taken away from the tomb. 
+<sup>1</sup> Now on the first day of the week, Mary Magdalene went early, while it was still dark, to the tomb, and saw that the stone had been taken away from the tomb.
 
-<sup>2</sup> Therefore she ran and came to Simon Peter and to the other disciple whom Jesus loved, and said to them, “They have taken away the Lord out of the tomb, and we don’t know where they have laid him!” 
+<sup>2</sup> Therefore she ran and came to Simon Peter and to the other disciple whom Jesus loved, and said to them, “They have taken away the Lord out of the tomb, and we don’t know where they have laid him!”
 
-<sup>3</sup> Therefore Peter and the other disciple went out, and they went toward the tomb. 
+<sup>3</sup> Therefore Peter and the other disciple went out, and they went toward the tomb.
 
-<sup>4</sup> They both ran together. The other disciple outran Peter and came to the tomb first. 
+<sup>4</sup> They both ran together. The other disciple outran Peter and came to the tomb first.
 
-<sup>5</sup> Stooping and looking in, he saw the linen cloths lying there; yet he didn’t enter in. 
+<sup>5</sup> Stooping and looking in, he saw the linen cloths lying there; yet he didn’t enter in.
 
-<sup>6</sup> Then Simon Peter came, following him, and entered into the tomb. He saw the linen cloths lying, 
+<sup>6</sup> Then Simon Peter came, following him, and entered into the tomb. He saw the linen cloths lying,
 
-<sup>7</sup> and the cloth that had been on his head, not lying with the linen cloths, but rolled up in a place by itself. 
+<sup>7</sup> and the cloth that had been on his head, not lying with the linen cloths, but rolled up in a place by itself.
 
-<sup>8</sup> So then the other disciple who came first to the tomb also entered in, and he saw and believed. 
+<sup>8</sup> So then the other disciple who came first to the tomb also entered in, and he saw and believed.
 
-<sup>9</sup> For as yet they didn’t know the Scripture, that he must rise from the dead. 
+<sup>9</sup> For as yet they didn’t know the Scripture, that he must rise from the dead.
 
-<sup>10</sup> So the disciples went away again to their own homes. 
+<sup>10</sup> So the disciples went away again to their own homes.
 
-<sup>11</sup> But Mary was standing outside at the tomb weeping. So as she wept, she stooped and looked into the tomb, 
+<sup>11</sup> But Mary was standing outside at the tomb weeping. So as she wept, she stooped and looked into the tomb,
 
-<sup>12</sup> and she saw two angels in white sitting, one at the head and one at the feet, where the body of Jesus had lain. 
+<sup>12</sup> and she saw two angels in white sitting, one at the head and one at the feet, where the body of Jesus had lain.
 
-<sup>13</sup> They asked her, “Woman, why are you weeping?” She said to them, “Because they have taken away my Lord, and I don’t know where they have laid him.” 
+<sup>13</sup> They asked her, “Woman, why are you weeping?” She said to them, “Because they have taken away my Lord, and I don’t know where they have laid him.”
 
-<sup>14</sup> When she had said this, she turned around and saw Jesus standing, and didn’t know that it was Jesus. 
+<sup>14</sup> When she had said this, she turned around and saw Jesus standing, and didn’t know that it was Jesus.
 
-<sup>15</sup> Jesus said to her, “Woman, why are you weeping? Who are you looking for?” She, supposing him to be the gardener, said to him, “Sir, if you have carried him away, tell me where you have laid him, and I will take him away.” 
+<sup>15</sup> Jesus said to her,  “Woman, why are you weeping? Who are you looking for?” She, supposing him to be the gardener, said to him, “Sir, if you have carried him away, tell me where you have laid him, and I will take him away.”
 
-<sup>16</sup> Jesus said to her, “Mary.” She turned and said to him, “Rabboni!” which is to say, “Teacher!” 
+<sup>16</sup> Jesus said to her,  “Mary.” She turned and said to him, “Rabboni!”[^1010] which is to say, “Teacher!”[^1011]
 
-<sup>17</sup> Jesus said to her, “Don’t hold me, for I haven’t yet ascended to my Father; but go to my brothers and tell them, ‘I am ascending to my Father and your Father, to my God and your God.’” 
+<sup>17</sup> Jesus said to her,  “Don’t hold me, for I haven’t yet ascended to my Father; but go to my brothers and tell them, ‘I am ascending to my Father and your Father, to my God and your God.’”
 
-<sup>18</sup> Mary Magdalene came and told the disciples that she had seen the Lord, and that he had said these things to her. 
+<sup>18</sup> Mary Magdalene came and told the disciples that she had seen the Lord, and that he had said these things to her.
 
-<sup>19</sup> When therefore it was evening on that day, the first day of the week, and when the doors were locked where the disciples were assembled, for fear of the Jews, Jesus came and stood in the middle and said to them, “Peace be to you.” 
+<sup>19</sup> When therefore it was evening on that day, the first day of the week, and when the doors were locked where the disciples were assembled, for fear of the Jews, Jesus came and stood in the middle and said to them,  “Peace be to you.”
 
-<sup>20</sup> When he had said this, he showed them his hands and his side. The disciples therefore were glad when they saw the Lord. 
+<sup>20</sup> When he had said this, he showed them his hands and his side. The disciples therefore were glad when they saw the Lord.
 
-<sup>21</sup> Jesus therefore said to them again, “Peace be to you. As the Father has sent me, even so I send you.” 
+<sup>21</sup> Jesus therefore said to them again,  “Peace be to you. As the Father has sent me, even so I send you.”
 
-<sup>22</sup> When he had said this, he breathed on them, and said to them, “Receive the Holy Spirit! 
+<sup>22</sup> When he had said this, he breathed on them, and said to them,  “Receive the Holy Spirit!
 
-<sup>23</sup> If you forgive anyone’s sins, they have been forgiven them. If you retain anyone’s sins, they have been retained.” 
+<sup>23</sup>  If you forgive anyone’s sins, they have been forgiven them. If you retain anyone’s sins, they have been retained.”
 
-<sup>24</sup> But Thomas, one of the twelve, called Didymus, wasn’t with them when Jesus came. 
+<sup>24</sup> But Thomas, one of the twelve, called Didymus,[^1012] wasn’t with them when Jesus came.
 
-<sup>25</sup> The other disciples therefore said to him, “We have seen the Lord!” But he said to them, “Unless I see in his hands the print of the nails, put my finger into the print of the nails, and put my hand into his side, I will not believe.” 
+<sup>25</sup> The other disciples therefore said to him, “We have seen the Lord!” But he said to them, “Unless I see in his hands the print of the nails, put my finger into the print of the nails, and put my hand into his side, I will not believe.”
 
-<sup>26</sup> After eight days, again his disciples were inside and Thomas was with them. Jesus came, the doors being locked, and stood in the middle, and said, “Peace be to you.” 
+<sup>26</sup> After eight days, again his disciples were inside and Thomas was with them. Jesus came, the doors being locked, and stood in the middle, and said,  “Peace be to you.”
 
-<sup>27</sup> Then he said to Thomas, “Reach here your finger, and see my hands. Reach here your hand, and put it into my side. Don’t be unbelieving, but believing.” 
+<sup>27</sup> Then he said to Thomas,  “Reach here your finger, and see my hands. Reach here your hand, and put it into my side. Don’t be unbelieving, but believing.”
 
-<sup>28</sup> Thomas answered him, “My Lord and my God!” 
+<sup>28</sup> Thomas answered him, “My Lord and my God!”
 
-<sup>29</sup> Jesus said to him, “Because you have seen me, you have believed. Blessed are those who have not seen and have believed.” 
+<sup>29</sup> Jesus said to him,  “Because you have seen me,[^1013]  you have believed. Blessed are those who have not seen and have believed.”
 
-<sup>30</sup> Therefore Jesus did many other signs in the presence of his disciples, which are not written in this book; 
+<sup>30</sup> Therefore Jesus did many other signs in the presence of his disciples, which are not written in this book;
 
-<sup>31</sup> but these are written that you may believe that Jesus is the Christ, the Son of God, and that believing you may have life in his name. 
+<sup>31</sup> but these are written that you may believe that Jesus is the Christ, the Son of God, and that believing you may have life in his name.
 
-
+[^1010]: 20:16 Rabboni is a transliteration of the Hebrew word for “great teacher.”
+[^1011]: 20:16 or, Master
+[^1012]: 20:24 or, Twin
+[^1013]: 20:29 TR adds “Thomas,”
