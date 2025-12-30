@@ -4,56 +4,56 @@ weight: 7
 
 # Chapter 7
 
-<sup>1</sup> Moreover Yahweh’s word came to me, saying,
+**¹** Moreover Yahweh’s word came to me, saying,
 
-<sup>2</sup> “You, son of man, the Lord Yahweh says to the land of Israel, ‘An end! The end has come on the four corners of the land.
+**²** “You, son of man, the Lord Yahweh says to the land of Israel, ‘An end! The end has come on the four corners of the land.
 
-<sup>3</sup> Now the end is on you, and I will send my anger on you, and will judge you according to your ways. I will bring on you all your abominations.
+**³** Now the end is on you, and I will send my anger on you, and will judge you according to your ways. I will bring on you all your abominations.
 
-<sup>4</sup> My eye will not spare you, neither will I have pity; but I will bring your ways on you, and your abominations will be among you. Then you will know that I am Yahweh.’
+**⁴** My eye will not spare you, neither will I have pity; but I will bring your ways on you, and your abominations will be among you. Then you will know that I am Yahweh.’
 
-<sup>5</sup> “The Lord Yahweh says: ‘A disaster! A unique disaster! Behold, it comes.
+**⁵** “The Lord Yahweh says: ‘A disaster! A unique disaster! Behold, it comes.
 
-<sup>6</sup> An end has come. The end has come! It awakes against you. Behold, it comes.
+**⁶** An end has come. The end has come! It awakes against you. Behold, it comes.
 
-<sup>7</sup> Your doom has come to you, inhabitant of the land! The time has come! The day is near, a day of tumult, and not of joyful shouting, on the mountains.
+**⁷** Your doom has come to you, inhabitant of the land! The time has come! The day is near, a day of tumult, and not of joyful shouting, on the mountains.
 
-<sup>8</sup> Now I will shortly pour out my wrath on you, and accomplish my anger against you, and will judge you according to your ways. I will bring on you all your abominations.
+**⁸** Now I will shortly pour out my wrath on you, and accomplish my anger against you, and will judge you according to your ways. I will bring on you all your abominations.
 
-<sup>9</sup> My eye won’t spare, neither will I have pity. I will punish you according to your ways. Your abominations will be among you. Then you will know that I, Yahweh, strike.
+**⁹** My eye won’t spare, neither will I have pity. I will punish you according to your ways. Your abominations will be among you. Then you will know that I, Yahweh, strike.
 
-<sup>10</sup> “‘Behold, the day! Behold, it comes! Your doom has gone out. The rod has blossomed. Pride has budded.
+**¹⁰** “‘Behold, the day! Behold, it comes! Your doom has gone out. The rod has blossomed. Pride has budded.
 
-<sup>11</sup> Violence has risen up into a rod of wickedness. None of them will remain, nor of their multitude, nor of their wealth. There will be nothing of value among them.
+**¹¹** Violence has risen up into a rod of wickedness. None of them will remain, nor of their multitude, nor of their wealth. There will be nothing of value among them.
 
-<sup>12</sup> The time has come! The day draws near. Don’t let the buyer rejoice, nor the seller mourn; for wrath is on all its multitude.
+**¹²** The time has come! The day draws near. Don’t let the buyer rejoice, nor the seller mourn; for wrath is on all its multitude.
 
-<sup>13</sup> For the seller won’t return to that which is sold, although they are still alive; for the vision concerns the whole multitude of it. None will return. None will strengthen himself in the iniquity of his life.
+**¹³** For the seller won’t return to that which is sold, although they are still alive; for the vision concerns the whole multitude of it. None will return. None will strengthen himself in the iniquity of his life.
 
-<sup>14</sup> They have blown the trumpet, and have made all ready; but no one goes to the battle, for my wrath is on all its multitude.
+**¹⁴** They have blown the trumpet, and have made all ready; but no one goes to the battle, for my wrath is on all its multitude.
 
-<sup>15</sup> “‘The sword is outside, and the pestilence and the famine within. He who is in the field will die by the sword. He who is in the city will be devoured by famine and pestilence.
+**¹⁵** “‘The sword is outside, and the pestilence and the famine within. He who is in the field will die by the sword. He who is in the city will be devoured by famine and pestilence.
 
-<sup>16</sup> But of those who escape, they will escape and will be on the mountains like doves of the valleys, all of them moaning, everyone in his iniquity.
+**¹⁶** But of those who escape, they will escape and will be on the mountains like doves of the valleys, all of them moaning, everyone in his iniquity.
 
-<sup>17</sup> All hands will be feeble, and all knees will be weak as water.
+**¹⁷** All hands will be feeble, and all knees will be weak as water.
 
-<sup>18</sup> They will also clothe themselves with sackcloth, and horror will cover them. Shame will be on all faces, and baldness on all their heads.
+**¹⁸** They will also clothe themselves with sackcloth, and horror will cover them. Shame will be on all faces, and baldness on all their heads.
 
-<sup>19</sup> They will cast their silver in the streets, and their gold will be as an unclean thing. Their silver and their gold won’t be able to deliver them in the day of Yahweh’s wrath. They won’t satisfy their souls or fill their bellies; because it has been the stumbling block of their iniquity.
+**¹⁹** They will cast their silver in the streets, and their gold will be as an unclean thing. Their silver and their gold won’t be able to deliver them in the day of Yahweh’s wrath. They won’t satisfy their souls or fill their bellies; because it has been the stumbling block of their iniquity.
 
-<sup>20</sup> As for the beauty of his ornament, he set it in majesty; but they made the images of their abominations and their detestable things therein. Therefore I have made it to them as an unclean thing.
+**²⁰** As for the beauty of his ornament, he set it in majesty; but they made the images of their abominations and their detestable things therein. Therefore I have made it to them as an unclean thing.
 
-<sup>21</sup> I will give it into the hands of the strangers for a prey, and to the wicked of the earth for a plunder; and they will profane it.
+**²¹** I will give it into the hands of the strangers for a prey, and to the wicked of the earth for a plunder; and they will profane it.
 
-<sup>22</sup> I will also turn my face from them, and they will profane my secret place. Robbers will enter into it, and profane it.
+**²²** I will also turn my face from them, and they will profane my secret place. Robbers will enter into it, and profane it.
 
-<sup>23</sup> “‘Make chains, for the land is full of bloody crimes, and the city is full of violence.
+**²³** “‘Make chains, for the land is full of bloody crimes, and the city is full of violence.
 
-<sup>24</sup> Therefore I will bring the worst of the nations, and they will possess their houses. I will also make the pride of the strong to cease. Their holy places will be profaned.
+**²⁴** Therefore I will bring the worst of the nations, and they will possess their houses. I will also make the pride of the strong to cease. Their holy places will be profaned.
 
-<sup>25</sup> Destruction comes! They will seek peace, and there will be none.
+**²⁵** Destruction comes! They will seek peace, and there will be none.
 
-<sup>26</sup> Mischief will come on mischief, and rumor will be on rumor. They will seek a vision of the prophet; but the law will perish from the priest, and counsel from the elders.
+**²⁶** Mischief will come on mischief, and rumor will be on rumor. They will seek a vision of the prophet; but the law will perish from the priest, and counsel from the elders.
 
-<sup>27</sup> The king will mourn, and the prince will be clothed with desolation. The hands of the people of the land will be troubled. I will do to them after their way, and according to their own judgments I will judge them. Then they will know that I am Yahweh.’”
+**²⁷** The king will mourn, and the prince will be clothed with desolation. The hands of the people of the land will be troubled. I will do to them after their way, and according to their own judgments I will judge them. Then they will know that I am Yahweh.’”

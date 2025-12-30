@@ -4,76 +4,76 @@ weight: 4
 
 # Chapter 4
 
-<sup>1</sup> Nebuchadnezzar the king, to all the peoples, nations, and languages, who dwell in all the earth: Peace be multiplied to you.
+**¹** Nebuchadnezzar the king, to all the peoples, nations, and languages, who dwell in all the earth: Peace be multiplied to you.
 
-<sup>2</sup> It has seemed good to me to show the signs and wonders that the Most High God has worked toward me.
+**²** It has seemed good to me to show the signs and wonders that the Most High God has worked toward me.
 
-<sup>3</sup> How great are his signs! How mighty are his wonders! His kingdom is an everlasting kingdom. His dominion is from generation to generation.
+**³** How great are his signs! How mighty are his wonders! His kingdom is an everlasting kingdom. His dominion is from generation to generation.
 
-<sup>4</sup> I, Nebuchadnezzar, was at rest in my house, and flourishing in my palace.
+**⁴** I, Nebuchadnezzar, was at rest in my house, and flourishing in my palace.
 
-<sup>5</sup> I saw a dream which made me afraid; and the thoughts on my bed and the visions of my head troubled me.
+**⁵** I saw a dream which made me afraid; and the thoughts on my bed and the visions of my head troubled me.
 
-<sup>6</sup> Therefore I made a decree to bring in all the wise men of Babylon before me, that they might make known to me the interpretation of the dream.
+**⁶** Therefore I made a decree to bring in all the wise men of Babylon before me, that they might make known to me the interpretation of the dream.
 
-<sup>7</sup> Then the magicians, the enchanters, the Chaldeans, and the soothsayers came in; and I told them the dream, but they didn’t make known to me its interpretation.
+**⁷** Then the magicians, the enchanters, the Chaldeans, and the soothsayers came in; and I told them the dream, but they didn’t make known to me its interpretation.
 
-<sup>8</sup> But at last, Daniel came in before me, whose name was Belteshazzar according to the name of my god, and in whom is the spirit of the holy gods. I told the dream before him, saying,
+**⁸** But at last, Daniel came in before me, whose name was Belteshazzar according to the name of my god, and in whom is the spirit of the holy gods. I told the dream before him, saying,
 
-<sup>9</sup> “Belteshazzar, master of the magicians, because I know that the spirit of the holy gods is in you and no secret troubles you, tell me the visions of my dream that I have seen, and its interpretation.
+**⁹** “Belteshazzar, master of the magicians, because I know that the spirit of the holy gods is in you and no secret troubles you, tell me the visions of my dream that I have seen, and its interpretation.
 
-<sup>10</sup> These were the visions of my head on my bed: I saw, and behold, a tree in the middle of the earth; and its height was great.
+**¹⁰** These were the visions of my head on my bed: I saw, and behold, a tree in the middle of the earth; and its height was great.
 
-<sup>11</sup> The tree grew and was strong. Its height reached to the sky and its sight to the end of all the earth.
+**¹¹** The tree grew and was strong. Its height reached to the sky and its sight to the end of all the earth.
 
-<sup>12</sup> Its leaves were beautiful, and it had much fruit, and in it was food for all. The animals of the field had shade under it, and the birds of the sky lived in its branches, and all flesh was fed from it.
+**¹²** Its leaves were beautiful, and it had much fruit, and in it was food for all. The animals of the field had shade under it, and the birds of the sky lived in its branches, and all flesh was fed from it.
 
-<sup>13</sup> “I saw in the visions of my head on my bed, and behold, a holy watcher came down from the sky.
+**¹³** “I saw in the visions of my head on my bed, and behold, a holy watcher came down from the sky.
 
-<sup>14</sup> He cried aloud and said this: ‘Cut down the tree, and cut off its branches! Shake off its leaves and scatter its fruit! Let the animals get away from under it and the birds from its branches.
+**¹⁴** He cried aloud and said this: ‘Cut down the tree, and cut off its branches! Shake off its leaves and scatter its fruit! Let the animals get away from under it and the birds from its branches.
 
-<sup>15</sup> Nevertheless leave the stump of its roots in the earth, even with a band of iron and bronze, in the tender grass of the field; and let it be wet with the dew of the sky. Let his portion be with the animals in the grass of the earth.
+**¹⁵** Nevertheless leave the stump of its roots in the earth, even with a band of iron and bronze, in the tender grass of the field; and let it be wet with the dew of the sky. Let his portion be with the animals in the grass of the earth.
 
-<sup>16</sup> Let his heart be changed from man’s, and let an animal’s heart be given to him. Then let seven times pass over him.
+**¹⁶** Let his heart be changed from man’s, and let an animal’s heart be given to him. Then let seven times pass over him.
 
-<sup>17</sup> “‘The sentence is by the decree of the watchers and the demand by the word of the holy ones, to the intent that the living may know that the Most High rules in the kingdom of men, and gives it to whomever he will, and sets up over it the lowest of men.’
+**¹⁷** “‘The sentence is by the decree of the watchers and the demand by the word of the holy ones, to the intent that the living may know that the Most High rules in the kingdom of men, and gives it to whomever he will, and sets up over it the lowest of men.’
 
-<sup>18</sup> “This dream I, King Nebuchadnezzar, have seen; and you, Belteshazzar, declare the interpretation, because all the wise men of my kingdom are not able to make known to me the interpretation; but you are able, for the spirit of the holy gods is in you.”
+**¹⁸** “This dream I, King Nebuchadnezzar, have seen; and you, Belteshazzar, declare the interpretation, because all the wise men of my kingdom are not able to make known to me the interpretation; but you are able, for the spirit of the holy gods is in you.”
 
-<sup>19</sup> Then Daniel, whose name was Belteshazzar, was stricken mute for a while, and his thoughts troubled him. The king answered, “Belteshazzar, don’t let the dream or the interpretation, trouble you.” Belteshazzar answered, “My lord, may the dream be for those who hate you, and its interpretation to your adversaries.
+**¹⁹** Then Daniel, whose name was Belteshazzar, was stricken mute for a while, and his thoughts troubled him. The king answered, “Belteshazzar, don’t let the dream or the interpretation, trouble you.” Belteshazzar answered, “My lord, may the dream be for those who hate you, and its interpretation to your adversaries.
 
-<sup>20</sup> The tree that you saw, which grew and was strong, whose height reached to the sky and its sight to all the earth;
+**²⁰** The tree that you saw, which grew and was strong, whose height reached to the sky and its sight to all the earth;
 
-<sup>21</sup> whose leaves were beautiful and its fruit plentiful, and in it was food for all; under which the animals of the field lived, and on whose branches the birds of the sky had their habitation—
+**²¹** whose leaves were beautiful and its fruit plentiful, and in it was food for all; under which the animals of the field lived, and on whose branches the birds of the sky had their habitation—
 
-<sup>22</sup> it is you, O king, that have grown and become strong; for your greatness has grown, and reaches to the sky, and your dominion to the end of the earth.
+**²²** it is you, O king, that have grown and become strong; for your greatness has grown, and reaches to the sky, and your dominion to the end of the earth.
 
-<sup>23</sup> “Whereas the king saw a holy watcher coming down from the sky and saying, ‘Cut down the tree, and destroy it; nevertheless leave the stump of its roots in the earth, even with a band of iron and bronze, in the tender grass of the field, and let it be wet with the dew of the sky. Let his portion be with the animals of the field, until seven times pass over him.’
+**²³** “Whereas the king saw a holy watcher coming down from the sky and saying, ‘Cut down the tree, and destroy it; nevertheless leave the stump of its roots in the earth, even with a band of iron and bronze, in the tender grass of the field, and let it be wet with the dew of the sky. Let his portion be with the animals of the field, until seven times pass over him.’
 
-<sup>24</sup> “This is the interpretation, O king, and it is the decree of the Most High, which has come on my lord the king:
+**²⁴** “This is the interpretation, O king, and it is the decree of the Most High, which has come on my lord the king:
 
-<sup>25</sup> You will be driven from men and your dwelling shall be with the animals of the field. You will be made to eat grass as oxen, and will be wet with the dew of the sky, and seven times shall pass over you, until you know that the Most High rules in the kingdom of men, and gives it to whomever he will.
+**²⁵** You will be driven from men and your dwelling shall be with the animals of the field. You will be made to eat grass as oxen, and will be wet with the dew of the sky, and seven times shall pass over you, until you know that the Most High rules in the kingdom of men, and gives it to whomever he will.
 
-<sup>26</sup> Whereas it was commanded to leave the stump of the roots of the tree, your kingdom shall be sure to you after you know that Heaven rules.
+**²⁶** Whereas it was commanded to leave the stump of the roots of the tree, your kingdom shall be sure to you after you know that Heaven rules.
 
-<sup>27</sup> Therefore, O king, let my counsel be acceptable to you, and break off your sins by righteousness, and your iniquities by showing mercy to the poor. Perhaps there may be a lengthening of your tranquility.”
+**²⁷** Therefore, O king, let my counsel be acceptable to you, and break off your sins by righteousness, and your iniquities by showing mercy to the poor. Perhaps there may be a lengthening of your tranquility.”
 
-<sup>28</sup> All this came on the King Nebuchadnezzar.
+**²⁸** All this came on the King Nebuchadnezzar.
 
-<sup>29</sup> At the end of twelve months he was walking in the royal palace of Babylon.
+**²⁹** At the end of twelve months he was walking in the royal palace of Babylon.
 
-<sup>30</sup> The king spoke and said, “Is not this great Babylon, which I have built for the royal dwelling place by the might of my power and for the glory of my majesty?”
+**³⁰** The king spoke and said, “Is not this great Babylon, which I have built for the royal dwelling place by the might of my power and for the glory of my majesty?”
 
-<sup>31</sup> While the word was in the king’s mouth, a voice came from the sky, saying, “O King Nebuchadnezzar, to you it is spoken: ‘The kingdom has departed from you.
+**³¹** While the word was in the king’s mouth, a voice came from the sky, saying, “O King Nebuchadnezzar, to you it is spoken: ‘The kingdom has departed from you.
 
-<sup>32</sup> You shall be driven from men, and your dwelling shall be with the animals of the field. You shall be made to eat grass like oxen. Seven times shall pass over you, until you know that the Most High rules in the kingdom of men, and gives it to whomever he will.’”
+**³²** You shall be driven from men, and your dwelling shall be with the animals of the field. You shall be made to eat grass like oxen. Seven times shall pass over you, until you know that the Most High rules in the kingdom of men, and gives it to whomever he will.’”
 
-<sup>33</sup> This was fulfilled the same hour on Nebuchadnezzar. He was driven from men and ate grass like oxen; and his body was wet with the dew of the sky until his hair had grown like eagles’ feathers, and his nails like birds’ claws.
+**³³** This was fulfilled the same hour on Nebuchadnezzar. He was driven from men and ate grass like oxen; and his body was wet with the dew of the sky until his hair had grown like eagles’ feathers, and his nails like birds’ claws.
 
-<sup>34</sup> At the end of the days I, Nebuchadnezzar, lifted up my eyes to heaven, and my understanding returned to me; and I blessed the Most High, and I praised and honored him who lives forever, for his dominion is an everlasting dominion, and his kingdom from generation to generation.
+**³⁴** At the end of the days I, Nebuchadnezzar, lifted up my eyes to heaven, and my understanding returned to me; and I blessed the Most High, and I praised and honored him who lives forever, for his dominion is an everlasting dominion, and his kingdom from generation to generation.
 
-<sup>35</sup> All the inhabitants of the earth are reputed as nothing; and he does according to his will in the army of heaven, and among the inhabitants of the earth; and no one can stop his hand, or ask him, “What are you doing?”
+**³⁵** All the inhabitants of the earth are reputed as nothing; and he does according to his will in the army of heaven, and among the inhabitants of the earth; and no one can stop his hand, or ask him, “What are you doing?”
 
-<sup>36</sup> At the same time my understanding returned to me; and for the glory of my kingdom, my majesty and brightness returned to me. My counselors and my lords sought me; and I was established in my kingdom, and excellent greatness was added to me.
+**³⁶** At the same time my understanding returned to me; and for the glory of my kingdom, my majesty and brightness returned to me. My counselors and my lords sought me; and I was established in my kingdom, and excellent greatness was added to me.
 
-<sup>37</sup> Now I, Nebuchadnezzar, praise and extol and honor the King of heaven; for all his works are truth, and his ways justice; and those who walk in pride he is able to abase.
+**³⁷** Now I, Nebuchadnezzar, praise and extol and honor the King of heaven; for all his works are truth, and his ways justice; and those who walk in pride he is able to abase.

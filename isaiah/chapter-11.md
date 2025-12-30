@@ -4,34 +4,34 @@ weight: 11
 
 # Chapter 11
 
-<sup>1</sup> A shoot will come out of the stock of Jesse, and a branch out of his roots will bear fruit.
+**¹** A shoot will come out of the stock of Jesse, and a branch out of his roots will bear fruit.
 
-<sup>2</sup> Yahweh’s Spirit will rest on him: the spirit of wisdom and understanding, the spirit of counsel and might, the spirit of knowledge and of the fear of Yahweh.
+**²** Yahweh’s Spirit will rest on him: the spirit of wisdom and understanding, the spirit of counsel and might, the spirit of knowledge and of the fear of Yahweh.
 
-<sup>3</sup> His delight will be in the fear of Yahweh. He will not judge by the sight of his eyes, neither decide by the hearing of his ears;
+**³** His delight will be in the fear of Yahweh. He will not judge by the sight of his eyes, neither decide by the hearing of his ears;
 
-<sup>4</sup> but he will judge the poor with righteousness, and decide with equity for the humble of the earth. He will strike the earth with the rod of his mouth; and with the breath of his lips he will kill the wicked.
+**⁴** but he will judge the poor with righteousness, and decide with equity for the humble of the earth. He will strike the earth with the rod of his mouth; and with the breath of his lips he will kill the wicked.
 
-<sup>5</sup> Righteousness will be the belt around his waist, and faithfulness the belt around his waist.
+**⁵** Righteousness will be the belt around his waist, and faithfulness the belt around his waist.
 
-<sup>6</sup> The wolf will live with the lamb, and the leopard will lie down with the young goat, the calf, the young lion, and the fattened calf together; and a little child will lead them.
+**⁶** The wolf will live with the lamb, and the leopard will lie down with the young goat, the calf, the young lion, and the fattened calf together; and a little child will lead them.
 
-<sup>7</sup> The cow and the bear will graze. Their young ones will lie down together. The lion will eat straw like the ox.
+**⁷** The cow and the bear will graze. Their young ones will lie down together. The lion will eat straw like the ox.
 
-<sup>8</sup> The nursing child will play near a cobra’s hole, and the weaned child will put his hand on the viper’s den.
+**⁸** The nursing child will play near a cobra’s hole, and the weaned child will put his hand on the viper’s den.
 
-<sup>9</sup> They will not hurt nor destroy in all my holy mountain; for the earth will be full of the knowledge of Yahweh, as the waters cover the sea.
+**⁹** They will not hurt nor destroy in all my holy mountain; for the earth will be full of the knowledge of Yahweh, as the waters cover the sea.
 
-<sup>10</sup> It will happen in that day that the nations will seek the root of Jesse, who stands as a banner of the peoples; and his resting place will be glorious.
+**¹⁰** It will happen in that day that the nations will seek the root of Jesse, who stands as a banner of the peoples; and his resting place will be glorious.
 
-<sup>11</sup> It will happen in that day that the Lord will set his hand again the second time to recover the remnant that is left of his people from Assyria, from Egypt, from Pathros, from Cush, from Elam, from Shinar, from Hamath, and from the islands of the sea.
+**¹¹** It will happen in that day that the Lord will set his hand again the second time to recover the remnant that is left of his people from Assyria, from Egypt, from Pathros, from Cush, from Elam, from Shinar, from Hamath, and from the islands of the sea.
 
-<sup>12</sup> He will set up a banner for the nations, and will assemble the outcasts of Israel, and gather together the dispersed of Judah from the four corners of the earth.
+**¹²** He will set up a banner for the nations, and will assemble the outcasts of Israel, and gather together the dispersed of Judah from the four corners of the earth.
 
-<sup>13</sup> The envy also of Ephraim will depart, and those who persecute Judah will be cut off. Ephraim won’t envy Judah, and Judah won’t persecute Ephraim.
+**¹³** The envy also of Ephraim will depart, and those who persecute Judah will be cut off. Ephraim won’t envy Judah, and Judah won’t persecute Ephraim.
 
-<sup>14</sup> They will fly down on the shoulders of the Philistines on the west. Together they will plunder the children of the east. They will extend their power over Edom and Moab, and the children of Ammon will obey them.
+**¹⁴** They will fly down on the shoulders of the Philistines on the west. Together they will plunder the children of the east. They will extend their power over Edom and Moab, and the children of Ammon will obey them.
 
-<sup>15</sup> Yahweh will utterly destroy the tongue of the Egyptian sea; and with his scorching wind he will wave his hand over the River, and will split it into seven streams, and cause men to march over in sandals.
+**¹⁵** Yahweh will utterly destroy the tongue of the Egyptian sea; and with his scorching wind he will wave his hand over the River, and will split it into seven streams, and cause men to march over in sandals.
 
-<sup>16</sup> There will be a highway for the remnant that is left of his people from Assyria, like there was for Israel in the day that he came up out of the land of Egypt.
+**¹⁶** There will be a highway for the remnant that is left of his people from Assyria, like there was for Israel in the day that he came up out of the land of Egypt.

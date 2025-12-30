@@ -4,48 +4,48 @@ weight: 3
 
 # Chapter 3
 
-<sup>1</sup> Now Moses was keeping the flock of Jethro, his father-in-law, the priest of Midian, and he led the flock to the back of the wilderness, and came to God’s mountain, to Horeb.
+**¹** Now Moses was keeping the flock of Jethro, his father-in-law, the priest of Midian, and he led the flock to the back of the wilderness, and came to God’s mountain, to Horeb.
 
-<sup>2</sup> Yahweh’s[^55] angel appeared to him in a flame of fire out of the middle of a bush. He looked, and behold, the bush burned with fire, and the bush was not consumed.
+**²** Yahweh’s[^55] angel appeared to him in a flame of fire out of the middle of a bush. He looked, and behold, the bush burned with fire, and the bush was not consumed.
 
-<sup>3</sup> Moses said, “I will go now, and see this great sight, why the bush is not burned.”
+**³** Moses said, “I will go now, and see this great sight, why the bush is not burned.”
 
-<sup>4</sup> When Yahweh saw that he came over to see, God called to him out of the middle of the bush, and said, “Moses! Moses!” He said, “Here I am.”
+**⁴** When Yahweh saw that he came over to see, God called to him out of the middle of the bush, and said, “Moses! Moses!” He said, “Here I am.”
 
-<sup>5</sup> He said, “Don’t come close. Take off your sandals, for the place you are standing on is holy ground.”
+**⁵** He said, “Don’t come close. Take off your sandals, for the place you are standing on is holy ground.”
 
-<sup>6</sup> Moreover he said, “I am the God of your father, the God of Abraham, the God of Isaac, and the God of Jacob.” Moses hid his face because he was afraid to look at God.
+**⁶** Moreover he said, “I am the God of your father, the God of Abraham, the God of Isaac, and the God of Jacob.” Moses hid his face because he was afraid to look at God.
 
-<sup>7</sup> Yahweh said, “I have surely seen the affliction of my people who are in Egypt, and have heard their cry because of their taskmasters, for I know their sorrows.
+**⁷** Yahweh said, “I have surely seen the affliction of my people who are in Egypt, and have heard their cry because of their taskmasters, for I know their sorrows.
 
-<sup>8</sup> I have come down to deliver them out of the hand of the Egyptians, and to bring them up out of that land to a good and large land, to a land flowing with milk and honey; to the place of the Canaanite, the Hittite, the Amorite, the Perizzite, the Hivite, and the Jebusite.
+**⁸** I have come down to deliver them out of the hand of the Egyptians, and to bring them up out of that land to a good and large land, to a land flowing with milk and honey; to the place of the Canaanite, the Hittite, the Amorite, the Perizzite, the Hivite, and the Jebusite.
 
-<sup>9</sup> Now, behold, the cry of the children of Israel has come to me. Moreover I have seen the oppression with which the Egyptians oppress them.
+**⁹** Now, behold, the cry of the children of Israel has come to me. Moreover I have seen the oppression with which the Egyptians oppress them.
 
-<sup>10</sup> Come now therefore, and I will send you to Pharaoh, that you may bring my people, the children of Israel, out of Egypt.”
+**¹⁰** Come now therefore, and I will send you to Pharaoh, that you may bring my people, the children of Israel, out of Egypt.”
 
-<sup>11</sup> Moses said to God, “Who am I, that I should go to Pharaoh, and that I should bring the children of Israel out of Egypt?”
+**¹¹** Moses said to God, “Who am I, that I should go to Pharaoh, and that I should bring the children of Israel out of Egypt?”
 
-<sup>12</sup> He said, “Certainly I will be with you. This will be the token to you, that I have sent you: when you have brought the people out of Egypt, you shall serve God on this mountain.”
+**¹²** He said, “Certainly I will be with you. This will be the token to you, that I have sent you: when you have brought the people out of Egypt, you shall serve God on this mountain.”
 
-<sup>13</sup> Moses said to God, “Behold, when I come to the children of Israel, and tell them, ‘The God of your fathers has sent me to you,’ and they ask me, ‘What is his name?’ what should I tell them?”
+**¹³** Moses said to God, “Behold, when I come to the children of Israel, and tell them, ‘The God of your fathers has sent me to you,’ and they ask me, ‘What is his name?’ what should I tell them?”
 
-<sup>14</sup> God said to Moses, “I AM WHO I AM,” and he said, “You shall tell the children of Israel this: ‘I AM has sent me to you.’”
+**¹⁴** God said to Moses, “I AM WHO I AM,” and he said, “You shall tell the children of Israel this: ‘I AM has sent me to you.’”
 
-<sup>15</sup> God said moreover to Moses, “You shall tell the children of Israel this, ‘Yahweh, the God of your fathers, the God of Abraham, the God of Isaac, and the God of Jacob, has sent me to you.’ This is my name forever, and this is my memorial to all generations.
+**¹⁵** God said moreover to Moses, “You shall tell the children of Israel this, ‘Yahweh, the God of your fathers, the God of Abraham, the God of Isaac, and the God of Jacob, has sent me to you.’ This is my name forever, and this is my memorial to all generations.
 
-<sup>16</sup> Go and gather the elders of Israel together, and tell them, ‘Yahweh, the God of your fathers, the God of Abraham, of Isaac, and of Jacob, has appeared to me, saying, “I have surely visited you, and seen that which is done to you in Egypt.
+**¹⁶** Go and gather the elders of Israel together, and tell them, ‘Yahweh, the God of your fathers, the God of Abraham, of Isaac, and of Jacob, has appeared to me, saying, “I have surely visited you, and seen that which is done to you in Egypt.
 
-<sup>17</sup> I have said, I will bring you up out of the affliction of Egypt to the land of the Canaanite, the Hittite, the Amorite, the Perizzite, the Hivite, and the Jebusite, to a land flowing with milk and honey.”’
+**¹⁷** I have said, I will bring you up out of the affliction of Egypt to the land of the Canaanite, the Hittite, the Amorite, the Perizzite, the Hivite, and the Jebusite, to a land flowing with milk and honey.”’
 
-<sup>18</sup> They will listen to your voice. You shall come, you and the elders of Israel, to the king of Egypt, and you shall tell him, ‘Yahweh, the God of the Hebrews, has met with us. Now please let us go three days’ journey into the wilderness, that we may sacrifice to Yahweh, our God.’
+**¹⁸** They will listen to your voice. You shall come, you and the elders of Israel, to the king of Egypt, and you shall tell him, ‘Yahweh, the God of the Hebrews, has met with us. Now please let us go three days’ journey into the wilderness, that we may sacrifice to Yahweh, our God.’
 
-<sup>19</sup> I know that the king of Egypt won’t give you permission to go, no, not by a mighty hand.
+**¹⁹** I know that the king of Egypt won’t give you permission to go, no, not by a mighty hand.
 
-<sup>20</sup> I will reach out my hand and strike Egypt with all my wonders which I will do among them, and after that he will let you go.
+**²⁰** I will reach out my hand and strike Egypt with all my wonders which I will do among them, and after that he will let you go.
 
-<sup>21</sup> I will give this people favor in the sight of the Egyptians, and it will happen that when you go, you shall not go empty-handed.
+**²¹** I will give this people favor in the sight of the Egyptians, and it will happen that when you go, you shall not go empty-handed.
 
-<sup>22</sup> But every woman shall ask of her neighbor, and of her who visits her house, jewels of silver, jewels of gold, and clothing. You shall put them on your sons, and on your daughters. You shall plunder the Egyptians.”
+**²²** But every woman shall ask of her neighbor, and of her who visits her house, jewels of silver, jewels of gold, and clothing. You shall put them on your sons, and on your daughters. You shall plunder the Egyptians.”
 
 [^55]: 3:2 “Yahweh” is God’s proper Name, sometimes rendered “LORD” (all caps) in other translations.

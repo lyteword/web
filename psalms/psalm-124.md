@@ -6,18 +6,18 @@ weight: 124
 
 A Song of Ascents. By David.
 
-<sup>1</sup> If it had not been Yahweh who was on our side, let Israel now say,
+**¹** If it had not been Yahweh who was on our side, let Israel now say,
 
-<sup>2</sup> if it had not been Yahweh who was on our side, when men rose up against us,
+**²** if it had not been Yahweh who was on our side, when men rose up against us,
 
-<sup>3</sup> then they would have swallowed us up alive, when their wrath was kindled against us,
+**³** then they would have swallowed us up alive, when their wrath was kindled against us,
 
-<sup>4</sup> then the waters would have overwhelmed us, the stream would have gone over our soul.
+**⁴** then the waters would have overwhelmed us, the stream would have gone over our soul.
 
-<sup>5</sup> Then the proud waters would have gone over our soul.
+**⁵** Then the proud waters would have gone over our soul.
 
-<sup>6</sup> Blessed be Yahweh, who has not given us as a prey to their teeth.
+**⁶** Blessed be Yahweh, who has not given us as a prey to their teeth.
 
-<sup>7</sup> Our soul has escaped like a bird out of the fowler’s snare. The snare is broken, and we have escaped.
+**⁷** Our soul has escaped like a bird out of the fowler’s snare. The snare is broken, and we have escaped.
 
-<sup>8</sup> Our help is in Yahweh’s name, who made heaven and earth.
+**⁸** Our help is in Yahweh’s name, who made heaven and earth.

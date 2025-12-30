@@ -4,30 +4,30 @@ weight: 19
 
 # Chapter 19
 
-<sup>1</sup> “Moreover, take up a lamentation for the princes of Israel,
+**¹** “Moreover, take up a lamentation for the princes of Israel,
 
-<sup>2</sup> and say, ‘What was your mother? A lioness. She couched among lions, in the middle of the young lions she nourished her cubs.
+**²** and say, ‘What was your mother? A lioness. She couched among lions, in the middle of the young lions she nourished her cubs.
 
-<sup>3</sup> She brought up one of her cubs. He became a young lion. He learned to catch the prey. He devoured men.
+**³** She brought up one of her cubs. He became a young lion. He learned to catch the prey. He devoured men.
 
-<sup>4</sup> The nations also heard of him. He was taken in their pit; and they brought him with hooks to the land of Egypt.
+**⁴** The nations also heard of him. He was taken in their pit; and they brought him with hooks to the land of Egypt.
 
-<sup>5</sup> “‘Now when she saw that she had waited, and her hope was lost, then she took another of her cubs, and made him a young lion.
+**⁵** “‘Now when she saw that she had waited, and her hope was lost, then she took another of her cubs, and made him a young lion.
 
-<sup>6</sup> He went up and down among the lions. He became a young lion. He learned to catch the prey. He devoured men.
+**⁶** He went up and down among the lions. He became a young lion. He learned to catch the prey. He devoured men.
 
-<sup>7</sup> He knew their palaces, and laid waste their cities. The land was desolate with its fullness, because of the noise of his roaring.
+**⁷** He knew their palaces, and laid waste their cities. The land was desolate with its fullness, because of the noise of his roaring.
 
-<sup>8</sup> Then the nations attacked him on every side from the provinces. They spread their net over him. He was taken in their pit.
+**⁸** Then the nations attacked him on every side from the provinces. They spread their net over him. He was taken in their pit.
 
-<sup>9</sup> They put him in a cage with hooks, and brought him to the king of Babylon. They brought him into strongholds, so that his voice should no more be heard on the mountains of Israel.
+**⁹** They put him in a cage with hooks, and brought him to the king of Babylon. They brought him into strongholds, so that his voice should no more be heard on the mountains of Israel.
 
-<sup>10</sup> “‘Your mother was like a vine in your blood, planted by the waters. It was fruitful and full of branches by reason of many waters.
+**¹⁰** “‘Your mother was like a vine in your blood, planted by the waters. It was fruitful and full of branches by reason of many waters.
 
-<sup>11</sup> It had strong branches for the scepters of those who ruled. Their stature was exalted among the thick boughs. They were seen in their height with the multitude of their branches.
+**¹¹** It had strong branches for the scepters of those who ruled. Their stature was exalted among the thick boughs. They were seen in their height with the multitude of their branches.
 
-<sup>12</sup> But it was plucked up in fury. It was cast down to the ground, and the east wind dried up its fruit. Its strong branches were broken off and withered. The fire consumed them.
+**¹²** But it was plucked up in fury. It was cast down to the ground, and the east wind dried up its fruit. Its strong branches were broken off and withered. The fire consumed them.
 
-<sup>13</sup> Now it is planted in the wilderness, in a dry and thirsty land.
+**¹³** Now it is planted in the wilderness, in a dry and thirsty land.
 
-<sup>14</sup> Fire has gone out of its branches. It has devoured its fruit, so that there is in it no strong branch to be a scepter to rule.’ This is a lamentation, and shall be for a lamentation.”
+**¹⁴** Fire has gone out of its branches. It has devoured its fruit, so that there is in it no strong branch to be a scepter to rule.’ This is a lamentation, and shall be for a lamentation.”

@@ -4,61 +4,61 @@ weight: 25
 
 # Chapter 25
 
-<sup>1</sup> Amaziah was twenty-five years old when he began to reign, and he reigned twenty-nine years in Jerusalem. His mother’s name was Jehoaddan, of Jerusalem.
+**¹** Amaziah was twenty-five years old when he began to reign, and he reigned twenty-nine years in Jerusalem. His mother’s name was Jehoaddan, of Jerusalem.
 
-<sup>2</sup> He did that which was right in Yahweh’s eyes, but not with a perfect heart.
+**²** He did that which was right in Yahweh’s eyes, but not with a perfect heart.
 
-<sup>3</sup> Now when the kingdom was established to him, he killed his servants who had killed his father the king.
+**³** Now when the kingdom was established to him, he killed his servants who had killed his father the king.
 
-<sup>4</sup> But he didn’t put their children to death, but did according to that which is written in the law in the book of Moses, as Yahweh commanded, saying, “The fathers shall not die for the children, neither shall the children die for the fathers; but every man shall die for his own sin.”
+**⁴** But he didn’t put their children to death, but did according to that which is written in the law in the book of Moses, as Yahweh commanded, saying, “The fathers shall not die for the children, neither shall the children die for the fathers; but every man shall die for his own sin.”
 
-<sup>5</sup> Moreover Amaziah gathered Judah together and ordered them according to their fathers’ houses, under captains of thousands and captains of hundreds, even all Judah and Benjamin. He counted them from twenty years old and upward, and found that there were three hundred thousand chosen men, able to go out to war, who could handle spear and shield.
+**⁵** Moreover Amaziah gathered Judah together and ordered them according to their fathers’ houses, under captains of thousands and captains of hundreds, even all Judah and Benjamin. He counted them from twenty years old and upward, and found that there were three hundred thousand chosen men, able to go out to war, who could handle spear and shield.
 
-<sup>6</sup> He also hired one hundred thousand mighty men of valor out of Israel for one hundred talents[^361] of silver.
+**⁶** He also hired one hundred thousand mighty men of valor out of Israel for one hundred talents[^361] of silver.
 
-<sup>7</sup> A man of God came to him, saying, “O king, don’t let the army of Israel go with you, for Yahweh is not with Israel, with all the children of Ephraim.
+**⁷** A man of God came to him, saying, “O king, don’t let the army of Israel go with you, for Yahweh is not with Israel, with all the children of Ephraim.
 
-<sup>8</sup> But if you will go, take action, and be strong for the battle. God will overthrow you before the enemy; for God has power to help, and to overthrow.”
+**⁸** But if you will go, take action, and be strong for the battle. God will overthrow you before the enemy; for God has power to help, and to overthrow.”
 
-<sup>9</sup> Amaziah said to the man of God, “But what shall we do for the hundred talents[^362] which I have given to the army of Israel?” The man of God answered, “Yahweh is able to give you much more than this.”
+**⁹** Amaziah said to the man of God, “But what shall we do for the hundred talents[^362] which I have given to the army of Israel?” The man of God answered, “Yahweh is able to give you much more than this.”
 
-<sup>10</sup> Then Amaziah separated them, the army that had come to him out of Ephraim, to go home again. Therefore their anger was greatly kindled against Judah, and they returned home in fierce anger.
+**¹⁰** Then Amaziah separated them, the army that had come to him out of Ephraim, to go home again. Therefore their anger was greatly kindled against Judah, and they returned home in fierce anger.
 
-<sup>11</sup> Amaziah took courage, and led his people out and went to the Valley of Salt, and struck ten thousand of the children of Seir.
+**¹¹** Amaziah took courage, and led his people out and went to the Valley of Salt, and struck ten thousand of the children of Seir.
 
-<sup>12</sup> The children of Judah carried away ten thousand alive, and brought them to the top of the rock, and threw them down from the top of the rock, so that they all were broken in pieces.
+**¹²** The children of Judah carried away ten thousand alive, and brought them to the top of the rock, and threw them down from the top of the rock, so that they all were broken in pieces.
 
-<sup>13</sup> But the men of the army whom Amaziah sent back, that they should not go with him to battle, fell on the cities of Judah from Samaria even to Beth Horon, and struck of them three thousand, and took much plunder.
+**¹³** But the men of the army whom Amaziah sent back, that they should not go with him to battle, fell on the cities of Judah from Samaria even to Beth Horon, and struck of them three thousand, and took much plunder.
 
-<sup>14</sup> Now after Amaziah had come from the slaughter of the Edomites, he brought the gods of the children of Seir, and set them up to be his gods, and bowed down himself before them and burned incense to them.
+**¹⁴** Now after Amaziah had come from the slaughter of the Edomites, he brought the gods of the children of Seir, and set them up to be his gods, and bowed down himself before them and burned incense to them.
 
-<sup>15</sup> Therefore Yahweh’s anger burned against Amaziah, and he sent to him a prophet who said to him, “Why have you sought after the gods of the people, which have not delivered their own people out of your hand?”
+**¹⁵** Therefore Yahweh’s anger burned against Amaziah, and he sent to him a prophet who said to him, “Why have you sought after the gods of the people, which have not delivered their own people out of your hand?”
 
-<sup>16</sup> As he talked with him, the king said to him, “Have we made you one of the king’s counselors? Stop! Why should you be struck down?” Then the prophet stopped, and said, “I know that God has determined to destroy you, because you have done this and have not listened to my counsel.”
+**¹⁶** As he talked with him, the king said to him, “Have we made you one of the king’s counselors? Stop! Why should you be struck down?” Then the prophet stopped, and said, “I know that God has determined to destroy you, because you have done this and have not listened to my counsel.”
 
-<sup>17</sup> Then Amaziah king of Judah consulted his advisers, and sent to Joash, the son of Jehoahaz, the son of Jehu, king of Israel, saying, “Come! Let’s look one another in the face.”
+**¹⁷** Then Amaziah king of Judah consulted his advisers, and sent to Joash, the son of Jehoahaz, the son of Jehu, king of Israel, saying, “Come! Let’s look one another in the face.”
 
-<sup>18</sup> Joash king of Israel sent to Amaziah king of Judah, saying, “The thistle that was in Lebanon sent to the cedar that was in Lebanon, saying, ‘Give your daughter to my son as his wife. Then a wild animal that was in Lebanon passed by and trampled down the thistle.
+**¹⁸** Joash king of Israel sent to Amaziah king of Judah, saying, “The thistle that was in Lebanon sent to the cedar that was in Lebanon, saying, ‘Give your daughter to my son as his wife. Then a wild animal that was in Lebanon passed by and trampled down the thistle.
 
-<sup>19</sup> You say to yourself that you have struck Edom; and your heart lifts you up to boast. Now stay at home. Why should you meddle with trouble, that you should fall, even you and Judah with you?’”
+**¹⁹** You say to yourself that you have struck Edom; and your heart lifts you up to boast. Now stay at home. Why should you meddle with trouble, that you should fall, even you and Judah with you?’”
 
-<sup>20</sup> But Amaziah would not listen; for it was of God, that he might deliver them into the hand of their enemies, because they had sought after the gods of Edom.
+**²⁰** But Amaziah would not listen; for it was of God, that he might deliver them into the hand of their enemies, because they had sought after the gods of Edom.
 
-<sup>21</sup> So Joash king of Israel went up, and he and Amaziah king of Judah looked one another in the face at Beth Shemesh, which belongs to Judah.
+**²¹** So Joash king of Israel went up, and he and Amaziah king of Judah looked one another in the face at Beth Shemesh, which belongs to Judah.
 
-<sup>22</sup> Judah was defeated by Israel; so every man fled to his tent.
+**²²** Judah was defeated by Israel; so every man fled to his tent.
 
-<sup>23</sup> Joash king of Israel took Amaziah king of Judah, the son of Joash the son of Jehoahaz, at Beth Shemesh and brought him to Jerusalem, and broke down the wall of Jerusalem from the gate of Ephraim to the corner gate, four hundred cubits.[^363]
+**²³** Joash king of Israel took Amaziah king of Judah, the son of Joash the son of Jehoahaz, at Beth Shemesh and brought him to Jerusalem, and broke down the wall of Jerusalem from the gate of Ephraim to the corner gate, four hundred cubits.[^363]
 
-<sup>24</sup> He took all the gold and silver, and all the vessels that were found in God’s house with Obed-Edom, and the treasures of the king’s house, and the hostages, and returned to Samaria.
+**²⁴** He took all the gold and silver, and all the vessels that were found in God’s house with Obed-Edom, and the treasures of the king’s house, and the hostages, and returned to Samaria.
 
-<sup>25</sup> Amaziah the son of Joash, king of Judah, lived for fifteen years after the death of Joash, son of Jehoahaz, king of Israel.
+**²⁵** Amaziah the son of Joash, king of Judah, lived for fifteen years after the death of Joash, son of Jehoahaz, king of Israel.
 
-<sup>26</sup> Now the rest of the acts of Amaziah, first and last, behold, aren’t they written in the book of the kings of Judah and Israel?
+**²⁶** Now the rest of the acts of Amaziah, first and last, behold, aren’t they written in the book of the kings of Judah and Israel?
 
-<sup>27</sup> Now from the time that Amaziah turned away from following Yahweh, they made a conspiracy against him in Jerusalem. He fled to Lachish, but they sent after him to Lachish and killed him there.
+**²⁷** Now from the time that Amaziah turned away from following Yahweh, they made a conspiracy against him in Jerusalem. He fled to Lachish, but they sent after him to Lachish and killed him there.
 
-<sup>28</sup> They brought him on horses and buried him with his fathers in the City of Judah.
+**²⁸** They brought him on horses and buried him with his fathers in the City of Judah.
 
 [^361]: 25:6 A talent is about 30 kilograms or 66 pounds
 [^362]: 25:9 A talent is about 30 kilograms or 66 pounds

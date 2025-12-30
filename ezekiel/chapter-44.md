@@ -4,64 +4,64 @@ weight: 44
 
 # Chapter 44
 
-<sup>1</sup> Then he brought me back by the way of the outer gate of the sanctuary, which looks toward the east; and it was shut.
+**¹** Then he brought me back by the way of the outer gate of the sanctuary, which looks toward the east; and it was shut.
 
-<sup>2</sup> Yahweh said to me, “This gate shall be shut. It shall not be opened, no man shall enter in by it; for Yahweh, the God of Israel, has entered in by it. Therefore it shall be shut.
+**²** Yahweh said to me, “This gate shall be shut. It shall not be opened, no man shall enter in by it; for Yahweh, the God of Israel, has entered in by it. Therefore it shall be shut.
 
-<sup>3</sup> As for the prince, he shall sit in it as prince to eat bread before Yahweh. He shall enter by the way of the porch of the gate, and shall go out the same way.”
+**³** As for the prince, he shall sit in it as prince to eat bread before Yahweh. He shall enter by the way of the porch of the gate, and shall go out the same way.”
 
-<sup>4</sup> Then he brought me by the way of the north gate before the house; and I looked, and behold, Yahweh’s glory filled Yahweh’s house; so I fell on my face.
+**⁴** Then he brought me by the way of the north gate before the house; and I looked, and behold, Yahweh’s glory filled Yahweh’s house; so I fell on my face.
 
-<sup>5</sup> Yahweh said to me, “Son of man, mark well, and see with your eyes, and hear with your ears all that I tell you concerning all the ordinances of Yahweh’s house and all its laws; and mark well the entrance of the house, with every exit of the sanctuary.
+**⁵** Yahweh said to me, “Son of man, mark well, and see with your eyes, and hear with your ears all that I tell you concerning all the ordinances of Yahweh’s house and all its laws; and mark well the entrance of the house, with every exit of the sanctuary.
 
-<sup>6</sup> You shall tell the rebellious, even the house of Israel, ‘The Lord Yahweh says: “You house of Israel, let that be enough of all your abominations,
+**⁶** You shall tell the rebellious, even the house of Israel, ‘The Lord Yahweh says: “You house of Israel, let that be enough of all your abominations,
 
-<sup>7</sup> in that you have brought in foreigners, uncircumcised in heart and uncircumcised in flesh, to be in my sanctuary, to profane it, even my house, when you offer my bread, the fat and the blood; and they have broken my covenant, to add to all your abominations.
+**⁷** in that you have brought in foreigners, uncircumcised in heart and uncircumcised in flesh, to be in my sanctuary, to profane it, even my house, when you offer my bread, the fat and the blood; and they have broken my covenant, to add to all your abominations.
 
-<sup>8</sup> You have not performed the duty of my holy things; but you have set performers of my duty in my sanctuary for yourselves.”
+**⁸** You have not performed the duty of my holy things; but you have set performers of my duty in my sanctuary for yourselves.”
 
-<sup>9</sup> The Lord Yahweh says, “No foreigner, uncircumcised in heart and uncircumcised in flesh, shall enter into my sanctuary, of any foreigners who are among the children of Israel.
+**⁹** The Lord Yahweh says, “No foreigner, uncircumcised in heart and uncircumcised in flesh, shall enter into my sanctuary, of any foreigners who are among the children of Israel.
 
-<sup>10</sup> “‘“But the Levites who went far from me when Israel went astray, who went astray from me after their idols, they will bear their iniquity.
+**¹⁰** “‘“But the Levites who went far from me when Israel went astray, who went astray from me after their idols, they will bear their iniquity.
 
-<sup>11</sup> Yet they shall be ministers in my sanctuary, having oversight at the gates of the house, and ministering in the house. They shall kill the burnt offering and the sacrifice for the people, and they shall stand before them to minister to them.
+**¹¹** Yet they shall be ministers in my sanctuary, having oversight at the gates of the house, and ministering in the house. They shall kill the burnt offering and the sacrifice for the people, and they shall stand before them to minister to them.
 
-<sup>12</sup> Because they ministered to them before their idols, and became a stumbling block of iniquity to the house of Israel, therefore I have lifted up my hand against them,” says the Lord Yahweh, “and they will bear their iniquity.
+**¹²** Because they ministered to them before their idols, and became a stumbling block of iniquity to the house of Israel, therefore I have lifted up my hand against them,” says the Lord Yahweh, “and they will bear their iniquity.
 
-<sup>13</sup> They shall not come near to me, to execute the office of priest to me, nor to come near to any of my holy things, to the things that are most holy; but they will bear their shame and their abominations which they have committed.
+**¹³** They shall not come near to me, to execute the office of priest to me, nor to come near to any of my holy things, to the things that are most holy; but they will bear their shame and their abominations which they have committed.
 
-<sup>14</sup> Yet I will make them performers of the duty of the house, for all its service and for all that will be done therein.
+**¹⁴** Yet I will make them performers of the duty of the house, for all its service and for all that will be done therein.
 
-<sup>15</sup> “‘“But the Levitical priests, the sons of Zadok, who performed the duty of my sanctuary when the children of Israel went astray from me, shall come near to me to minister to me. They shall stand before me to offer to me the fat and the blood,” says the Lord Yahweh.
+**¹⁵** “‘“But the Levitical priests, the sons of Zadok, who performed the duty of my sanctuary when the children of Israel went astray from me, shall come near to me to minister to me. They shall stand before me to offer to me the fat and the blood,” says the Lord Yahweh.
 
-<sup>16</sup> “They shall enter into my sanctuary, and they shall come near to my table, to minister to me, and they shall keep my instruction.
+**¹⁶** “They shall enter into my sanctuary, and they shall come near to my table, to minister to me, and they shall keep my instruction.
 
-<sup>17</sup> “‘“It will be that when they enter in at the gates of the inner court, they shall be clothed with linen garments. No wool shall come on them while they minister in the gates of the inner court, and within.
+**¹⁷** “‘“It will be that when they enter in at the gates of the inner court, they shall be clothed with linen garments. No wool shall come on them while they minister in the gates of the inner court, and within.
 
-<sup>18</sup> They shall have linen turbans on their heads, and shall have linen trousers on their waists. They shall not clothe themselves with anything that makes them sweat.
+**¹⁸** They shall have linen turbans on their heads, and shall have linen trousers on their waists. They shall not clothe themselves with anything that makes them sweat.
 
-<sup>19</sup> When they go out into the outer court, even into the outer court to the people, they shall put off their garments in which they minister and lay them in the holy rooms. They shall put on other garments, that they not sanctify the people with their garments.
+**¹⁹** When they go out into the outer court, even into the outer court to the people, they shall put off their garments in which they minister and lay them in the holy rooms. They shall put on other garments, that they not sanctify the people with their garments.
 
-<sup>20</sup> “‘“They shall not shave their heads, or allow their locks to grow long. They shall only cut off the hair of their heads.
+**²⁰** “‘“They shall not shave their heads, or allow their locks to grow long. They shall only cut off the hair of their heads.
 
-<sup>21</sup> None of the priests shall drink wine when they enter into the inner court.
+**²¹** None of the priests shall drink wine when they enter into the inner court.
 
-<sup>22</sup> They shall not take for their wives a widow, or her who is put away; but they shall take virgins of the offspring of the house of Israel, or a widow who is the widow of a priest.
+**²²** They shall not take for their wives a widow, or her who is put away; but they shall take virgins of the offspring of the house of Israel, or a widow who is the widow of a priest.
 
-<sup>23</sup> They shall teach my people the difference between the holy and the common, and cause them to discern between the unclean and the clean.
+**²³** They shall teach my people the difference between the holy and the common, and cause them to discern between the unclean and the clean.
 
-<sup>24</sup> “‘“In a controversy they shall stand to judge. They shall judge it according to my ordinances. They shall keep my laws and my statutes in all my appointed feasts. They shall make my Sabbaths holy.
+**²⁴** “‘“In a controversy they shall stand to judge. They shall judge it according to my ordinances. They shall keep my laws and my statutes in all my appointed feasts. They shall make my Sabbaths holy.
 
-<sup>25</sup> “‘“They shall go in to no dead person to defile themselves; but for father, or for mother, or for son, or for daughter, for brother, or for sister who has had no husband, they may defile themselves.
+**²⁵** “‘“They shall go in to no dead person to defile themselves; but for father, or for mother, or for son, or for daughter, for brother, or for sister who has had no husband, they may defile themselves.
 
-<sup>26</sup> After he is cleansed, they shall reckon to him seven days.
+**²⁶** After he is cleansed, they shall reckon to him seven days.
 
-<sup>27</sup> In the day that he goes into the sanctuary, into the inner court, to minister in the sanctuary, he shall offer his sin offering,” says the Lord Yahweh.
+**²⁷** In the day that he goes into the sanctuary, into the inner court, to minister in the sanctuary, he shall offer his sin offering,” says the Lord Yahweh.
 
-<sup>28</sup> “‘They shall have an inheritance: I am their inheritance; and you shall give them no possession in Israel. I am their possession.
+**²⁸** “‘They shall have an inheritance: I am their inheritance; and you shall give them no possession in Israel. I am their possession.
 
-<sup>29</sup> They shall eat the meal offering, and the sin offering, and the trespass offering; and every devoted thing in Israel shall be theirs.
+**²⁹** They shall eat the meal offering, and the sin offering, and the trespass offering; and every devoted thing in Israel shall be theirs.
 
-<sup>30</sup> The first of all the first fruits of every thing, and every offering of everything, of all your offerings, shall be for the priest. You shall also give to the priests the first of your dough, to cause a blessing to rest on your house.
+**³⁰** The first of all the first fruits of every thing, and every offering of everything, of all your offerings, shall be for the priest. You shall also give to the priests the first of your dough, to cause a blessing to rest on your house.
 
-<sup>31</sup> The priests shall not eat of anything that dies of itself or is torn, whether it is bird or animal.
+**³¹** The priests shall not eat of anything that dies of itself or is torn, whether it is bird or animal.

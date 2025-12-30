@@ -4,82 +4,82 @@ weight: 8
 
 # Chapter 8
 
-<sup>1</sup> Benjamin became the father of Bela his firstborn, Ashbel the second, Aharah the third,
+**¹** Benjamin became the father of Bela his firstborn, Ashbel the second, Aharah the third,
 
-<sup>2</sup> Nohah the fourth, and Rapha the fifth.
+**²** Nohah the fourth, and Rapha the fifth.
 
-<sup>3</sup> Bela had sons: Addar, Gera, Abihud,
+**³** Bela had sons: Addar, Gera, Abihud,
 
-<sup>4</sup> Abishua, Naaman, Ahoah,
+**⁴** Abishua, Naaman, Ahoah,
 
-<sup>5</sup> Gera, Shephuphan, and Huram.
+**⁵** Gera, Shephuphan, and Huram.
 
-<sup>6</sup> These are the sons of Ehud. These are the heads of fathers’ households of the inhabitants of Geba, who were carried captive to Manahath:
+**⁶** These are the sons of Ehud. These are the heads of fathers’ households of the inhabitants of Geba, who were carried captive to Manahath:
 
-<sup>7</sup> Naaman, Ahijah, and Gera, who carried them captive; and he became the father of Uzza and Ahihud.
+**⁷** Naaman, Ahijah, and Gera, who carried them captive; and he became the father of Uzza and Ahihud.
 
-<sup>8</sup> Shaharaim became the father of children in the field of Moab, after he had sent them away. Hushim and Baara were his wives.
+**⁸** Shaharaim became the father of children in the field of Moab, after he had sent them away. Hushim and Baara were his wives.
 
-<sup>9</sup> By Hodesh his wife, he became the father of Jobab, Zibia, Mesha, Malcam,
+**⁹** By Hodesh his wife, he became the father of Jobab, Zibia, Mesha, Malcam,
 
-<sup>10</sup> Jeuz, Shachia, and Mirmah. These were his sons, heads of fathers’ households.
+**¹⁰** Jeuz, Shachia, and Mirmah. These were his sons, heads of fathers’ households.
 
-<sup>11</sup> By Hushim, he became the father of Abitub and Elpaal.
+**¹¹** By Hushim, he became the father of Abitub and Elpaal.
 
-<sup>12</sup> The sons of Elpaal: Eber, Misham, and Shemed, who built Ono and Lod, with its towns;
+**¹²** The sons of Elpaal: Eber, Misham, and Shemed, who built Ono and Lod, with its towns;
 
-<sup>13</sup> and Beriah and Shema, who were heads of fathers’ households of the inhabitants of Aijalon, who put to flight the inhabitants of Gath;
+**¹³** and Beriah and Shema, who were heads of fathers’ households of the inhabitants of Aijalon, who put to flight the inhabitants of Gath;
 
-<sup>14</sup> and Ahio, Shashak, Jeremoth,
+**¹⁴** and Ahio, Shashak, Jeremoth,
 
-<sup>15</sup> Zebadiah, Arad, Eder,
+**¹⁵** Zebadiah, Arad, Eder,
 
-<sup>16</sup> Michael, Ishpah, Joha, the sons of Beriah,
+**¹⁶** Michael, Ishpah, Joha, the sons of Beriah,
 
-<sup>17</sup> Zebadiah, Meshullam, Hizki, Heber,
+**¹⁷** Zebadiah, Meshullam, Hizki, Heber,
 
-<sup>18</sup> Ishmerai, Izliah, Jobab, the sons of Elpaal,
+**¹⁸** Ishmerai, Izliah, Jobab, the sons of Elpaal,
 
-<sup>19</sup> Jakim, Zichri, Zabdi,
+**¹⁹** Jakim, Zichri, Zabdi,
 
-<sup>20</sup> Elienai, Zillethai, Eliel,
+**²⁰** Elienai, Zillethai, Eliel,
 
-<sup>21</sup> Adaiah, Beraiah, Shimrath, the sons of Shimei,
+**²¹** Adaiah, Beraiah, Shimrath, the sons of Shimei,
 
-<sup>22</sup> Ishpan, Eber, Eliel,
+**²²** Ishpan, Eber, Eliel,
 
-<sup>23</sup> Abdon, Zichri, Hanan,
+**²³** Abdon, Zichri, Hanan,
 
-<sup>24</sup> Hananiah, Elam, Anthothijah,
+**²⁴** Hananiah, Elam, Anthothijah,
 
-<sup>25</sup> Iphdeiah, Penuel, the sons of Shashak,
+**²⁵** Iphdeiah, Penuel, the sons of Shashak,
 
-<sup>26</sup> Shamsherai, Shehariah, Athaliah,
+**²⁶** Shamsherai, Shehariah, Athaliah,
 
-<sup>27</sup> Jaareshiah, Elijah, Zichri, and the sons of Jeroham.
+**²⁷** Jaareshiah, Elijah, Zichri, and the sons of Jeroham.
 
-<sup>28</sup> These were heads of fathers’ households throughout their generations, chief men. These lived in Jerusalem.
+**²⁸** These were heads of fathers’ households throughout their generations, chief men. These lived in Jerusalem.
 
-<sup>29</sup> The father of Gibeon, whose wife’s name was Maacah, lived in Gibeon
+**²⁹** The father of Gibeon, whose wife’s name was Maacah, lived in Gibeon
 
-<sup>30</sup> with his firstborn son Abdon, Zur, Kish, Baal, Nadab,
+**³⁰** with his firstborn son Abdon, Zur, Kish, Baal, Nadab,
 
-<sup>31</sup> Gedor, Ahio, Zecher,
+**³¹** Gedor, Ahio, Zecher,
 
-<sup>32</sup> and Mikloth, who became the father of Shimeah. They also lived with their families in Jerusalem, near their relatives.
+**³²** and Mikloth, who became the father of Shimeah. They also lived with their families in Jerusalem, near their relatives.
 
-<sup>33</sup> Ner became the father of Kish. Kish became the father of Saul. Saul became the father of Jonathan, Malchishua, Abinadab, and Eshbaal.
+**³³** Ner became the father of Kish. Kish became the father of Saul. Saul became the father of Jonathan, Malchishua, Abinadab, and Eshbaal.
 
-<sup>34</sup> The son of Jonathan was Merib-baal. Merib-baal became the father of Micah.
+**³⁴** The son of Jonathan was Merib-baal. Merib-baal became the father of Micah.
 
-<sup>35</sup> The sons of Micah: Pithon, Melech, Tarea, and Ahaz.
+**³⁵** The sons of Micah: Pithon, Melech, Tarea, and Ahaz.
 
-<sup>36</sup> Ahaz became the father of Jehoaddah. Jehoaddah became the father of Alemeth, Azmaveth, and Zimri. Zimri became the father of Moza.
+**³⁶** Ahaz became the father of Jehoaddah. Jehoaddah became the father of Alemeth, Azmaveth, and Zimri. Zimri became the father of Moza.
 
-<sup>37</sup> Moza became the father of Binea. Raphah was his son, Eleasah his son, and Azel his son.
+**³⁷** Moza became the father of Binea. Raphah was his son, Eleasah his son, and Azel his son.
 
-<sup>38</sup> Azel had six sons, whose names are these: Azrikam, Bocheru, Ishmael, Sheariah, Obadiah, and Hanan. All these were the sons of Azel.
+**³⁸** Azel had six sons, whose names are these: Azrikam, Bocheru, Ishmael, Sheariah, Obadiah, and Hanan. All these were the sons of Azel.
 
-<sup>39</sup> The sons of Eshek his brother: Ulam his firstborn, Jeush the second, and Eliphelet the third.
+**³⁹** The sons of Eshek his brother: Ulam his firstborn, Jeush the second, and Eliphelet the third.
 
-<sup>40</sup> The sons of Ulam were mighty men of valor, archers, and had many sons, and grandsons, one hundred fifty. All these were of the sons of Benjamin.
+**⁴⁰** The sons of Ulam were mighty men of valor, archers, and had many sons, and grandsons, one hundred fifty. All these were of the sons of Benjamin.

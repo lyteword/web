@@ -4,55 +4,55 @@ weight: 2
 
 # Chapter 2
 
-<sup>1</sup> A man of the house of Levi went and took a daughter of Levi as his wife.
+**¹** A man of the house of Levi went and took a daughter of Levi as his wife.
 
-<sup>2</sup> The woman conceived and bore a son. When she saw that he was a fine child, she hid him three months.
+**²** The woman conceived and bore a son. When she saw that he was a fine child, she hid him three months.
 
-<sup>3</sup> When she could no longer hide him, she took a papyrus basket for him, and coated it with tar and with pitch. She put the child in it, and laid it in the reeds by the river’s bank.
+**³** When she could no longer hide him, she took a papyrus basket for him, and coated it with tar and with pitch. She put the child in it, and laid it in the reeds by the river’s bank.
 
-<sup>4</sup> His sister stood far off, to see what would be done to him.
+**⁴** His sister stood far off, to see what would be done to him.
 
-<sup>5</sup> Pharaoh’s daughter came down to bathe at the river. Her maidens walked along by the riverside. She saw the basket among the reeds, and sent her servant to get it.
+**⁵** Pharaoh’s daughter came down to bathe at the river. Her maidens walked along by the riverside. She saw the basket among the reeds, and sent her servant to get it.
 
-<sup>6</sup> She opened it, and saw the child, and behold, the baby cried. She had compassion on him, and said, “This is one of the Hebrews’ children.”
+**⁶** She opened it, and saw the child, and behold, the baby cried. She had compassion on him, and said, “This is one of the Hebrews’ children.”
 
-<sup>7</sup> Then his sister said to Pharaoh’s daughter, “Should I go and call a nurse for you from the Hebrew women, that she may nurse the child for you?”
+**⁷** Then his sister said to Pharaoh’s daughter, “Should I go and call a nurse for you from the Hebrew women, that she may nurse the child for you?”
 
-<sup>8</sup> Pharaoh’s daughter said to her, “Go.” The young woman went and called the child’s mother.
+**⁸** Pharaoh’s daughter said to her, “Go.” The young woman went and called the child’s mother.
 
-<sup>9</sup> Pharaoh’s daughter said to her, “Take this child away, and nurse him for me, and I will give you your wages.” The woman took the child, and nursed it.
+**⁹** Pharaoh’s daughter said to her, “Take this child away, and nurse him for me, and I will give you your wages.” The woman took the child, and nursed it.
 
-<sup>10</sup> The child grew, and she brought him to Pharaoh’s daughter, and he became her son. She named him Moses,[^53] and said, “Because I drew him out of the water.”
+**¹⁰** The child grew, and she brought him to Pharaoh’s daughter, and he became her son. She named him Moses,[^53] and said, “Because I drew him out of the water.”
 
-<sup>11</sup> In those days, when Moses had grown up, he went out to his brothers and saw their burdens. He saw an Egyptian striking a Hebrew, one of his brothers.
+**¹¹** In those days, when Moses had grown up, he went out to his brothers and saw their burdens. He saw an Egyptian striking a Hebrew, one of his brothers.
 
-<sup>12</sup> He looked this way and that way, and when he saw that there was no one, he killed the Egyptian, and hid him in the sand.
+**¹²** He looked this way and that way, and when he saw that there was no one, he killed the Egyptian, and hid him in the sand.
 
-<sup>13</sup> He went out the second day, and behold, two men of the Hebrews were fighting with each other. He said to him who did the wrong, “Why do you strike your fellow?”
+**¹³** He went out the second day, and behold, two men of the Hebrews were fighting with each other. He said to him who did the wrong, “Why do you strike your fellow?”
 
-<sup>14</sup> He said, “Who made you a prince and a judge over us? Do you plan to kill me, as you killed the Egyptian?” Moses was afraid, and said, “Surely this thing is known.”
+**¹⁴** He said, “Who made you a prince and a judge over us? Do you plan to kill me, as you killed the Egyptian?” Moses was afraid, and said, “Surely this thing is known.”
 
-<sup>15</sup> Now when Pharaoh heard this thing, he sought to kill Moses. But Moses fled from the face of Pharaoh, and lived in the land of Midian, and he sat down by a well.
+**¹⁵** Now when Pharaoh heard this thing, he sought to kill Moses. But Moses fled from the face of Pharaoh, and lived in the land of Midian, and he sat down by a well.
 
-<sup>16</sup> Now the priest of Midian had seven daughters. They came and drew water, and filled the troughs to water their father’s flock.
+**¹⁶** Now the priest of Midian had seven daughters. They came and drew water, and filled the troughs to water their father’s flock.
 
-<sup>17</sup> The shepherds came and drove them away; but Moses stood up and helped them, and watered their flock.
+**¹⁷** The shepherds came and drove them away; but Moses stood up and helped them, and watered their flock.
 
-<sup>18</sup> When they came to Reuel, their father, he said, “How is it that you have returned so early today?”
+**¹⁸** When they came to Reuel, their father, he said, “How is it that you have returned so early today?”
 
-<sup>19</sup> They said, “An Egyptian delivered us out of the hand of the shepherds, and moreover he drew water for us, and watered the flock.”
+**¹⁹** They said, “An Egyptian delivered us out of the hand of the shepherds, and moreover he drew water for us, and watered the flock.”
 
-<sup>20</sup> He said to his daughters, “Where is he? Why is it that you have left the man? Call him, that he may eat bread.”
+**²⁰** He said to his daughters, “Where is he? Why is it that you have left the man? Call him, that he may eat bread.”
 
-<sup>21</sup> Moses was content to dwell with the man. He gave Moses Zipporah, his daughter.
+**²¹** Moses was content to dwell with the man. He gave Moses Zipporah, his daughter.
 
-<sup>22</sup> She bore a son, and he named him Gershom,[^54] for he said, “I have lived as a foreigner in a foreign land.”
+**²²** She bore a son, and he named him Gershom,[^54] for he said, “I have lived as a foreigner in a foreign land.”
 
-<sup>23</sup> In the course of those many days, the king of Egypt died, and the children of Israel sighed because of the bondage, and they cried, and their cry came up to God because of the bondage.
+**²³** In the course of those many days, the king of Egypt died, and the children of Israel sighed because of the bondage, and they cried, and their cry came up to God because of the bondage.
 
-<sup>24</sup> God heard their groaning, and God remembered his covenant with Abraham, with Isaac, and with Jacob.
+**²⁴** God heard their groaning, and God remembered his covenant with Abraham, with Isaac, and with Jacob.
 
-<sup>25</sup> God saw the children of Israel, and God understood.
+**²⁵** God saw the children of Israel, and God understood.
 
 [^53]: 2:10 “Moses” sounds like the Hebrew for “draw out”.
 [^54]: 2:22 “Gershom” sounds like the Hebrew for “an alien there”.

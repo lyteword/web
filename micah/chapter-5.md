@@ -4,32 +4,32 @@ weight: 5
 
 # Chapter 5
 
-<sup>1</sup> Now you shall gather yourself in troops, daughter of troops. He has laid siege against us. They will strike the judge of Israel with a rod on the cheek.
+**¹** Now you shall gather yourself in troops, daughter of troops. He has laid siege against us. They will strike the judge of Israel with a rod on the cheek.
 
-<sup>2</sup> But you, Bethlehem Ephrathah, being small among the clans of Judah, out of you one will come out to me who is to be ruler in Israel; whose goings out are from of old, from ancient times.
+**²** But you, Bethlehem Ephrathah, being small among the clans of Judah, out of you one will come out to me who is to be ruler in Israel; whose goings out are from of old, from ancient times.
 
-<sup>3</sup> Therefore he will abandon them until the time that she who is in labor gives birth. Then the rest of his brothers will return to the children of Israel.
+**³** Therefore he will abandon them until the time that she who is in labor gives birth. Then the rest of his brothers will return to the children of Israel.
 
-<sup>4</sup> He shall stand, and shall shepherd in the strength of Yahweh, in the majesty of the name of Yahweh his God. They will live, for then he will be great to the ends of the earth.
+**⁴** He shall stand, and shall shepherd in the strength of Yahweh, in the majesty of the name of Yahweh his God. They will live, for then he will be great to the ends of the earth.
 
-<sup>5</sup> He will be our peace when Assyria invades our land and when he marches through our fortresses, then we will raise against him seven shepherds, and eight leaders of men.
+**⁵** He will be our peace when Assyria invades our land and when he marches through our fortresses, then we will raise against him seven shepherds, and eight leaders of men.
 
-<sup>6</sup> They will rule the land of Assyria with the sword, and the land of Nimrod in its gates. He will deliver us from the Assyrian, when he invades our land, and when he marches within our border.
+**⁶** They will rule the land of Assyria with the sword, and the land of Nimrod in its gates. He will deliver us from the Assyrian, when he invades our land, and when he marches within our border.
 
-<sup>7</sup> The remnant of Jacob will be among many peoples like dew from Yahweh, like showers on the grass, that don’t wait for man nor wait for the sons of men.
+**⁷** The remnant of Jacob will be among many peoples like dew from Yahweh, like showers on the grass, that don’t wait for man nor wait for the sons of men.
 
-<sup>8</sup> The remnant of Jacob will be among the nations, among many peoples, like a lion among the animals of the forest, like a young lion among the flocks of sheep; who, if he goes through, treads down and tears in pieces, and there is no one to deliver.
+**⁸** The remnant of Jacob will be among the nations, among many peoples, like a lion among the animals of the forest, like a young lion among the flocks of sheep; who, if he goes through, treads down and tears in pieces, and there is no one to deliver.
 
-<sup>9</sup> Let your hand be lifted up above your adversaries, and let all of your enemies be cut off.
+**⁹** Let your hand be lifted up above your adversaries, and let all of your enemies be cut off.
 
-<sup>10</sup> “It will happen in that day”, says Yahweh, “that I will cut off your horses from among you and will destroy your chariots.
+**¹⁰** “It will happen in that day”, says Yahweh, “that I will cut off your horses from among you and will destroy your chariots.
 
-<sup>11</sup> I will cut off the cities of your land and will tear down all your strongholds.
+**¹¹** I will cut off the cities of your land and will tear down all your strongholds.
 
-<sup>12</sup> I will destroy witchcraft from your hand. You shall have no soothsayers.
+**¹²** I will destroy witchcraft from your hand. You shall have no soothsayers.
 
-<sup>13</sup> I will cut off your engraved images and your pillars from among you; and you shall no more worship the work of your hands.
+**¹³** I will cut off your engraved images and your pillars from among you; and you shall no more worship the work of your hands.
 
-<sup>14</sup> I will uproot your Asherah poles from among you; and I will destroy your cities.
+**¹⁴** I will uproot your Asherah poles from among you; and I will destroy your cities.
 
-<sup>15</sup> I will execute vengeance in anger and wrath on the nations that didn’t listen.”
+**¹⁵** I will execute vengeance in anger and wrath on the nations that didn’t listen.”

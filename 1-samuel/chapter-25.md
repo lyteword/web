@@ -4,93 +4,93 @@ weight: 25
 
 # Chapter 25
 
-<sup>1</sup> Samuel died; and all Israel gathered themselves together and mourned for him, and buried him at his house at Ramah. Then David arose and went down to the wilderness of Paran.
+**¹** Samuel died; and all Israel gathered themselves together and mourned for him, and buried him at his house at Ramah. Then David arose and went down to the wilderness of Paran.
 
-<sup>2</sup> There was a man in Maon whose possessions were in Carmel; and the man was very great. He had three thousand sheep and a thousand goats; and he was shearing his sheep in Carmel.
+**²** There was a man in Maon whose possessions were in Carmel; and the man was very great. He had three thousand sheep and a thousand goats; and he was shearing his sheep in Carmel.
 
-<sup>3</sup> Now the name of the man was Nabal; and the name of his wife Abigail. This woman was intelligent and had a beautiful face; but the man was surly and evil in his doings. He was of the house of Caleb.
+**³** Now the name of the man was Nabal; and the name of his wife Abigail. This woman was intelligent and had a beautiful face; but the man was surly and evil in his doings. He was of the house of Caleb.
 
-<sup>4</sup> David heard in the wilderness that Nabal was shearing his sheep.
+**⁴** David heard in the wilderness that Nabal was shearing his sheep.
 
-<sup>5</sup> David sent ten young men; and David said to the young men, “Go up to Carmel, and go to Nabal, and greet him in my name.
+**⁵** David sent ten young men; and David said to the young men, “Go up to Carmel, and go to Nabal, and greet him in my name.
 
-<sup>6</sup> Tell him, ‘Long life to you! Peace be to you! Peace be to your house! Peace be to all that you have!
+**⁶** Tell him, ‘Long life to you! Peace be to you! Peace be to your house! Peace be to all that you have!
 
-<sup>7</sup> Now I have heard that you have shearers. Your shepherds have now been with us, and we didn’t harm them. Nothing was missing from them all the time they were in Carmel.
+**⁷** Now I have heard that you have shearers. Your shepherds have now been with us, and we didn’t harm them. Nothing was missing from them all the time they were in Carmel.
 
-<sup>8</sup> Ask your young men, and they will tell you. Therefore let the young men find favor in your eyes, for we come on a good day. Please give whatever comes to your hand to your servants and to your son David.’”
+**⁸** Ask your young men, and they will tell you. Therefore let the young men find favor in your eyes, for we come on a good day. Please give whatever comes to your hand to your servants and to your son David.’”
 
-<sup>9</sup> When David’s young men came, they spoke to Nabal all those words in the name of David, and waited.
+**⁹** When David’s young men came, they spoke to Nabal all those words in the name of David, and waited.
 
-<sup>10</sup> Nabal answered David’s servants and said, “Who is David? Who is the son of Jesse? There are many servants who break away from their masters these days.
+**¹⁰** Nabal answered David’s servants and said, “Who is David? Who is the son of Jesse? There are many servants who break away from their masters these days.
 
-<sup>11</sup> Shall I then take my bread, my water, and my meat that I have killed for my shearers, and give it to men who I don’t know where they come from?”
+**¹¹** Shall I then take my bread, my water, and my meat that I have killed for my shearers, and give it to men who I don’t know where they come from?”
 
-<sup>12</sup> So David’s young men turned on their way and went back, and came and told him all these words.
+**¹²** So David’s young men turned on their way and went back, and came and told him all these words.
 
-<sup>13</sup> David said to his men, “Every man put on his sword!” Every man put on his sword. David also put on his sword. About four hundred men followed David, and two hundred stayed by the baggage.
+**¹³** David said to his men, “Every man put on his sword!” Every man put on his sword. David also put on his sword. About four hundred men followed David, and two hundred stayed by the baggage.
 
-<sup>14</sup> But one of the young men told Abigail, Nabal’s wife, saying, “Behold, David sent messengers out of the wilderness to greet our master; and he insulted them.
+**¹⁴** But one of the young men told Abigail, Nabal’s wife, saying, “Behold, David sent messengers out of the wilderness to greet our master; and he insulted them.
 
-<sup>15</sup> But the men were very good to us, and we were not harmed, and we didn’t miss anything as long as we went with them, when we were in the fields.
+**¹⁵** But the men were very good to us, and we were not harmed, and we didn’t miss anything as long as we went with them, when we were in the fields.
 
-<sup>16</sup> They were a wall to us both by night and by day, all the while we were with them keeping the sheep.
+**¹⁶** They were a wall to us both by night and by day, all the while we were with them keeping the sheep.
 
-<sup>17</sup> Now therefore know and consider what you will do; for evil is determined against our master and against all his house, for he is such a worthless fellow that one can’t speak to him.”
+**¹⁷** Now therefore know and consider what you will do; for evil is determined against our master and against all his house, for he is such a worthless fellow that one can’t speak to him.”
 
-<sup>18</sup> Then Abigail hurried and took two hundred loaves of bread, two containers of wine, five sheep ready dressed, five seahs[^244] of parched grain, one hundred clusters of raisins, and two hundred cakes of figs, and laid them on donkeys.
+**¹⁸** Then Abigail hurried and took two hundred loaves of bread, two containers of wine, five sheep ready dressed, five seahs[^244] of parched grain, one hundred clusters of raisins, and two hundred cakes of figs, and laid them on donkeys.
 
-<sup>19</sup> She said to her young men, “Go on before me. Behold, I am coming after you.” But she didn’t tell her husband, Nabal.
+**¹⁹** She said to her young men, “Go on before me. Behold, I am coming after you.” But she didn’t tell her husband, Nabal.
 
-<sup>20</sup> As she rode on her donkey, and came down hidden by the mountain, behold, David and his men came down toward her, and she met them.
+**²⁰** As she rode on her donkey, and came down hidden by the mountain, behold, David and his men came down toward her, and she met them.
 
-<sup>21</sup> Now David had said, “Surely in vain I have kept all that this fellow has in the wilderness, so that nothing was missed of all that pertained to him. He has returned me evil for good.
+**²¹** Now David had said, “Surely in vain I have kept all that this fellow has in the wilderness, so that nothing was missed of all that pertained to him. He has returned me evil for good.
 
-<sup>22</sup> God do so to the enemies of David, and more also, if I leave of all that belongs to him by the morning light so much as one who urinates on a wall.”[^245]
+**²²** God do so to the enemies of David, and more also, if I leave of all that belongs to him by the morning light so much as one who urinates on a wall.”[^245]
 
-<sup>23</sup> When Abigail saw David, she hurried and got off her donkey, and fell before David on her face and bowed herself to the ground.
+**²³** When Abigail saw David, she hurried and got off her donkey, and fell before David on her face and bowed herself to the ground.
 
-<sup>24</sup> She fell at his feet and said, “On me, my lord, on me be the blame! Please let your servant speak in your ears. Hear the words of your servant.
+**²⁴** She fell at his feet and said, “On me, my lord, on me be the blame! Please let your servant speak in your ears. Hear the words of your servant.
 
-<sup>25</sup> Please don’t let my lord pay attention to this worthless fellow, Nabal, for as his name is, so is he. Nabal[^246] is his name, and folly is with him; but I, your servant, didn’t see my lord’s young men whom you sent.
+**²⁵** Please don’t let my lord pay attention to this worthless fellow, Nabal, for as his name is, so is he. Nabal[^246] is his name, and folly is with him; but I, your servant, didn’t see my lord’s young men whom you sent.
 
-<sup>26</sup> Now therefore, my lord, as Yahweh lives and as your soul lives, since Yahweh has withheld you from blood guiltiness and from avenging yourself with your own hand, now therefore let your enemies and those who seek evil to my lord be as Nabal.
+**²⁶** Now therefore, my lord, as Yahweh lives and as your soul lives, since Yahweh has withheld you from blood guiltiness and from avenging yourself with your own hand, now therefore let your enemies and those who seek evil to my lord be as Nabal.
 
-<sup>27</sup> Now this present which your servant has brought to my lord, let it be given to the young men who follow my lord.
+**²⁷** Now this present which your servant has brought to my lord, let it be given to the young men who follow my lord.
 
-<sup>28</sup> Please forgive the trespass of your servant. For Yahweh will certainly make my lord a sure house, because my lord fights Yahweh’s battles. Evil will not be found in you all your days.
+**²⁸** Please forgive the trespass of your servant. For Yahweh will certainly make my lord a sure house, because my lord fights Yahweh’s battles. Evil will not be found in you all your days.
 
-<sup>29</sup> Though men may rise up to pursue you and to seek your soul, yet the soul of my lord will be bound in the bundle of life with Yahweh your God. He will sling out the souls of your enemies as from a sling’s pocket.
+**²⁹** Though men may rise up to pursue you and to seek your soul, yet the soul of my lord will be bound in the bundle of life with Yahweh your God. He will sling out the souls of your enemies as from a sling’s pocket.
 
-<sup>30</sup> It will come to pass, when Yahweh has done to my lord according to all the good that he has spoken concerning you, and has appointed you prince over Israel,
+**³⁰** It will come to pass, when Yahweh has done to my lord according to all the good that he has spoken concerning you, and has appointed you prince over Israel,
 
-<sup>31</sup> that this shall be no grief to you, nor offense of heart to my lord, either that you have shed blood without cause, or that my lord has avenged himself. When Yahweh has dealt well with my lord, then remember your servant.”
+**³¹** that this shall be no grief to you, nor offense of heart to my lord, either that you have shed blood without cause, or that my lord has avenged himself. When Yahweh has dealt well with my lord, then remember your servant.”
 
-<sup>32</sup> David said to Abigail, “Blessed is Yahweh, the God of Israel, who sent you today to meet me!
+**³²** David said to Abigail, “Blessed is Yahweh, the God of Israel, who sent you today to meet me!
 
-<sup>33</sup> Blessed is your discretion, and blessed are you, who have kept me today from blood guiltiness, and from avenging myself with my own hand.
+**³³** Blessed is your discretion, and blessed are you, who have kept me today from blood guiltiness, and from avenging myself with my own hand.
 
-<sup>34</sup> For indeed, as Yahweh the God of Israel lives, who has withheld me from harming you, unless you had hurried and come to meet me, surely there wouldn’t have been left to Nabal by the morning light so much as one who urinates on a wall.”[^247]
+**³⁴** For indeed, as Yahweh the God of Israel lives, who has withheld me from harming you, unless you had hurried and come to meet me, surely there wouldn’t have been left to Nabal by the morning light so much as one who urinates on a wall.”[^247]
 
-<sup>35</sup> So David received from her hand that which she had brought him. Then he said to her, “Go up in peace to your house. Behold, I have listened to your voice and have granted your request.”
+**³⁵** So David received from her hand that which she had brought him. Then he said to her, “Go up in peace to your house. Behold, I have listened to your voice and have granted your request.”
 
-<sup>36</sup> Abigail came to Nabal; and behold, he held a feast in his house like the feast of a king. Nabal’s heart was merry within him, for he was very drunk. Therefore she told him nothing until the morning light.
+**³⁶** Abigail came to Nabal; and behold, he held a feast in his house like the feast of a king. Nabal’s heart was merry within him, for he was very drunk. Therefore she told him nothing until the morning light.
 
-<sup>37</sup> In the morning, when the wine had gone out of Nabal, his wife told him these things; and his heart died within him, and he became as a stone.
+**³⁷** In the morning, when the wine had gone out of Nabal, his wife told him these things; and his heart died within him, and he became as a stone.
 
-<sup>38</sup> About ten days later, Yahweh struck Nabal, so that he died.
+**³⁸** About ten days later, Yahweh struck Nabal, so that he died.
 
-<sup>39</sup> When David heard that Nabal was dead, he said, “Blessed is Yahweh, who has pleaded the cause of my reproach from the hand of Nabal, and has kept back his servant from evil. Yahweh has returned the evildoing of Nabal on his own head.” David sent and spoke concerning Abigail, to take her to himself as wife.
+**³⁹** When David heard that Nabal was dead, he said, “Blessed is Yahweh, who has pleaded the cause of my reproach from the hand of Nabal, and has kept back his servant from evil. Yahweh has returned the evildoing of Nabal on his own head.” David sent and spoke concerning Abigail, to take her to himself as wife.
 
-<sup>40</sup> When David’s servants had come to Abigail to Carmel, they spoke to her, saying, “David has sent us to you, to take you to him as wife.”
+**⁴⁰** When David’s servants had come to Abigail to Carmel, they spoke to her, saying, “David has sent us to you, to take you to him as wife.”
 
-<sup>41</sup> She arose and bowed herself with her face to the earth, and said, “Behold, your servant is a servant to wash the feet of the servants of my lord.”
+**⁴¹** She arose and bowed herself with her face to the earth, and said, “Behold, your servant is a servant to wash the feet of the servants of my lord.”
 
-<sup>42</sup> Abigail hurriedly arose and rode on a donkey with her five maids who followed her; and she went after the messengers of David, and became his wife.
+**⁴²** Abigail hurriedly arose and rode on a donkey with her five maids who followed her; and she went after the messengers of David, and became his wife.
 
-<sup>43</sup> David also took Ahinoam of Jezreel; and they both became his wives.
+**⁴³** David also took Ahinoam of Jezreel; and they both became his wives.
 
-<sup>44</sup> Now Saul had given Michal his daughter, David’s wife, to Palti the son of Laish, who was of Gallim.
+**⁴⁴** Now Saul had given Michal his daughter, David’s wife, to Palti the son of Laish, who was of Gallim.
 
 [^244]: 25:18 1 seah is about 7 liters or 1.9 gallons or 0.8 pecks
 [^245]: 25:22 or, male.

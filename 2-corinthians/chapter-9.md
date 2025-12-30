@@ -4,34 +4,34 @@ weight: 9
 
 # Chapter 9
 
-<sup>1</sup> It is indeed unnecessary for me to write to you concerning the service to the saints,
+**¹** It is indeed unnecessary for me to write to you concerning the service to the saints,
 
-<sup>2</sup> for I know your readiness, of which I boast on your behalf to those of Macedonia, that Achaia has been prepared for the past year. Your zeal has stirred up very many of them.
+**²** for I know your readiness, of which I boast on your behalf to those of Macedonia, that Achaia has been prepared for the past year. Your zeal has stirred up very many of them.
 
-<sup>3</sup> But I have sent the brothers so that our boasting on your behalf may not be in vain in this respect, that, just as I said, you may be prepared,
+**³** But I have sent the brothers so that our boasting on your behalf may not be in vain in this respect, that, just as I said, you may be prepared,
 
-<sup>4</sup> lest by any means, if anyone from Macedonia comes there with me and finds you unprepared, we (to say nothing of you) would be disappointed in this confident boasting.
+**⁴** lest by any means, if anyone from Macedonia comes there with me and finds you unprepared, we (to say nothing of you) would be disappointed in this confident boasting.
 
-<sup>5</sup> I thought it necessary therefore to entreat the brothers that they would go before to you and arrange ahead of time the generous gift that you promised before, that the same might be ready as a matter of generosity, and not of greediness.
+**⁵** I thought it necessary therefore to entreat the brothers that they would go before to you and arrange ahead of time the generous gift that you promised before, that the same might be ready as a matter of generosity, and not of greediness.
 
-<sup>6</sup> Remember this: he who sows sparingly will also reap sparingly. He who sows bountifully will also reap bountifully.
+**⁶** Remember this: he who sows sparingly will also reap sparingly. He who sows bountifully will also reap bountifully.
 
-<sup>7</sup> Let each man give according as he has determined in his heart, not grudgingly or under compulsion, for God loves a cheerful giver.
+**⁷** Let each man give according as he has determined in his heart, not grudgingly or under compulsion, for God loves a cheerful giver.
 
-<sup>8</sup> And God is able to make all grace abound to you, that you, always having all sufficiency in everything, may abound to every good work.
+**⁸** And God is able to make all grace abound to you, that you, always having all sufficiency in everything, may abound to every good work.
 
-<sup>9</sup> As it is written, “He has scattered abroad. He has given to the poor. His righteousness remains forever.”[^1228]
+**⁹** As it is written, “He has scattered abroad. He has given to the poor. His righteousness remains forever.”[^1228]
 
-<sup>10</sup> Now may he who supplies seed to the sower and bread for food, supply and multiply your seed for sowing, and increase the fruits of your righteousness,
+**¹⁰** Now may he who supplies seed to the sower and bread for food, supply and multiply your seed for sowing, and increase the fruits of your righteousness,
 
-<sup>11</sup> you being enriched in everything for all generosity, which produces thanksgiving to God through us.
+**¹¹** you being enriched in everything for all generosity, which produces thanksgiving to God through us.
 
-<sup>12</sup> For this service of giving that you perform not only makes up for lack among the saints, but abounds also through much giving of thanks to God,
+**¹²** For this service of giving that you perform not only makes up for lack among the saints, but abounds also through much giving of thanks to God,
 
-<sup>13</sup> seeing that through the proof given by this service, they glorify God for the obedience of your confession to the Good News of Christ and for the generosity of your contribution to them and to all,
+**¹³** seeing that through the proof given by this service, they glorify God for the obedience of your confession to the Good News of Christ and for the generosity of your contribution to them and to all,
 
-<sup>14</sup> while they themselves also, with supplication on your behalf, yearn for you by reason of the exceeding grace of God in you.
+**¹⁴** while they themselves also, with supplication on your behalf, yearn for you by reason of the exceeding grace of God in you.
 
-<sup>15</sup> Now thanks be to God for his unspeakable gift!
+**¹⁵** Now thanks be to God for his unspeakable gift!
 
 [^1228]: 9:9 Psalms 112:9

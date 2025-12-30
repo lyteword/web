@@ -4,67 +4,67 @@ weight: 1
 
 # Chapter 1
 
-<sup>1</sup> In the beginning, God[^1] created the heavens and the earth.
+**¹** In the beginning, God[^1] created the heavens and the earth.
 
-<sup>2</sup> The earth was formless and empty. Darkness was on the surface of the deep and God’s Spirit was hovering over the surface of the waters.
+**²** The earth was formless and empty. Darkness was on the surface of the deep and God’s Spirit was hovering over the surface of the waters.
 
-<sup>3</sup> God said, “Let there be light,” and there was light.
+**³** God said, “Let there be light,” and there was light.
 
-<sup>4</sup> God saw the light, and saw that it was good. God divided the light from the darkness.
+**⁴** God saw the light, and saw that it was good. God divided the light from the darkness.
 
-<sup>5</sup> God called the light “day”, and the darkness he called “night”. There was evening and there was morning, the first day.
+**⁵** God called the light “day”, and the darkness he called “night”. There was evening and there was morning, the first day.
 
-<sup>6</sup> God said, “Let there be an expanse in the middle of the waters, and let it divide the waters from the waters.”
+**⁶** God said, “Let there be an expanse in the middle of the waters, and let it divide the waters from the waters.”
 
-<sup>7</sup> God made the expanse, and divided the waters which were under the expanse from the waters which were above the expanse; and it was so.
+**⁷** God made the expanse, and divided the waters which were under the expanse from the waters which were above the expanse; and it was so.
 
-<sup>8</sup> God called the expanse “sky”. There was evening and there was morning, a second day.
+**⁸** God called the expanse “sky”. There was evening and there was morning, a second day.
 
-<sup>9</sup> God said, “Let the waters under the sky be gathered together to one place, and let the dry land appear;” and it was so.
+**⁹** God said, “Let the waters under the sky be gathered together to one place, and let the dry land appear;” and it was so.
 
-<sup>10</sup> God called the dry land “earth”, and the gathering together of the waters he called “seas”. God saw that it was good.
+**¹⁰** God called the dry land “earth”, and the gathering together of the waters he called “seas”. God saw that it was good.
 
-<sup>11</sup> God said, “Let the earth yield grass, herbs yielding seeds, and fruit trees bearing fruit after their kind, with their seeds in it, on the earth;” and it was so.
+**¹¹** God said, “Let the earth yield grass, herbs yielding seeds, and fruit trees bearing fruit after their kind, with their seeds in it, on the earth;” and it was so.
 
-<sup>12</sup> The earth yielded grass, herbs yielding seed after their kind, and trees bearing fruit, with their seeds in it, after their kind; and God saw that it was good.
+**¹²** The earth yielded grass, herbs yielding seed after their kind, and trees bearing fruit, with their seeds in it, after their kind; and God saw that it was good.
 
-<sup>13</sup> There was evening and there was morning, a third day.
+**¹³** There was evening and there was morning, a third day.
 
-<sup>14</sup> God said, “Let there be lights in the expanse of the sky to divide the day from the night; and let them be for signs to mark seasons, days, and years;
+**¹⁴** God said, “Let there be lights in the expanse of the sky to divide the day from the night; and let them be for signs to mark seasons, days, and years;
 
-<sup>15</sup> and let them be for lights in the expanse of the sky to give light on the earth;” and it was so.
+**¹⁵** and let them be for lights in the expanse of the sky to give light on the earth;” and it was so.
 
-<sup>16</sup> God made the two great lights: the greater light to rule the day, and the lesser light to rule the night. He also made the stars.
+**¹⁶** God made the two great lights: the greater light to rule the day, and the lesser light to rule the night. He also made the stars.
 
-<sup>17</sup> God set them in the expanse of the sky to give light to the earth,
+**¹⁷** God set them in the expanse of the sky to give light to the earth,
 
-<sup>18</sup> and to rule over the day and over the night, and to divide the light from the darkness. God saw that it was good.
+**¹⁸** and to rule over the day and over the night, and to divide the light from the darkness. God saw that it was good.
 
-<sup>19</sup> There was evening and there was morning, a fourth day.
+**¹⁹** There was evening and there was morning, a fourth day.
 
-<sup>20</sup> God said, “Let the waters abound with living creatures, and let birds fly above the earth in the open expanse of the sky.”
+**²⁰** God said, “Let the waters abound with living creatures, and let birds fly above the earth in the open expanse of the sky.”
 
-<sup>21</sup> God created the large sea creatures and every living creature that moves, with which the waters swarmed, after their kind, and every winged bird after its kind. God saw that it was good.
+**²¹** God created the large sea creatures and every living creature that moves, with which the waters swarmed, after their kind, and every winged bird after its kind. God saw that it was good.
 
-<sup>22</sup> God blessed them, saying, “Be fruitful, and multiply, and fill the waters in the seas, and let birds multiply on the earth.”
+**²²** God blessed them, saying, “Be fruitful, and multiply, and fill the waters in the seas, and let birds multiply on the earth.”
 
-<sup>23</sup> There was evening and there was morning, a fifth day.
+**²³** There was evening and there was morning, a fifth day.
 
-<sup>24</sup> God said, “Let the earth produce living creatures after their kind, livestock, creeping things, and animals of the earth after their kind;” and it was so.
+**²⁴** God said, “Let the earth produce living creatures after their kind, livestock, creeping things, and animals of the earth after their kind;” and it was so.
 
-<sup>25</sup> God made the animals of the earth after their kind, and the livestock after their kind, and everything that creeps on the ground after its kind. God saw that it was good.
+**²⁵** God made the animals of the earth after their kind, and the livestock after their kind, and everything that creeps on the ground after its kind. God saw that it was good.
 
-<sup>26</sup> God said, “Let’s make man in our image, after our likeness. Let them have dominion over the fish of the sea, and over the birds of the sky, and over the livestock, and over all the earth, and over every creeping thing that creeps on the earth.”
+**²⁶** God said, “Let’s make man in our image, after our likeness. Let them have dominion over the fish of the sea, and over the birds of the sky, and over the livestock, and over all the earth, and over every creeping thing that creeps on the earth.”
 
-<sup>27</sup> God created man in his own image. In God’s image he created him; male and female he created them.
+**²⁷** God created man in his own image. In God’s image he created him; male and female he created them.
 
-<sup>28</sup> God blessed them. God said to them, “Be fruitful, multiply, fill the earth, and subdue it. Have dominion over the fish of the sea, over the birds of the sky, and over every living thing that moves on the earth.”
+**²⁸** God blessed them. God said to them, “Be fruitful, multiply, fill the earth, and subdue it. Have dominion over the fish of the sea, over the birds of the sky, and over every living thing that moves on the earth.”
 
-<sup>29</sup> God said, “Behold,[^2] I have given you every herb yielding seed, which is on the surface of all the earth, and every tree, which bears fruit yielding seed. It will be your food.
+**²⁹** God said, “Behold,[^2] I have given you every herb yielding seed, which is on the surface of all the earth, and every tree, which bears fruit yielding seed. It will be your food.
 
-<sup>30</sup> To every animal of the earth, and to every bird of the sky, and to everything that creeps on the earth, in which there is life, I have given every green herb for food;” and it was so.
+**³⁰** To every animal of the earth, and to every bird of the sky, and to everything that creeps on the earth, in which there is life, I have given every green herb for food;” and it was so.
 
-<sup>31</sup> God saw everything that he had made, and, behold, it was very good. There was evening and there was morning, a sixth day.
+**³¹** God saw everything that he had made, and, behold, it was very good. There was evening and there was morning, a sixth day.
 
 [^1]: 1:1 The Hebrew word rendered “God” is “ אֱלֹהִ֑ים” (Elohim).
 [^2]: 1:29 “Behold”, from “ הִנֵּה”, means look at, take notice, observe, see, or gaze at. It is often used as an interjection.

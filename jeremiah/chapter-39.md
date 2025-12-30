@@ -4,38 +4,38 @@ weight: 39
 
 # Chapter 39
 
-<sup>1</sup> In the ninth year of Zedekiah king of Judah, in the tenth month, Nebuchadnezzar king of Babylon and all his army came against Jerusalem, and besieged it.
+**¹** In the ninth year of Zedekiah king of Judah, in the tenth month, Nebuchadnezzar king of Babylon and all his army came against Jerusalem, and besieged it.
 
-<sup>2</sup> In the eleventh year of Zedekiah, in the fourth month, the ninth day of the month, a breach was made in the city.
+**²** In the eleventh year of Zedekiah, in the fourth month, the ninth day of the month, a breach was made in the city.
 
-<sup>3</sup> All the princes of the king of Babylon came in, and sat in the middle gate: Nergal Sharezer, Samgarnebo, Sarsechim the Rabsaris, Nergal Sharezer the Rabmag, with all the rest of the princes of the king of Babylon.
+**³** All the princes of the king of Babylon came in, and sat in the middle gate: Nergal Sharezer, Samgarnebo, Sarsechim the Rabsaris, Nergal Sharezer the Rabmag, with all the rest of the princes of the king of Babylon.
 
-<sup>4</sup> When Zedekiah the king of Judah and all the men of war saw them, then they fled and went out of the city by night, by the way of the king’s garden, through the gate between the two walls; and he went out toward the Arabah.
+**⁴** When Zedekiah the king of Judah and all the men of war saw them, then they fled and went out of the city by night, by the way of the king’s garden, through the gate between the two walls; and he went out toward the Arabah.
 
-<sup>5</sup> But the army of the Chaldeans pursued them, and overtook Zedekiah in the plains of Jericho. When they had taken him, they brought him up to Nebuchadnezzar king of Babylon to Riblah in the land of Hamath; and he pronounced judgment on him.
+**⁵** But the army of the Chaldeans pursued them, and overtook Zedekiah in the plains of Jericho. When they had taken him, they brought him up to Nebuchadnezzar king of Babylon to Riblah in the land of Hamath; and he pronounced judgment on him.
 
-<sup>6</sup> Then the king of Babylon killed Zedekiah’s sons in Riblah before his eyes. The king of Babylon also killed all the nobles of Judah.
+**⁶** Then the king of Babylon killed Zedekiah’s sons in Riblah before his eyes. The king of Babylon also killed all the nobles of Judah.
 
-<sup>7</sup> Moreover he put out Zedekiah’s eyes and bound him in fetters, to carry him to Babylon.
+**⁷** Moreover he put out Zedekiah’s eyes and bound him in fetters, to carry him to Babylon.
 
-<sup>8</sup> The Chaldeans burned the king’s house and the people’s houses with fire and broke down the walls of Jerusalem.
+**⁸** The Chaldeans burned the king’s house and the people’s houses with fire and broke down the walls of Jerusalem.
 
-<sup>9</sup> Then Nebuzaradan the captain of the guard carried away captive into Babylon the rest of the people who remained in the city, the deserters also who fell away to him, and the rest of the people who remained.
+**⁹** Then Nebuzaradan the captain of the guard carried away captive into Babylon the rest of the people who remained in the city, the deserters also who fell away to him, and the rest of the people who remained.
 
-<sup>10</sup> But Nebuzaradan the captain of the guard left of the poor of the people, who had nothing, in the land of Judah, and gave them vineyards and fields at the same time.
+**¹⁰** But Nebuzaradan the captain of the guard left of the poor of the people, who had nothing, in the land of Judah, and gave them vineyards and fields at the same time.
 
-<sup>11</sup> Now Nebuchadnezzar king of Babylon commanded Nebuzaradan the captain of the guard concerning Jeremiah, saying,
+**¹¹** Now Nebuchadnezzar king of Babylon commanded Nebuzaradan the captain of the guard concerning Jeremiah, saying,
 
-<sup>12</sup> “Take him and take care of him. Do him no harm; but do to him even as he tells you.”
+**¹²** “Take him and take care of him. Do him no harm; but do to him even as he tells you.”
 
-<sup>13</sup> So Nebuzaradan the captain of the guard, Nebushazban, Rabsaris, and Nergal Sharezer, Rabmag, and all the chief officers of the king of Babylon
+**¹³** So Nebuzaradan the captain of the guard, Nebushazban, Rabsaris, and Nergal Sharezer, Rabmag, and all the chief officers of the king of Babylon
 
-<sup>14</sup> sent and took Jeremiah out of the court of the guard, and committed him to Gedaliah the son of Ahikam, the son of Shaphan, that he should bring him home. So he lived among the people.
+**¹⁴** sent and took Jeremiah out of the court of the guard, and committed him to Gedaliah the son of Ahikam, the son of Shaphan, that he should bring him home. So he lived among the people.
 
-<sup>15</sup> Now Yahweh’s word came to Jeremiah while he was shut up in the court of the guard, saying,
+**¹⁵** Now Yahweh’s word came to Jeremiah while he was shut up in the court of the guard, saying,
 
-<sup>16</sup> “Go, and speak to Ebedmelech the Ethiopian, saying, ‘Yahweh of Armies, the God of Israel, says: “Behold, I will bring my words on this city for evil, and not for good; and they will be accomplished before you in that day.
+**¹⁶** “Go, and speak to Ebedmelech the Ethiopian, saying, ‘Yahweh of Armies, the God of Israel, says: “Behold, I will bring my words on this city for evil, and not for good; and they will be accomplished before you in that day.
 
-<sup>17</sup> But I will deliver you in that day,” says Yahweh; “and you will not be given into the hand of the men of whom you are afraid.
+**¹⁷** But I will deliver you in that day,” says Yahweh; “and you will not be given into the hand of the men of whom you are afraid.
 
-<sup>18</sup> For I will surely save you. You won’t fall by the sword, but you will escape with your life, because you have put your trust in me,” says Yahweh.’”
+**¹⁸** For I will surely save you. You won’t fall by the sword, but you will escape with your life, because you have put your trust in me,” says Yahweh.’”

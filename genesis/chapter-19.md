@@ -4,80 +4,80 @@ weight: 19
 
 # Chapter 19
 
-<sup>1</sup> The two angels came to Sodom at evening. Lot sat in the gate of Sodom. Lot saw them, and rose up to meet them. He bowed himself with his face to the earth,
+**¹** The two angels came to Sodom at evening. Lot sat in the gate of Sodom. Lot saw them, and rose up to meet them. He bowed himself with his face to the earth,
 
-<sup>2</sup> and he said, “See now, my lords, please come into your servant’s house, stay all night, wash your feet, and you can rise up early, and go on your way.” They said, “No, but we will stay in the street all night.”
+**²** and he said, “See now, my lords, please come into your servant’s house, stay all night, wash your feet, and you can rise up early, and go on your way.” They said, “No, but we will stay in the street all night.”
 
-<sup>3</sup> He urged them greatly, and they came in with him, and entered into his house. He made them a feast, and baked unleavened bread, and they ate.
+**³** He urged them greatly, and they came in with him, and entered into his house. He made them a feast, and baked unleavened bread, and they ate.
 
-<sup>4</sup> But before they lay down, the men of the city, the men of Sodom, surrounded the house, both young and old, all the people from every quarter.
+**⁴** But before they lay down, the men of the city, the men of Sodom, surrounded the house, both young and old, all the people from every quarter.
 
-<sup>5</sup> They called to Lot, and said to him, “Where are the men who came in to you this night? Bring them out to us, that we may have sex with them.”
+**⁵** They called to Lot, and said to him, “Where are the men who came in to you this night? Bring them out to us, that we may have sex with them.”
 
-<sup>6</sup> Lot went out to them through the door, and shut the door after himself.
+**⁶** Lot went out to them through the door, and shut the door after himself.
 
-<sup>7</sup> He said, “Please, my brothers, don’t act so wickedly.
+**⁷** He said, “Please, my brothers, don’t act so wickedly.
 
-<sup>8</sup> See now, I have two virgin daughters. Please let me bring them out to you, and you may do to them what seems good to you. Only don’t do anything to these men, because they have come under the shadow of my roof.”
+**⁸** See now, I have two virgin daughters. Please let me bring them out to you, and you may do to them what seems good to you. Only don’t do anything to these men, because they have come under the shadow of my roof.”
 
-<sup>9</sup> They said, “Stand back!” Then they said, “This one fellow came in to live as a foreigner, and he appoints himself a judge. Now we will deal worse with you than with them!” They pressed hard on the man Lot, and came near to break the door.
+**⁹** They said, “Stand back!” Then they said, “This one fellow came in to live as a foreigner, and he appoints himself a judge. Now we will deal worse with you than with them!” They pressed hard on the man Lot, and came near to break the door.
 
-<sup>10</sup> But the men reached out their hand, and brought Lot into the house to them, and shut the door.
+**¹⁰** But the men reached out their hand, and brought Lot into the house to them, and shut the door.
 
-<sup>11</sup> They struck the men who were at the door of the house with blindness, both small and great, so that they wearied themselves to find the door.
+**¹¹** They struck the men who were at the door of the house with blindness, both small and great, so that they wearied themselves to find the door.
 
-<sup>12</sup> The men said to Lot, “Do you have anybody else here? Sons-in-law, your sons, your daughters, and whomever you have in the city, bring them out of the place:
+**¹²** The men said to Lot, “Do you have anybody else here? Sons-in-law, your sons, your daughters, and whomever you have in the city, bring them out of the place:
 
-<sup>13</sup> for we will destroy this place, because the outcry against them has grown so great before Yahweh that Yahweh has sent us to destroy it.”
+**¹³** for we will destroy this place, because the outcry against them has grown so great before Yahweh that Yahweh has sent us to destroy it.”
 
-<sup>14</sup> Lot went out, and spoke to his sons-in-law, who were pledged to marry his daughters, and said, “Get up! Get out of this place, for Yahweh will destroy the city!” But he seemed to his sons-in-law to be joking.
+**¹⁴** Lot went out, and spoke to his sons-in-law, who were pledged to marry his daughters, and said, “Get up! Get out of this place, for Yahweh will destroy the city!” But he seemed to his sons-in-law to be joking.
 
-<sup>15</sup> When the morning came, then the angels hurried Lot, saying, “Get up! Take your wife and your two daughters who are here, lest you be consumed in the iniquity of the city.”
+**¹⁵** When the morning came, then the angels hurried Lot, saying, “Get up! Take your wife and your two daughters who are here, lest you be consumed in the iniquity of the city.”
 
-<sup>16</sup> But he lingered; and the men grabbed his hand, his wife’s hand, and his two daughters’ hands, Yahweh being merciful to him; and they took him out, and set him outside of the city.
+**¹⁶** But he lingered; and the men grabbed his hand, his wife’s hand, and his two daughters’ hands, Yahweh being merciful to him; and they took him out, and set him outside of the city.
 
-<sup>17</sup> It came to pass, when they had taken them out, that he said, “Escape for your life! Don’t look behind you, and don’t stay anywhere in the plain. Escape to the mountains, lest you be consumed!”
+**¹⁷** It came to pass, when they had taken them out, that he said, “Escape for your life! Don’t look behind you, and don’t stay anywhere in the plain. Escape to the mountains, lest you be consumed!”
 
-<sup>18</sup> Lot said to them, “Oh, not so, my lord.
+**¹⁸** Lot said to them, “Oh, not so, my lord.
 
-<sup>19</sup> See now, your servant has found favor in your sight, and you have magnified your loving kindness, which you have shown to me in saving my life. I can’t escape to the mountain, lest evil overtake me, and I die.
+**¹⁹** See now, your servant has found favor in your sight, and you have magnified your loving kindness, which you have shown to me in saving my life. I can’t escape to the mountain, lest evil overtake me, and I die.
 
-<sup>20</sup> See now, this city is near to flee to, and it is a little one. Oh let me escape there (isn’t it a little one?), and my soul will live.”
+**²⁰** See now, this city is near to flee to, and it is a little one. Oh let me escape there (isn’t it a little one?), and my soul will live.”
 
-<sup>21</sup> He said to him, “Behold, I have granted your request concerning this thing also, that I will not overthrow the city of which you have spoken.
+**²¹** He said to him, “Behold, I have granted your request concerning this thing also, that I will not overthrow the city of which you have spoken.
 
-<sup>22</sup> Hurry, escape there, for I can’t do anything until you get there.” Therefore the name of the city was called Zoar.[^19]
+**²²** Hurry, escape there, for I can’t do anything until you get there.” Therefore the name of the city was called Zoar.[^19]
 
-<sup>23</sup> The sun had risen on the earth when Lot came to Zoar.
+**²³** The sun had risen on the earth when Lot came to Zoar.
 
-<sup>24</sup> Then Yahweh rained on Sodom and on Gomorrah sulfur and fire from Yahweh out of the sky.
+**²⁴** Then Yahweh rained on Sodom and on Gomorrah sulfur and fire from Yahweh out of the sky.
 
-<sup>25</sup> He overthrew those cities, all the plain, all the inhabitants of the cities, and that which grew on the ground.
+**²⁵** He overthrew those cities, all the plain, all the inhabitants of the cities, and that which grew on the ground.
 
-<sup>26</sup> But Lot’s wife looked back from behind him, and she became a pillar of salt.
+**²⁶** But Lot’s wife looked back from behind him, and she became a pillar of salt.
 
-<sup>27</sup> Abraham went up early in the morning to the place where he had stood before Yahweh.
+**²⁷** Abraham went up early in the morning to the place where he had stood before Yahweh.
 
-<sup>28</sup> He looked toward Sodom and Gomorrah, and toward all the land of the plain, and saw that the smoke of the land went up as the smoke of a furnace.
+**²⁸** He looked toward Sodom and Gomorrah, and toward all the land of the plain, and saw that the smoke of the land went up as the smoke of a furnace.
 
-<sup>29</sup> When God destroyed the cities of the plain, God remembered Abraham, and sent Lot out of the middle of the overthrow, when he overthrew the cities in which Lot lived.
+**²⁹** When God destroyed the cities of the plain, God remembered Abraham, and sent Lot out of the middle of the overthrow, when he overthrew the cities in which Lot lived.
 
-<sup>30</sup> Lot went up out of Zoar, and lived in the mountain, and his two daughters with him; for he was afraid to live in Zoar. He lived in a cave with his two daughters.
+**³⁰** Lot went up out of Zoar, and lived in the mountain, and his two daughters with him; for he was afraid to live in Zoar. He lived in a cave with his two daughters.
 
-<sup>31</sup> The firstborn said to the younger, “Our father is old, and there is not a man in the earth to come in to us in the way of all the earth.
+**³¹** The firstborn said to the younger, “Our father is old, and there is not a man in the earth to come in to us in the way of all the earth.
 
-<sup>32</sup> Come, let’s make our father drink wine, and we will lie with him, that we may preserve our father’s family line.”
+**³²** Come, let’s make our father drink wine, and we will lie with him, that we may preserve our father’s family line.”
 
-<sup>33</sup> They made their father drink wine that night: and the firstborn went in, and lay with her father. He didn’t know when she lay down, nor when she arose.
+**³³** They made their father drink wine that night: and the firstborn went in, and lay with her father. He didn’t know when she lay down, nor when she arose.
 
-<sup>34</sup> It came to pass on the next day, that the firstborn said to the younger, “Behold, I lay last night with my father. Let’s make him drink wine again tonight. You go in, and lie with him, that we may preserve our father’s family line.”
+**³⁴** It came to pass on the next day, that the firstborn said to the younger, “Behold, I lay last night with my father. Let’s make him drink wine again tonight. You go in, and lie with him, that we may preserve our father’s family line.”
 
-<sup>35</sup> They made their father drink wine that night also. The younger went and lay with him. He didn’t know when she lay down, nor when she got up.
+**³⁵** They made their father drink wine that night also. The younger went and lay with him. He didn’t know when she lay down, nor when she got up.
 
-<sup>36</sup> Thus both of Lot’s daughters were with child by their father.
+**³⁶** Thus both of Lot’s daughters were with child by their father.
 
-<sup>37</sup> The firstborn bore a son, and named him Moab. He is the father of the Moabites to this day.
+**³⁷** The firstborn bore a son, and named him Moab. He is the father of the Moabites to this day.
 
-<sup>38</sup> The younger also bore a son, and called his name Ben Ammi. He is the father of the children of Ammon to this day.
+**³⁸** The younger also bore a son, and called his name Ben Ammi. He is the father of the children of Ammon to this day.
 
 [^19]: 19:22 Zoar means “little”.

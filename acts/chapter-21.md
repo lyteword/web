@@ -4,82 +4,82 @@ weight: 21
 
 # Chapter 21
 
-<sup>1</sup> When we had departed from them and had set sail, we came with a straight course to Cos, and the next day to Rhodes, and from there to Patara.
+**¹** When we had departed from them and had set sail, we came with a straight course to Cos, and the next day to Rhodes, and from there to Patara.
 
-<sup>2</sup> Having found a ship crossing over to Phoenicia, we went aboard and set sail.
+**²** Having found a ship crossing over to Phoenicia, we went aboard and set sail.
 
-<sup>3</sup> When we had come in sight of Cyprus, leaving it on the left hand, we sailed to Syria and landed at Tyre, for the ship was there to unload her cargo.
+**³** When we had come in sight of Cyprus, leaving it on the left hand, we sailed to Syria and landed at Tyre, for the ship was there to unload her cargo.
 
-<sup>4</sup> Having found disciples, we stayed there seven days. These said to Paul through the Spirit that he should not go up to Jerusalem.
+**⁴** Having found disciples, we stayed there seven days. These said to Paul through the Spirit that he should not go up to Jerusalem.
 
-<sup>5</sup> When those days were over, we departed and went on our journey. They all, with wives and children, brought us on our way until we were out of the city. Kneeling down on the beach, we prayed.
+**⁵** When those days were over, we departed and went on our journey. They all, with wives and children, brought us on our way until we were out of the city. Kneeling down on the beach, we prayed.
 
-<sup>6</sup> After saying goodbye to each other, we went on board the ship, and they returned home again.
+**⁶** After saying goodbye to each other, we went on board the ship, and they returned home again.
 
-<sup>7</sup> When we had finished the voyage from Tyre, we arrived at Ptolemais. We greeted the brothers and stayed with them one day.
+**⁷** When we had finished the voyage from Tyre, we arrived at Ptolemais. We greeted the brothers and stayed with them one day.
 
-<sup>8</sup> On the next day, we who were Paul’s companions departed and came to Caesarea. We entered into the house of Philip the evangelist, who was one of the seven, and stayed with him.
+**⁸** On the next day, we who were Paul’s companions departed and came to Caesarea. We entered into the house of Philip the evangelist, who was one of the seven, and stayed with him.
 
-<sup>9</sup> Now this man had four virgin daughters who prophesied.
+**⁹** Now this man had four virgin daughters who prophesied.
 
-<sup>10</sup> As we stayed there some days, a certain prophet named Agabus came down from Judea.
+**¹⁰** As we stayed there some days, a certain prophet named Agabus came down from Judea.
 
-<sup>11</sup> Coming to us and taking Paul’s belt, he bound his own feet and hands, and said, “The Holy Spirit says: ‘So the Jews at Jerusalem will bind the man who owns this belt, and will deliver him into the hands of the Gentiles.’”
+**¹¹** Coming to us and taking Paul’s belt, he bound his own feet and hands, and said, “The Holy Spirit says: ‘So the Jews at Jerusalem will bind the man who owns this belt, and will deliver him into the hands of the Gentiles.’”
 
-<sup>12</sup> When we heard these things, both we and the people of that place begged him not to go up to Jerusalem.
+**¹²** When we heard these things, both we and the people of that place begged him not to go up to Jerusalem.
 
-<sup>13</sup> Then Paul answered, “What are you doing, weeping and breaking my heart? For I am ready not only to be bound, but also to die at Jerusalem for the name of the Lord Jesus.”
+**¹³** Then Paul answered, “What are you doing, weeping and breaking my heart? For I am ready not only to be bound, but also to die at Jerusalem for the name of the Lord Jesus.”
 
-<sup>14</sup> When he would not be persuaded, we ceased, saying, “The Lord’s will be done.”
+**¹⁴** When he would not be persuaded, we ceased, saying, “The Lord’s will be done.”
 
-<sup>15</sup> After these days we took up our baggage and went up to Jerusalem.
+**¹⁵** After these days we took up our baggage and went up to Jerusalem.
 
-<sup>16</sup> Some of the disciples from Caesarea also went with us, bringing one Mnason of Cyprus, an early disciple, with whom we would stay.
+**¹⁶** Some of the disciples from Caesarea also went with us, bringing one Mnason of Cyprus, an early disciple, with whom we would stay.
 
-<sup>17</sup> When we had come to Jerusalem, the brothers received us gladly.
+**¹⁷** When we had come to Jerusalem, the brothers received us gladly.
 
-<sup>18</sup> The day following, Paul went in with us to James; and all the elders were present.
+**¹⁸** The day following, Paul went in with us to James; and all the elders were present.
 
-<sup>19</sup> When he had greeted them, he reported one by one the things which God had worked among the Gentiles through his ministry.
+**¹⁹** When he had greeted them, he reported one by one the things which God had worked among the Gentiles through his ministry.
 
-<sup>20</sup> They, when they heard it, glorified God. They said to him, “You see, brother, how many thousands there are among the Jews of those who have believed, and they are all zealous for the law.
+**²⁰** They, when they heard it, glorified God. They said to him, “You see, brother, how many thousands there are among the Jews of those who have believed, and they are all zealous for the law.
 
-<sup>21</sup> They have been informed about you, that you teach all the Jews who are among the Gentiles to forsake Moses, telling them not to circumcise their children and not to walk after the customs.
+**²¹** They have been informed about you, that you teach all the Jews who are among the Gentiles to forsake Moses, telling them not to circumcise their children and not to walk after the customs.
 
-<sup>22</sup> What then? The assembly must certainly meet, for they will hear that you have come.
+**²²** What then? The assembly must certainly meet, for they will hear that you have come.
 
-<sup>23</sup> Therefore do what we tell you. We have four men who have taken a vow.
+**²³** Therefore do what we tell you. We have four men who have taken a vow.
 
-<sup>24</sup> Take them and purify yourself with them, and pay their expenses for them, that they may shave their heads. Then all will know that there is no truth in the things that they have been informed about you, but that you yourself also walk keeping the law.
+**²⁴** Take them and purify yourself with them, and pay their expenses for them, that they may shave their heads. Then all will know that there is no truth in the things that they have been informed about you, but that you yourself also walk keeping the law.
 
-<sup>25</sup> But concerning the Gentiles who believe, we have written our decision that they should observe no such thing, except that they should keep themselves from food offered to idols, from blood, from strangled things, and from sexual immorality.”
+**²⁵** But concerning the Gentiles who believe, we have written our decision that they should observe no such thing, except that they should keep themselves from food offered to idols, from blood, from strangled things, and from sexual immorality.”
 
-<sup>26</sup> Then Paul took the men, and the next day purified himself and went with them into the temple, declaring the fulfillment of the days of purification, until the offering was offered for every one of them.
+**²⁶** Then Paul took the men, and the next day purified himself and went with them into the temple, declaring the fulfillment of the days of purification, until the offering was offered for every one of them.
 
-<sup>27</sup> When the seven days were almost completed, the Jews from Asia, when they saw him in the temple, stirred up all the multitude and laid hands on him,
+**²⁷** When the seven days were almost completed, the Jews from Asia, when they saw him in the temple, stirred up all the multitude and laid hands on him,
 
-<sup>28</sup> crying out, “Men of Israel, help! This is the man who teaches all men everywhere against the people, and the law, and this place. Moreover, he also brought Greeks into the temple and has defiled this holy place!”
+**²⁸** crying out, “Men of Israel, help! This is the man who teaches all men everywhere against the people, and the law, and this place. Moreover, he also brought Greeks into the temple and has defiled this holy place!”
 
-<sup>29</sup> For they had seen Trophimus the Ephesian with him in the city, and they supposed that Paul had brought him into the temple.
+**²⁹** For they had seen Trophimus the Ephesian with him in the city, and they supposed that Paul had brought him into the temple.
 
-<sup>30</sup> All the city was moved and the people ran together. They seized Paul and dragged him out of the temple. Immediately the doors were shut.
+**³⁰** All the city was moved and the people ran together. They seized Paul and dragged him out of the temple. Immediately the doors were shut.
 
-<sup>31</sup> As they were trying to kill him, news came up to the commanding officer of the regiment that all Jerusalem was in an uproar.
+**³¹** As they were trying to kill him, news came up to the commanding officer of the regiment that all Jerusalem was in an uproar.
 
-<sup>32</sup> Immediately he took soldiers and centurions and ran down to them. They, when they saw the chief captain and the soldiers, stopped beating Paul.
+**³²** Immediately he took soldiers and centurions and ran down to them. They, when they saw the chief captain and the soldiers, stopped beating Paul.
 
-<sup>33</sup> Then the commanding officer came near, arrested him, commanded him to be bound with two chains, and inquired who he was and what he had done.
+**³³** Then the commanding officer came near, arrested him, commanded him to be bound with two chains, and inquired who he was and what he had done.
 
-<sup>34</sup> Some shouted one thing and some another, among the crowd. When he couldn’t find out the truth because of the noise, he commanded him to be brought into the barracks.
+**³⁴** Some shouted one thing and some another, among the crowd. When he couldn’t find out the truth because of the noise, he commanded him to be brought into the barracks.
 
-<sup>35</sup> When he came to the stairs, he was carried by the soldiers because of the violence of the crowd;
+**³⁵** When he came to the stairs, he was carried by the soldiers because of the violence of the crowd;
 
-<sup>36</sup> for the multitude of the people followed after, crying out, “Away with him!”
+**³⁶** for the multitude of the people followed after, crying out, “Away with him!”
 
-<sup>37</sup> As Paul was about to be brought into the barracks, he asked the commanding officer, “May I speak to you?” He said, “Do you know Greek?
+**³⁷** As Paul was about to be brought into the barracks, he asked the commanding officer, “May I speak to you?” He said, “Do you know Greek?
 
-<sup>38</sup> Aren’t you then the Egyptian who before these days stirred up to sedition and led out into the wilderness the four thousand men of the Assassins?”
+**³⁸** Aren’t you then the Egyptian who before these days stirred up to sedition and led out into the wilderness the four thousand men of the Assassins?”
 
-<sup>39</sup> But Paul said, “I am a Jew from Tarsus in Cilicia, a citizen of no insignificant city. I beg you, allow me to speak to the people.”
+**³⁹** But Paul said, “I am a Jew from Tarsus in Cilicia, a citizen of no insignificant city. I beg you, allow me to speak to the people.”
 
-<sup>40</sup> When he had given him permission, Paul, standing on the stairs, beckoned with his hand to the people. When there was a great silence, he spoke to them in the Hebrew language, saying,
+**⁴⁰** When he had given him permission, Paul, standing on the stairs, beckoned with his hand to the people. When there was a great silence, he spoke to them in the Hebrew language, saying,

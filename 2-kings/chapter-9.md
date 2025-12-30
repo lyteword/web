@@ -4,78 +4,78 @@ weight: 9
 
 # Chapter 9
 
-<sup>1</sup> Elisha the prophet called one of the sons of the prophets, and said to him, “Put your belt on your waist, take this vial of oil in your hand, and go to Ramoth Gilead.
+**¹** Elisha the prophet called one of the sons of the prophets, and said to him, “Put your belt on your waist, take this vial of oil in your hand, and go to Ramoth Gilead.
 
-<sup>2</sup> When you come there, find Jehu the son of Jehoshaphat the son of Nimshi, and go in and make him rise up from among his brothers, and take him to an inner room.
+**²** When you come there, find Jehu the son of Jehoshaphat the son of Nimshi, and go in and make him rise up from among his brothers, and take him to an inner room.
 
-<sup>3</sup> Then take the vial of oil, and pour it on his head, and say, ‘Yahweh says, “I have anointed you king over Israel.”’ Then open the door, flee, and don’t wait.”
+**³** Then take the vial of oil, and pour it on his head, and say, ‘Yahweh says, “I have anointed you king over Israel.”’ Then open the door, flee, and don’t wait.”
 
-<sup>4</sup> So the young man, the young prophet, went to Ramoth Gilead.
+**⁴** So the young man, the young prophet, went to Ramoth Gilead.
 
-<sup>5</sup> When he came, behold, the captains of the army were sitting. Then he said, “I have a message for you, captain.” Jehu said, “To which one of us?” He said, “To you, O captain.”
+**⁵** When he came, behold, the captains of the army were sitting. Then he said, “I have a message for you, captain.” Jehu said, “To which one of us?” He said, “To you, O captain.”
 
-<sup>6</sup> He arose, and went into the house. Then he poured the oil on his head, and said to him, “Yahweh, the God of Israel, says, ‘I have anointed you king over the people of Yahweh, even over Israel.
+**⁶** He arose, and went into the house. Then he poured the oil on his head, and said to him, “Yahweh, the God of Israel, says, ‘I have anointed you king over the people of Yahweh, even over Israel.
 
-<sup>7</sup> You must strike your master Ahab’s house, that I may avenge the blood of my servants the prophets, and the blood of all the servants of Yahweh, at the hand of Jezebel.
+**⁷** You must strike your master Ahab’s house, that I may avenge the blood of my servants the prophets, and the blood of all the servants of Yahweh, at the hand of Jezebel.
 
-<sup>8</sup> For the whole house of Ahab will perish. I will cut off from Ahab everyone who urinates against a wall,[^305] both him who is shut up and him who is left at large in Israel.
+**⁸** For the whole house of Ahab will perish. I will cut off from Ahab everyone who urinates against a wall,[^305] both him who is shut up and him who is left at large in Israel.
 
-<sup>9</sup> I will make Ahab’s house like the house of Jeroboam the son of Nebat, and like the house of Baasha the son of Ahijah.
+**⁹** I will make Ahab’s house like the house of Jeroboam the son of Nebat, and like the house of Baasha the son of Ahijah.
 
-<sup>10</sup> The dogs will eat Jezebel on the plot of ground of Jezreel, and there shall be no one to bury her.’” Then he opened the door and fled.
+**¹⁰** The dogs will eat Jezebel on the plot of ground of Jezreel, and there shall be no one to bury her.’” Then he opened the door and fled.
 
-<sup>11</sup> When Jehu came out to the servants of his lord and one said to him, “Is all well? Why did this madman come to you?” He said to them, “You know the man and how he talks.”
+**¹¹** When Jehu came out to the servants of his lord and one said to him, “Is all well? Why did this madman come to you?” He said to them, “You know the man and how he talks.”
 
-<sup>12</sup> They said, “That is a lie. Tell us now.” He said, “He said to me, ‘Yahweh says, I have anointed you king over Israel.’”
+**¹²** They said, “That is a lie. Tell us now.” He said, “He said to me, ‘Yahweh says, I have anointed you king over Israel.’”
 
-<sup>13</sup> Then they hurried, and each man took his cloak, and put it under him on the top of the stairs, and blew the trumpet, saying, “Jehu is king.”
+**¹³** Then they hurried, and each man took his cloak, and put it under him on the top of the stairs, and blew the trumpet, saying, “Jehu is king.”
 
-<sup>14</sup> So Jehu the son of Jehoshaphat the son of Nimshi conspired against Joram. (Now Joram was defending Ramoth Gilead, he and all Israel, because of Hazael king of Syria;
+**¹⁴** So Jehu the son of Jehoshaphat the son of Nimshi conspired against Joram. (Now Joram was defending Ramoth Gilead, he and all Israel, because of Hazael king of Syria;
 
-<sup>15</sup> but King Joram had returned to be healed in Jezreel of the wounds which the Syrians had given him when he fought with Hazael king of Syria.) Jehu said, “If this is your thinking, then let no one escape and go out of the city to go to tell it in Jezreel.”
+**¹⁵** but King Joram had returned to be healed in Jezreel of the wounds which the Syrians had given him when he fought with Hazael king of Syria.) Jehu said, “If this is your thinking, then let no one escape and go out of the city to go to tell it in Jezreel.”
 
-<sup>16</sup> So Jehu rode in a chariot and went to Jezreel, for Joram lay there. Ahaziah king of Judah had come down to see Joram.
+**¹⁶** So Jehu rode in a chariot and went to Jezreel, for Joram lay there. Ahaziah king of Judah had come down to see Joram.
 
-<sup>17</sup> Now the watchman was standing on the tower in Jezreel, and he spied the company of Jehu as he came, and said, “I see a company.” Joram said, “Take a horseman, and send to meet them, and let him say, ‘Is it peace?’”
+**¹⁷** Now the watchman was standing on the tower in Jezreel, and he spied the company of Jehu as he came, and said, “I see a company.” Joram said, “Take a horseman, and send to meet them, and let him say, ‘Is it peace?’”
 
-<sup>18</sup> So one went on horseback to meet him, and said, “the king says, ‘Is it peace?’” Jehu said, “What do you have to do with peace? Fall in behind me!” The watchman said, “The messenger came to them, but he isn’t coming back.”
+**¹⁸** So one went on horseback to meet him, and said, “the king says, ‘Is it peace?’” Jehu said, “What do you have to do with peace? Fall in behind me!” The watchman said, “The messenger came to them, but he isn’t coming back.”
 
-<sup>19</sup> Then he sent out a second on horseback, who came to them and said, “The king says, ‘Is it peace?’” Jehu answered, “What do you have to do with peace? Fall in behind me!”
+**¹⁹** Then he sent out a second on horseback, who came to them and said, “The king says, ‘Is it peace?’” Jehu answered, “What do you have to do with peace? Fall in behind me!”
 
-<sup>20</sup> The watchman said, “He came to them, and isn’t coming back. The driving is like the driving of Jehu the son of Nimshi, for he drives furiously.”
+**²⁰** The watchman said, “He came to them, and isn’t coming back. The driving is like the driving of Jehu the son of Nimshi, for he drives furiously.”
 
-<sup>21</sup> Joram said, “Get ready!” They got his chariot ready. Then Joram king of Israel and Ahaziah king of Judah went out, each in his chariot; and they went out to meet Jehu, and found him on Naboth the Jezreelite’s land.
+**²¹** Joram said, “Get ready!” They got his chariot ready. Then Joram king of Israel and Ahaziah king of Judah went out, each in his chariot; and they went out to meet Jehu, and found him on Naboth the Jezreelite’s land.
 
-<sup>22</sup> When Joram saw Jehu, he said, “Is it peace, Jehu?” He answered, “What peace, so long as the prostitution of your mother Jezebel and her witchcraft abound?”
+**²²** When Joram saw Jehu, he said, “Is it peace, Jehu?” He answered, “What peace, so long as the prostitution of your mother Jezebel and her witchcraft abound?”
 
-<sup>23</sup> Joram turned his hands and fled, and said to Ahaziah, “This is treason, Ahaziah!”
+**²³** Joram turned his hands and fled, and said to Ahaziah, “This is treason, Ahaziah!”
 
-<sup>24</sup> Jehu drew his bow with his full strength, and struck Joram between his arms; and the arrow went out at his heart, and he sunk down in his chariot.
+**²⁴** Jehu drew his bow with his full strength, and struck Joram between his arms; and the arrow went out at his heart, and he sunk down in his chariot.
 
-<sup>25</sup> Then Jehu said to Bidkar his captain, “Pick him up, and throw him in the plot of the field of Naboth the Jezreelite; for remember how, when you and I rode together after Ahab his father, Yahweh laid this burden on him:
+**²⁵** Then Jehu said to Bidkar his captain, “Pick him up, and throw him in the plot of the field of Naboth the Jezreelite; for remember how, when you and I rode together after Ahab his father, Yahweh laid this burden on him:
 
-<sup>26</sup> ‘Surely I have seen yesterday the blood of Naboth, and the blood of his sons,’ says Yahweh; ‘and I will repay you in this plot of ground,’ says Yahweh. Now therefore take and cast him onto the plot of ground, according to Yahweh’s word.”
+**²⁶** ‘Surely I have seen yesterday the blood of Naboth, and the blood of his sons,’ says Yahweh; ‘and I will repay you in this plot of ground,’ says Yahweh. Now therefore take and cast him onto the plot of ground, according to Yahweh’s word.”
 
-<sup>27</sup> But when Ahaziah the king of Judah saw this, he fled by the way of the garden house. Jehu followed after him, and said, “Strike him also in the chariot!” They struck him at the ascent of Gur, which is by Ibleam. He fled to Megiddo, and died there.
+**²⁷** But when Ahaziah the king of Judah saw this, he fled by the way of the garden house. Jehu followed after him, and said, “Strike him also in the chariot!” They struck him at the ascent of Gur, which is by Ibleam. He fled to Megiddo, and died there.
 
-<sup>28</sup> His servants carried him in a chariot to Jerusalem, and buried him in his tomb with his fathers in David’s city.
+**²⁸** His servants carried him in a chariot to Jerusalem, and buried him in his tomb with his fathers in David’s city.
 
-<sup>29</sup> In the eleventh year of Joram the son of Ahab, Ahaziah began to reign over Judah.
+**²⁹** In the eleventh year of Joram the son of Ahab, Ahaziah began to reign over Judah.
 
-<sup>30</sup> When Jehu had come to Jezreel, Jezebel heard of it; and she painted her eyes, and adorned her head, and looked out at the window.
+**³⁰** When Jehu had come to Jezreel, Jezebel heard of it; and she painted her eyes, and adorned her head, and looked out at the window.
 
-<sup>31</sup> As Jehu entered in at the gate, she said, “Do you come in peace, Zimri, you murderer of your master?”
+**³¹** As Jehu entered in at the gate, she said, “Do you come in peace, Zimri, you murderer of your master?”
 
-<sup>32</sup> He lifted up his face to the window, and said, “Who is on my side? Who?” Two or three eunuchs looked out at him.
+**³²** He lifted up his face to the window, and said, “Who is on my side? Who?” Two or three eunuchs looked out at him.
 
-<sup>33</sup> He said, “Throw her down!” So they threw her down; and some of her blood was sprinkled on the wall, and on the horses. Then he trampled her under foot.
+**³³** He said, “Throw her down!” So they threw her down; and some of her blood was sprinkled on the wall, and on the horses. Then he trampled her under foot.
 
-<sup>34</sup> When he had come in, he ate and drank. Then he said, “See now to this cursed woman, and bury her; for she is a king’s daughter.”
+**³⁴** When he had come in, he ate and drank. Then he said, “See now to this cursed woman, and bury her; for she is a king’s daughter.”
 
-<sup>35</sup> They went to bury her, but they found no more of her than the skull, the feet, and the palms of her hands.
+**³⁵** They went to bury her, but they found no more of her than the skull, the feet, and the palms of her hands.
 
-<sup>36</sup> Therefore they came back, and told him. He said, “This is Yahweh’s word, which he spoke by his servant Elijah the Tishbite, saying, ‘The dogs will eat the flesh of Jezebel on the plot of Jezreel,
+**³⁶** Therefore they came back, and told him. He said, “This is Yahweh’s word, which he spoke by his servant Elijah the Tishbite, saying, ‘The dogs will eat the flesh of Jezebel on the plot of Jezreel,
 
-<sup>37</sup> and the body of Jezebel will be as dung on the surface of the field on Jezreel’s land, so that they won’t say, “This is Jezebel.”’”
+**³⁷** and the body of Jezebel will be as dung on the surface of the field on Jezreel’s land, so that they won’t say, “This is Jezebel.”’”
 
 [^305]: 9:8 or, male

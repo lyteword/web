@@ -4,41 +4,41 @@ weight: 8
 
 # Chapter 8
 
-<sup>1</sup> All the people gathered themselves together as one man into the wide place that was in front of the water gate; and they spoke to Ezra the scribe to bring the book of the law of Moses, which Yahweh had commanded to Israel.
+**¹** All the people gathered themselves together as one man into the wide place that was in front of the water gate; and they spoke to Ezra the scribe to bring the book of the law of Moses, which Yahweh had commanded to Israel.
 
-<sup>2</sup> Ezra the priest brought the law before the assembly, both men and women, and all who could hear with understanding, on the first day of the seventh month.
+**²** Ezra the priest brought the law before the assembly, both men and women, and all who could hear with understanding, on the first day of the seventh month.
 
-<sup>3</sup> He read from it before the wide place that was in front of the water gate from early morning until midday, in the presence of the men and the women, and of those who could understand. The ears of all the people were attentive to the book of the law.
+**³** He read from it before the wide place that was in front of the water gate from early morning until midday, in the presence of the men and the women, and of those who could understand. The ears of all the people were attentive to the book of the law.
 
-<sup>4</sup> Ezra the scribe stood on a pulpit of wood, which they had made for the purpose; and beside him stood Mattithiah, Shema, Anaiah, Uriah, Hilkiah, and Maaseiah, on his right hand; and on his left hand, Pedaiah, Mishael, Malchijah, Hashum, Hashbaddanah, Zechariah, and Meshullam.
+**⁴** Ezra the scribe stood on a pulpit of wood, which they had made for the purpose; and beside him stood Mattithiah, Shema, Anaiah, Uriah, Hilkiah, and Maaseiah, on his right hand; and on his left hand, Pedaiah, Mishael, Malchijah, Hashum, Hashbaddanah, Zechariah, and Meshullam.
 
-<sup>5</sup> Ezra opened the book in the sight of all the people (for he was above all the people), and when he opened it, all the people stood up.
+**⁵** Ezra opened the book in the sight of all the people (for he was above all the people), and when he opened it, all the people stood up.
 
-<sup>6</sup> Then Ezra blessed Yahweh, the great God. All the people answered, “Amen, Amen,” with the lifting up of their hands. They bowed their heads, and worshiped Yahweh with their faces to the ground.
+**⁶** Then Ezra blessed Yahweh, the great God. All the people answered, “Amen, Amen,” with the lifting up of their hands. They bowed their heads, and worshiped Yahweh with their faces to the ground.
 
-<sup>7</sup> Also Jeshua, Bani, Sherebiah, Jamin, Akkub, Shabbethai, Hodiah, Maaseiah, Kelita, Azariah, Jozabad, Hanan, Pelaiah, and the Levites, caused the people to understand the law; and the people stayed in their place.
+**⁷** Also Jeshua, Bani, Sherebiah, Jamin, Akkub, Shabbethai, Hodiah, Maaseiah, Kelita, Azariah, Jozabad, Hanan, Pelaiah, and the Levites, caused the people to understand the law; and the people stayed in their place.
 
-<sup>8</sup> They read in the book, in the law of God, distinctly; and they gave the sense, so that they understood the reading.
+**⁸** They read in the book, in the law of God, distinctly; and they gave the sense, so that they understood the reading.
 
-<sup>9</sup> Nehemiah, who was the governor, Ezra the priest and scribe, and the Levites who taught the people said to all the people, “Today is holy to Yahweh your God. Don’t mourn, nor weep.” For all the people wept when they heard the words of the law.
+**⁹** Nehemiah, who was the governor, Ezra the priest and scribe, and the Levites who taught the people said to all the people, “Today is holy to Yahweh your God. Don’t mourn, nor weep.” For all the people wept when they heard the words of the law.
 
-<sup>10</sup> Then he said to them, “Go your way. Eat the fat, drink the sweet, and send portions to him for whom nothing is prepared, for today is holy to our Lord. Don’t be grieved, for the joy of Yahweh is your strength.”
+**¹⁰** Then he said to them, “Go your way. Eat the fat, drink the sweet, and send portions to him for whom nothing is prepared, for today is holy to our Lord. Don’t be grieved, for the joy of Yahweh is your strength.”
 
-<sup>11</sup> So the Levites calmed all the people, saying, “Hold your peace, for the day is holy. Don’t be grieved.”
+**¹¹** So the Levites calmed all the people, saying, “Hold your peace, for the day is holy. Don’t be grieved.”
 
-<sup>12</sup> All the people went their way to eat, to drink, to send portions, and to celebrate, because they had understood the words that were declared to them.
+**¹²** All the people went their way to eat, to drink, to send portions, and to celebrate, because they had understood the words that were declared to them.
 
-<sup>13</sup> On the second day, the heads of fathers’ households of all the people, the priests, and the Levites were gathered together to Ezra the scribe, to study the words of the law.
+**¹³** On the second day, the heads of fathers’ households of all the people, the priests, and the Levites were gathered together to Ezra the scribe, to study the words of the law.
 
-<sup>14</sup> They found written in the law how Yahweh had commanded by Moses that the children of Israel should dwell in booths in the feast of the seventh month;
+**¹⁴** They found written in the law how Yahweh had commanded by Moses that the children of Israel should dwell in booths in the feast of the seventh month;
 
-<sup>15</sup> and that they should publish and proclaim in all their cities and in Jerusalem, saying, “Go out to the mountain, and get olive branches, branches of wild olive, myrtle branches, palm branches, and branches of thick trees, to make temporary shelters,[^391] as it is written.”
+**¹⁵** and that they should publish and proclaim in all their cities and in Jerusalem, saying, “Go out to the mountain, and get olive branches, branches of wild olive, myrtle branches, palm branches, and branches of thick trees, to make temporary shelters,[^391] as it is written.”
 
-<sup>16</sup> So the people went out and brought them, and made themselves temporary shelters,[^392] everyone on the roof of his house, in their courts, in the courts of God’s house, in the wide place of the water gate, and in the wide place of Ephraim’s gate.
+**¹⁶** So the people went out and brought them, and made themselves temporary shelters,[^392] everyone on the roof of his house, in their courts, in the courts of God’s house, in the wide place of the water gate, and in the wide place of Ephraim’s gate.
 
-<sup>17</sup> All the assembly of those who had come back out of the captivity made temporary shelters[^393] and lived in the temporary shelters, for since the days of Joshua the son of Nun to that day the children of Israel had not done so. There was very great gladness.
+**¹⁷** All the assembly of those who had come back out of the captivity made temporary shelters[^393] and lived in the temporary shelters, for since the days of Joshua the son of Nun to that day the children of Israel had not done so. There was very great gladness.
 
-<sup>18</sup> Also day by day, from the first day to the last day, he read in the book of the law of God. They kept the feast seven days; and on the eighth day was a solemn assembly, according to the ordinance.
+**¹⁸** Also day by day, from the first day to the last day, he read in the book of the law of God. They kept the feast seven days; and on the eighth day was a solemn assembly, according to the ordinance.
 
 [^391]: 8:15 or, booths
 [^392]: 8:16 or, booths

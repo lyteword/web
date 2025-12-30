@@ -4,80 +4,80 @@ weight: 5
 
 # Chapter 5
 
-<sup>1</sup> Now while the multitude pressed on him and heard the word of God, he was standing by the lake of Gennesaret.
+**¹** Now while the multitude pressed on him and heard the word of God, he was standing by the lake of Gennesaret.
 
-<sup>2</sup> He saw two boats standing by the lake, but the fishermen had gone out of them and were washing their nets.
+**²** He saw two boats standing by the lake, but the fishermen had gone out of them and were washing their nets.
 
-<sup>3</sup> He entered into one of the boats, which was Simon’s, and asked him to put out a little from the land. He sat down and taught the multitudes from the boat.
+**³** He entered into one of the boats, which was Simon’s, and asked him to put out a little from the land. He sat down and taught the multitudes from the boat.
 
-<sup>4</sup> When he had finished speaking, he said to Simon,  “Put out into the deep and let down your nets for a catch.”
+**⁴** When he had finished speaking, he said to Simon,  “Put out into the deep and let down your nets for a catch.”
 
-<sup>5</sup> Simon answered him, “Master, we worked all night and caught nothing; but at your word I will let down the net.”
+**⁵** Simon answered him, “Master, we worked all night and caught nothing; but at your word I will let down the net.”
 
-<sup>6</sup> When they had done this, they caught a great multitude of fish, and their net was breaking.
+**⁶** When they had done this, they caught a great multitude of fish, and their net was breaking.
 
-<sup>7</sup> They beckoned to their partners in the other boat, that they should come and help them. They came and filled both boats, so that they began to sink.
+**⁷** They beckoned to their partners in the other boat, that they should come and help them. They came and filled both boats, so that they began to sink.
 
-<sup>8</sup> But Simon Peter, when he saw it, fell down at Jesus’ knees, saying, “Depart from me, for I am a sinful man, Lord.”
+**⁸** But Simon Peter, when he saw it, fell down at Jesus’ knees, saying, “Depart from me, for I am a sinful man, Lord.”
 
-<sup>9</sup> For he was amazed, and all who were with him, at the catch of fish which they had caught;
+**⁹** For he was amazed, and all who were with him, at the catch of fish which they had caught;
 
-<sup>10</sup> and so also were James and John, sons of Zebedee, who were partners with Simon. Jesus said to Simon,  “Don’t be afraid. From now on you will be catching people alive.”
+**¹⁰** and so also were James and John, sons of Zebedee, who were partners with Simon. Jesus said to Simon,  “Don’t be afraid. From now on you will be catching people alive.”
 
-<sup>11</sup> When they had brought their boats to land, they left everything, and followed him.
+**¹¹** When they had brought their boats to land, they left everything, and followed him.
 
-<sup>12</sup> While he was in one of the cities, behold, there was a man full of leprosy. When he saw Jesus, he fell on his face and begged him, saying, “Lord, if you want to, you can make me clean.”
+**¹²** While he was in one of the cities, behold, there was a man full of leprosy. When he saw Jesus, he fell on his face and begged him, saying, “Lord, if you want to, you can make me clean.”
 
-<sup>13</sup> He stretched out his hand and touched him, saying,  “I want to. Be made clean.” Immediately the leprosy left him.
+**¹³** He stretched out his hand and touched him, saying,  “I want to. Be made clean.” Immediately the leprosy left him.
 
-<sup>14</sup> He commanded him to tell no one,  “But go your way and show yourself to the priest, and offer for your cleansing according to what Moses commanded, for a testimony to them.”
+**¹⁴** He commanded him to tell no one,  “But go your way and show yourself to the priest, and offer for your cleansing according to what Moses commanded, for a testimony to them.”
 
-<sup>15</sup> But the report concerning him spread much more, and great multitudes came together to hear and to be healed by him of their infirmities.
+**¹⁵** But the report concerning him spread much more, and great multitudes came together to hear and to be healed by him of their infirmities.
 
-<sup>16</sup> But he withdrew himself into the desert and prayed.
+**¹⁶** But he withdrew himself into the desert and prayed.
 
-<sup>17</sup> On one of those days, he was teaching; and there were Pharisees and teachers of the law sitting by who had come out of every village of Galilee, Judea, and Jerusalem. The power of the Lord was with him to heal them.
+**¹⁷** On one of those days, he was teaching; and there were Pharisees and teachers of the law sitting by who had come out of every village of Galilee, Judea, and Jerusalem. The power of the Lord was with him to heal them.
 
-<sup>18</sup> Behold, men brought a paralyzed man on a cot, and they sought to bring him in to lay before Jesus.
+**¹⁸** Behold, men brought a paralyzed man on a cot, and they sought to bring him in to lay before Jesus.
 
-<sup>19</sup> Not finding a way to bring him in because of the multitude, they went up to the housetop and let him down through the tiles with his cot into the middle before Jesus.
+**¹⁹** Not finding a way to bring him in because of the multitude, they went up to the housetop and let him down through the tiles with his cot into the middle before Jesus.
 
-<sup>20</sup> Seeing their faith, he said to him,  “Man, your sins are forgiven you.”
+**²⁰** Seeing their faith, he said to him,  “Man, your sins are forgiven you.”
 
-<sup>21</sup> The scribes and the Pharisees began to reason, saying, “Who is this who speaks blasphemies? Who can forgive sins, but God alone?”
+**²¹** The scribes and the Pharisees began to reason, saying, “Who is this who speaks blasphemies? Who can forgive sins, but God alone?”
 
-<sup>22</sup> But Jesus, perceiving their thoughts, answered them,  “Why are you reasoning so in your hearts?
+**²²** But Jesus, perceiving their thoughts, answered them,  “Why are you reasoning so in your hearts?
 
-<sup>23</sup>  Which is easier to say, ‘Your sins are forgiven you,’ or to say, ‘Arise and walk’?
+**²³**  Which is easier to say, ‘Your sins are forgiven you,’ or to say, ‘Arise and walk’?
 
-<sup>24</sup>  But that you may know that the Son of Man has authority on earth to forgive sins,” he said to the paralyzed man,  “I tell you, arise, take up your cot, and go to your house.”
+**²⁴**  But that you may know that the Son of Man has authority on earth to forgive sins,” he said to the paralyzed man,  “I tell you, arise, take up your cot, and go to your house.”
 
-<sup>25</sup> Immediately he rose up before them, and took up that which he was laying on, and departed to his house, glorifying God.
+**²⁵** Immediately he rose up before them, and took up that which he was laying on, and departed to his house, glorifying God.
 
-<sup>26</sup> Amazement took hold on all, and they glorified God. They were filled with fear, saying, “We have seen strange things today.”
+**²⁶** Amazement took hold on all, and they glorified God. They were filled with fear, saying, “We have seen strange things today.”
 
-<sup>27</sup> After these things he went out and saw a tax collector named Levi sitting at the tax office, and said to him,  “Follow me!”
+**²⁷** After these things he went out and saw a tax collector named Levi sitting at the tax office, and said to him,  “Follow me!”
 
-<sup>28</sup> He left everything, and rose up and followed him.
+**²⁸** He left everything, and rose up and followed him.
 
-<sup>29</sup> Levi made a great feast for him in his house. There was a great crowd of tax collectors and others who were reclining with them.
+**²⁹** Levi made a great feast for him in his house. There was a great crowd of tax collectors and others who were reclining with them.
 
-<sup>30</sup> Their scribes and the Pharisees murmured against his disciples, saying, “Why do you eat and drink with the tax collectors and sinners?”
+**³⁰** Their scribes and the Pharisees murmured against his disciples, saying, “Why do you eat and drink with the tax collectors and sinners?”
 
-<sup>31</sup> Jesus answered them,  “Those who are healthy have no need for a physician, but those who are sick do.
+**³¹** Jesus answered them,  “Those who are healthy have no need for a physician, but those who are sick do.
 
-<sup>32</sup>  I have not come to call the righteous, but sinners, to repentance.”
+**³²**  I have not come to call the righteous, but sinners, to repentance.”
 
-<sup>33</sup> They said to him, “Why do John’s disciples often fast and pray, likewise also the disciples of the Pharisees, but yours eat and drink?”
+**³³** They said to him, “Why do John’s disciples often fast and pray, likewise also the disciples of the Pharisees, but yours eat and drink?”
 
-<sup>34</sup> He said to them,  “Can you make the friends of the bridegroom fast while the bridegroom is with them?
+**³⁴** He said to them,  “Can you make the friends of the bridegroom fast while the bridegroom is with them?
 
-<sup>35</sup>  But the days will come when the bridegroom will be taken away from them. Then they will fast in those days.”
+**³⁵**  But the days will come when the bridegroom will be taken away from them. Then they will fast in those days.”
 
-<sup>36</sup> He also told a parable to them.  “No one puts a piece from a new garment on an old garment, or else he will tear the new, and also the piece from the new will not match the old.
+**³⁶** He also told a parable to them.  “No one puts a piece from a new garment on an old garment, or else he will tear the new, and also the piece from the new will not match the old.
 
-<sup>37</sup>  No one puts new wine into old wineskins, or else the new wine will burst the skins, and it will be spilled and the skins will be destroyed.
+**³⁷**  No one puts new wine into old wineskins, or else the new wine will burst the skins, and it will be spilled and the skins will be destroyed.
 
-<sup>38</sup>  But new wine must be put into fresh wineskins, and both are preserved.
+**³⁸**  But new wine must be put into fresh wineskins, and both are preserved.
 
-<sup>39</sup>  No man having drunk old wine immediately desires new, for he says, ‘The old is better.’”
+**³⁹**  No man having drunk old wine immediately desires new, for he says, ‘The old is better.’”

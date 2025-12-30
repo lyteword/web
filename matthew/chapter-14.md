@@ -4,77 +4,77 @@ weight: 14
 
 # Chapter 14
 
-<sup>1</sup> At that time, Herod the tetrarch heard the report concerning Jesus,
+**¹** At that time, Herod the tetrarch heard the report concerning Jesus,
 
-<sup>2</sup> and said to his servants, “This is John the Baptizer. He is risen from the dead. That is why these powers work in him.”
+**²** and said to his servants, “This is John the Baptizer. He is risen from the dead. That is why these powers work in him.”
 
-<sup>3</sup> For Herod had arrested John, bound him, and put him in prison for the sake of Herodias, his brother Philip’s wife.
+**³** For Herod had arrested John, bound him, and put him in prison for the sake of Herodias, his brother Philip’s wife.
 
-<sup>4</sup> For John said to him, “It is not lawful for you to have her.”
+**⁴** For John said to him, “It is not lawful for you to have her.”
 
-<sup>5</sup> When he would have put him to death, he feared the multitude, because they counted him as a prophet.
+**⁵** When he would have put him to death, he feared the multitude, because they counted him as a prophet.
 
-<sup>6</sup> But when Herod’s birthday came, the daughter of Herodias danced among them and pleased Herod.
+**⁶** But when Herod’s birthday came, the daughter of Herodias danced among them and pleased Herod.
 
-<sup>7</sup> Therefore he promised with an oath to give her whatever she should ask.
+**⁷** Therefore he promised with an oath to give her whatever she should ask.
 
-<sup>8</sup> She, being prompted by her mother, said, “Give me here on a platter the head of John the Baptizer.”
+**⁸** She, being prompted by her mother, said, “Give me here on a platter the head of John the Baptizer.”
 
-<sup>9</sup> The king was grieved, but for the sake of his oaths and of those who sat at the table with him, he commanded it to be given,
+**⁹** The king was grieved, but for the sake of his oaths and of those who sat at the table with him, he commanded it to be given,
 
-<sup>10</sup> and he sent and beheaded John in the prison.
+**¹⁰** and he sent and beheaded John in the prison.
 
-<sup>11</sup> His head was brought on a platter and given to the young lady; and she brought it to her mother.
+**¹¹** His head was brought on a platter and given to the young lady; and she brought it to her mother.
 
-<sup>12</sup> His disciples came, took the body, and buried it. Then they went and told Jesus.
+**¹²** His disciples came, took the body, and buried it. Then they went and told Jesus.
 
-<sup>13</sup> Now when Jesus heard this, he withdrew from there in a boat to a deserted place apart. When the multitudes heard it, they followed him on foot from the cities.
+**¹³** Now when Jesus heard this, he withdrew from there in a boat to a deserted place apart. When the multitudes heard it, they followed him on foot from the cities.
 
-<sup>14</sup> Jesus went out, and he saw a great multitude. He had compassion on them and healed their sick.
+**¹⁴** Jesus went out, and he saw a great multitude. He had compassion on them and healed their sick.
 
-<sup>15</sup> When evening had come, his disciples came to him, saying, “This place is deserted, and the hour is already late. Send the multitudes away, that they may go into the villages, and buy themselves food.”
+**¹⁵** When evening had come, his disciples came to him, saying, “This place is deserted, and the hour is already late. Send the multitudes away, that they may go into the villages, and buy themselves food.”
 
-<sup>16</sup> But Jesus said to them,  “They don’t need to go away. You give them something to eat.”
+**¹⁶** But Jesus said to them,  “They don’t need to go away. You give them something to eat.”
 
-<sup>17</sup> They told him, “We only have here five loaves and two fish.”
+**¹⁷** They told him, “We only have here five loaves and two fish.”
 
-<sup>18</sup> He said,  “Bring them here to me.”
+**¹⁸** He said,  “Bring them here to me.”
 
-<sup>19</sup> He commanded the multitudes to sit down on the grass; and he took the five loaves and the two fish, and looking up to heaven, he blessed, broke and gave the loaves to the disciples; and the disciples gave to the multitudes.
+**¹⁹** He commanded the multitudes to sit down on the grass; and he took the five loaves and the two fish, and looking up to heaven, he blessed, broke and gave the loaves to the disciples; and the disciples gave to the multitudes.
 
-<sup>20</sup> They all ate and were filled. They took up twelve baskets full of that which remained left over from the broken pieces.
+**²⁰** They all ate and were filled. They took up twelve baskets full of that which remained left over from the broken pieces.
 
-<sup>21</sup> Those who ate were about five thousand men, in addition to women and children.
+**²¹** Those who ate were about five thousand men, in addition to women and children.
 
-<sup>22</sup> Immediately Jesus made the disciples get into the boat and go ahead of him to the other side, while he sent the multitudes away.
+**²²** Immediately Jesus made the disciples get into the boat and go ahead of him to the other side, while he sent the multitudes away.
 
-<sup>23</sup> After he had sent the multitudes away, he went up into the mountain by himself to pray. When evening had come, he was there alone.
+**²³** After he had sent the multitudes away, he went up into the mountain by himself to pray. When evening had come, he was there alone.
 
-<sup>24</sup> But the boat was now in the middle of the sea, distressed by the waves, for the wind was contrary.
+**²⁴** But the boat was now in the middle of the sea, distressed by the waves, for the wind was contrary.
 
-<sup>25</sup> In the fourth watch of the night,[^723] Jesus came to them, walking on the sea.[^724]
+**²⁵** In the fourth watch of the night,[^723] Jesus came to them, walking on the sea.[^724]
 
-<sup>26</sup> When the disciples saw him walking on the sea, they were troubled, saying, “It’s a ghost!” and they cried out for fear.
+**²⁶** When the disciples saw him walking on the sea, they were troubled, saying, “It’s a ghost!” and they cried out for fear.
 
-<sup>27</sup> But immediately Jesus spoke to them, saying,  “Cheer up! It is I! [^725]  Don’t be afraid.”
+**²⁷** But immediately Jesus spoke to them, saying,  “Cheer up! It is I! [^725]  Don’t be afraid.”
 
-<sup>28</sup> Peter answered him and said, “Lord, if it is you, command me to come to you on the waters.”
+**²⁸** Peter answered him and said, “Lord, if it is you, command me to come to you on the waters.”
 
-<sup>29</sup> He said,  “Come!” Peter stepped down from the boat and walked on the waters to come to Jesus.
+**²⁹** He said,  “Come!” Peter stepped down from the boat and walked on the waters to come to Jesus.
 
-<sup>30</sup> But when he saw that the wind was strong, he was afraid, and beginning to sink, he cried out, saying, “Lord, save me!”
+**³⁰** But when he saw that the wind was strong, he was afraid, and beginning to sink, he cried out, saying, “Lord, save me!”
 
-<sup>31</sup> Immediately Jesus stretched out his hand, took hold of him, and said to him,  “You of little faith, why did you doubt?”
+**³¹** Immediately Jesus stretched out his hand, took hold of him, and said to him,  “You of little faith, why did you doubt?”
 
-<sup>32</sup> When they got up into the boat, the wind ceased.
+**³²** When they got up into the boat, the wind ceased.
 
-<sup>33</sup> Those who were in the boat came and worshiped him, saying, “You are truly the Son of God!”
+**³³** Those who were in the boat came and worshiped him, saying, “You are truly the Son of God!”
 
-<sup>34</sup> When they had crossed over, they came to the land of Gennesaret.
+**³⁴** When they had crossed over, they came to the land of Gennesaret.
 
-<sup>35</sup> When the people of that place recognized him, they sent into all that surrounding region and brought to him all who were sick;
+**³⁵** When the people of that place recognized him, they sent into all that surrounding region and brought to him all who were sick;
 
-<sup>36</sup> and they begged him that they might just touch the fringe[^726] of his garment. As many as touched it were made whole.
+**³⁶** and they begged him that they might just touch the fringe[^726] of his garment. As many as touched it were made whole.
 
 [^723]: 14:25 The night was equally divided into four watches, so the fourth watch is approximately 3:00 a.m. to sunrise.
 [^724]: 14:25 See Job 9:8

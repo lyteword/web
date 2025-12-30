@@ -4,33 +4,33 @@ weight: 1
 
 # Chapter 1
 
-<sup>1</sup> A revelation, Yahweh’s[^644] word to Israel by Malachi.
+**¹** A revelation, Yahweh’s[^644] word to Israel by Malachi.
 
-<sup>2</sup> “I have loved you,” says Yahweh. Yet you say, “How have you loved us?” “Wasn’t Esau Jacob’s brother?” says Yahweh, “Yet I loved Jacob;
+**²** “I have loved you,” says Yahweh. Yet you say, “How have you loved us?” “Wasn’t Esau Jacob’s brother?” says Yahweh, “Yet I loved Jacob;
 
-<sup>3</sup> but Esau I hated, and made his mountains a desolation, and gave his heritage to the jackals of the wilderness.”
+**³** but Esau I hated, and made his mountains a desolation, and gave his heritage to the jackals of the wilderness.”
 
-<sup>4</sup> Whereas Edom says, “We are beaten down, but we will return and build the waste places,” Yahweh of Armies says, “They shall build, but I will throw down; and men will call them ‘The Wicked Land,’ even the people against whom Yahweh shows wrath forever.”
+**⁴** Whereas Edom says, “We are beaten down, but we will return and build the waste places,” Yahweh of Armies says, “They shall build, but I will throw down; and men will call them ‘The Wicked Land,’ even the people against whom Yahweh shows wrath forever.”
 
-<sup>5</sup> Your eyes will see, and you will say, “Yahweh is great—even beyond the border of Israel!”
+**⁵** Your eyes will see, and you will say, “Yahweh is great—even beyond the border of Israel!”
 
-<sup>6</sup> “A son honors his father, and a servant his master. If I am a father, then where is my honor? And if I am a master, where is the respect due me?” says Yahweh of Armies to you priests who despise my name. “You say, ‘How have we despised your name?’
+**⁶** “A son honors his father, and a servant his master. If I am a father, then where is my honor? And if I am a master, where is the respect due me?” says Yahweh of Armies to you priests who despise my name. “You say, ‘How have we despised your name?’
 
-<sup>7</sup> You offer polluted bread on my altar. You say, ‘How have we polluted you?’ In that you say, ‘Yahweh’s table is contemptible.’
+**⁷** You offer polluted bread on my altar. You say, ‘How have we polluted you?’ In that you say, ‘Yahweh’s table is contemptible.’
 
-<sup>8</sup> When you offer the blind for sacrifice, isn’t that evil? And when you offer the lame and sick, isn’t that evil? Present it now to your governor! Will he be pleased with you? Or will he accept your person?” says Yahweh of Armies.
+**⁸** When you offer the blind for sacrifice, isn’t that evil? And when you offer the lame and sick, isn’t that evil? Present it now to your governor! Will he be pleased with you? Or will he accept your person?” says Yahweh of Armies.
 
-<sup>9</sup> “Now, please entreat the favor of God,[^645] that he may be gracious to us. With this, will he accept any of you?” says Yahweh of Armies.
+**⁹** “Now, please entreat the favor of God,[^645] that he may be gracious to us. With this, will he accept any of you?” says Yahweh of Armies.
 
-<sup>10</sup> “Oh that there were one among you who would shut the doors, that you might not kindle fire on my altar in vain! I have no pleasure in you,” says Yahweh of Armies, “neither will I accept an offering at your hand.
+**¹⁰** “Oh that there were one among you who would shut the doors, that you might not kindle fire on my altar in vain! I have no pleasure in you,” says Yahweh of Armies, “neither will I accept an offering at your hand.
 
-<sup>11</sup> For from the rising of the sun even to its going down, my name is great among the nations, and in every place incense will be offered to my name, and a pure offering; for my name is great among the nations,” says Yahweh of Armies.
+**¹¹** For from the rising of the sun even to its going down, my name is great among the nations, and in every place incense will be offered to my name, and a pure offering; for my name is great among the nations,” says Yahweh of Armies.
 
-<sup>12</sup> “But you profane it when you say, ‘Yahweh’s table is polluted, and its fruit, even its food, is contemptible.’
+**¹²** “But you profane it when you say, ‘Yahweh’s table is polluted, and its fruit, even its food, is contemptible.’
 
-<sup>13</sup> You say also, ‘Behold,[^646] what a weariness it is!’ And you have sniffed at it”, says Yahweh of Armies; “and you have brought that which was taken by violence, the lame, and the sick; thus you bring the offering. Should I accept this at your hand?” says Yahweh.
+**¹³** You say also, ‘Behold,[^646] what a weariness it is!’ And you have sniffed at it”, says Yahweh of Armies; “and you have brought that which was taken by violence, the lame, and the sick; thus you bring the offering. Should I accept this at your hand?” says Yahweh.
 
-<sup>14</sup> “But the deceiver is cursed who has in his flock a male, and vows and sacrifices to the Lord[^647] a defective thing; for I am a great King,” says Yahweh of Armies, “and my name is awesome among the nations.”
+**¹⁴** “But the deceiver is cursed who has in his flock a male, and vows and sacrifices to the Lord[^647] a defective thing; for I am a great King,” says Yahweh of Armies, “and my name is awesome among the nations.”
 
 [^644]: 1:1 “Yahweh” is God’s proper Name, sometimes rendered “LORD” (all caps) in other translations.
 [^645]: 1:9 The Hebrew word rendered “God” is “ אֱלֹהִ֑ים” (Elohim).

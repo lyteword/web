@@ -4,46 +4,46 @@ weight: 16
 
 # Chapter 16
 
-<sup>1</sup> Observe the month of Abib, and keep the Passover to Yahweh your God; for in the month of Abib Yahweh your God brought you out of Egypt by night.
+**¹** Observe the month of Abib, and keep the Passover to Yahweh your God; for in the month of Abib Yahweh your God brought you out of Egypt by night.
 
-<sup>2</sup> You shall sacrifice the Passover to Yahweh your God, of the flock and the herd, in the place which Yahweh shall choose to cause his name to dwell there.
+**²** You shall sacrifice the Passover to Yahweh your God, of the flock and the herd, in the place which Yahweh shall choose to cause his name to dwell there.
 
-<sup>3</sup> You shall eat no leavened bread with it. You shall eat unleavened bread with it seven days, even the bread of affliction (for you came out of the land of Egypt in haste) that you may remember the day when you came out of the land of Egypt all the days of your life.
+**³** You shall eat no leavened bread with it. You shall eat unleavened bread with it seven days, even the bread of affliction (for you came out of the land of Egypt in haste) that you may remember the day when you came out of the land of Egypt all the days of your life.
 
-<sup>4</sup> No yeast shall be seen with you in all your borders seven days; neither shall any of the meat, which you sacrifice the first day at evening, remain all night until the morning.
+**⁴** No yeast shall be seen with you in all your borders seven days; neither shall any of the meat, which you sacrifice the first day at evening, remain all night until the morning.
 
-<sup>5</sup> You may not sacrifice the Passover within any of your gates which Yahweh your God gives you;
+**⁵** You may not sacrifice the Passover within any of your gates which Yahweh your God gives you;
 
-<sup>6</sup> but at the place which Yahweh your God shall choose to cause his name to dwell in, there you shall sacrifice the Passover at evening, at the going down of the sun, at the season that you came out of Egypt.
+**⁶** but at the place which Yahweh your God shall choose to cause his name to dwell in, there you shall sacrifice the Passover at evening, at the going down of the sun, at the season that you came out of Egypt.
 
-<sup>7</sup> You shall roast and eat it in the place which Yahweh your God chooses. In the morning you shall return to your tents.
+**⁷** You shall roast and eat it in the place which Yahweh your God chooses. In the morning you shall return to your tents.
 
-<sup>8</sup> Six days you shall eat unleavened bread. On the seventh day shall be a solemn assembly to Yahweh your God. You shall do no work.
+**⁸** Six days you shall eat unleavened bread. On the seventh day shall be a solemn assembly to Yahweh your God. You shall do no work.
 
-<sup>9</sup> You shall count for yourselves seven weeks. From the time you begin to put the sickle to the standing grain you shall begin to count seven weeks.
+**⁹** You shall count for yourselves seven weeks. From the time you begin to put the sickle to the standing grain you shall begin to count seven weeks.
 
-<sup>10</sup> You shall keep the feast of weeks to Yahweh your God with a tribute of a free will offering of your hand, which you shall give according to how Yahweh your God blesses you.
+**¹⁰** You shall keep the feast of weeks to Yahweh your God with a tribute of a free will offering of your hand, which you shall give according to how Yahweh your God blesses you.
 
-<sup>11</sup> You shall rejoice before Yahweh your God: you, your son, your daughter, your male servant, your female servant, the Levite who is within your gates, the foreigner, the fatherless, and the widow who are among you, in the place which Yahweh your God shall choose to cause his name to dwell there.
+**¹¹** You shall rejoice before Yahweh your God: you, your son, your daughter, your male servant, your female servant, the Levite who is within your gates, the foreigner, the fatherless, and the widow who are among you, in the place which Yahweh your God shall choose to cause his name to dwell there.
 
-<sup>12</sup> You shall remember that you were a slave in Egypt. You shall observe and do these statutes.
+**¹²** You shall remember that you were a slave in Egypt. You shall observe and do these statutes.
 
-<sup>13</sup> You shall keep the feast of booths seven days, after you have gathered in from your threshing floor and from your wine press.
+**¹³** You shall keep the feast of booths seven days, after you have gathered in from your threshing floor and from your wine press.
 
-<sup>14</sup> You shall rejoice in your feast, you, your son, your daughter, your male servant, your female servant, the Levite, the foreigner, the fatherless, and the widow who are within your gates.
+**¹⁴** You shall rejoice in your feast, you, your son, your daughter, your male servant, your female servant, the Levite, the foreigner, the fatherless, and the widow who are within your gates.
 
-<sup>15</sup> You shall keep a feast to Yahweh your God seven days in the place which Yahweh chooses, because Yahweh your God will bless you in all your increase and in all the work of your hands, and you shall be altogether joyful.
+**¹⁵** You shall keep a feast to Yahweh your God seven days in the place which Yahweh chooses, because Yahweh your God will bless you in all your increase and in all the work of your hands, and you shall be altogether joyful.
 
-<sup>16</sup> Three times in a year all of your males shall appear before Yahweh your God in the place which he chooses: in the feast of unleavened bread, in the feast of weeks, and in the feast of booths. They shall not appear before Yahweh empty.
+**¹⁶** Three times in a year all of your males shall appear before Yahweh your God in the place which he chooses: in the feast of unleavened bread, in the feast of weeks, and in the feast of booths. They shall not appear before Yahweh empty.
 
-<sup>17</sup> Every man shall give as he is able, according to Yahweh your God’s blessing which he has given you.
+**¹⁷** Every man shall give as he is able, according to Yahweh your God’s blessing which he has given you.
 
-<sup>18</sup> You shall make judges and officers in all your gates, which Yahweh your God gives you, according to your tribes; and they shall judge the people with righteous judgment.
+**¹⁸** You shall make judges and officers in all your gates, which Yahweh your God gives you, according to your tribes; and they shall judge the people with righteous judgment.
 
-<sup>19</sup> You shall not pervert justice. You shall not show partiality. You shall not take a bribe, for a bribe blinds the eyes of the wise and perverts the words of the righteous.
+**¹⁹** You shall not pervert justice. You shall not show partiality. You shall not take a bribe, for a bribe blinds the eyes of the wise and perverts the words of the righteous.
 
-<sup>20</sup> You shall follow that which is altogether just, that you may live and inherit the land which Yahweh your God gives you.
+**²⁰** You shall follow that which is altogether just, that you may live and inherit the land which Yahweh your God gives you.
 
-<sup>21</sup> You shall not plant for yourselves an Asherah of any kind of tree beside Yahweh your God’s altar, which you shall make for yourselves.
+**²¹** You shall not plant for yourselves an Asherah of any kind of tree beside Yahweh your God’s altar, which you shall make for yourselves.
 
-<sup>22</sup> Neither shall you set yourself up a sacred stone which Yahweh your God hates.
+**²²** Neither shall you set yourself up a sacred stone which Yahweh your God hates.

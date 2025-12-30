@@ -4,67 +4,67 @@ weight: 14
 
 # Chapter 14
 
-<sup>1</sup> At that time Abijah the son of Jeroboam became sick.
+**¹** At that time Abijah the son of Jeroboam became sick.
 
-<sup>2</sup> Jeroboam said to his wife, “Please get up and disguise yourself, so that you won’t be recognized as Jeroboam’s wife. Go to Shiloh. Behold, Ahijah the prophet is there, who said that I would be king over this people.
+**²** Jeroboam said to his wife, “Please get up and disguise yourself, so that you won’t be recognized as Jeroboam’s wife. Go to Shiloh. Behold, Ahijah the prophet is there, who said that I would be king over this people.
 
-<sup>3</sup> Take with you ten loaves of bread, some cakes, and a jar of honey, and go to him. He will tell you what will become of the child.”
+**³** Take with you ten loaves of bread, some cakes, and a jar of honey, and go to him. He will tell you what will become of the child.”
 
-<sup>4</sup> Jeroboam’s wife did so, and arose and went to Shiloh, and came to Ahijah’s house. Now Ahijah could not see, for his eyes were set by reason of his age.
+**⁴** Jeroboam’s wife did so, and arose and went to Shiloh, and came to Ahijah’s house. Now Ahijah could not see, for his eyes were set by reason of his age.
 
-<sup>5</sup> Yahweh said to Ahijah, “Behold, Jeroboam’s wife is coming to inquire of you concerning her son, for he is sick. Tell her such and such; for it will be, when she comes in, that she will pretend to be another woman.”
+**⁵** Yahweh said to Ahijah, “Behold, Jeroboam’s wife is coming to inquire of you concerning her son, for he is sick. Tell her such and such; for it will be, when she comes in, that she will pretend to be another woman.”
 
-<sup>6</sup> So when Ahijah heard the sound of her feet as she came in at the door, he said, “Come in, Jeroboam’s wife! Why do you pretend to be another? For I am sent to you with heavy news.
+**⁶** So when Ahijah heard the sound of her feet as she came in at the door, he said, “Come in, Jeroboam’s wife! Why do you pretend to be another? For I am sent to you with heavy news.
 
-<sup>7</sup> Go, tell Jeroboam, ‘Yahweh, the God of Israel, says: “Because I exalted you from among the people, and made you prince over my people Israel,
+**⁷** Go, tell Jeroboam, ‘Yahweh, the God of Israel, says: “Because I exalted you from among the people, and made you prince over my people Israel,
 
-<sup>8</sup> and tore the kingdom away from David’s house, and gave it to you; and yet you have not been as my servant David, who kept my commandments, and who followed me with all his heart, to do that only which was right in my eyes,
+**⁸** and tore the kingdom away from David’s house, and gave it to you; and yet you have not been as my servant David, who kept my commandments, and who followed me with all his heart, to do that only which was right in my eyes,
 
-<sup>9</sup> but have done evil above all who were before you, and have gone and made for yourself other gods, molten images, to provoke me to anger, and have cast me behind your back,
+**⁹** but have done evil above all who were before you, and have gone and made for yourself other gods, molten images, to provoke me to anger, and have cast me behind your back,
 
-<sup>10</sup> therefore, behold, I will bring evil on the house of Jeroboam, and will cut off from Jeroboam everyone who urinates on a wall,[^284] he who is shut up and he who is left at large in Israel, and will utterly sweep away the house of Jeroboam, as a man sweeps away dung until it is all gone.
+**¹⁰** therefore, behold, I will bring evil on the house of Jeroboam, and will cut off from Jeroboam everyone who urinates on a wall,[^284] he who is shut up and he who is left at large in Israel, and will utterly sweep away the house of Jeroboam, as a man sweeps away dung until it is all gone.
 
-<sup>11</sup> The dogs will eat he who belongs to Jeroboam who dies in the city; and the birds of the sky will eat he who dies in the field, for Yahweh has spoken it.”’
+**¹¹** The dogs will eat he who belongs to Jeroboam who dies in the city; and the birds of the sky will eat he who dies in the field, for Yahweh has spoken it.”’
 
-<sup>12</sup> Arise therefore, and go to your house. When your feet enter into the city, the child will die.
+**¹²** Arise therefore, and go to your house. When your feet enter into the city, the child will die.
 
-<sup>13</sup> All Israel will mourn for him and bury him; for he only of Jeroboam will come to the grave, because in him there is found some good thing toward Yahweh, the God of Israel, in the house of Jeroboam.
+**¹³** All Israel will mourn for him and bury him; for he only of Jeroboam will come to the grave, because in him there is found some good thing toward Yahweh, the God of Israel, in the house of Jeroboam.
 
-<sup>14</sup> Moreover Yahweh will raise up a king for himself over Israel who will cut off the house of Jeroboam. This is the day! What? Even now.
+**¹⁴** Moreover Yahweh will raise up a king for himself over Israel who will cut off the house of Jeroboam. This is the day! What? Even now.
 
-<sup>15</sup> For Yahweh will strike Israel, as a reed is shaken in the water; and he will root up Israel out of this good land which he gave to their fathers, and will scatter them beyond the River,[^285] because they have made their Asherah poles, provoking Yahweh to anger.
+**¹⁵** For Yahweh will strike Israel, as a reed is shaken in the water; and he will root up Israel out of this good land which he gave to their fathers, and will scatter them beyond the River,[^285] because they have made their Asherah poles, provoking Yahweh to anger.
 
-<sup>16</sup> He will give Israel up because of the sins of Jeroboam, which he has sinned, and with which he has made Israel to sin.”
+**¹⁶** He will give Israel up because of the sins of Jeroboam, which he has sinned, and with which he has made Israel to sin.”
 
-<sup>17</sup> Jeroboam’s wife arose and departed, and came to Tirzah. As she came to the threshold of the house, the child died.
+**¹⁷** Jeroboam’s wife arose and departed, and came to Tirzah. As she came to the threshold of the house, the child died.
 
-<sup>18</sup> All Israel buried him and mourned for him, according to Yahweh’s word, which he spoke by his servant Ahijah the prophet.
+**¹⁸** All Israel buried him and mourned for him, according to Yahweh’s word, which he spoke by his servant Ahijah the prophet.
 
-<sup>19</sup> The rest of the acts of Jeroboam, how he fought and how he reigned, behold, they are written in the book of the chronicles of the kings of Israel.
+**¹⁹** The rest of the acts of Jeroboam, how he fought and how he reigned, behold, they are written in the book of the chronicles of the kings of Israel.
 
-<sup>20</sup> The days which Jeroboam reigned were twenty two years; then he slept with his fathers, and Nadab his son reigned in his place.
+**²⁰** The days which Jeroboam reigned were twenty two years; then he slept with his fathers, and Nadab his son reigned in his place.
 
-<sup>21</sup> Rehoboam the son of Solomon reigned in Judah. Rehoboam was forty-one years old when he began to reign, and he reigned seventeen years in Jerusalem, the city which Yahweh had chosen out of all the tribes of Israel, to put his name there. His mother’s name was Naamah the Ammonitess.
+**²¹** Rehoboam the son of Solomon reigned in Judah. Rehoboam was forty-one years old when he began to reign, and he reigned seventeen years in Jerusalem, the city which Yahweh had chosen out of all the tribes of Israel, to put his name there. His mother’s name was Naamah the Ammonitess.
 
-<sup>22</sup> Judah did that which was evil in Yahweh’s sight, and they provoked him to jealousy with their sins which they committed, above all that their fathers had done.
+**²²** Judah did that which was evil in Yahweh’s sight, and they provoked him to jealousy with their sins which they committed, above all that their fathers had done.
 
-<sup>23</sup> For they also built for themselves high places, sacred pillars, and Asherah poles on every high hill and under every green tree.
+**²³** For they also built for themselves high places, sacred pillars, and Asherah poles on every high hill and under every green tree.
 
-<sup>24</sup> There were also sodomites in the land. They did according to all the abominations of the nations which Yahweh drove out before the children of Israel.
+**²⁴** There were also sodomites in the land. They did according to all the abominations of the nations which Yahweh drove out before the children of Israel.
 
-<sup>25</sup> In the fifth year of King Rehoboam, Shishak king of Egypt came up against Jerusalem;
+**²⁵** In the fifth year of King Rehoboam, Shishak king of Egypt came up against Jerusalem;
 
-<sup>26</sup> and he took away the treasures of Yahweh’s house and the treasures of the king’s house. He even took away all of it, including all the gold shields which Solomon had made.
+**²⁶** and he took away the treasures of Yahweh’s house and the treasures of the king’s house. He even took away all of it, including all the gold shields which Solomon had made.
 
-<sup>27</sup> King Rehoboam made shields of bronze in their place, and committed them to the hands of the captains of the guard, who kept the door of the king’s house.
+**²⁷** King Rehoboam made shields of bronze in their place, and committed them to the hands of the captains of the guard, who kept the door of the king’s house.
 
-<sup>28</sup> It was so, that as often as the king went into Yahweh’s house, the guard bore them, and brought them back into the guard room.
+**²⁸** It was so, that as often as the king went into Yahweh’s house, the guard bore them, and brought them back into the guard room.
 
-<sup>29</sup> Now the rest of the acts of Rehoboam, and all that he did, aren’t they written in the book of the chronicles of the kings of Judah?
+**²⁹** Now the rest of the acts of Rehoboam, and all that he did, aren’t they written in the book of the chronicles of the kings of Judah?
 
-<sup>30</sup> There was war between Rehoboam and Jeroboam continually.
+**³⁰** There was war between Rehoboam and Jeroboam continually.
 
-<sup>31</sup> Rehoboam slept with his fathers, and was buried with his fathers in David’s city. His mother’s name was Naamah the Ammonitess. Abijam his son reigned in his place.
+**³¹** Rehoboam slept with his fathers, and was buried with his fathers in David’s city. His mother’s name was Naamah the Ammonitess. Abijam his son reigned in his place.
 
 [^284]: 14:10 or, male
 [^285]: 14:15 That is, the Euphrates.

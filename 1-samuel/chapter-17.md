@@ -4,121 +4,121 @@ weight: 17
 
 # Chapter 17
 
-<sup>1</sup> Now the Philistines gathered together their armies to battle; and they were gathered together at Socoh, which belongs to Judah, and encamped between Socoh and Azekah in Ephesdammim.
+**¹** Now the Philistines gathered together their armies to battle; and they were gathered together at Socoh, which belongs to Judah, and encamped between Socoh and Azekah in Ephesdammim.
 
-<sup>2</sup> Saul and the men of Israel were gathered together, and encamped in the valley of Elah, and set the battle in array against the Philistines.
+**²** Saul and the men of Israel were gathered together, and encamped in the valley of Elah, and set the battle in array against the Philistines.
 
-<sup>3</sup> The Philistines stood on the mountain on the one side, and Israel stood on the mountain on the other side: and there was a valley between them.
+**³** The Philistines stood on the mountain on the one side, and Israel stood on the mountain on the other side: and there was a valley between them.
 
-<sup>4</sup> A champion out of the camp of the Philistines named Goliath of Gath, whose height was six cubits and a span[^238] went out.
+**⁴** A champion out of the camp of the Philistines named Goliath of Gath, whose height was six cubits and a span[^238] went out.
 
-<sup>5</sup> He had a helmet of bronze on his head, and he wore a coat of mail; and the weight of the coat was five thousand shekels[^239] of bronze.
+**⁵** He had a helmet of bronze on his head, and he wore a coat of mail; and the weight of the coat was five thousand shekels[^239] of bronze.
 
-<sup>6</sup> He had bronze shin armor on his legs and a bronze javelin between his shoulders.
+**⁶** He had bronze shin armor on his legs and a bronze javelin between his shoulders.
 
-<sup>7</sup> The staff of his spear was like a weaver’s beam; and his spear’s head weighed six hundred shekels of iron.[^240] His shield bearer went before him.
+**⁷** The staff of his spear was like a weaver’s beam; and his spear’s head weighed six hundred shekels of iron.[^240] His shield bearer went before him.
 
-<sup>8</sup> He stood and cried to the armies of Israel, and said to them, “Why have you come out to set your battle in array? Am I not a Philistine, and you servants to Saul? Choose a man for yourselves, and let him come down to me.
+**⁸** He stood and cried to the armies of Israel, and said to them, “Why have you come out to set your battle in array? Am I not a Philistine, and you servants to Saul? Choose a man for yourselves, and let him come down to me.
 
-<sup>9</sup> If he is able to fight with me and kill me, then will we be your servants; but if I prevail against him and kill him, then you will be our servants and serve us.”
+**⁹** If he is able to fight with me and kill me, then will we be your servants; but if I prevail against him and kill him, then you will be our servants and serve us.”
 
-<sup>10</sup> The Philistine said, “I defy the armies of Israel today! Give me a man, that we may fight together!”
+**¹⁰** The Philistine said, “I defy the armies of Israel today! Give me a man, that we may fight together!”
 
-<sup>11</sup> When Saul and all Israel heard those words of the Philistine, they were dismayed and greatly afraid.
+**¹¹** When Saul and all Israel heard those words of the Philistine, they were dismayed and greatly afraid.
 
-<sup>12</sup> Now David was the son of that Ephrathite of Bethlehem Judah, whose name was Jesse; and he had eight sons. The man was an elderly old man in the days of Saul.
+**¹²** Now David was the son of that Ephrathite of Bethlehem Judah, whose name was Jesse; and he had eight sons. The man was an elderly old man in the days of Saul.
 
-<sup>13</sup> The three oldest sons of Jesse had gone after Saul to the battle; and the names of his three sons who went to the battle were Eliab the firstborn, and next to him Abinadab, and the third Shammah.
+**¹³** The three oldest sons of Jesse had gone after Saul to the battle; and the names of his three sons who went to the battle were Eliab the firstborn, and next to him Abinadab, and the third Shammah.
 
-<sup>14</sup> David was the youngest; and the three oldest followed Saul.
+**¹⁴** David was the youngest; and the three oldest followed Saul.
 
-<sup>15</sup> Now David went back and forth from Saul to feed his father’s sheep at Bethlehem.
+**¹⁵** Now David went back and forth from Saul to feed his father’s sheep at Bethlehem.
 
-<sup>16</sup> The Philistine came near morning and evening, and presented himself forty days.
+**¹⁶** The Philistine came near morning and evening, and presented himself forty days.
 
-<sup>17</sup> Jesse said to David his son, “Now take for your brothers an ephah[^241] of this parched grain and these ten loaves, and carry them quickly to the camp to your brothers;
+**¹⁷** Jesse said to David his son, “Now take for your brothers an ephah[^241] of this parched grain and these ten loaves, and carry them quickly to the camp to your brothers;
 
-<sup>18</sup> and bring these ten cheeses to the captain of their thousand; and see how your brothers are doing, and bring back news.”
+**¹⁸** and bring these ten cheeses to the captain of their thousand; and see how your brothers are doing, and bring back news.”
 
-<sup>19</sup> Now Saul, and they, and all the men of Israel were in the valley of Elah, fighting with the Philistines.
+**¹⁹** Now Saul, and they, and all the men of Israel were in the valley of Elah, fighting with the Philistines.
 
-<sup>20</sup> David rose up early in the morning and left the sheep with a keeper, and took the provisions and went, as Jesse had commanded him. He came to the place of the wagons as the army which was going out to the fight shouted for the battle.
+**²⁰** David rose up early in the morning and left the sheep with a keeper, and took the provisions and went, as Jesse had commanded him. He came to the place of the wagons as the army which was going out to the fight shouted for the battle.
 
-<sup>21</sup> Israel and the Philistines put the battle in array, army against army.
+**²¹** Israel and the Philistines put the battle in array, army against army.
 
-<sup>22</sup> David left his baggage in the hand of the keeper of the baggage and ran to the army, and came and greeted his brothers.
+**²²** David left his baggage in the hand of the keeper of the baggage and ran to the army, and came and greeted his brothers.
 
-<sup>23</sup> As he talked with them, behold, the champion, the Philistine of Gath, Goliath by name, came up out of the ranks of the Philistines, and said the same words; and David heard them.
+**²³** As he talked with them, behold, the champion, the Philistine of Gath, Goliath by name, came up out of the ranks of the Philistines, and said the same words; and David heard them.
 
-<sup>24</sup> All the men of Israel, when they saw the man, fled from him and were terrified.
+**²⁴** All the men of Israel, when they saw the man, fled from him and were terrified.
 
-<sup>25</sup> The men of Israel said, “Have you seen this man who has come up? He has surely come up to defy Israel. The king will give great riches to the man who kills him, and will give him his daughter, and will make his father’s house tax-free in Israel.”
+**²⁵** The men of Israel said, “Have you seen this man who has come up? He has surely come up to defy Israel. The king will give great riches to the man who kills him, and will give him his daughter, and will make his father’s house tax-free in Israel.”
 
-<sup>26</sup> David spoke to the men who stood by him, saying, “What shall be done to the man who kills this Philistine and takes away the reproach from Israel? For who is this uncircumcised Philistine, that he should defy the armies of the living God?”
+**²⁶** David spoke to the men who stood by him, saying, “What shall be done to the man who kills this Philistine and takes away the reproach from Israel? For who is this uncircumcised Philistine, that he should defy the armies of the living God?”
 
-<sup>27</sup> The people answered him in this way, saying, “So shall it be done to the man who kills him.”
+**²⁷** The people answered him in this way, saying, “So shall it be done to the man who kills him.”
 
-<sup>28</sup> Eliab his oldest brother heard when he spoke to the men; and Eliab’s anger burned against David, and he said, “Why have you come down? With whom have you left those few sheep in the wilderness? I know your pride and the evil of your heart; for you have come down that you might see the battle.”
+**²⁸** Eliab his oldest brother heard when he spoke to the men; and Eliab’s anger burned against David, and he said, “Why have you come down? With whom have you left those few sheep in the wilderness? I know your pride and the evil of your heart; for you have come down that you might see the battle.”
 
-<sup>29</sup> David said, “What have I now done? Is there not a cause?”
+**²⁹** David said, “What have I now done? Is there not a cause?”
 
-<sup>30</sup> He turned away from him toward another, and spoke like that again; and the people answered him again the same way.
+**³⁰** He turned away from him toward another, and spoke like that again; and the people answered him again the same way.
 
-<sup>31</sup> When the words were heard which David spoke, they rehearsed them before Saul; and he sent for him.
+**³¹** When the words were heard which David spoke, they rehearsed them before Saul; and he sent for him.
 
-<sup>32</sup> David said to Saul, “Let no man’s heart fail because of him. Your servant will go and fight with this Philistine.”
+**³²** David said to Saul, “Let no man’s heart fail because of him. Your servant will go and fight with this Philistine.”
 
-<sup>33</sup> Saul said to David, “You are not able to go against this Philistine to fight with him; for you are but a youth, and he a man of war from his youth.”
+**³³** Saul said to David, “You are not able to go against this Philistine to fight with him; for you are but a youth, and he a man of war from his youth.”
 
-<sup>34</sup> David said to Saul, “Your servant was keeping his father’s sheep; and when a lion or a bear came and took a lamb out of the flock,
+**³⁴** David said to Saul, “Your servant was keeping his father’s sheep; and when a lion or a bear came and took a lamb out of the flock,
 
-<sup>35</sup> I went out after him, struck him, and rescued it out of his mouth. When he arose against me, I caught him by his beard, struck him, and killed him.
+**³⁵** I went out after him, struck him, and rescued it out of his mouth. When he arose against me, I caught him by his beard, struck him, and killed him.
 
-<sup>36</sup> Your servant struck both the lion and the bear. This uncircumcised Philistine shall be as one of them, since he has defied the armies of the living God.”
+**³⁶** Your servant struck both the lion and the bear. This uncircumcised Philistine shall be as one of them, since he has defied the armies of the living God.”
 
-<sup>37</sup> David said, “Yahweh, who delivered me out of the paw of the lion and out of the paw of the bear, will deliver me out of the hand of this Philistine.” Saul said to David, “Go! Yahweh will be with you.”
+**³⁷** David said, “Yahweh, who delivered me out of the paw of the lion and out of the paw of the bear, will deliver me out of the hand of this Philistine.” Saul said to David, “Go! Yahweh will be with you.”
 
-<sup>38</sup> Saul dressed David with his clothing. He put a helmet of bronze on his head, and he clad him with a coat of mail.
+**³⁸** Saul dressed David with his clothing. He put a helmet of bronze on his head, and he clad him with a coat of mail.
 
-<sup>39</sup> David strapped his sword on his clothing and he tried to move, for he had not tested it. David said to Saul, “I can’t go with these, for I have not tested them.” Then David took them off.
+**³⁹** David strapped his sword on his clothing and he tried to move, for he had not tested it. David said to Saul, “I can’t go with these, for I have not tested them.” Then David took them off.
 
-<sup>40</sup> He took his staff in his hand, and chose for himself five smooth stones out of the brook, and put them in the pouch of his shepherd’s bag which he had. His sling was in his hand; and he came near to the Philistine.
+**⁴⁰** He took his staff in his hand, and chose for himself five smooth stones out of the brook, and put them in the pouch of his shepherd’s bag which he had. His sling was in his hand; and he came near to the Philistine.
 
-<sup>41</sup> The Philistine walked and came near to David; and the man who bore the shield went before him.
+**⁴¹** The Philistine walked and came near to David; and the man who bore the shield went before him.
 
-<sup>42</sup> When the Philistine looked around and saw David, he disdained him; for he was but a youth, and ruddy, and had a good looking face.
+**⁴²** When the Philistine looked around and saw David, he disdained him; for he was but a youth, and ruddy, and had a good looking face.
 
-<sup>43</sup> The Philistine said to David, “Am I a dog, that you come to me with sticks?” The Philistine cursed David by his gods.
+**⁴³** The Philistine said to David, “Am I a dog, that you come to me with sticks?” The Philistine cursed David by his gods.
 
-<sup>44</sup> The Philistine said to David, “Come to me, and I will give your flesh to the birds of the sky and to the animals of the field.”
+**⁴⁴** The Philistine said to David, “Come to me, and I will give your flesh to the birds of the sky and to the animals of the field.”
 
-<sup>45</sup> Then David said to the Philistine, “You come to me with a sword, with a spear, and with a javelin; but I come to you in the name of Yahweh of Armies, the God of the armies of Israel, whom you have defied.
+**⁴⁵** Then David said to the Philistine, “You come to me with a sword, with a spear, and with a javelin; but I come to you in the name of Yahweh of Armies, the God of the armies of Israel, whom you have defied.
 
-<sup>46</sup> Today, Yahweh will deliver you into my hand. I will strike you and take your head from off you. I will give the dead bodies of the army of the Philistines today to the birds of the sky and to the wild animals of the earth, that all the earth may know that there is a God in Israel,
+**⁴⁶** Today, Yahweh will deliver you into my hand. I will strike you and take your head from off you. I will give the dead bodies of the army of the Philistines today to the birds of the sky and to the wild animals of the earth, that all the earth may know that there is a God in Israel,
 
-<sup>47</sup> and that all this assembly may know that Yahweh doesn’t save with sword and spear; for the battle is Yahweh’s, and he will give you into our hand.”
+**⁴⁷** and that all this assembly may know that Yahweh doesn’t save with sword and spear; for the battle is Yahweh’s, and he will give you into our hand.”
 
-<sup>48</sup> When the Philistine arose, and walked and came near to meet David, David hurried and ran toward the army to meet the Philistine.
+**⁴⁸** When the Philistine arose, and walked and came near to meet David, David hurried and ran toward the army to meet the Philistine.
 
-<sup>49</sup> David put his hand in his bag, took a stone and slung it, and struck the Philistine in his forehead. The stone sank into his forehead, and he fell on his face to the earth.
+**⁴⁹** David put his hand in his bag, took a stone and slung it, and struck the Philistine in his forehead. The stone sank into his forehead, and he fell on his face to the earth.
 
-<sup>50</sup> So David prevailed over the Philistine with a sling and with a stone, and struck the Philistine and killed him; but there was no sword in David’s hand.
+**⁵⁰** So David prevailed over the Philistine with a sling and with a stone, and struck the Philistine and killed him; but there was no sword in David’s hand.
 
-<sup>51</sup> Then David ran, stood over the Philistine, took his sword, drew it out of its sheath, killed him, and cut off his head with it. When the Philistines saw that their champion was dead, they fled.
+**⁵¹** Then David ran, stood over the Philistine, took his sword, drew it out of its sheath, killed him, and cut off his head with it. When the Philistines saw that their champion was dead, they fled.
 
-<sup>52</sup> The men of Israel and of Judah arose and shouted, and pursued the Philistines as far as Gai and to the gates of Ekron. The wounded of the Philistines fell down by the way to Shaaraim, even to Gath and to Ekron.
+**⁵²** The men of Israel and of Judah arose and shouted, and pursued the Philistines as far as Gai and to the gates of Ekron. The wounded of the Philistines fell down by the way to Shaaraim, even to Gath and to Ekron.
 
-<sup>53</sup> The children of Israel returned from chasing after the Philistines, and they plundered their camp.
+**⁵³** The children of Israel returned from chasing after the Philistines, and they plundered their camp.
 
-<sup>54</sup> David took the head of the Philistine and brought it to Jerusalem, but he put his armor in his tent.
+**⁵⁴** David took the head of the Philistine and brought it to Jerusalem, but he put his armor in his tent.
 
-<sup>55</sup> When Saul saw David go out against the Philistine, he said to Abner, the captain of the army, “Abner, whose son is this youth?” Abner said, “As your soul lives, O king, I can’t tell.”
+**⁵⁵** When Saul saw David go out against the Philistine, he said to Abner, the captain of the army, “Abner, whose son is this youth?” Abner said, “As your soul lives, O king, I can’t tell.”
 
-<sup>56</sup> The king said, “Inquire whose son the young man is!”
+**⁵⁶** The king said, “Inquire whose son the young man is!”
 
-<sup>57</sup> As David returned from the slaughter of the Philistine, Abner took him and brought him before Saul with the head of the Philistine in his hand.
+**⁵⁷** As David returned from the slaughter of the Philistine, Abner took him and brought him before Saul with the head of the Philistine in his hand.
 
-<sup>58</sup> Saul said to him, “Whose son are you, you young man?” David answered, “I am the son of your servant Jesse the Bethlehemite.”
+**⁵⁸** Saul said to him, “Whose son are you, you young man?” David answered, “I am the son of your servant Jesse the Bethlehemite.”
 
 [^238]: 17:4 A cubit is the length from the tip of the middle finger to the elbow on a man’s arm, or about 18 inches or 46 centimeters. A span is the length from the tip of a man’s thumb to the tip of his little finger when his hand is stretched out (about half a cubit, or 9 inches, or 22.8 cm.) Therefore, Goliath was about 9 feet and 9 inches or 2.97 meters tall.
 [^239]: 17:5 A shekel is about 10 grams or about 0.35 ounces, so 5000 shekels is about 50 kilograms or 110 pounds.

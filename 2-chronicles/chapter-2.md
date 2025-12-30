@@ -4,41 +4,41 @@ weight: 2
 
 # Chapter 2
 
-<sup>1</sup> Now Solomon decided to build a house for Yahweh’s name, and a house for his kingdom.
+**¹** Now Solomon decided to build a house for Yahweh’s name, and a house for his kingdom.
 
-<sup>2</sup> Solomon counted out seventy thousand men to bear burdens, eighty thousand men who were stone cutters in the mountains, and three thousand six hundred to oversee them.
+**²** Solomon counted out seventy thousand men to bear burdens, eighty thousand men who were stone cutters in the mountains, and three thousand six hundred to oversee them.
 
-<sup>3</sup> Solomon sent to Huram the king of Tyre, saying, “As you dealt with David my father, and sent him cedars to build him a house in which to dwell, so deal with me.
+**³** Solomon sent to Huram the king of Tyre, saying, “As you dealt with David my father, and sent him cedars to build him a house in which to dwell, so deal with me.
 
-<sup>4</sup> Behold,[^338] I am about to build a house for the name of Yahweh my God, to dedicate it to him, to burn before him incense of sweet spices, for the continual show bread, and for the burnt offerings morning and evening, on the Sabbaths, on the new moons, and on the set feasts of Yahweh our God. This is an ordinance forever to Israel.
+**⁴** Behold,[^338] I am about to build a house for the name of Yahweh my God, to dedicate it to him, to burn before him incense of sweet spices, for the continual show bread, and for the burnt offerings morning and evening, on the Sabbaths, on the new moons, and on the set feasts of Yahweh our God. This is an ordinance forever to Israel.
 
-<sup>5</sup> “The house which I am building will be great, for our God is greater than all gods.
+**⁵** “The house which I am building will be great, for our God is greater than all gods.
 
-<sup>6</sup> But who is able to build him a house, since heaven and the heaven of heavens can’t contain him? Who am I then, that I should build him a house, except just to burn incense before him?
+**⁶** But who is able to build him a house, since heaven and the heaven of heavens can’t contain him? Who am I then, that I should build him a house, except just to burn incense before him?
 
-<sup>7</sup> “Now therefore send me a man skillful to work in gold, in silver, in bronze, in iron, and in purple, crimson, and blue, and who knows how to engrave engravings, to be with the skillful men who are with me in Judah and in Jerusalem, whom David my father provided.
+**⁷** “Now therefore send me a man skillful to work in gold, in silver, in bronze, in iron, and in purple, crimson, and blue, and who knows how to engrave engravings, to be with the skillful men who are with me in Judah and in Jerusalem, whom David my father provided.
 
-<sup>8</sup> “Send me also cedar trees, cypress trees, and algum trees out of Lebanon, for I know that your servants know how to cut timber in Lebanon. Behold, my servants will be with your servants,
+**⁸** “Send me also cedar trees, cypress trees, and algum trees out of Lebanon, for I know that your servants know how to cut timber in Lebanon. Behold, my servants will be with your servants,
 
-<sup>9</sup> even to prepare me timber in abundance; for the house which I am about to build will be great and wonderful.
+**⁹** even to prepare me timber in abundance; for the house which I am about to build will be great and wonderful.
 
-<sup>10</sup> Behold, I will give to your servants, the cutters who cut timber, twenty thousand cors[^339] of beaten wheat, twenty thousand baths[^340] of barley, twenty thousand baths of wine, and twenty thousand baths of oil.”
+**¹⁰** Behold, I will give to your servants, the cutters who cut timber, twenty thousand cors[^339] of beaten wheat, twenty thousand baths[^340] of barley, twenty thousand baths of wine, and twenty thousand baths of oil.”
 
-<sup>11</sup> Then Huram the king of Tyre answered in writing, which he sent to Solomon, “Because Yahweh loves his people, he has made you king over them.”
+**¹¹** Then Huram the king of Tyre answered in writing, which he sent to Solomon, “Because Yahweh loves his people, he has made you king over them.”
 
-<sup>12</sup> Huram continued, “Blessed be Yahweh, the God of Israel, who made heaven and earth, who has given to David the king a wise son, endowed with discretion and understanding, who would build a house for Yahweh and a house for his kingdom.
+**¹²** Huram continued, “Blessed be Yahweh, the God of Israel, who made heaven and earth, who has given to David the king a wise son, endowed with discretion and understanding, who would build a house for Yahweh and a house for his kingdom.
 
-<sup>13</sup> Now I have sent a skillful man, endowed with understanding, Huram-abi,[^341]
+**¹³** Now I have sent a skillful man, endowed with understanding, Huram-abi,[^341]
 
-<sup>14</sup> the son of a woman of the daughters of Dan; and his father was a man of Tyre. He is skillful to work in gold, in silver, in bronze, in iron, in stone, in timber, in purple, in blue, in fine linen, and in crimson, also to engrave any kind of engraving and to devise any device, that there may be a place appointed to him with your skillful men, and with the skillful men of my lord David your father.
+**¹⁴** the son of a woman of the daughters of Dan; and his father was a man of Tyre. He is skillful to work in gold, in silver, in bronze, in iron, in stone, in timber, in purple, in blue, in fine linen, and in crimson, also to engrave any kind of engraving and to devise any device, that there may be a place appointed to him with your skillful men, and with the skillful men of my lord David your father.
 
-<sup>15</sup> “Now therefore, the wheat, the barley, the oil, and the wine which my lord has spoken of, let him send to his servants;
+**¹⁵** “Now therefore, the wheat, the barley, the oil, and the wine which my lord has spoken of, let him send to his servants;
 
-<sup>16</sup> and we will cut wood out of Lebanon, as much as you need. We will bring it to you in rafts by sea to Joppa; then you shall carry it up to Jerusalem.”
+**¹⁶** and we will cut wood out of Lebanon, as much as you need. We will bring it to you in rafts by sea to Joppa; then you shall carry it up to Jerusalem.”
 
-<sup>17</sup> Solomon counted all the foreigners who were in the land of Israel, after the census with which David his father had counted them; and they found one hundred fifty-three thousand six hundred.
+**¹⁷** Solomon counted all the foreigners who were in the land of Israel, after the census with which David his father had counted them; and they found one hundred fifty-three thousand six hundred.
 
-<sup>18</sup> He set seventy thousand of them to bear burdens, eighty thousand who were stone cutters in the mountains, and three thousand six hundred overseers to assign the people their work.
+**¹⁸** He set seventy thousand of them to bear burdens, eighty thousand who were stone cutters in the mountains, and three thousand six hundred overseers to assign the people their work.
 
 [^338]: 2:4 “Behold”, from “ הִנֵּה”, means look at, take notice, observe, see, or gaze at. It is often used as an interjection.
 [^339]: 2:10 1 cor is the same as a homer, or about 55.9 U. S. gallons (liquid) or 211 liters or 6 bushels, so 20,000 cors of wheat would weigh about 545 metric tons

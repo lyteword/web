@@ -4,47 +4,47 @@ weight: 19
 
 # Chapter 19
 
-<sup>1</sup> After these things I heard something like a loud voice of a great multitude in heaven, saying, “Hallelujah! Salvation, power, and glory belong to our God;
+**¹** After these things I heard something like a loud voice of a great multitude in heaven, saying, “Hallelujah! Salvation, power, and glory belong to our God;
 
-<sup>2</sup> for his judgments are true and righteous. For he has judged the great prostitute who corrupted the earth with her sexual immorality, and he has avenged the blood of his servants at her hand.”
+**²** for his judgments are true and righteous. For he has judged the great prostitute who corrupted the earth with her sexual immorality, and he has avenged the blood of his servants at her hand.”
 
-<sup>3</sup> A second said, “Hallelujah! Her smoke goes up forever and ever.”
+**³** A second said, “Hallelujah! Her smoke goes up forever and ever.”
 
-<sup>4</sup> The twenty-four elders and the four living creatures fell down and worshiped God who sits on the throne, saying, “Amen! Hallelujah!”
+**⁴** The twenty-four elders and the four living creatures fell down and worshiped God who sits on the throne, saying, “Amen! Hallelujah!”
 
-<sup>5</sup> A voice came from the throne, saying, “Give praise to our God, all you his servants, you who fear him, the small and the great!”
+**⁵** A voice came from the throne, saying, “Give praise to our God, all you his servants, you who fear him, the small and the great!”
 
-<sup>6</sup> I heard something like the voice of a great multitude, and like the voice of many waters, and like the voice of mighty thunders, saying, “Hallelujah! For the Lord our God, the Almighty, reigns!
+**⁶** I heard something like the voice of a great multitude, and like the voice of many waters, and like the voice of mighty thunders, saying, “Hallelujah! For the Lord our God, the Almighty, reigns!
 
-<sup>7</sup> Let’s rejoice and be exceedingly glad, and let’s give the glory to him. For the wedding of the Lamb has come, and his wife has made herself ready.”
+**⁷** Let’s rejoice and be exceedingly glad, and let’s give the glory to him. For the wedding of the Lamb has come, and his wife has made herself ready.”
 
-<sup>8</sup> It was given to her that she would array herself in bright, pure, fine linen, for the fine linen is the righteous acts of the saints.
+**⁸** It was given to her that she would array herself in bright, pure, fine linen, for the fine linen is the righteous acts of the saints.
 
-<sup>9</sup> He said to me, “Write, ‘Blessed are those who are invited to the wedding supper of the Lamb.’” He said to me, “These are true words of God.”
+**⁹** He said to me, “Write, ‘Blessed are those who are invited to the wedding supper of the Lamb.’” He said to me, “These are true words of God.”
 
-<sup>10</sup> I fell down before his feet to worship him. He said to me, “Look! Don’t do it! I am a fellow bondservant with you and with your brothers who hold the testimony of Jesus. Worship God, for the testimony of Jesus is the Spirit of Prophecy.”
+**¹⁰** I fell down before his feet to worship him. He said to me, “Look! Don’t do it! I am a fellow bondservant with you and with your brothers who hold the testimony of Jesus. Worship God, for the testimony of Jesus is the Spirit of Prophecy.”
 
-<sup>11</sup> I saw heaven opened, and behold, a white horse, and he who sat on it is called Faithful and True. In righteousness he judges and makes war.
+**¹¹** I saw heaven opened, and behold, a white horse, and he who sat on it is called Faithful and True. In righteousness he judges and makes war.
 
-<sup>12</sup> His eyes are a flame of fire, and on his head are many crowns. He has names written and a name written which no one knows but he himself.
+**¹²** His eyes are a flame of fire, and on his head are many crowns. He has names written and a name written which no one knows but he himself.
 
-<sup>13</sup> He is clothed in a garment sprinkled with blood. His name is called “The Word of God.”
+**¹³** He is clothed in a garment sprinkled with blood. His name is called “The Word of God.”
 
-<sup>14</sup> The armies which are in heaven, clothed in white, pure, fine linen, followed him on white horses.
+**¹⁴** The armies which are in heaven, clothed in white, pure, fine linen, followed him on white horses.
 
-<sup>15</sup> Out of his mouth proceeds a sharp, double-edged sword that with it he should strike the nations. He will rule them with an iron rod.[^1453] He treads the wine press of the fierceness of the wrath of God, the Almighty.
+**¹⁵** Out of his mouth proceeds a sharp, double-edged sword that with it he should strike the nations. He will rule them with an iron rod.[^1453] He treads the wine press of the fierceness of the wrath of God, the Almighty.
 
-<sup>16</sup> He has on his garment and on his thigh a name written, “KING OF KINGS AND LORD OF LORDS.”
+**¹⁶** He has on his garment and on his thigh a name written, “KING OF KINGS AND LORD OF LORDS.”
 
-<sup>17</sup> I saw an angel standing in the sun. He cried with a loud voice, saying to all the birds that fly in the sky, “Come! Be gathered together to the great supper of God,[^1454]
+**¹⁷** I saw an angel standing in the sun. He cried with a loud voice, saying to all the birds that fly in the sky, “Come! Be gathered together to the great supper of God,[^1454]
 
-<sup>18</sup> that you may eat the flesh of kings, the flesh of captains, the flesh of mighty men, and the flesh of horses and of those who sit on them, and the flesh of all men, both free and slave, small and great.”
+**¹⁸** that you may eat the flesh of kings, the flesh of captains, the flesh of mighty men, and the flesh of horses and of those who sit on them, and the flesh of all men, both free and slave, small and great.”
 
-<sup>19</sup> I saw the beast, the kings of the earth, and their armies, gathered together to make war against him who sat on the horse and against his army.
+**¹⁹** I saw the beast, the kings of the earth, and their armies, gathered together to make war against him who sat on the horse and against his army.
 
-<sup>20</sup> The beast was taken, and with him the false prophet who worked the signs in his sight, with which he deceived those who had received the mark of the beast and those who worshiped his image. These two were thrown alive into the lake of fire that burns with sulfur.
+**²⁰** The beast was taken, and with him the false prophet who worked the signs in his sight, with which he deceived those who had received the mark of the beast and those who worshiped his image. These two were thrown alive into the lake of fire that burns with sulfur.
 
-<sup>21</sup> The rest were killed with the sword of him who sat on the horse, the sword which came out of his mouth. So all the birds were filled with their flesh.
+**²¹** The rest were killed with the sword of him who sat on the horse, the sword which came out of his mouth. So all the birds were filled with their flesh.
 
 [^1453]: 19:15 Psalms 2:9
 [^1454]: 19:17 TR reads “supper of the great God” instead of “great supper of God”

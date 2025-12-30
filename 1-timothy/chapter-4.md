@@ -4,34 +4,34 @@ weight: 4
 
 # Chapter 4
 
-<sup>1</sup> But the Spirit says expressly that in later times some will fall away from the faith, paying attention to seducing spirits and doctrines of demons,
+**¹** But the Spirit says expressly that in later times some will fall away from the faith, paying attention to seducing spirits and doctrines of demons,
 
-<sup>2</sup> through the hypocrisy of men who speak lies, branded in their own conscience as with a hot iron,
+**²** through the hypocrisy of men who speak lies, branded in their own conscience as with a hot iron,
 
-<sup>3</sup> forbidding marriage and commanding to abstain from foods which God created to be received with thanksgiving by those who believe and know the truth.
+**³** forbidding marriage and commanding to abstain from foods which God created to be received with thanksgiving by those who believe and know the truth.
 
-<sup>4</sup> For every creature of God is good, and nothing is to be rejected if it is received with thanksgiving.
+**⁴** For every creature of God is good, and nothing is to be rejected if it is received with thanksgiving.
 
-<sup>5</sup> For it is sanctified through the word of God and prayer.
+**⁵** For it is sanctified through the word of God and prayer.
 
-<sup>6</sup> If you instruct the brothers of these things, you will be a good servant of Christ Jesus, nourished in the words of the faith and of the good doctrine which you have followed.
+**⁶** If you instruct the brothers of these things, you will be a good servant of Christ Jesus, nourished in the words of the faith and of the good doctrine which you have followed.
 
-<sup>7</sup> But refuse profane and old wives’ fables. Exercise yourself toward godliness.
+**⁷** But refuse profane and old wives’ fables. Exercise yourself toward godliness.
 
-<sup>8</sup> For bodily exercise has some value, but godliness has value in all things, having the promise of the life which is now and of that which is to come.
+**⁸** For bodily exercise has some value, but godliness has value in all things, having the promise of the life which is now and of that which is to come.
 
-<sup>9</sup> This saying is faithful and worthy of all acceptance.
+**⁹** This saying is faithful and worthy of all acceptance.
 
-<sup>10</sup> For to this end we both labor and suffer reproach, because we have set our trust in the living God, who is the Savior of all men, especially of those who believe.
+**¹⁰** For to this end we both labor and suffer reproach, because we have set our trust in the living God, who is the Savior of all men, especially of those who believe.
 
-<sup>11</sup> Command and teach these things.
+**¹¹** Command and teach these things.
 
-<sup>12</sup> Let no man despise your youth; but be an example to those who believe, in word, in your way of life, in love, in spirit, in faith, and in purity.
+**¹²** Let no man despise your youth; but be an example to those who believe, in word, in your way of life, in love, in spirit, in faith, and in purity.
 
-<sup>13</sup> Until I come, pay attention to reading, to exhortation, and to teaching.
+**¹³** Until I come, pay attention to reading, to exhortation, and to teaching.
 
-<sup>14</sup> Don’t neglect the gift that is in you, which was given to you by prophecy with the laying on of the hands of the elders.
+**¹⁴** Don’t neglect the gift that is in you, which was given to you by prophecy with the laying on of the hands of the elders.
 
-<sup>15</sup> Be diligent in these things. Give yourself wholly to them, that your progress may be revealed to all.
+**¹⁵** Be diligent in these things. Give yourself wholly to them, that your progress may be revealed to all.
 
-<sup>16</sup> Pay attention to yourself and to your teaching. Continue in these things, for in doing this you will save both yourself and those who hear you.
+**¹⁶** Pay attention to yourself and to your teaching. Continue in these things, for in doing this you will save both yourself and those who hear you.

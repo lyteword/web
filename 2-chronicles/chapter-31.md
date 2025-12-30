@@ -4,44 +4,44 @@ weight: 31
 
 # Chapter 31
 
-<sup>1</sup> Now when all this was finished, all Israel who were present went out to the cities of Judah and broke the pillars in pieces, cut down the Asherah poles, and broke down the high places and the altars out of all Judah and Benjamin, also in Ephraim and Manasseh, until they had destroyed them all. Then all the children of Israel returned, every man to his possession, into their own cities.
+**¹** Now when all this was finished, all Israel who were present went out to the cities of Judah and broke the pillars in pieces, cut down the Asherah poles, and broke down the high places and the altars out of all Judah and Benjamin, also in Ephraim and Manasseh, until they had destroyed them all. Then all the children of Israel returned, every man to his possession, into their own cities.
 
-<sup>2</sup> Hezekiah appointed the divisions of the priests and the Levites after their divisions, every man according to his service, both the priests and the Levites, for burnt offerings and for peace offerings, to minister, to give thanks, and to praise in the gates of Yahweh’s camp.
+**²** Hezekiah appointed the divisions of the priests and the Levites after their divisions, every man according to his service, both the priests and the Levites, for burnt offerings and for peace offerings, to minister, to give thanks, and to praise in the gates of Yahweh’s camp.
 
-<sup>3</sup> He also appointed the king’s portion of his possessions for the burnt offerings: for the morning and evening burnt offerings, and the burnt offerings for the Sabbaths, for the new moons, and for the set feasts, as it is written in Yahweh’s law.
+**³** He also appointed the king’s portion of his possessions for the burnt offerings: for the morning and evening burnt offerings, and the burnt offerings for the Sabbaths, for the new moons, and for the set feasts, as it is written in Yahweh’s law.
 
-<sup>4</sup> Moreover he commanded the people who lived in Jerusalem to give the portion of the priests and the Levites, that they might give themselves to Yahweh’s law.
+**⁴** Moreover he commanded the people who lived in Jerusalem to give the portion of the priests and the Levites, that they might give themselves to Yahweh’s law.
 
-<sup>5</sup> As soon as the commandment went out, the children of Israel gave in abundance the first fruits of grain, new wine, oil, honey, and of all the increase of the field; and they brought in the tithe of all things abundantly.
+**⁵** As soon as the commandment went out, the children of Israel gave in abundance the first fruits of grain, new wine, oil, honey, and of all the increase of the field; and they brought in the tithe of all things abundantly.
 
-<sup>6</sup> The children of Israel and Judah, who lived in the cities of Judah, also brought in the tithe of cattle and sheep, and the tithe of dedicated things which were consecrated to Yahweh their God, and laid them in heaps.
+**⁶** The children of Israel and Judah, who lived in the cities of Judah, also brought in the tithe of cattle and sheep, and the tithe of dedicated things which were consecrated to Yahweh their God, and laid them in heaps.
 
-<sup>7</sup> In the third month, they began to lay the foundation of the heaps, and finished them in the seventh month.
+**⁷** In the third month, they began to lay the foundation of the heaps, and finished them in the seventh month.
 
-<sup>8</sup> When Hezekiah and the princes came and saw the heaps, they blessed Yahweh and his people Israel.
+**⁸** When Hezekiah and the princes came and saw the heaps, they blessed Yahweh and his people Israel.
 
-<sup>9</sup> Then Hezekiah questioned the priests and the Levites about the heaps.
+**⁹** Then Hezekiah questioned the priests and the Levites about the heaps.
 
-<sup>10</sup> Azariah the chief priest, of the house of Zadok, answered him and said, “Since people began to bring the offerings into Yahweh’s house, we have eaten and had enough, and have plenty left over, for Yahweh has blessed his people; and that which is left is this great store.”
+**¹⁰** Azariah the chief priest, of the house of Zadok, answered him and said, “Since people began to bring the offerings into Yahweh’s house, we have eaten and had enough, and have plenty left over, for Yahweh has blessed his people; and that which is left is this great store.”
 
-<sup>11</sup> Then Hezekiah commanded them to prepare rooms in Yahweh’s house, and they prepared them.
+**¹¹** Then Hezekiah commanded them to prepare rooms in Yahweh’s house, and they prepared them.
 
-<sup>12</sup> They brought in the offerings, the tithes, and the dedicated things faithfully. Conaniah the Levite was ruler over them, and Shimei his brother was second.
+**¹²** They brought in the offerings, the tithes, and the dedicated things faithfully. Conaniah the Levite was ruler over them, and Shimei his brother was second.
 
-<sup>13</sup> Jehiel, Azaziah, Nahath, Asahel, Jerimoth, Jozabad, Eliel, Ismachiah, Mahath, and Benaiah were overseers under the hand of Conaniah and Shimei his brother, by the appointment of Hezekiah the king and Azariah the ruler of God’s house.
+**¹³** Jehiel, Azaziah, Nahath, Asahel, Jerimoth, Jozabad, Eliel, Ismachiah, Mahath, and Benaiah were overseers under the hand of Conaniah and Shimei his brother, by the appointment of Hezekiah the king and Azariah the ruler of God’s house.
 
-<sup>14</sup> Kore the son of Imnah the Levite, the gatekeeper at the east gate, was over the free will offerings of God, to distribute Yahweh’s offerings and the most holy things.
+**¹⁴** Kore the son of Imnah the Levite, the gatekeeper at the east gate, was over the free will offerings of God, to distribute Yahweh’s offerings and the most holy things.
 
-<sup>15</sup> Under him were Eden, Miniamin, Jeshua, Shemaiah, Amariah, and Shecaniah, in the cities of the priests, in their office of trust, to give to their brothers by divisions, to the great as well as to the small;
+**¹⁵** Under him were Eden, Miniamin, Jeshua, Shemaiah, Amariah, and Shecaniah, in the cities of the priests, in their office of trust, to give to their brothers by divisions, to the great as well as to the small;
 
-<sup>16</sup> in addition to those who were listed by genealogy of males, from three years old and upward, even everyone who entered into Yahweh’s house, as the duty of every day required, for their service in their offices according to their divisions;
+**¹⁶** in addition to those who were listed by genealogy of males, from three years old and upward, even everyone who entered into Yahweh’s house, as the duty of every day required, for their service in their offices according to their divisions;
 
-<sup>17</sup> and those who were listed by genealogy of the priests by their fathers’ houses, and the Levites from twenty years old and upward, in their offices by their divisions;
+**¹⁷** and those who were listed by genealogy of the priests by their fathers’ houses, and the Levites from twenty years old and upward, in their offices by their divisions;
 
-<sup>18</sup> and those who were listed by genealogy of all their little ones, their wives, their sons, and their daughters, through all the congregation; for in their office of trust they sanctified themselves in holiness.
+**¹⁸** and those who were listed by genealogy of all their little ones, their wives, their sons, and their daughters, through all the congregation; for in their office of trust they sanctified themselves in holiness.
 
-<sup>19</sup> Also for the sons of Aaron the priests, who were in the fields of the pasture lands of their cities, in every city, there were men who were mentioned by name to give portions to all the males among the priests and to all who were listed by genealogy among the Levites.
+**¹⁹** Also for the sons of Aaron the priests, who were in the fields of the pasture lands of their cities, in every city, there were men who were mentioned by name to give portions to all the males among the priests and to all who were listed by genealogy among the Levites.
 
-<sup>20</sup> Hezekiah did so throughout all Judah; and he did that which was good, right, and faithful before Yahweh his God.
+**²⁰** Hezekiah did so throughout all Judah; and he did that which was good, right, and faithful before Yahweh his God.
 
-<sup>21</sup> In every work that he began in the service of God’s house, in the law, and in the commandments, to seek his God, he did it with all his heart and prospered.
+**²¹** In every work that he began in the service of God’s house, in the law, and in the commandments, to seek his God, he did it with all his heart and prospered.

@@ -4,48 +4,48 @@ weight: 2
 
 # Chapter 2
 
-<sup>1</sup> After these things, when the wrath of King Ahasuerus was pacified, he remembered Vashti, and what she had done, and what was decreed against her.
+**¹** After these things, when the wrath of King Ahasuerus was pacified, he remembered Vashti, and what she had done, and what was decreed against her.
 
-<sup>2</sup> Then the king’s servants who served him said, “Let beautiful young virgins be sought for the king.
+**²** Then the king’s servants who served him said, “Let beautiful young virgins be sought for the king.
 
-<sup>3</sup> Let the king appoint officers in all the provinces of his kingdom, that they may gather together all the beautiful young virgins to the citadel of Susa, to the women’s house, to the custody of Hegai the king’s eunuch, keeper of the women. Let cosmetics be given them;
+**³** Let the king appoint officers in all the provinces of his kingdom, that they may gather together all the beautiful young virgins to the citadel of Susa, to the women’s house, to the custody of Hegai the king’s eunuch, keeper of the women. Let cosmetics be given them;
 
-<sup>4</sup> and let the maiden who pleases the king be queen instead of Vashti.” The thing pleased the king, and he did so.
+**⁴** and let the maiden who pleases the king be queen instead of Vashti.” The thing pleased the king, and he did so.
 
-<sup>5</sup> There was a certain Jew in the citadel of Susa whose name was Mordecai, the son of Jair, the son of Shimei, the son of Kish, a Benjamite,
+**⁵** There was a certain Jew in the citadel of Susa whose name was Mordecai, the son of Jair, the son of Shimei, the son of Kish, a Benjamite,
 
-<sup>6</sup> who had been carried away from Jerusalem with the captives who had been carried away with Jeconiah king of Judah, whom Nebuchadnezzar the king of Babylon had carried away.
+**⁶** who had been carried away from Jerusalem with the captives who had been carried away with Jeconiah king of Judah, whom Nebuchadnezzar the king of Babylon had carried away.
 
-<sup>7</sup> He brought up Hadassah, that is, Esther, his uncle’s daughter; for she had neither father nor mother. The maiden was fair and beautiful; and when her father and mother were dead, Mordecai took her for his own daughter.
+**⁷** He brought up Hadassah, that is, Esther, his uncle’s daughter; for she had neither father nor mother. The maiden was fair and beautiful; and when her father and mother were dead, Mordecai took her for his own daughter.
 
-<sup>8</sup> So, when the king’s commandment and his decree was heard, and when many maidens were gathered together to the citadel of Susa, to the custody of Hegai, Esther was taken into the king’s house, to the custody of Hegai, keeper of the women.
+**⁸** So, when the king’s commandment and his decree was heard, and when many maidens were gathered together to the citadel of Susa, to the custody of Hegai, Esther was taken into the king’s house, to the custody of Hegai, keeper of the women.
 
-<sup>9</sup> The maiden pleased him, and she obtained kindness from him. He quickly gave her cosmetics and her portions of food, and the seven choice maidens who were to be given her out of the king’s house. He moved her and her maidens to the best place in the women’s house.
+**⁹** The maiden pleased him, and she obtained kindness from him. He quickly gave her cosmetics and her portions of food, and the seven choice maidens who were to be given her out of the king’s house. He moved her and her maidens to the best place in the women’s house.
 
-<sup>10</sup> Esther had not made known her people nor her relatives, because Mordecai had instructed her that she should not make it known.
+**¹⁰** Esther had not made known her people nor her relatives, because Mordecai had instructed her that she should not make it known.
 
-<sup>11</sup> Mordecai walked every day in front of the court of the women’s house, to find out how Esther was doing, and what would become of her.
+**¹¹** Mordecai walked every day in front of the court of the women’s house, to find out how Esther was doing, and what would become of her.
 
-<sup>12</sup> Each young woman’s turn came to go in to King Ahasuerus after her purification for twelve months (for so were the days of their purification accomplished, six months with oil of myrrh, and six months with sweet fragrances and with preparations for beautifying women).
+**¹²** Each young woman’s turn came to go in to King Ahasuerus after her purification for twelve months (for so were the days of their purification accomplished, six months with oil of myrrh, and six months with sweet fragrances and with preparations for beautifying women).
 
-<sup>13</sup> The young woman then came to the king like this: whatever she desired was given her to go with her out of the women’s house to the king’s house.
+**¹³** The young woman then came to the king like this: whatever she desired was given her to go with her out of the women’s house to the king’s house.
 
-<sup>14</sup> In the evening she went, and on the next day she returned into the second women’s house, to the custody of Shaashgaz, the king’s eunuch, who kept the concubines. She came in to the king no more, unless the king delighted in her, and she was called by name.
+**¹⁴** In the evening she went, and on the next day she returned into the second women’s house, to the custody of Shaashgaz, the king’s eunuch, who kept the concubines. She came in to the king no more, unless the king delighted in her, and she was called by name.
 
-<sup>15</sup> Now when the turn of Esther, the daughter of Abihail the uncle of Mordecai, who had taken her for his daughter, came to go in to the king, she required nothing but what Hegai the king’s eunuch, the keeper of the women, advised. Esther obtained favor in the sight of all those who looked at her.
+**¹⁵** Now when the turn of Esther, the daughter of Abihail the uncle of Mordecai, who had taken her for his daughter, came to go in to the king, she required nothing but what Hegai the king’s eunuch, the keeper of the women, advised. Esther obtained favor in the sight of all those who looked at her.
 
-<sup>16</sup> So Esther was taken to King Ahasuerus into his royal house in the tenth month, which is the month Tebeth, in the seventh year of his reign.
+**¹⁶** So Esther was taken to King Ahasuerus into his royal house in the tenth month, which is the month Tebeth, in the seventh year of his reign.
 
-<sup>17</sup> The king loved Esther more than all the women, and she obtained favor and kindness in his sight more than all the virgins; so that he set the royal crown on her head, and made her queen instead of Vashti.
+**¹⁷** The king loved Esther more than all the women, and she obtained favor and kindness in his sight more than all the virgins; so that he set the royal crown on her head, and made her queen instead of Vashti.
 
-<sup>18</sup> Then the king made a great feast for all his princes and his servants, even Esther’s feast; and he proclaimed a holiday in the provinces, and gave gifts according to the king’s bounty.
+**¹⁸** Then the king made a great feast for all his princes and his servants, even Esther’s feast; and he proclaimed a holiday in the provinces, and gave gifts according to the king’s bounty.
 
-<sup>19</sup> When the virgins were gathered together the second time, Mordecai was sitting in the king’s gate.
+**¹⁹** When the virgins were gathered together the second time, Mordecai was sitting in the king’s gate.
 
-<sup>20</sup> Esther had not yet made known her relatives nor her people, as Mordecai had commanded her; for Esther obeyed Mordecai, like she did when she was brought up by him.
+**²⁰** Esther had not yet made known her relatives nor her people, as Mordecai had commanded her; for Esther obeyed Mordecai, like she did when she was brought up by him.
 
-<sup>21</sup> In those days, while Mordecai was sitting in the king’s gate, two of the king’s eunuchs, Bigthan and Teresh, who were doorkeepers, were angry, and sought to lay hands on the King Ahasuerus.
+**²¹** In those days, while Mordecai was sitting in the king’s gate, two of the king’s eunuchs, Bigthan and Teresh, who were doorkeepers, were angry, and sought to lay hands on the King Ahasuerus.
 
-<sup>22</sup> This thing became known to Mordecai, who informed Esther the queen; and Esther informed the king in Mordecai’s name.
+**²²** This thing became known to Mordecai, who informed Esther the queen; and Esther informed the king in Mordecai’s name.
 
-<sup>23</sup> When this matter was investigated, and it was found to be so, they were both hanged on a gallows; and it was written in the book of the chronicles in the king’s presence.
+**²³** When this matter was investigated, and it was found to be so, they were both hanged on a gallows; and it was written in the book of the chronicles in the king’s presence.

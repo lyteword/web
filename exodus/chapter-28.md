@@ -4,91 +4,91 @@ weight: 28
 
 # Chapter 28
 
-<sup>1</sup> “Bring Aaron your brother, and his sons with him, near to you from among the children of Israel, that he may minister to me in the priest’s office: Aaron, with Nadab, Abihu, Eleazar, and Ithamar, Aaron’s sons.
+**¹** “Bring Aaron your brother, and his sons with him, near to you from among the children of Israel, that he may minister to me in the priest’s office: Aaron, with Nadab, Abihu, Eleazar, and Ithamar, Aaron’s sons.
 
-<sup>2</sup> You shall make holy garments for Aaron your brother, for glory and for beauty.
+**²** You shall make holy garments for Aaron your brother, for glory and for beauty.
 
-<sup>3</sup> You shall speak to all who are wise-hearted, whom I have filled with the spirit of wisdom, that they make Aaron’s garments to sanctify him, that he may minister to me in the priest’s office.
+**³** You shall speak to all who are wise-hearted, whom I have filled with the spirit of wisdom, that they make Aaron’s garments to sanctify him, that he may minister to me in the priest’s office.
 
-<sup>4</sup> These are the garments which they shall make: a breastplate, an ephod, a robe, a fitted tunic, a turban, and a sash. They shall make holy garments for Aaron your brother and his sons, that he may minister to me in the priest’s office.
+**⁴** These are the garments which they shall make: a breastplate, an ephod, a robe, a fitted tunic, a turban, and a sash. They shall make holy garments for Aaron your brother and his sons, that he may minister to me in the priest’s office.
 
-<sup>5</sup> They shall use the gold, and the blue, and the purple, and the scarlet, and the fine linen.
+**⁵** They shall use the gold, and the blue, and the purple, and the scarlet, and the fine linen.
 
-<sup>6</sup> “They shall make the ephod of gold, blue, purple, scarlet, and fine twined linen, the work of the skillful workman.
+**⁶** “They shall make the ephod of gold, blue, purple, scarlet, and fine twined linen, the work of the skillful workman.
 
-<sup>7</sup> It shall have two shoulder straps joined to the two ends of it, that it may be joined together.
+**⁷** It shall have two shoulder straps joined to the two ends of it, that it may be joined together.
 
-<sup>8</sup> The skillfully woven band, which is on it, shall be like its work and of the same piece; of gold, blue, purple, scarlet, and fine twined linen.
+**⁸** The skillfully woven band, which is on it, shall be like its work and of the same piece; of gold, blue, purple, scarlet, and fine twined linen.
 
-<sup>9</sup> You shall take two onyx stones, and engrave on them the names of the children of Israel.
+**⁹** You shall take two onyx stones, and engrave on them the names of the children of Israel.
 
-<sup>10</sup> Six of their names on the one stone, and the names of the six that remain on the other stone, in the order of their birth.
+**¹⁰** Six of their names on the one stone, and the names of the six that remain on the other stone, in the order of their birth.
 
-<sup>11</sup> With the work of an engraver in stone, like the engravings of a signet, you shall engrave the two stones, according to the names of the children of Israel. You shall make them to be enclosed in settings of gold.
+**¹¹** With the work of an engraver in stone, like the engravings of a signet, you shall engrave the two stones, according to the names of the children of Israel. You shall make them to be enclosed in settings of gold.
 
-<sup>12</sup> You shall put the two stones on the shoulder straps of the ephod, to be stones of memorial for the children of Israel. Aaron shall bear their names before Yahweh on his two shoulders for a memorial.
+**¹²** You shall put the two stones on the shoulder straps of the ephod, to be stones of memorial for the children of Israel. Aaron shall bear their names before Yahweh on his two shoulders for a memorial.
 
-<sup>13</sup> You shall make settings of gold,
+**¹³** You shall make settings of gold,
 
-<sup>14</sup> and two chains of pure gold; you shall make them like cords of braided work. You shall put the braided chains on the settings.
+**¹⁴** and two chains of pure gold; you shall make them like cords of braided work. You shall put the braided chains on the settings.
 
-<sup>15</sup> “You shall make a breastplate of judgment, the work of the skillful workman; like the work of the ephod you shall make it; of gold, of blue, and purple, and scarlet, and fine twined linen, you shall make it.
+**¹⁵** “You shall make a breastplate of judgment, the work of the skillful workman; like the work of the ephod you shall make it; of gold, of blue, and purple, and scarlet, and fine twined linen, you shall make it.
 
-<sup>16</sup> It shall be square and folded double; a span[^78] shall be its length, and a span its width.
+**¹⁶** It shall be square and folded double; a span[^78] shall be its length, and a span its width.
 
-<sup>17</sup> You shall set in it settings of stones, four rows of stones: a row of ruby, topaz, and beryl shall be the first row;
+**¹⁷** You shall set in it settings of stones, four rows of stones: a row of ruby, topaz, and beryl shall be the first row;
 
-<sup>18</sup> and the second row a turquoise, a sapphire,[^79] and an emerald;
+**¹⁸** and the second row a turquoise, a sapphire,[^79] and an emerald;
 
-<sup>19</sup> and the third row a jacinth, an agate, and an amethyst;
+**¹⁹** and the third row a jacinth, an agate, and an amethyst;
 
-<sup>20</sup> and the fourth row a chrysolite, an onyx, and a jasper. They shall be enclosed in gold in their settings.
+**²⁰** and the fourth row a chrysolite, an onyx, and a jasper. They shall be enclosed in gold in their settings.
 
-<sup>21</sup> The stones shall be according to the names of the children of Israel, twelve, according to their names; like the engravings of a signet, everyone according to his name, they shall be for the twelve tribes.
+**²¹** The stones shall be according to the names of the children of Israel, twelve, according to their names; like the engravings of a signet, everyone according to his name, they shall be for the twelve tribes.
 
-<sup>22</sup> You shall make on the breastplate chains like cords, of braided work of pure gold.
+**²²** You shall make on the breastplate chains like cords, of braided work of pure gold.
 
-<sup>23</sup> You shall make on the breastplate two rings of gold, and shall put the two rings on the two ends of the breastplate.
+**²³** You shall make on the breastplate two rings of gold, and shall put the two rings on the two ends of the breastplate.
 
-<sup>24</sup> You shall put the two braided chains of gold in the two rings at the ends of the breastplate.
+**²⁴** You shall put the two braided chains of gold in the two rings at the ends of the breastplate.
 
-<sup>25</sup> The other two ends of the two braided chains you shall put on the two settings, and put them on the shoulder straps of the ephod in its forepart.
+**²⁵** The other two ends of the two braided chains you shall put on the two settings, and put them on the shoulder straps of the ephod in its forepart.
 
-<sup>26</sup> You shall make two rings of gold, and you shall put them on the two ends of the breastplate, on its edge, which is toward the side of the ephod inward.
+**²⁶** You shall make two rings of gold, and you shall put them on the two ends of the breastplate, on its edge, which is toward the side of the ephod inward.
 
-<sup>27</sup> You shall make two rings of gold, and shall put them on the two shoulder straps of the ephod underneath, in its forepart, close by its coupling, above the skillfully woven band of the ephod.
+**²⁷** You shall make two rings of gold, and shall put them on the two shoulder straps of the ephod underneath, in its forepart, close by its coupling, above the skillfully woven band of the ephod.
 
-<sup>28</sup> They shall bind the breastplate by its rings to the rings of the ephod with a lace of blue, that it may be on the skillfully woven band of the ephod, and that the breastplate may not swing out from the ephod.
+**²⁸** They shall bind the breastplate by its rings to the rings of the ephod with a lace of blue, that it may be on the skillfully woven band of the ephod, and that the breastplate may not swing out from the ephod.
 
-<sup>29</sup> Aaron shall bear the names of the children of Israel in the breastplate of judgment on his heart, when he goes in to the holy place, for a memorial before Yahweh continually.
+**²⁹** Aaron shall bear the names of the children of Israel in the breastplate of judgment on his heart, when he goes in to the holy place, for a memorial before Yahweh continually.
 
-<sup>30</sup> You shall put in the breastplate of judgment the Urim and the Thummim; and they shall be on Aaron’s heart, when he goes in before Yahweh. Aaron shall bear the judgment of the children of Israel on his heart before Yahweh continually.
+**³⁰** You shall put in the breastplate of judgment the Urim and the Thummim; and they shall be on Aaron’s heart, when he goes in before Yahweh. Aaron shall bear the judgment of the children of Israel on his heart before Yahweh continually.
 
-<sup>31</sup> “You shall make the robe of the ephod all of blue.
+**³¹** “You shall make the robe of the ephod all of blue.
 
-<sup>32</sup> It shall have a hole for the head in the middle of it. It shall have a binding of woven work around its hole, as it were the hole of a coat of mail, that it not be torn.
+**³²** It shall have a hole for the head in the middle of it. It shall have a binding of woven work around its hole, as it were the hole of a coat of mail, that it not be torn.
 
-<sup>33</sup> On its hem you shall make pomegranates of blue, and of purple, and of scarlet, all around its hem; with bells of gold between and around them:
+**³³** On its hem you shall make pomegranates of blue, and of purple, and of scarlet, all around its hem; with bells of gold between and around them:
 
-<sup>34</sup> a golden bell and a pomegranate, a golden bell and a pomegranate, around the hem of the robe.
+**³⁴** a golden bell and a pomegranate, a golden bell and a pomegranate, around the hem of the robe.
 
-<sup>35</sup> It shall be on Aaron to minister: and its sound shall be heard when he goes in to the holy place before Yahweh, and when he comes out, that he not die.
+**³⁵** It shall be on Aaron to minister: and its sound shall be heard when he goes in to the holy place before Yahweh, and when he comes out, that he not die.
 
-<sup>36</sup> “You shall make a plate of pure gold, and engrave on it, like the engravings of a signet, ‘HOLY TO YAHWEH.’
+**³⁶** “You shall make a plate of pure gold, and engrave on it, like the engravings of a signet, ‘HOLY TO YAHWEH.’
 
-<sup>37</sup> You shall put it on a lace of blue, and it shall be on the sash. It shall be on the front of the sash.
+**³⁷** You shall put it on a lace of blue, and it shall be on the sash. It shall be on the front of the sash.
 
-<sup>38</sup> It shall be on Aaron’s forehead, and Aaron shall bear the iniquity of the holy things, which the children of Israel shall make holy in all their holy gifts; and it shall be always on his forehead, that they may be accepted before Yahweh.
+**³⁸** It shall be on Aaron’s forehead, and Aaron shall bear the iniquity of the holy things, which the children of Israel shall make holy in all their holy gifts; and it shall be always on his forehead, that they may be accepted before Yahweh.
 
-<sup>39</sup> You shall weave the tunic with fine linen. You shall make a turban of fine linen. You shall make a sash, the work of the embroiderer.
+**³⁹** You shall weave the tunic with fine linen. You shall make a turban of fine linen. You shall make a sash, the work of the embroiderer.
 
-<sup>40</sup> “You shall make tunics for Aaron’s sons. You shall make sashes for them. You shall make headbands for them, for glory and for beauty.
+**⁴⁰** “You shall make tunics for Aaron’s sons. You shall make sashes for them. You shall make headbands for them, for glory and for beauty.
 
-<sup>41</sup> You shall put them on Aaron your brother, and on his sons with him, and shall anoint them, and consecrate them, and sanctify them, that they may minister to me in the priest’s office.
+**⁴¹** You shall put them on Aaron your brother, and on his sons with him, and shall anoint them, and consecrate them, and sanctify them, that they may minister to me in the priest’s office.
 
-<sup>42</sup> You shall make them linen pants to cover their naked flesh. They shall reach from the waist even to the thighs.
+**⁴²** You shall make them linen pants to cover their naked flesh. They shall reach from the waist even to the thighs.
 
-<sup>43</sup> They shall be on Aaron and on his sons, when they go in to the Tent of Meeting, or when they come near to the altar to minister in the holy place, that they don’t bear iniquity, and die. This shall be a statute forever to him and to his offspring after him.
+**⁴³** They shall be on Aaron and on his sons, when they go in to the Tent of Meeting, or when they come near to the altar to minister in the holy place, that they don’t bear iniquity, and die. This shall be a statute forever to him and to his offspring after him.
 
 [^78]: 28:16 A span is the length from the tip of a man’s thumb to the tip of his little finger when his hand is stretched out (about half a cubit, or 9 inches, or 22.8 cm.)
 [^79]: 28:18 or, lapis lazuli

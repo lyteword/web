@@ -4,84 +4,84 @@ weight: 22
 
 # Chapter 22
 
-<sup>1</sup> The children of Israel traveled, and encamped in the plains of Moab beyond the Jordan at Jericho.
+**¹** The children of Israel traveled, and encamped in the plains of Moab beyond the Jordan at Jericho.
 
-<sup>2</sup> Balak the son of Zippor saw all that Israel had done to the Amorites.
+**²** Balak the son of Zippor saw all that Israel had done to the Amorites.
 
-<sup>3</sup> Moab was very afraid of the people, because they were many. Moab was distressed because of the children of Israel.
+**³** Moab was very afraid of the people, because they were many. Moab was distressed because of the children of Israel.
 
-<sup>4</sup> Moab said to the elders of Midian, “Now this multitude will lick up all that is around us, as the ox licks up the grass of the field.” Balak the son of Zippor was king of Moab at that time.
+**⁴** Moab said to the elders of Midian, “Now this multitude will lick up all that is around us, as the ox licks up the grass of the field.” Balak the son of Zippor was king of Moab at that time.
 
-<sup>5</sup> He sent messengers to Balaam the son of Beor, to Pethor, which is by the River, to the land of the children of his people, to call him, saying, “Behold, there is a people who came out of Egypt. Behold, they cover the surface of the earth, and they are staying opposite me.
+**⁵** He sent messengers to Balaam the son of Beor, to Pethor, which is by the River, to the land of the children of his people, to call him, saying, “Behold, there is a people who came out of Egypt. Behold, they cover the surface of the earth, and they are staying opposite me.
 
-<sup>6</sup> Please come now therefore, and curse this people for me; for they are too mighty for me. Perhaps I shall prevail, that we may strike them, and that I may drive them out of the land; for I know that he whom you bless is blessed, and he whom you curse is cursed.”
+**⁶** Please come now therefore, and curse this people for me; for they are too mighty for me. Perhaps I shall prevail, that we may strike them, and that I may drive them out of the land; for I know that he whom you bless is blessed, and he whom you curse is cursed.”
 
-<sup>7</sup> The elders of Moab and the elders of Midian departed with the rewards of divination in their hand. They came to Balaam, and spoke to him the words of Balak.
+**⁷** The elders of Moab and the elders of Midian departed with the rewards of divination in their hand. They came to Balaam, and spoke to him the words of Balak.
 
-<sup>8</sup> He said to them, “Lodge here this night, and I will bring you word again, as Yahweh shall speak to me.” The princes of Moab stayed with Balaam.
+**⁸** He said to them, “Lodge here this night, and I will bring you word again, as Yahweh shall speak to me.” The princes of Moab stayed with Balaam.
 
-<sup>9</sup> God came to Balaam, and said, “Who are these men with you?”
+**⁹** God came to Balaam, and said, “Who are these men with you?”
 
-<sup>10</sup> Balaam said to God, “Balak the son of Zippor, king of Moab, has said to me,
+**¹⁰** Balaam said to God, “Balak the son of Zippor, king of Moab, has said to me,
 
-<sup>11</sup> ‘Behold, the people that has come out of Egypt covers the surface of the earth. Now, come curse them for me. Perhaps I shall be able to fight against them, and shall drive them out.’”
+**¹¹** ‘Behold, the people that has come out of Egypt covers the surface of the earth. Now, come curse them for me. Perhaps I shall be able to fight against them, and shall drive them out.’”
 
-<sup>12</sup> God said to Balaam, “You shall not go with them. You shall not curse the people, for they are blessed.”
+**¹²** God said to Balaam, “You shall not go with them. You shall not curse the people, for they are blessed.”
 
-<sup>13</sup> Balaam rose up in the morning, and said to the princes of Balak, “Go to your land; for Yahweh refuses to permit me to go with you.”
+**¹³** Balaam rose up in the morning, and said to the princes of Balak, “Go to your land; for Yahweh refuses to permit me to go with you.”
 
-<sup>14</sup> The princes of Moab rose up, and they went to Balak, and said, “Balaam refuses to come with us.”
+**¹⁴** The princes of Moab rose up, and they went to Balak, and said, “Balaam refuses to come with us.”
 
-<sup>15</sup> Balak again sent princes, more, and more honorable than they.
+**¹⁵** Balak again sent princes, more, and more honorable than they.
 
-<sup>16</sup> They came to Balaam, and said to him, “Balak the son of Zippor says, ‘Please let nothing hinder you from coming to me,
+**¹⁶** They came to Balaam, and said to him, “Balak the son of Zippor says, ‘Please let nothing hinder you from coming to me,
 
-<sup>17</sup> for I will promote you to very great honor, and whatever you say to me I will do. Please come therefore, and curse this people for me.’”
+**¹⁷** for I will promote you to very great honor, and whatever you say to me I will do. Please come therefore, and curse this people for me.’”
 
-<sup>18</sup> Balaam answered the servants of Balak, “If Balak would give me his house full of silver and gold, I can’t go beyond the word of Yahweh my God, to do less or more.
+**¹⁸** Balaam answered the servants of Balak, “If Balak would give me his house full of silver and gold, I can’t go beyond the word of Yahweh my God, to do less or more.
 
-<sup>19</sup> Now therefore please stay here tonight as well, that I may know what else Yahweh will speak to me.”
+**¹⁹** Now therefore please stay here tonight as well, that I may know what else Yahweh will speak to me.”
 
-<sup>20</sup> God came to Balaam at night, and said to him, “If the men have come to call you, rise up, go with them; but only the word which I speak to you, that you shall do.”
+**²⁰** God came to Balaam at night, and said to him, “If the men have come to call you, rise up, go with them; but only the word which I speak to you, that you shall do.”
 
-<sup>21</sup> Balaam rose up in the morning, and saddled his donkey, and went with the princes of Moab.
+**²¹** Balaam rose up in the morning, and saddled his donkey, and went with the princes of Moab.
 
-<sup>22</sup> God’s anger burned because he went; and Yahweh’s angel placed himself in the way as an adversary against him. Now he was riding on his donkey, and his two servants were with him.
+**²²** God’s anger burned because he went; and Yahweh’s angel placed himself in the way as an adversary against him. Now he was riding on his donkey, and his two servants were with him.
 
-<sup>23</sup> The donkey saw Yahweh’s angel standing in the way, with his sword drawn in his hand; and the donkey turned out of the path, and went into the field. Balaam struck the donkey, to turn her into the path.
+**²³** The donkey saw Yahweh’s angel standing in the way, with his sword drawn in his hand; and the donkey turned out of the path, and went into the field. Balaam struck the donkey, to turn her into the path.
 
-<sup>24</sup> Then Yahweh’s angel stood in a narrow path between the vineyards, a wall being on this side, and a wall on that side.
+**²⁴** Then Yahweh’s angel stood in a narrow path between the vineyards, a wall being on this side, and a wall on that side.
 
-<sup>25</sup> The donkey saw Yahweh’s angel, and she thrust herself to the wall, and crushed Balaam’s foot against the wall. He struck her again.
+**²⁵** The donkey saw Yahweh’s angel, and she thrust herself to the wall, and crushed Balaam’s foot against the wall. He struck her again.
 
-<sup>26</sup> Yahweh’s angel went further, and stood in a narrow place, where there was no way to turn either to the right hand or to the left.
+**²⁶** Yahweh’s angel went further, and stood in a narrow place, where there was no way to turn either to the right hand or to the left.
 
-<sup>27</sup> The donkey saw Yahweh’s angel, and she lay down under Balaam. Balaam’s anger burned, and he struck the donkey with his staff.
+**²⁷** The donkey saw Yahweh’s angel, and she lay down under Balaam. Balaam’s anger burned, and he struck the donkey with his staff.
 
-<sup>28</sup> Yahweh opened the mouth of the donkey, and she said to Balaam, “What have I done to you, that you have struck me these three times?”
+**²⁸** Yahweh opened the mouth of the donkey, and she said to Balaam, “What have I done to you, that you have struck me these three times?”
 
-<sup>29</sup> Balaam said to the donkey, “Because you have mocked me, I wish there were a sword in my hand, for now I would have killed you.”
+**²⁹** Balaam said to the donkey, “Because you have mocked me, I wish there were a sword in my hand, for now I would have killed you.”
 
-<sup>30</sup> The donkey said to Balaam, “Am I not your donkey, on which you have ridden all your life long until today? Was I ever in the habit of doing so to you?” He said, “No.”
+**³⁰** The donkey said to Balaam, “Am I not your donkey, on which you have ridden all your life long until today? Was I ever in the habit of doing so to you?” He said, “No.”
 
-<sup>31</sup> Then Yahweh opened the eyes of Balaam, and he saw Yahweh’s angel standing in the way, with his sword drawn in his hand; and he bowed his head, and fell on his face.
+**³¹** Then Yahweh opened the eyes of Balaam, and he saw Yahweh’s angel standing in the way, with his sword drawn in his hand; and he bowed his head, and fell on his face.
 
-<sup>32</sup> Yahweh’s angel said to him, “Why have you struck your donkey these three times? Behold, I have come out as an adversary, because your way is perverse before me.
+**³²** Yahweh’s angel said to him, “Why have you struck your donkey these three times? Behold, I have come out as an adversary, because your way is perverse before me.
 
-<sup>33</sup> The donkey saw me, and turned away before me these three times. Unless she had turned away from me, surely now I would have killed you, and saved her alive.”
+**³³** The donkey saw me, and turned away before me these three times. Unless she had turned away from me, surely now I would have killed you, and saved her alive.”
 
-<sup>34</sup> Balaam said to Yahweh’s angel, “I have sinned; for I didn’t know that you stood in the way against me. Now therefore, if it displeases you, I will go back again.”
+**³⁴** Balaam said to Yahweh’s angel, “I have sinned; for I didn’t know that you stood in the way against me. Now therefore, if it displeases you, I will go back again.”
 
-<sup>35</sup> Yahweh’s angel said to Balaam, “Go with the men; but you shall only speak the word that I shall speak to you.” So Balaam went with the princes of Balak.
+**³⁵** Yahweh’s angel said to Balaam, “Go with the men; but you shall only speak the word that I shall speak to you.” So Balaam went with the princes of Balak.
 
-<sup>36</sup> When Balak heard that Balaam had come, he went out to meet him to the City of Moab, which is on the border of the Arnon, which is in the utmost part of the border.
+**³⁶** When Balak heard that Balaam had come, he went out to meet him to the City of Moab, which is on the border of the Arnon, which is in the utmost part of the border.
 
-<sup>37</sup> Balak said to Balaam, “Didn’t I earnestly send for you to summon you? Why didn’t you come to me? Am I not able indeed to promote you to honor?”
+**³⁷** Balak said to Balaam, “Didn’t I earnestly send for you to summon you? Why didn’t you come to me? Am I not able indeed to promote you to honor?”
 
-<sup>38</sup> Balaam said to Balak, “Behold, I have come to you. Have I now any power at all to speak anything? I will speak the word that God puts in my mouth.”
+**³⁸** Balaam said to Balak, “Behold, I have come to you. Have I now any power at all to speak anything? I will speak the word that God puts in my mouth.”
 
-<sup>39</sup> Balaam went with Balak, and they came to Kiriath Huzoth.
+**³⁹** Balaam went with Balak, and they came to Kiriath Huzoth.
 
-<sup>40</sup> Balak sacrificed cattle and sheep, and sent to Balaam, and to the princes who were with him.
+**⁴⁰** Balak sacrificed cattle and sheep, and sent to Balaam, and to the princes who were with him.
 
-<sup>41</sup> In the morning, Balak took Balaam, and brought him up into the high places of Baal; and he saw from there part of the people.
+**⁴¹** In the morning, Balak took Balaam, and brought him up into the high places of Baal; and he saw from there part of the people.

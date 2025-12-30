@@ -4,60 +4,60 @@ weight: 29
 
 # Chapter 29
 
-<sup>1</sup> These are the words of the covenant which Yahweh commanded Moses to make with the children of Israel in the land of Moab, in addition to the covenant which he made with them in Horeb.
+**¹** These are the words of the covenant which Yahweh commanded Moses to make with the children of Israel in the land of Moab, in addition to the covenant which he made with them in Horeb.
 
-<sup>2</sup> Moses called to all Israel, and said to them: Your eyes have seen all that Yahweh did in the land of Egypt to Pharaoh, and to all his servants, and to all his land;
+**²** Moses called to all Israel, and said to them: Your eyes have seen all that Yahweh did in the land of Egypt to Pharaoh, and to all his servants, and to all his land;
 
-<sup>3</sup> the great trials which your eyes saw, the signs, and those great wonders.
+**³** the great trials which your eyes saw, the signs, and those great wonders.
 
-<sup>4</sup> But Yahweh has not given you a heart to know, eyes to see, and ears to hear, to this day.
+**⁴** But Yahweh has not given you a heart to know, eyes to see, and ears to hear, to this day.
 
-<sup>5</sup> I have led you forty years in the wilderness. Your clothes have not grown old on you, and your sandals have not grown old on your feet.
+**⁵** I have led you forty years in the wilderness. Your clothes have not grown old on you, and your sandals have not grown old on your feet.
 
-<sup>6</sup> You have not eaten bread, neither have you drunk wine or strong drink, that you may know that I am Yahweh your God.
+**⁶** You have not eaten bread, neither have you drunk wine or strong drink, that you may know that I am Yahweh your God.
 
-<sup>7</sup> When you came to this place, Sihon the king of Heshbon and Og the king of Bashan came out against us to battle, and we struck them.
+**⁷** When you came to this place, Sihon the king of Heshbon and Og the king of Bashan came out against us to battle, and we struck them.
 
-<sup>8</sup> We took their land, and gave it for an inheritance to the Reubenites, and to the Gadites, and to the half-tribe of the Manassites.
+**⁸** We took their land, and gave it for an inheritance to the Reubenites, and to the Gadites, and to the half-tribe of the Manassites.
 
-<sup>9</sup> Therefore keep the words of this covenant and do them, that you may prosper in all that you do.
+**⁹** Therefore keep the words of this covenant and do them, that you may prosper in all that you do.
 
-<sup>10</sup> All of you stand today in the presence of Yahweh your God: your heads, your tribes, your elders, and your officers, even all the men of Israel,
+**¹⁰** All of you stand today in the presence of Yahweh your God: your heads, your tribes, your elders, and your officers, even all the men of Israel,
 
-<sup>11</sup> your little ones, your wives, and the foreigners who are in the middle of your camps, from the one who cuts your wood to the one who draws your water,
+**¹¹** your little ones, your wives, and the foreigners who are in the middle of your camps, from the one who cuts your wood to the one who draws your water,
 
-<sup>12</sup> that you may enter into the covenant of Yahweh your God, and into his oath, which Yahweh your God makes with you today,
+**¹²** that you may enter into the covenant of Yahweh your God, and into his oath, which Yahweh your God makes with you today,
 
-<sup>13</sup> that he may establish you today as his people, and that he may be your God, as he spoke to you and as he swore to your fathers, to Abraham, to Isaac, and to Jacob.
+**¹³** that he may establish you today as his people, and that he may be your God, as he spoke to you and as he swore to your fathers, to Abraham, to Isaac, and to Jacob.
 
-<sup>14</sup> Neither do I make this covenant and this oath with you only,
+**¹⁴** Neither do I make this covenant and this oath with you only,
 
-<sup>15</sup> but with those who stand here with us today before Yahweh our God, and also with those who are not here with us today
+**¹⁵** but with those who stand here with us today before Yahweh our God, and also with those who are not here with us today
 
-<sup>16</sup> (for you know how we lived in the land of Egypt, and how we came through the middle of the nations through which you passed;
+**¹⁶** (for you know how we lived in the land of Egypt, and how we came through the middle of the nations through which you passed;
 
-<sup>17</sup> and you have seen their abominations and their idols of wood, stone, silver, and gold, which were among them);
+**¹⁷** and you have seen their abominations and their idols of wood, stone, silver, and gold, which were among them);
 
-<sup>18</sup> lest there should be among you man, woman, family, or tribe whose heart turns away today from Yahweh our God, to go to serve the gods of those nations; lest there should be among you a root that produces bitter poison;
+**¹⁸** lest there should be among you man, woman, family, or tribe whose heart turns away today from Yahweh our God, to go to serve the gods of those nations; lest there should be among you a root that produces bitter poison;
 
-<sup>19</sup> and it happen, when he hears the words of this curse, that he bless himself in his heart, saying, “I shall have peace, though I walk in the stubbornness of my heart,” to destroy the moist with the dry.
+**¹⁹** and it happen, when he hears the words of this curse, that he bless himself in his heart, saying, “I shall have peace, though I walk in the stubbornness of my heart,” to destroy the moist with the dry.
 
-<sup>20</sup> Yahweh will not pardon him, but then Yahweh’s anger and his jealousy will smoke against that man, and all the curse that is written in this book will fall on him, and Yahweh will blot out his name from under the sky.
+**²⁰** Yahweh will not pardon him, but then Yahweh’s anger and his jealousy will smoke against that man, and all the curse that is written in this book will fall on him, and Yahweh will blot out his name from under the sky.
 
-<sup>21</sup> Yahweh will set him apart for evil out of all the tribes of Israel, according to all the curses of the covenant written in this book of the law.
+**²¹** Yahweh will set him apart for evil out of all the tribes of Israel, according to all the curses of the covenant written in this book of the law.
 
-<sup>22</sup> The generation to come—your children who will rise up after you, and the foreigner who will come from a far land—will say, when they see the plagues of that land, and the sicknesses with which Yahweh has made it sick,
+**²²** The generation to come—your children who will rise up after you, and the foreigner who will come from a far land—will say, when they see the plagues of that land, and the sicknesses with which Yahweh has made it sick,
 
-<sup>23</sup> that all of its land is sulfur, salt, and burning, that it is not sown, doesn’t produce, nor does any grass grow in it, like the overthrow of Sodom, Gomorrah, Admah, and Zeboiim, which Yahweh overthrew in his anger, and in his wrath.
+**²³** that all of its land is sulfur, salt, and burning, that it is not sown, doesn’t produce, nor does any grass grow in it, like the overthrow of Sodom, Gomorrah, Admah, and Zeboiim, which Yahweh overthrew in his anger, and in his wrath.
 
-<sup>24</sup> Even all the nations will say, “Why has Yahweh done this to this land? What does the heat of this great anger mean?”
+**²⁴** Even all the nations will say, “Why has Yahweh done this to this land? What does the heat of this great anger mean?”
 
-<sup>25</sup> Then men will say, “Because they abandoned the covenant of Yahweh, the God of their fathers, which he made with them when he brought them out of the land of Egypt,
+**²⁵** Then men will say, “Because they abandoned the covenant of Yahweh, the God of their fathers, which he made with them when he brought them out of the land of Egypt,
 
-<sup>26</sup> and went and served other gods and worshiped them, gods that they didn’t know and that he had not given to them.
+**²⁶** and went and served other gods and worshiped them, gods that they didn’t know and that he had not given to them.
 
-<sup>27</sup> Therefore Yahweh’s anger burned against this land, to bring on it all the curses that are written in this book.
+**²⁷** Therefore Yahweh’s anger burned against this land, to bring on it all the curses that are written in this book.
 
-<sup>28</sup> Yahweh rooted them out of their land in anger, in wrath, and in great indignation, and thrust them into another land, as it is today.”
+**²⁸** Yahweh rooted them out of their land in anger, in wrath, and in great indignation, and thrust them into another land, as it is today.”
 
-<sup>29</sup> The secret things belong to Yahweh our God; but the things that are revealed belong to us and to our children forever, that we may do all the words of this law.
+**²⁹** The secret things belong to Yahweh our God; but the things that are revealed belong to us and to our children forever, that we may do all the words of this law.

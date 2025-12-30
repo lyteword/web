@@ -4,54 +4,54 @@ weight: 2
 
 # Chapter 2
 
-<sup>1</sup> I said in my heart, “Come now, I will test you with mirth; therefore enjoy pleasure;” and behold, this also was vanity.
+**¹** I said in my heart, “Come now, I will test you with mirth; therefore enjoy pleasure;” and behold, this also was vanity.
 
-<sup>2</sup> I said of laughter, “It is foolishness;” and of mirth, “What does it accomplish?”
+**²** I said of laughter, “It is foolishness;” and of mirth, “What does it accomplish?”
 
-<sup>3</sup> I searched in my heart how to cheer my flesh with wine, my heart yet guiding me with wisdom, and how to lay hold of folly, until I might see what it was good for the sons of men that they should do under heaven all the days of their lives.
+**³** I searched in my heart how to cheer my flesh with wine, my heart yet guiding me with wisdom, and how to lay hold of folly, until I might see what it was good for the sons of men that they should do under heaven all the days of their lives.
 
-<sup>4</sup> I made myself great works. I built myself houses. I planted myself vineyards.
+**⁴** I made myself great works. I built myself houses. I planted myself vineyards.
 
-<sup>5</sup> I made myself gardens and parks, and I planted trees in them of all kinds of fruit.
+**⁵** I made myself gardens and parks, and I planted trees in them of all kinds of fruit.
 
-<sup>6</sup> I made myself pools of water, to water the forest where trees were grown.
+**⁶** I made myself pools of water, to water the forest where trees were grown.
 
-<sup>7</sup> I bought male servants and female servants, and had servants born in my house. I also had great possessions of herds and flocks, above all who were before me in Jerusalem.
+**⁷** I bought male servants and female servants, and had servants born in my house. I also had great possessions of herds and flocks, above all who were before me in Jerusalem.
 
-<sup>8</sup> I also gathered silver and gold for myself, and the treasure of kings and of the provinces. I got myself male and female singers, and the delights of the sons of men: musical instruments of all sorts.
+**⁸** I also gathered silver and gold for myself, and the treasure of kings and of the provinces. I got myself male and female singers, and the delights of the sons of men: musical instruments of all sorts.
 
-<sup>9</sup> So I was great, and increased more than all who were before me in Jerusalem. My wisdom also remained with me.
+**⁹** So I was great, and increased more than all who were before me in Jerusalem. My wisdom also remained with me.
 
-<sup>10</sup> Whatever my eyes desired, I didn’t keep from them. I didn’t withhold my heart from any joy, for my heart rejoiced because of all my labor, and this was my portion from all my labor.
+**¹⁰** Whatever my eyes desired, I didn’t keep from them. I didn’t withhold my heart from any joy, for my heart rejoiced because of all my labor, and this was my portion from all my labor.
 
-<sup>11</sup> Then I looked at all the works that my hands had worked, and at the labor that I had labored to do; and behold, all was vanity and a chasing after wind, and there was no profit under the sun.
+**¹¹** Then I looked at all the works that my hands had worked, and at the labor that I had labored to do; and behold, all was vanity and a chasing after wind, and there was no profit under the sun.
 
-<sup>12</sup> I turned myself to consider wisdom, madness, and folly; for what can the king’s successor do? Just that which has been done long ago.
+**¹²** I turned myself to consider wisdom, madness, and folly; for what can the king’s successor do? Just that which has been done long ago.
 
-<sup>13</sup> Then I saw that wisdom excels folly, as far as light excels darkness.
+**¹³** Then I saw that wisdom excels folly, as far as light excels darkness.
 
-<sup>14</sup> The wise man’s eyes are in his head, and the fool walks in darkness—and yet I perceived that one event happens to them all.
+**¹⁴** The wise man’s eyes are in his head, and the fool walks in darkness—and yet I perceived that one event happens to them all.
 
-<sup>15</sup> Then I said in my heart, “As it happens to the fool, so will it happen even to me; and why was I then more wise?” Then I said in my heart that this also is vanity.
+**¹⁵** Then I said in my heart, “As it happens to the fool, so will it happen even to me; and why was I then more wise?” Then I said in my heart that this also is vanity.
 
-<sup>16</sup> For of the wise man, even as of the fool, there is no memory forever, since in the days to come all will have been long forgotten. Indeed, the wise man must die just like the fool!
+**¹⁶** For of the wise man, even as of the fool, there is no memory forever, since in the days to come all will have been long forgotten. Indeed, the wise man must die just like the fool!
 
-<sup>17</sup> So I hated life, because the work that is worked under the sun was grievous to me; for all is vanity and a chasing after wind.
+**¹⁷** So I hated life, because the work that is worked under the sun was grievous to me; for all is vanity and a chasing after wind.
 
-<sup>18</sup> I hated all my labor in which I labored under the sun, because I must leave it to the man who comes after me.
+**¹⁸** I hated all my labor in which I labored under the sun, because I must leave it to the man who comes after me.
 
-<sup>19</sup> Who knows whether he will be a wise man or a fool? Yet he will have rule over all of my labor in which I have labored, and in which I have shown myself wise under the sun. This also is vanity.
+**¹⁹** Who knows whether he will be a wise man or a fool? Yet he will have rule over all of my labor in which I have labored, and in which I have shown myself wise under the sun. This also is vanity.
 
-<sup>20</sup> Therefore I began to cause my heart to despair concerning all the labor in which I had labored under the sun.
+**²⁰** Therefore I began to cause my heart to despair concerning all the labor in which I had labored under the sun.
 
-<sup>21</sup> For there is a man whose labor is with wisdom, with knowledge, and with skillfulness; yet he shall leave it for his portion to a man who has not labored for it. This also is vanity and a great evil.
+**²¹** For there is a man whose labor is with wisdom, with knowledge, and with skillfulness; yet he shall leave it for his portion to a man who has not labored for it. This also is vanity and a great evil.
 
-<sup>22</sup> For what does a man have of all his labor and of the striving of his heart, in which he labors under the sun?
+**²²** For what does a man have of all his labor and of the striving of his heart, in which he labors under the sun?
 
-<sup>23</sup> For all his days are sorrows, and his travail is grief; yes, even in the night his heart takes no rest. This also is vanity.
+**²³** For all his days are sorrows, and his travail is grief; yes, even in the night his heart takes no rest. This also is vanity.
 
-<sup>24</sup> There is nothing better for a man than that he should eat and drink, and make his soul enjoy good in his labor. This also I saw, that it is from the hand of God.
+**²⁴** There is nothing better for a man than that he should eat and drink, and make his soul enjoy good in his labor. This also I saw, that it is from the hand of God.
 
-<sup>25</sup> For who can eat, or who can have enjoyment, more than I?
+**²⁵** For who can eat, or who can have enjoyment, more than I?
 
-<sup>26</sup> For to the man who pleases him, God gives wisdom, knowledge, and joy; but to the sinner he gives travail, to gather and to heap up, that he may give to him who pleases God. This also is vanity and a chasing after wind.
+**²⁶** For to the man who pleases him, God gives wisdom, knowledge, and joy; but to the sinner he gives travail, to gather and to heap up, that he may give to him who pleases God. This also is vanity and a chasing after wind.

@@ -4,58 +4,58 @@ weight: 37
 
 # Chapter 37
 
-<sup>1</sup> Yahweh’s hand was on me, and he brought me out in Yahweh’s Spirit, and set me down in the middle of the valley; and it was full of bones.
+**¹** Yahweh’s hand was on me, and he brought me out in Yahweh’s Spirit, and set me down in the middle of the valley; and it was full of bones.
 
-<sup>2</sup> He caused me to pass by them all around; and behold, there were very many in the open valley, and behold, they were very dry.
+**²** He caused me to pass by them all around; and behold, there were very many in the open valley, and behold, they were very dry.
 
-<sup>3</sup> He said to me, “Son of man, can these bones live?” I answered, “Lord Yahweh, you know.”
+**³** He said to me, “Son of man, can these bones live?” I answered, “Lord Yahweh, you know.”
 
-<sup>4</sup> Again he said to me, “Prophesy over these bones, and tell them, ‘You dry bones, hear Yahweh’s word.
+**⁴** Again he said to me, “Prophesy over these bones, and tell them, ‘You dry bones, hear Yahweh’s word.
 
-<sup>5</sup> The Lord Yahweh says to these bones: “Behold, I will cause breath to enter into you, and you will live.
+**⁵** The Lord Yahweh says to these bones: “Behold, I will cause breath to enter into you, and you will live.
 
-<sup>6</sup> I will lay sinews on you, and will bring up flesh on you, and cover you with skin, and put breath in you, and you will live. Then you will know that I am Yahweh.”’”
+**⁶** I will lay sinews on you, and will bring up flesh on you, and cover you with skin, and put breath in you, and you will live. Then you will know that I am Yahweh.”’”
 
-<sup>7</sup> So I prophesied as I was commanded. As I prophesied, there was a noise, and behold, there was an earthquake. Then the bones came together, bone to its bone.
+**⁷** So I prophesied as I was commanded. As I prophesied, there was a noise, and behold, there was an earthquake. Then the bones came together, bone to its bone.
 
-<sup>8</sup> I saw, and, behold, there were sinews on them, and flesh came up, and skin covered them above; but there was no breath in them.
+**⁸** I saw, and, behold, there were sinews on them, and flesh came up, and skin covered them above; but there was no breath in them.
 
-<sup>9</sup> Then he said to me, “Prophesy to the wind, prophesy, son of man, and tell the wind, ‘The Lord Yahweh says: “Come from the four winds, breath, and breathe on these slain, that they may live.”’”
+**⁹** Then he said to me, “Prophesy to the wind, prophesy, son of man, and tell the wind, ‘The Lord Yahweh says: “Come from the four winds, breath, and breathe on these slain, that they may live.”’”
 
-<sup>10</sup> So I prophesied as he commanded me, and the breath came into them, and they lived, and stood up on their feet, an exceedingly great army.
+**¹⁰** So I prophesied as he commanded me, and the breath came into them, and they lived, and stood up on their feet, an exceedingly great army.
 
-<sup>11</sup> Then he said to me, “Son of man, these bones are the whole house of Israel. Behold, they say, ‘Our bones are dried up, and our hope is lost. We are completely cut off.’
+**¹¹** Then he said to me, “Son of man, these bones are the whole house of Israel. Behold, they say, ‘Our bones are dried up, and our hope is lost. We are completely cut off.’
 
-<sup>12</sup> Therefore prophesy, and tell them, ‘The Lord Yahweh says: “Behold, I will open your graves, and cause you to come up out of your graves, my people; and I will bring you into the land of Israel.
+**¹²** Therefore prophesy, and tell them, ‘The Lord Yahweh says: “Behold, I will open your graves, and cause you to come up out of your graves, my people; and I will bring you into the land of Israel.
 
-<sup>13</sup> You will know that I am Yahweh, when I have opened your graves and caused you to come up out of your graves, my people.
+**¹³** You will know that I am Yahweh, when I have opened your graves and caused you to come up out of your graves, my people.
 
-<sup>14</sup> I will put my Spirit in you, and you will live. Then I will place you in your own land; and you will know that I, Yahweh, have spoken it and performed it,” says Yahweh.’”
+**¹⁴** I will put my Spirit in you, and you will live. Then I will place you in your own land; and you will know that I, Yahweh, have spoken it and performed it,” says Yahweh.’”
 
-<sup>15</sup> Yahweh’s word came again to me, saying,
+**¹⁵** Yahweh’s word came again to me, saying,
 
-<sup>16</sup> “You, son of man, take one stick and write on it, ‘For Judah, and for the children of Israel his companions.’ Then take another stick, and write on it, ‘For Joseph, the stick of Ephraim, and for all the house of Israel his companions.’
+**¹⁶** “You, son of man, take one stick and write on it, ‘For Judah, and for the children of Israel his companions.’ Then take another stick, and write on it, ‘For Joseph, the stick of Ephraim, and for all the house of Israel his companions.’
 
-<sup>17</sup> Then join them for yourself to one another into one stick, that they may become one in your hand.
+**¹⁷** Then join them for yourself to one another into one stick, that they may become one in your hand.
 
-<sup>18</sup> “When the children of your people speak to you, saying, ‘Won’t you show us what you mean by these?’
+**¹⁸** “When the children of your people speak to you, saying, ‘Won’t you show us what you mean by these?’
 
-<sup>19</sup> tell them, ‘The Lord Yahweh says: “Behold, I will take the stick of Joseph, which is in the hand of Ephraim, and the tribes of Israel his companions; and I will put them with it, with the stick of Judah, and make them one stick, and they will be one in my hand.
+**¹⁹** tell them, ‘The Lord Yahweh says: “Behold, I will take the stick of Joseph, which is in the hand of Ephraim, and the tribes of Israel his companions; and I will put them with it, with the stick of Judah, and make them one stick, and they will be one in my hand.
 
-<sup>20</sup> The sticks on which you write will be in your hand before their eyes.”’
+**²⁰** The sticks on which you write will be in your hand before their eyes.”’
 
-<sup>21</sup> Say to them, ‘The Lord Yahweh says: “Behold, I will take the children of Israel from among the nations where they have gone, and will gather them on every side, and bring them into their own land.
+**²¹** Say to them, ‘The Lord Yahweh says: “Behold, I will take the children of Israel from among the nations where they have gone, and will gather them on every side, and bring them into their own land.
 
-<sup>22</sup> I will make them one nation in the land, on the mountains of Israel. One king will be king to them all. They will no longer be two nations. They won’t be divided into two kingdoms any more at all.
+**²²** I will make them one nation in the land, on the mountains of Israel. One king will be king to them all. They will no longer be two nations. They won’t be divided into two kingdoms any more at all.
 
-<sup>23</sup> They won’t defile themselves any more with their idols, nor with their detestable things, nor with any of their transgressions; but I will save them out of all their dwelling places in which they have sinned, and will cleanse them. So they will be my people, and I will be their God.
+**²³** They won’t defile themselves any more with their idols, nor with their detestable things, nor with any of their transgressions; but I will save them out of all their dwelling places in which they have sinned, and will cleanse them. So they will be my people, and I will be their God.
 
-<sup>24</sup> “‘“My servant David will be king over them. They all will have one shepherd. They will also walk in my ordinances and observe my statutes, and do them.
+**²⁴** “‘“My servant David will be king over them. They all will have one shepherd. They will also walk in my ordinances and observe my statutes, and do them.
 
-<sup>25</sup> They will dwell in the land that I have given to Jacob my servant, in which your fathers lived. They will dwell therein, they, and their children, and their children’s children, forever. David my servant will be their prince forever.
+**²⁵** They will dwell in the land that I have given to Jacob my servant, in which your fathers lived. They will dwell therein, they, and their children, and their children’s children, forever. David my servant will be their prince forever.
 
-<sup>26</sup> Moreover I will make a covenant of peace with them. It will be an everlasting covenant with them. I will place them, multiply them, and will set my sanctuary among them forever more.
+**²⁶** Moreover I will make a covenant of peace with them. It will be an everlasting covenant with them. I will place them, multiply them, and will set my sanctuary among them forever more.
 
-<sup>27</sup> My tent also will be with them. I will be their God, and they will be my people.
+**²⁷** My tent also will be with them. I will be their God, and they will be my people.
 
-<sup>28</sup> The nations will know that I am Yahweh who sanctifies Israel, when my sanctuary is among them forever more.”’”
+**²⁸** The nations will know that I am Yahweh who sanctifies Israel, when my sanctuary is among them forever more.”’”

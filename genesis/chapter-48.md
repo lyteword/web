@@ -4,46 +4,46 @@ weight: 48
 
 # Chapter 48
 
-<sup>1</sup> After these things, someone said to Joseph, “Behold, your father is sick.” He took with him his two sons, Manasseh and Ephraim.
+**¹** After these things, someone said to Joseph, “Behold, your father is sick.” He took with him his two sons, Manasseh and Ephraim.
 
-<sup>2</sup> Someone told Jacob, and said, “Behold, your son Joseph comes to you,” and Israel strengthened himself, and sat on the bed.
+**²** Someone told Jacob, and said, “Behold, your son Joseph comes to you,” and Israel strengthened himself, and sat on the bed.
 
-<sup>3</sup> Jacob said to Joseph, “God Almighty appeared to me at Luz in the land of Canaan, and blessed me,
+**³** Jacob said to Joseph, “God Almighty appeared to me at Luz in the land of Canaan, and blessed me,
 
-<sup>4</sup> and said to me, ‘Behold, I will make you fruitful, and multiply you, and I will make of you a company of peoples, and will give this land to your offspring after you for an everlasting possession.’
+**⁴** and said to me, ‘Behold, I will make you fruitful, and multiply you, and I will make of you a company of peoples, and will give this land to your offspring after you for an everlasting possession.’
 
-<sup>5</sup> Now your two sons, who were born to you in the land of Egypt before I came to you into Egypt, are mine; Ephraim and Manasseh, even as Reuben and Simeon, will be mine.
+**⁵** Now your two sons, who were born to you in the land of Egypt before I came to you into Egypt, are mine; Ephraim and Manasseh, even as Reuben and Simeon, will be mine.
 
-<sup>6</sup> Your offspring, whom you become the father of after them, will be yours. They will be called after the name of their brothers in their inheritance.
+**⁶** Your offspring, whom you become the father of after them, will be yours. They will be called after the name of their brothers in their inheritance.
 
-<sup>7</sup> As for me, when I came from Paddan, Rachel died beside me in the land of Canaan on the way, when there was still some distance to come to Ephrath, and I buried her there on the way to Ephrath (also called Bethlehem).”
+**⁷** As for me, when I came from Paddan, Rachel died beside me in the land of Canaan on the way, when there was still some distance to come to Ephrath, and I buried her there on the way to Ephrath (also called Bethlehem).”
 
-<sup>8</sup> Israel saw Joseph’s sons, and said, “Who are these?”
+**⁸** Israel saw Joseph’s sons, and said, “Who are these?”
 
-<sup>9</sup> Joseph said to his father, “They are my sons, whom God has given me here.” He said, “Please bring them to me, and I will bless them.”
+**⁹** Joseph said to his father, “They are my sons, whom God has given me here.” He said, “Please bring them to me, and I will bless them.”
 
-<sup>10</sup> Now the eyes of Israel were dim for age, so that he couldn’t see well. Joseph brought them near to him; and he kissed them, and embraced them.
+**¹⁰** Now the eyes of Israel were dim for age, so that he couldn’t see well. Joseph brought them near to him; and he kissed them, and embraced them.
 
-<sup>11</sup> Israel said to Joseph, “I didn’t think I would see your face, and behold, God has let me see your offspring also.”
+**¹¹** Israel said to Joseph, “I didn’t think I would see your face, and behold, God has let me see your offspring also.”
 
-<sup>12</sup> Joseph brought them out from between his knees, and he bowed himself with his face to the earth.
+**¹²** Joseph brought them out from between his knees, and he bowed himself with his face to the earth.
 
-<sup>13</sup> Joseph took them both, Ephraim in his right hand toward Israel’s left hand, and Manasseh in his left hand toward Israel’s right hand, and brought them near to him.
+**¹³** Joseph took them both, Ephraim in his right hand toward Israel’s left hand, and Manasseh in his left hand toward Israel’s right hand, and brought them near to him.
 
-<sup>14</sup> Israel stretched out his right hand, and laid it on Ephraim’s head, who was the younger, and his left hand on Manasseh’s head, guiding his hands knowingly, for Manasseh was the firstborn.
+**¹⁴** Israel stretched out his right hand, and laid it on Ephraim’s head, who was the younger, and his left hand on Manasseh’s head, guiding his hands knowingly, for Manasseh was the firstborn.
 
-<sup>15</sup> He blessed Joseph, and said, “The God before whom my fathers Abraham and Isaac walked, the God who has fed me all my life long to this day,
+**¹⁵** He blessed Joseph, and said, “The God before whom my fathers Abraham and Isaac walked, the God who has fed me all my life long to this day,
 
-<sup>16</sup> the angel who has redeemed me from all evil, bless the lads, and let my name be named on them, and the name of my fathers Abraham and Isaac. Let them grow into a multitude upon the earth.”
+**¹⁶** the angel who has redeemed me from all evil, bless the lads, and let my name be named on them, and the name of my fathers Abraham and Isaac. Let them grow into a multitude upon the earth.”
 
-<sup>17</sup> When Joseph saw that his father laid his right hand on the head of Ephraim, it displeased him. He held up his father’s hand, to remove it from Ephraim’s head to Manasseh’s head.
+**¹⁷** When Joseph saw that his father laid his right hand on the head of Ephraim, it displeased him. He held up his father’s hand, to remove it from Ephraim’s head to Manasseh’s head.
 
-<sup>18</sup> Joseph said to his father, “Not so, my father, for this is the firstborn. Put your right hand on his head.”
+**¹⁸** Joseph said to his father, “Not so, my father, for this is the firstborn. Put your right hand on his head.”
 
-<sup>19</sup> His father refused, and said, “I know, my son, I know. He also will become a people, and he also will be great. However, his younger brother will be greater than he, and his offspring will become a multitude of nations.”
+**¹⁹** His father refused, and said, “I know, my son, I know. He also will become a people, and he also will be great. However, his younger brother will be greater than he, and his offspring will become a multitude of nations.”
 
-<sup>20</sup> He blessed them that day, saying, “Israel will bless in your name, saying, ‘God make you as Ephraim and as Manasseh’” He set Ephraim before Manasseh.
+**²⁰** He blessed them that day, saying, “Israel will bless in your name, saying, ‘God make you as Ephraim and as Manasseh’” He set Ephraim before Manasseh.
 
-<sup>21</sup> Israel said to Joseph, “Behold, I am dying, but God will be with you, and bring you again to the land of your fathers.
+**²¹** Israel said to Joseph, “Behold, I am dying, but God will be with you, and bring you again to the land of your fathers.
 
-<sup>22</sup> Moreover I have given to you one portion above your brothers, which I took out of the hand of the Amorite with my sword and with my bow.”
+**²²** Moreover I have given to you one portion above your brothers, which I took out of the hand of the Amorite with my sword and with my bow.”

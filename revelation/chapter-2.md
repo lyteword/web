@@ -4,63 +4,63 @@ weight: 2
 
 # Chapter 2
 
-<sup>1</sup>  “To the angel of the assembly in Ephesus write:  “He who holds the seven stars in his right hand, he who walks among the seven golden lamp stands says these things:
+**¹**  “To the angel of the assembly in Ephesus write:  “He who holds the seven stars in his right hand, he who walks among the seven golden lamp stands says these things:
 
-<sup>2</sup>  “I know your works, and your toil and perseverance, and that you can’t tolerate evil men, and have tested those who call themselves apostles, and they are not, and found them false.
+**²**  “I know your works, and your toil and perseverance, and that you can’t tolerate evil men, and have tested those who call themselves apostles, and they are not, and found them false.
 
-<sup>3</sup>  You have perseverance and have endured for my name’s sake, and have [^1417]  not grown weary.
+**³**  You have perseverance and have endured for my name’s sake, and have [^1417]  not grown weary.
 
-<sup>4</sup>  But I have this against you, that you left your first love.
+**⁴**  But I have this against you, that you left your first love.
 
-<sup>5</sup>  Remember therefore from where you have fallen, and repent and do the first works; or else I am coming to you swiftly, and will move your lamp stand out of its place, unless you repent.
+**⁵**  Remember therefore from where you have fallen, and repent and do the first works; or else I am coming to you swiftly, and will move your lamp stand out of its place, unless you repent.
 
-<sup>6</sup>  But this you have, that you hate the works of the Nicolaitans, which I also hate.
+**⁶**  But this you have, that you hate the works of the Nicolaitans, which I also hate.
 
-<sup>7</sup>  He who has an ear, let him hear what the Spirit says to the assemblies. To him who overcomes I will give to eat from the tree of life, which is in the Paradise of my God.
+**⁷**  He who has an ear, let him hear what the Spirit says to the assemblies. To him who overcomes I will give to eat from the tree of life, which is in the Paradise of my God.
 
-<sup>8</sup>  “To the angel of the assembly in Smyrna write:  “The first and the last, who was dead, and has come to life says these things:
+**⁸**  “To the angel of the assembly in Smyrna write:  “The first and the last, who was dead, and has come to life says these things:
 
-<sup>9</sup>  “I know your works, oppression, and your poverty (but you are rich), and the blasphemy of those who say they are Jews, and they are not, but are a synagogue of Satan.
+**⁹**  “I know your works, oppression, and your poverty (but you are rich), and the blasphemy of those who say they are Jews, and they are not, but are a synagogue of Satan.
 
-<sup>10</sup>  Don’t be afraid of the things which you are about to suffer. Behold, the devil is about to throw some of you into prison, that you may be tested; and you will have oppression for ten days. Be faithful to death, and I will give you the crown of life.
+**¹⁰**  Don’t be afraid of the things which you are about to suffer. Behold, the devil is about to throw some of you into prison, that you may be tested; and you will have oppression for ten days. Be faithful to death, and I will give you the crown of life.
 
-<sup>11</sup>  He who has an ear, let him hear what the Spirit says to the assemblies. He who overcomes won’t be harmed by the second death.
+**¹¹**  He who has an ear, let him hear what the Spirit says to the assemblies. He who overcomes won’t be harmed by the second death.
 
-<sup>12</sup>  “To the angel of the assembly in Pergamum write:  “He who has the sharp two-edged sword says these things:
+**¹²**  “To the angel of the assembly in Pergamum write:  “He who has the sharp two-edged sword says these things:
 
-<sup>13</sup>  “I know your works and where you dwell, where Satan’s throne is. You hold firmly to my name, and didn’t deny my faith in the days of Antipas my witness, my faithful one, who was killed among you, where Satan dwells.
+**¹³**  “I know your works and where you dwell, where Satan’s throne is. You hold firmly to my name, and didn’t deny my faith in the days of Antipas my witness, my faithful one, who was killed among you, where Satan dwells.
 
-<sup>14</sup>  But I have a few things against you, because you have there some who hold the teaching of Balaam, who taught Balak to throw a stumbling block before the children of Israel, to eat things sacrificed to idols, and to commit sexual immorality.
+**¹⁴**  But I have a few things against you, because you have there some who hold the teaching of Balaam, who taught Balak to throw a stumbling block before the children of Israel, to eat things sacrificed to idols, and to commit sexual immorality.
 
-<sup>15</sup>  So also you likewise have some who hold to the teaching of the Nicolaitans.[^1418]
+**¹⁵**  So also you likewise have some who hold to the teaching of the Nicolaitans.[^1418]
 
-<sup>16</sup>  Repent therefore, or else I am coming to you quickly and I will make war against them with the sword of my mouth.
+**¹⁶**  Repent therefore, or else I am coming to you quickly and I will make war against them with the sword of my mouth.
 
-<sup>17</sup>  He who has an ear, let him hear what the Spirit says to the assemblies. To him who overcomes, to him I will give of the hidden manna, [^1419]  and I will give him a white stone, and on the stone a new name written which no one knows but he who receives it.
+**¹⁷**  He who has an ear, let him hear what the Spirit says to the assemblies. To him who overcomes, to him I will give of the hidden manna, [^1419]  and I will give him a white stone, and on the stone a new name written which no one knows but he who receives it.
 
-<sup>18</sup>  “To the angel of the assembly in Thyatira write:  “The Son of God, who has his eyes like a flame of fire, and his feet are like burnished brass, says these things:
+**¹⁸**  “To the angel of the assembly in Thyatira write:  “The Son of God, who has his eyes like a flame of fire, and his feet are like burnished brass, says these things:
 
-<sup>19</sup>  “I know your works, your love, faith, service, patient endurance, and that your last works are more than the first.
+**¹⁹**  “I know your works, your love, faith, service, patient endurance, and that your last works are more than the first.
 
-<sup>20</sup>  But I have this against you, that you tolerate your[^1420]  woman Jezebel, who calls herself a prophetess. She teaches and seduces my servants to commit sexual immorality and to eat things sacrificed to idols.
+**²⁰**  But I have this against you, that you tolerate your[^1420]  woman Jezebel, who calls herself a prophetess. She teaches and seduces my servants to commit sexual immorality and to eat things sacrificed to idols.
 
-<sup>21</sup>  I gave her time to repent, but she refuses to repent of her sexual immorality.
+**²¹**  I gave her time to repent, but she refuses to repent of her sexual immorality.
 
-<sup>22</sup>  Behold, I will throw her and those who commit adultery with her into a bed of great oppression, unless they repent of her works.
+**²²**  Behold, I will throw her and those who commit adultery with her into a bed of great oppression, unless they repent of her works.
 
-<sup>23</sup>  I will kill her children with Death, and all the assemblies will know that I am he who searches the minds and hearts. I will give to each one of you according to your deeds.
+**²³**  I will kill her children with Death, and all the assemblies will know that I am he who searches the minds and hearts. I will give to each one of you according to your deeds.
 
-<sup>24</sup>  But to you I say, to the rest who are in Thyatira—as many as don’t have this teaching, who don’t know what some call ‘the deep things of Satan’—to you I say, I am not putting any other burden on you.
+**²⁴**  But to you I say, to the rest who are in Thyatira—as many as don’t have this teaching, who don’t know what some call ‘the deep things of Satan’—to you I say, I am not putting any other burden on you.
 
-<sup>25</sup>  Nevertheless, hold that which you have firmly until I come.
+**²⁵**  Nevertheless, hold that which you have firmly until I come.
 
-<sup>26</sup>  He who overcomes, and he who keeps my works to the end, to him I will give authority over the nations.
+**²⁶**  He who overcomes, and he who keeps my works to the end, to him I will give authority over the nations.
 
-<sup>27</sup>  He will rule them with a rod of iron, shattering them like clay pots,[^1421]  as I also have received of my Father;
+**²⁷**  He will rule them with a rod of iron, shattering them like clay pots,[^1421]  as I also have received of my Father;
 
-<sup>28</sup>  and I will give him the morning star.
+**²⁸**  and I will give him the morning star.
 
-<sup>29</sup>  He who has an ear, let him hear what the Spirit says to the assemblies.
+**²⁹**  He who has an ear, let him hear what the Spirit says to the assemblies.
 
 [^1417]: 2:3 TR adds “have labored and”
 [^1418]: 2:15 TR reads “which I hate” instead of “likewise”

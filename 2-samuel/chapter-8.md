@@ -4,38 +4,38 @@ weight: 8
 
 # Chapter 8
 
-<sup>1</sup> After this, David struck the Philistines and subdued them; and David took the bridle of the mother city out of the hand of the Philistines.
+**¹** After this, David struck the Philistines and subdued them; and David took the bridle of the mother city out of the hand of the Philistines.
 
-<sup>2</sup> He defeated Moab, and measured them with the line, making them to lie down on the ground; and he measured two lines to put to death, and one full line to keep alive. The Moabites became servants to David, and brought tribute.
+**²** He defeated Moab, and measured them with the line, making them to lie down on the ground; and he measured two lines to put to death, and one full line to keep alive. The Moabites became servants to David, and brought tribute.
 
-<sup>3</sup> David also struck Hadadezer the son of Rehob, king of Zobah, as he went to recover his dominion at the River.
+**³** David also struck Hadadezer the son of Rehob, king of Zobah, as he went to recover his dominion at the River.
 
-<sup>4</sup> David took from him one thousand seven hundred horsemen and twenty thousand footmen. David hamstrung the chariot horses, but reserved enough of them for one hundred chariots.
+**⁴** David took from him one thousand seven hundred horsemen and twenty thousand footmen. David hamstrung the chariot horses, but reserved enough of them for one hundred chariots.
 
-<sup>5</sup> When the Syrians of Damascus came to help Hadadezer king of Zobah, David struck twenty two thousand men of the Syrians.
+**⁵** When the Syrians of Damascus came to help Hadadezer king of Zobah, David struck twenty two thousand men of the Syrians.
 
-<sup>6</sup> Then David put garrisons in Syria of Damascus; and the Syrians became servants to David, and brought tribute. Yahweh gave victory to David wherever he went.
+**⁶** Then David put garrisons in Syria of Damascus; and the Syrians became servants to David, and brought tribute. Yahweh gave victory to David wherever he went.
 
-<sup>7</sup> David took the shields of gold that were on the servants of Hadadezer, and brought them to Jerusalem.
+**⁷** David took the shields of gold that were on the servants of Hadadezer, and brought them to Jerusalem.
 
-<sup>8</sup> From Betah and from Berothai, cities of Hadadezer, King David took a great quantity of bronze.
+**⁸** From Betah and from Berothai, cities of Hadadezer, King David took a great quantity of bronze.
 
-<sup>9</sup> When Toi king of Hamath heard that David had struck all the army of Hadadezer,
+**⁹** When Toi king of Hamath heard that David had struck all the army of Hadadezer,
 
-<sup>10</sup> then Toi sent Joram his son to King David to greet him and to bless him, because he had fought against Hadadezer and struck him; for Hadadezer had wars with Toi. Joram brought with him vessels of silver, vessels of gold, and vessels of bronze.
+**¹⁰** then Toi sent Joram his son to King David to greet him and to bless him, because he had fought against Hadadezer and struck him; for Hadadezer had wars with Toi. Joram brought with him vessels of silver, vessels of gold, and vessels of bronze.
 
-<sup>11</sup> King David also dedicated these to Yahweh, with the silver and gold that he dedicated of all the nations which he subdued—
+**¹¹** King David also dedicated these to Yahweh, with the silver and gold that he dedicated of all the nations which he subdued—
 
-<sup>12</sup> of Syria, of Moab, of the children of Ammon, of the Philistines, of Amalek, and of the plunder of Hadadezer, son of Rehob, king of Zobah.
+**¹²** of Syria, of Moab, of the children of Ammon, of the Philistines, of Amalek, and of the plunder of Hadadezer, son of Rehob, king of Zobah.
 
-<sup>13</sup> David earned a reputation when he returned from striking down eighteen thousand men of the Syrians in the Valley of Salt.
+**¹³** David earned a reputation when he returned from striking down eighteen thousand men of the Syrians in the Valley of Salt.
 
-<sup>14</sup> He put garrisons in Edom. Throughout all Edom, he put garrisons, and all the Edomites became servants to David. Yahweh gave victory to David wherever he went.
+**¹⁴** He put garrisons in Edom. Throughout all Edom, he put garrisons, and all the Edomites became servants to David. Yahweh gave victory to David wherever he went.
 
-<sup>15</sup> David reigned over all Israel; and David executed justice and righteousness for all his people.
+**¹⁵** David reigned over all Israel; and David executed justice and righteousness for all his people.
 
-<sup>16</sup> Joab the son of Zeruiah was over the army, Jehoshaphat the son of Ahilud was recorder,
+**¹⁶** Joab the son of Zeruiah was over the army, Jehoshaphat the son of Ahilud was recorder,
 
-<sup>17</sup> Zadok the son of Ahitub and Ahimelech the son of Abiathar were priests, Seraiah was scribe,
+**¹⁷** Zadok the son of Ahitub and Ahimelech the son of Abiathar were priests, Seraiah was scribe,
 
-<sup>18</sup> Benaiah the son of Jehoiada was over the Cherethites and the Pelethites; and David’s sons were chief ministers.
+**¹⁸** Benaiah the son of Jehoiada was over the Cherethites and the Pelethites; and David’s sons were chief ministers.
