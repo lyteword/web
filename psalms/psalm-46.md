@@ -13,7 +13,7 @@ For the Chief Musician. By the sons of Korah. According to Alamoth.[^438]
 
 **²** Therefore we won’t be afraid, though the earth changes, though the mountains are shaken into the heart of the seas;
 
-**³** though its waters roar and are troubled, though the mountains tremble with their swelling. \qs Selah.\qs*
+**³** though its waters roar and are troubled, though the mountains tremble with their swelling. *Selah.*
 
 **⁴** There is a river, the streams of which make the city of God glad, the holy place of the tents of the Most High.
 
@@ -21,7 +21,7 @@ For the Chief Musician. By the sons of Korah. According to Alamoth.[^438]
 
 **⁶** The nations raged. The kingdoms were moved. He lifted his voice and the earth melted.
 
-**⁷** Yahweh of Armies is with us. The God of Jacob is our refuge. \qs Selah.\qs*
+**⁷** Yahweh of Armies is with us. The God of Jacob is our refuge. *Selah.*
 
 **⁸** Come, see Yahweh’s works, what desolations he has made in the earth.
 
@@ -29,6 +29,6 @@ For the Chief Musician. By the sons of Korah. According to Alamoth.[^438]
 
 **¹⁰** “Be still, and know that I am God. I will be exalted among the nations. I will be exalted in the earth.”
 
-**¹¹** Yahweh of Armies is with us. The God of Jacob is our refuge. \qs Selah.\qs*
+**¹¹** Yahweh of Armies is with us. The God of Jacob is our refuge. *Selah.*
 
 [^438]: 46:0 Alamoth is a musical term.

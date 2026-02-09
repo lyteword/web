@@ -11,7 +11,7 @@ weight: 3
 
 **²** Yahweh, I have heard of your fame. I stand in awe of your deeds, Yahweh. Renew your work in the middle of the years. In the middle of the years make it known. In wrath, you remember mercy.
 
-**³** God came from Teman, the Holy One from Mount Paran. \qs Selah.\qs* His glory covered the heavens, and his praise filled the earth.
+**³** God came from Teman, the Holy One from Mount Paran. *Selah.* His glory covered the heavens, and his praise filled the earth.
 
 **⁴** His splendor is like the sunrise. Rays shine from his hand, where his power is hidden.
 
@@ -23,7 +23,7 @@ weight: 3
 
 **⁸** Was Yahweh displeased with the rivers? Was your anger against the rivers, or your wrath against the sea, that you rode on your horses, on your chariots of salvation?
 
-**⁹** You uncovered your bow. You called for your sworn arrows. \qs Selah.\qs* You split the earth with rivers.
+**⁹** You uncovered your bow. You called for your sworn arrows. *Selah.* You split the earth with rivers.
 
 **¹⁰** The mountains saw you, and were afraid. The storm of waters passed by. The deep roared and lifted up its hands on high.
 
@@ -31,7 +31,7 @@ weight: 3
 
 **¹²** You marched through the land in wrath. You threshed the nations in anger.
 
-**¹³** You went out for the salvation of your people, for the salvation of your anointed. You crushed the head of the land of wickedness. You stripped them head to foot. \qs Selah.\qs*
+**¹³** You went out for the salvation of your people, for the salvation of your anointed. You crushed the head of the land of wickedness. You stripped them head to foot. *Selah.*
 
 **¹⁴** You pierced the heads of his warriors with their own spears. They came as a whirlwind to scatter me, gloating as if to devour the wretched in secret.
 

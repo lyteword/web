@@ -13,7 +13,7 @@ For the Chief Musician. To the tune of “Do Not Destroy.” A Psalm by Asaph. A
 
 **²** When I choose the appointed time, I will judge blamelessly.
 
-**³** The earth and all its inhabitants quake. I firmly hold its pillars. \qs Selah.\qs*
+**³** The earth and all its inhabitants quake. I firmly hold its pillars. *Selah.*
 
 **⁴** I said to the arrogant, “Don’t boast!” I said to the wicked, “Don’t lift up the horn.
 

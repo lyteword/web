@@ -13,7 +13,7 @@ For the Chief Musician. To Jeduthun. A Psalm by Asaph.
 
 **²** In the day of my trouble I sought the Lord. My hand was stretched out in the night, and didn’t get tired. My soul refused to be comforted.
 
-**³** I remember God, and I groan. I complain, and my spirit is overwhelmed. \qs Selah.\qs*
+**³** I remember God, and I groan. I complain, and my spirit is overwhelmed. *Selah.*
 
 **⁴** You hold my eyelids open. I am so troubled that I can’t speak.
 
@@ -25,7 +25,7 @@ For the Chief Musician. To Jeduthun. A Psalm by Asaph.
 
 **⁸** Has his loving kindness vanished forever? Does his promise fail for generations?
 
-**⁹** Has God forgotten to be gracious? Has he, in anger, withheld his compassion?” \qs Selah.\qs*
+**⁹** Has God forgotten to be gracious? Has he, in anger, withheld his compassion?” *Selah.*
 
 **¹⁰** Then I thought, “I will appeal to this: the years of the right hand of the Most High.”
 
@@ -37,7 +37,7 @@ For the Chief Musician. To Jeduthun. A Psalm by Asaph.
 
 **¹⁴** You are the God who does wonders. You have made your strength known among the peoples.
 
-**¹⁵** You have redeemed your people with your arm, the sons of Jacob and Joseph. \qs Selah.\qs*
+**¹⁵** You have redeemed your people with your arm, the sons of Jacob and Joseph. *Selah.*
 
 **¹⁶** The waters saw you, God. The waters saw you, and they writhed. The depths also convulsed.
 

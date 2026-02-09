@@ -33,11 +33,11 @@ For the Chief Musician. A Psalm by the sons of Korah.
 
 **¹²** But man, despite his riches, doesn’t endure. He is like the animals that perish.
 
-**¹³** This is the destiny of those who are foolish, and of those who approve their sayings. \qs Selah.\qs*
+**¹³** This is the destiny of those who are foolish, and of those who approve their sayings. *Selah.*
 
 **¹⁴** They are appointed as a flock for Sheol.[^439] Death shall be their shepherd. The upright shall have dominion over them in the morning. Their beauty shall decay in Sheol,[^440] far from their mansion.
 
-**¹⁵** But God will redeem my soul from the power of Sheol,[^441] for he will receive me. \qs Selah.\qs*
+**¹⁵** But God will redeem my soul from the power of Sheol,[^441] for he will receive me. *Selah.*
 
 **¹⁶** Don’t be afraid when a man is made rich, when the glory of his house is increased;
 

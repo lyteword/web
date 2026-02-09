@@ -15,7 +15,7 @@ For the Chief Musician. On an instrument of Gath. A Psalm by the sons of Korah.
 
 **³** Yes, the sparrow has found a home, and the swallow a nest for herself, where she may have her young, near your altars, Yahweh of Armies, my King, and my God.
 
-**⁴** Blessed are those who dwell in your house. They are always praising you. \qs Selah.\qs*
+**⁴** Blessed are those who dwell in your house. They are always praising you. *Selah.*
 
 **⁵** Blessed are those whose strength is in you, who have set their hearts on a pilgrimage.
 
@@ -23,7 +23,7 @@ For the Chief Musician. On an instrument of Gath. A Psalm by the sons of Korah.
 
 **⁷** They go from strength to strength. Every one of them appears before God in Zion.
 
-**⁸** Yahweh, God of Armies, hear my prayer. Listen, God of Jacob. \qs Selah.\qs*
+**⁸** Yahweh, God of Armies, hear my prayer. Listen, God of Jacob. *Selah.*
 
 **⁹** Behold, God our shield, look at the face of your anointed.
 

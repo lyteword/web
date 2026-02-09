@@ -19,7 +19,7 @@ A Psalm by Asaph.
 
 **⁵** “Gather my saints together to me, those who have made a covenant with me by sacrifice.”
 
-**⁶** The heavens shall declare his righteousness, for God himself is judge. \qs Selah.\qs*
+**⁶** The heavens shall declare his righteousness, for God himself is judge. *Selah.*
 
 **⁷** “Hear, my people, and I will speak. Israel, I will testify against you. I am God, your God.
 

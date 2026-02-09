@@ -23,7 +23,7 @@ A song. A Psalm by Asaph.
 
 **⁷** Gebal, Ammon, and Amalek; Philistia with the inhabitants of Tyre;
 
-**⁸** Assyria also is joined with them. They have helped the children of Lot. \qs Selah.\qs*
+**⁸** Assyria also is joined with them. They have helped the children of Lot. *Selah.*
 
 **⁹** Do to them as you did to Midian, as to Sisera, as to Jabin, at the river Kishon;
 

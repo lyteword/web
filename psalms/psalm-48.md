@@ -23,7 +23,7 @@ A Song. A Psalm by the sons of Korah.
 
 **⁷** With the east wind, you break the ships of Tarshish.
 
-**⁸** As we have heard, so we have seen, in the city of Yahweh of Armies, in the city of our God. God will establish it forever. \qs Selah.\qs*
+**⁸** As we have heard, so we have seen, in the city of Yahweh of Armies, in the city of our God. God will establish it forever. *Selah.*
 
 **⁹** We have thought about your loving kindness, God, in the middle of your temple.
 

@@ -21,7 +21,7 @@ For the Chief Musician. On stringed instruments. A contemplation by David.
 
 **⁶** I said, “Oh that I had wings like a dove! Then I would fly away, and be at rest.
 
-**⁷** Behold, then I would wander far off. I would lodge in the wilderness.” \qs Selah.\qs*
+**⁷** Behold, then I would wander far off. I would lodge in the wilderness.” *Selah.*
 
 **⁸** “I would hurry to a shelter from the stormy wind and storm.”
 
@@ -45,7 +45,7 @@ For the Chief Musician. On stringed instruments. A contemplation by David.
 
 **¹⁸** He has redeemed my soul in peace from the battle that was against me, although there are many who oppose me.
 
-**¹⁹** God, who is enthroned forever, will hear and answer them. \qs Selah.\qs* They never change and don’t fear God.
+**¹⁹** God, who is enthroned forever, will hear and answer them. *Selah.* They never change and don’t fear God.
 
 **²⁰** He raises his hands against his friends. He has violated his covenant.
 

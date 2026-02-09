@@ -15,13 +15,13 @@ For the Chief Musician. A song. A Psalm.
 
 **³** Tell God, “How awesome are your deeds! Through the greatness of your power, your enemies submit themselves to you.
 
-**⁴** All the earth will worship you, and will sing to you; they will sing to your name.” \qs Selah.\qs*
+**⁴** All the earth will worship you, and will sing to you; they will sing to your name.” *Selah.*
 
 **⁵** Come, and see God’s deeds— awesome work on behalf of the children of men.
 
 **⁶** He turned the sea into dry land. They went through the river on foot. There, we rejoiced in him.
 
-**⁷** He rules by his might forever. His eyes watch the nations. Don’t let the rebellious rise up against him. \qs Selah.\qs*
+**⁷** He rules by his might forever. His eyes watch the nations. Don’t let the rebellious rise up against him. *Selah.*
 
 **⁸** Praise our God, you peoples! Make the sound of his praise heard,
 
@@ -37,7 +37,7 @@ For the Chief Musician. A song. A Psalm.
 
 **¹⁴** which my lips promised, and my mouth spoke, when I was in distress.
 
-**¹⁵** I will offer to you burnt offerings of fat animals, with the offering of rams, I will offer bulls with goats. \qs Selah.\qs*
+**¹⁵** I will offer to you burnt offerings of fat animals, with the offering of rams, I will offer bulls with goats. *Selah.*
 
 **¹⁶** Come and hear, all you who fear God. I will declare what he has done for my soul.
 

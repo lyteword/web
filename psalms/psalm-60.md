@@ -15,7 +15,7 @@ For the Chief Musician. To the tune of “The Lily of the Covenant.” A teachin
 
 **³** You have shown your people hard things. You have made us drink the wine that makes us stagger.
 
-**⁴** You have given a banner to those who fear you, that it may be displayed because of the truth. \qs Selah.\qs*
+**⁴** You have given a banner to those who fear you, that it may be displayed because of the truth. *Selah.*
 
 **⁵** So that your beloved may be delivered, save with your right hand, and answer us.
 

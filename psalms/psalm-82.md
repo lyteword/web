@@ -11,7 +11,7 @@ A Psalm by Asaph.
 
 **¹** God presides in the great assembly. He judges among the gods.
 
-**²** “How long will you judge unjustly, and show partiality to the wicked?” \qs Selah.\qs*
+**²** “How long will you judge unjustly, and show partiality to the wicked?” *Selah.*
 
 **³** “Defend the weak, the poor, and the fatherless. Maintain the rights of the poor and oppressed.
 

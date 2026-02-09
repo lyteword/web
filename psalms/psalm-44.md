@@ -23,7 +23,7 @@ For the Chief Musician. By the sons of Korah. A contemplative psalm.
 
 **⁷** But you have saved us from our adversaries, and have shamed those who hate us.
 
-**⁸** In God we have made our boast all day long. We will give thanks to your name forever. \qs Selah.\qs*
+**⁸** In God we have made our boast all day long. We will give thanks to your name forever. *Selah.*
 
 **⁹** But now you rejected us, and brought us to dishonor, and don’t go out with our armies.
 

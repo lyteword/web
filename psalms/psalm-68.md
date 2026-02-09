@@ -21,7 +21,7 @@ For the Chief Musician. A Psalm by David. A song.
 
 **⁶** God sets the lonely in families. He brings out the prisoners with singing, but the rebellious dwell in a sun-scorched land.
 
-**⁷** God, when you went out before your people, when you marched through the wilderness... \qs Selah.\qs*
+**⁷** God, when you went out before your people, when you marched through the wilderness... *Selah.*
 
 **⁸** The earth trembled. The sky also poured down rain at the presence of the God of Sinai— at the presence of God, the God of Israel.
 
@@ -45,7 +45,7 @@ For the Chief Musician. A Psalm by David. A song.
 
 **¹⁸** You have ascended on high. You have led away captives. You have received gifts among people, yes, among the rebellious also, that Yah God might dwell there.
 
-**¹⁹** Blessed be the Lord, who daily bears our burdens, even the God who is our salvation. \qs Selah.\qs*
+**¹⁹** Blessed be the Lord, who daily bears our burdens, even the God who is our salvation. *Selah.*
 
 **²⁰** God is to us a God of deliverance. To Yahweh, the Lord, belongs escape from death.
 
@@ -71,7 +71,7 @@ For the Chief Musician. A Psalm by David. A song.
 
 **³¹** Princes shall come out of Egypt. Ethiopia shall hurry to stretch out her hands to God.
 
-**³²** Sing to God, you kingdoms of the earth! Sing praises to the Lord—\qs Selah—\qs*
+**³²** Sing to God, you kingdoms of the earth! Sing praises to the Lord&mdash;*Selah*&mdash;
 
 **³³** to him who rides on the heaven of heavens, which are of old; behold, he utters his voice, a mighty voice.
 

@@ -15,13 +15,13 @@ By David. A contemplative psalm.
 
 **³** When I kept silence, my bones wasted away through my groaning all day long.
 
-**⁴** For day and night your hand was heavy on me. My strength was sapped in the heat of summer. \qs Selah.\qs*
+**⁴** For day and night your hand was heavy on me. My strength was sapped in the heat of summer. *Selah.*
 
-**⁵** I acknowledged my sin to you. I didn’t hide my iniquity. I said, I will confess my transgressions to Yahweh, and you forgave the iniquity of my sin. \qs Selah.\qs*
+**⁵** I acknowledged my sin to you. I didn’t hide my iniquity. I said, I will confess my transgressions to Yahweh, and you forgave the iniquity of my sin. *Selah.*
 
 **⁶** For this, let everyone who is godly pray to you in a time when you may be found. Surely when the great waters overflow, they shall not reach to him.
 
-**⁷** You are my hiding place. You will preserve me from trouble. You will surround me with songs of deliverance. \qs Selah.\qs*
+**⁷** You are my hiding place. You will preserve me from trouble. You will surround me with songs of deliverance. *Selah.*
 
 **⁸** I will instruct you and teach you in the way which you shall go. I will counsel you with my eye on you.
 

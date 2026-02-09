@@ -21,7 +21,7 @@ For the Chief Musician. On an instrument of Gath. By Asaph.
 
 **⁶** “I removed his shoulder from the burden. His hands were freed from the basket.
 
-**⁷** You called in trouble, and I delivered you. I answered you in the secret place of thunder. I tested you at the waters of Meribah.” \qs Selah.\qs*
+**⁷** You called in trouble, and I delivered you. I answered you in the secret place of thunder. I tested you at the waters of Meribah.” *Selah.*
 
 **⁸** “Hear, my people, and I will testify to you, Israel, if you would listen to me!
 

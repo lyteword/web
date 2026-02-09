@@ -17,7 +17,7 @@ For the Chief Musician. For Jeduthun. A Psalm by David.
 
 **⁴** “Yahweh, show me my end, what is the measure of my days. Let me know how frail I am.
 
-**⁵** Behold, you have made my days hand widths. My lifetime is as nothing before you. Surely every man stands as a breath.” \qs Selah.\qs*
+**⁵** Behold, you have made my days hand widths. My lifetime is as nothing before you. Surely every man stands as a breath.” *Selah.*
 
 **⁶** “Surely every man walks like a shadow. Surely they busy themselves in vain. He heaps up, and doesn’t know who shall gather.
 
@@ -29,7 +29,7 @@ For the Chief Musician. For Jeduthun. A Psalm by David.
 
 **¹⁰** Remove your scourge away from me. I am overcome by the blow of your hand.
 
-**¹¹** When you rebuke and correct man for iniquity, you consume his wealth like a moth. Surely every man is but a breath.” \qs Selah.\qs*
+**¹¹** When you rebuke and correct man for iniquity, you consume his wealth like a moth. Surely every man is but a breath.” *Selah.*
 
 **¹²** “Hear my prayer, Yahweh, and give ear to my cry. Don’t be silent at my tears. For I am a stranger with you, a foreigner, as all my fathers were.
 

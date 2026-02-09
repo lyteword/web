@@ -11,7 +11,7 @@ For the Chief Musician. A Psalm by David.
 
 **¹** The king rejoices in your strength, Yahweh! How greatly he rejoices in your salvation!
 
-**²** You have given him his heart’s desire, and have not withheld the request of his lips. \qs Selah.\qs*
+**²** You have given him his heart’s desire, and have not withheld the request of his lips. *Selah.*
 
 **³** For you meet him with the blessings of goodness. You set a crown of fine gold on his head.
 

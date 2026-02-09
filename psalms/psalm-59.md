@@ -17,7 +17,7 @@ For the Chief Musician. To the tune of “Do Not Destroy.” A poem by David, wh
 
 **⁴** I have done no wrong, yet they are ready to attack me. Rise up, behold, and help me!
 
-**⁵** You, Yahweh God of Armies, the God of Israel, rouse yourself to punish the nations. Show no mercy to the wicked traitors. \qs Selah.\qs*
+**⁵** You, Yahweh God of Armies, the God of Israel, rouse yourself to punish the nations. Show no mercy to the wicked traitors. *Selah.*
 
 **⁶** They return at evening, howling like dogs, and prowl around the city.
 
@@ -33,7 +33,7 @@ For the Chief Musician. To the tune of “Do Not Destroy.” A poem by David, wh
 
 **¹²** For the sin of their mouth, and the words of their lips, let them be caught in their pride, for the curses and lies which they utter.
 
-**¹³** Consume them in wrath. Consume them, and they will be no more. Let them know that God rules in Jacob, to the ends of the earth. \qs Selah.\qs*
+**¹³** Consume them in wrath. Consume them, and they will be no more. Let them know that God rules in Jacob, to the ends of the earth. *Selah.*
 
 **¹⁴** At evening let them return. Let them howl like a dog, and go around the city.
 

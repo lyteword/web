@@ -13,13 +13,13 @@ For the Chief Musician. To the tune of “Do Not Destroy.” A poem by David, wh
 
 **²** I cry out to God Most High, to God who accomplishes my requests for me.
 
-**³** He will send from heaven, and save me, he rebukes the one who is pursuing me. \qs Selah.\qs* God will send out his loving kindness and his truth.
+**³** He will send from heaven, and save me, he rebukes the one who is pursuing me. *Selah.* God will send out his loving kindness and his truth.
 
 **⁴** My soul is among lions. I lie among those who are set on fire, even the sons of men, whose teeth are spears and arrows, and their tongue a sharp sword.
 
 **⁵** Be exalted, God, above the heavens! Let your glory be above all the earth!
 
-**⁶** They have prepared a net for my steps. My soul is bowed down. They dig a pit before me. They fall into the middle of it themselves. \qs Selah.\qs*
+**⁶** They have prepared a net for my steps. My soul is bowed down. They dig a pit before me. They fall into the middle of it themselves. *Selah.*
 
 **⁷** My heart is steadfast, God. My heart is steadfast. I will sing, yes, I will sing praises.
 

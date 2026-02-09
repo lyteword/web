@@ -13,11 +13,11 @@ For the Chief Musician. A contemplation by David, when Doeg the Edomite came and
 
 **²** Your tongue plots destruction, like a sharp razor, working deceitfully.
 
-**³** You love evil more than good, lying rather than speaking the truth. \qs Selah.\qs*
+**³** You love evil more than good, lying rather than speaking the truth. *Selah.*
 
 **⁴** You love all devouring words, you deceitful tongue.
 
-**⁵** God will likewise destroy you forever. He will take you up, and pluck you out of your tent, and root you out of the land of the living. \qs Selah.\qs*
+**⁵** God will likewise destroy you forever. He will take you up, and pluck you out of your tent, and root you out of the land of the living. *Selah.*
 
 **⁶** The righteous also will see it, and fear, and laugh at him, saying,
 

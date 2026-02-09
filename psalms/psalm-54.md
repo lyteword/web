@@ -13,7 +13,7 @@ For the Chief Musician. On stringed instruments. A contemplation by David, when 
 
 **²** Hear my prayer, God. Listen to the words of my mouth.
 
-**³** For strangers have risen up against me. Violent men have sought after my soul. They haven’t set God before them. \qs Selah.\qs*
+**³** For strangers have risen up against me. Violent men have sought after my soul. They haven’t set God before them. *Selah.*
 
 **⁴** Behold, God is my helper. The Lord is the one who sustains my soul.
 

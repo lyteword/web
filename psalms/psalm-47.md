@@ -15,7 +15,7 @@ For the Chief Musician. A Psalm by the sons of Korah.
 
 **³** He subdues nations under us, and peoples under our feet.
 
-**⁴** He chooses our inheritance for us, the glory of Jacob whom he loved. \qs Selah.\qs*
+**⁴** He chooses our inheritance for us, the glory of Jacob whom he loved. *Selah.*
 
 **⁵** God has gone up with a shout, Yahweh with the sound of a trumpet.
 

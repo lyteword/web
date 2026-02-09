@@ -15,7 +15,7 @@ For the Chief Musician. To Jeduthun. A Psalm by David.
 
 **³** How long will you assault a man? Would all of you throw him down, like a leaning wall, like a tottering fence?
 
-**⁴** They fully intend to throw him down from his lofty place. They delight in lies. They bless with their mouth, but they curse inwardly. \qs Selah.\qs*
+**⁴** They fully intend to throw him down from his lofty place. They delight in lies. They bless with their mouth, but they curse inwardly. *Selah.*
 
 **⁵** My soul, wait in silence for God alone, for my expectation is from him.
 
@@ -23,7 +23,7 @@ For the Chief Musician. To Jeduthun. A Psalm by David.
 
 **⁷** My salvation and my honor is with God. The rock of my strength, and my refuge, is in God.
 
-**⁸** Trust in him at all times, you people. Pour out your heart before him. God is a refuge for us. \qs Selah.\qs*
+**⁸** Trust in him at all times, you people. Pour out your heart before him. God is a refuge for us. *Selah.*
 
 **⁹** Surely men of low degree are just a breath, and men of high degree are a lie. In the balances they will go up. They are together lighter than a breath.
 

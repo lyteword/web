@@ -17,7 +17,7 @@ A meditation by David, which he sang to Yahweh, concerning the words of Cush, th
 
 **⁴** if I have rewarded evil to him who was at peace with me (yes, I have plundered him who without cause was my adversary),
 
-**⁵** let the enemy pursue my soul, and overtake it; yes, let him tread my life down to the earth, and lay my glory in the dust. \qs Selah.\qs*
+**⁵** let the enemy pursue my soul, and overtake it; yes, let him tread my life down to the earth, and lay my glory in the dust. *Selah.*
 
 **⁶** Arise, Yahweh, in your anger. Lift up yourself against the rage of my adversaries. Awake for me. You have commanded judgment.
 
