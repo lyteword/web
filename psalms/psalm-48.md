@@ -1,8 +1,11 @@
 ---
+title: "Psalm 48 WEB | Read the Bible Online"
+linkTitle: "48"
+description: "Read Psalm 48 Online | Great is Yahweh, and greatly to be praised, in the city of our God, in his holy mountain..."
 weight: 48
 ---
 
-# Psalm 48
+# Psalm 48 
 
 A Song. A Psalm by the sons of Korah.
 

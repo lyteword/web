@@ -1,8 +1,11 @@
 ---
+title: "Exodus 22 WEB | Read the Bible Online"
+linkTitle: "22"
+description: "Read Exodus 22 Online | “If a man steals an ox or a sheep, and kills it or sells it, he shall pay five oxen for an ox, and four sheep for a sheep..."
 weight: 22
 ---
 
-# Chapter 22
+# Exodus 22 
 
 **¹** “If a man steals an ox or a sheep, and kills it or sells it, he shall pay five oxen for an ox, and four sheep for a sheep.
 

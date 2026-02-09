@@ -1,8 +1,11 @@
 ---
+title: "Psalm 140 WEB | Read the Bible Online"
+linkTitle: "140"
+description: "Read Psalm 140 Online | Deliver me, Yahweh, from evil men. Preserve me from violent men..."
 weight: 140
 ---
 
-# Psalm 140
+# Psalm 140 
 
 For the Chief Musician. A Psalm by David.
 

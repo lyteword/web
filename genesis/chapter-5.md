@@ -1,8 +1,11 @@
 ---
+title: "Genesis 5 WEB | Read the Bible Online"
+linkTitle: "5"
+description: "Read Genesis 5 Online | This is the book of the generations of Adam. In the day that God created man, he made him in God’s likeness..."
 weight: 5
 ---
 
-# Chapter 5
+# Genesis 5 
 
 **¹** This is the book of the generations of Adam. In the day that God created man, he made him in God’s likeness.
 

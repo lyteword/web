@@ -1,8 +1,11 @@
 ---
+title: "2 Timothy 4 WEB | Read the Bible Online"
+linkTitle: "4"
+description: "Read 2 Timothy 4 Online | I command you therefore before God and the Lord Jesus Christ, who will judge the living and the dead at his appearing and his Kingdom..."
 weight: 4
 ---
 
-# Chapter 4
+# 2 Timothy 4 
 
 **¹** I command you therefore before God and the Lord Jesus Christ, who will judge the living and the dead at his appearing and his Kingdom:
 

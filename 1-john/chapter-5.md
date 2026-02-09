@@ -1,8 +1,11 @@
 ---
+title: "1 John 5 WEB | Read the Bible Online"
+linkTitle: "5"
+description: "Read 1 John 5 Online | Whoever believes that Jesus is the Christ has been born of God. Whoever loves the Father also loves the child who is born of him..."
 weight: 5
 ---
 
-# Chapter 5
+# 1 John 5 
 
 **¹** Whoever believes that Jesus is the Christ has been born of God. Whoever loves the Father also loves the child who is born of him.
 

@@ -1,8 +1,11 @@
 ---
+title: "Exodus 10 WEB | Read the Bible Online"
+linkTitle: "10"
+description: "Read Exodus 10 Online | Yahweh said to Moses, “Go in to Pharaoh, for I have hardened his heart and the heart of his servants, that I may show these my signs among them..."
 weight: 10
 ---
 
-# Chapter 10
+# Exodus 10 
 
 **¹** Yahweh said to Moses, “Go in to Pharaoh, for I have hardened his heart and the heart of his servants, that I may show these my signs among them;
 

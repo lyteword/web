@@ -1,8 +1,11 @@
 ---
+title: "1 Chronicles 28 WEB | Read the Bible Online"
+linkTitle: "28"
+description: "Read 1 Chronicles 28 Online | David assembled all the princes of Israel, the princes of the tribes, the captains of the companies who served the king by division, the captains of thousands, the captains of hundreds, and the rulers over all the substance and possessions of the king and of his sons, with the officers and the mighty men, even all the mighty men of valor, to Jerusalem..."
 weight: 28
 ---
 
-# Chapter 28
+# 1 Chronicles 28 
 
 **¹** David assembled all the princes of Israel, the princes of the tribes, the captains of the companies who served the king by division, the captains of thousands, the captains of hundreds, and the rulers over all the substance and possessions of the king and of his sons, with the officers and the mighty men, even all the mighty men of valor, to Jerusalem.
 

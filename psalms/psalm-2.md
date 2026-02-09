@@ -1,8 +1,11 @@
 ---
+title: "Psalm 2 WEB | Read the Bible Online"
+linkTitle: "2"
+description: "Read Psalm 2 Online | Why do the nations rage, and the peoples plot a vain thing..."
 weight: 2
 ---
 
-# Psalm 2
+# Psalm 2 
 
 **¹** Why do the nations rage, and the peoples plot a vain thing?
 

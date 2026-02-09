@@ -1,8 +1,11 @@
 ---
+title: "Hosea 1 WEB | Read the Bible Online"
+linkTitle: "1"
+description: "Read Hosea 1 Online | Yahweh’s[^581] word that came to Hosea the son of Beeri, in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah, and in the days of Jeroboam the son of Joash, king of Israel..."
 weight: 1
 ---
 
-# Chapter 1
+# Hosea 1 
 
 **¹** Yahweh’s[^581] word that came to Hosea the son of Beeri, in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah, and in the days of Jeroboam the son of Joash, king of Israel.
 

@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 43 WEB | Read the Bible Online"
+linkTitle: "43"
+description: "Read Isaiah 43 Online | But now Yahweh who created you, Jacob, and he who formed you, Israel, says: “Don’t be afraid, for I have redeemed you. I have called you by your name. You are mine..."
 weight: 43
 ---
 
-# Chapter 43
+# Isaiah 43 
 
 **¹** But now Yahweh who created you, Jacob, and he who formed you, Israel, says: “Don’t be afraid, for I have redeemed you. I have called you by your name. You are mine.
 

@@ -1,8 +1,11 @@
 ---
+title: "1 Samuel 4 WEB | Read the Bible Online"
+linkTitle: "4"
+description: "Read 1 Samuel 4 Online | The word of Samuel came to all Israel. Now Israel went out against the Philistines to battle, and encamped beside Ebenezer; and the Philistines encamped in Aphek..."
 weight: 4
 ---
 
-# Chapter 4
+# 1 Samuel 4 
 
 **¹** The word of Samuel came to all Israel. Now Israel went out against the Philistines to battle, and encamped beside Ebenezer; and the Philistines encamped in Aphek.
 

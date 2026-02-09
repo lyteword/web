@@ -1,8 +1,11 @@
 ---
+title: "2 Kings 5 WEB | Read the Bible Online"
+linkTitle: "5"
+description: "Read 2 Kings 5 Online | Now Naaman, captain of the army of the king of Syria, was a great man with his master, and honorable, because by him Yahweh had given victory to Syria; he was also a mighty man of valor, but he was a leper..."
 weight: 5
 ---
 
-# Chapter 5
+# 2 Kings 5 
 
 **¹** Now Naaman, captain of the army of the king of Syria, was a great man with his master, and honorable, because by him Yahweh had given victory to Syria; he was also a mighty man of valor, but he was a leper.
 

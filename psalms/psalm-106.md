@@ -1,8 +1,11 @@
 ---
+title: "Psalm 106 WEB | Read the Bible Online"
+linkTitle: "106"
+description: "Read Psalm 106 Online | Praise Yahweh! Give thanks to Yahweh, for he is good, for his loving kindness endures forever..."
 weight: 106
 ---
 
-# Psalm 106
+# Psalm 106 
 
 **¹** Praise Yahweh! Give thanks to Yahweh, for he is good, for his loving kindness endures forever.
 

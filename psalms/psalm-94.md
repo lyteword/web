@@ -1,8 +1,11 @@
 ---
+title: "Psalm 94 WEB | Read the Bible Online"
+linkTitle: "94"
+description: "Read Psalm 94 Online | Yahweh, you God to whom vengeance belongs, you God to whom vengeance belongs, shine out..."
 weight: 94
 ---
 
-# Psalm 94
+# Psalm 94 
 
 **¹** Yahweh, you God to whom vengeance belongs, you God to whom vengeance belongs, shine out.
 

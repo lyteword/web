@@ -1,8 +1,11 @@
 ---
+title: "Malachi 1 WEB | Read the Bible Online"
+linkTitle: "1"
+description: "Read Malachi 1 Online | A revelation, Yahweh’s[^644] word to Israel by Malachi..."
 weight: 1
 ---
 
-# Chapter 1
+# Malachi 1 
 
 **¹** A revelation, Yahweh’s[^644] word to Israel by Malachi.
 

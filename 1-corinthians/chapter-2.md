@@ -1,8 +1,11 @@
 ---
+title: "1 Corinthians 2 WEB | Read the Bible Online"
+linkTitle: "2"
+description: "Read 1 Corinthians 2 Online | When I came to you, brothers, I didn’t come with excellence of speech or of wisdom, proclaiming to you the testimony of God..."
 weight: 2
 ---
 
-# Chapter 2
+# 1 Corinthians 2 
 
 **¹** When I came to you, brothers, I didn’t come with excellence of speech or of wisdom, proclaiming to you the testimony of God.
 

@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 25 WEB | Read the Bible Online"
+linkTitle: "25"
+description: "Read Isaiah 25 Online | Yahweh, you are my God. I will exalt you! I will praise your name, for you have done wonderful things, things planned long ago, in complete faithfulness and truth..."
 weight: 25
 ---
 
-# Chapter 25
+# Isaiah 25 
 
 **¹** Yahweh, you are my God. I will exalt you! I will praise your name, for you have done wonderful things, things planned long ago, in complete faithfulness and truth.
 

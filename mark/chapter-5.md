@@ -1,8 +1,11 @@
 ---
+title: "Mark 5 WEB | Read the Bible Online"
+linkTitle: "5"
+description: "Read Mark 5 Online | They came to the other side of the sea, into the country of the Gadarenes..."
 weight: 5
 ---
 
-# Chapter 5
+# Mark 5 
 
 **¹** They came to the other side of the sea, into the country of the Gadarenes.
 

@@ -1,8 +1,11 @@
 ---
+title: "Psalm 82 WEB | Read the Bible Online"
+linkTitle: "82"
+description: "Read Psalm 82 Online | God presides in the great assembly. He judges among the gods..."
 weight: 82
 ---
 
-# Psalm 82
+# Psalm 82 
 
 A Psalm by Asaph.
 

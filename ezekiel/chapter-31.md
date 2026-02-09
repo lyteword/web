@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 31 WEB | Read the Bible Online"
+linkTitle: "31"
+description: "Read Ezekiel 31 Online | In the eleventh year, in the third month, in the first day of the month, Yahweh’s word came to me, saying..."
 weight: 31
 ---
 
-# Chapter 31
+# Ezekiel 31 
 
 **¹** In the eleventh year, in the third month, in the first day of the month, Yahweh’s word came to me, saying,
 

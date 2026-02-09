@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 36 WEB | Read the Bible Online"
+linkTitle: "36"
+description: "Read Jeremiah 36 Online | In the fourth year of Jehoiakim the son of Josiah, king of Judah, this word came to Jeremiah from Yahweh, saying..."
 weight: 36
 ---
 
-# Chapter 36
+# Jeremiah 36 
 
 **¹** In the fourth year of Jehoiakim the son of Josiah, king of Judah, this word came to Jeremiah from Yahweh, saying,
 

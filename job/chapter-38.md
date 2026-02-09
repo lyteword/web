@@ -1,8 +1,11 @@
 ---
+title: "Job 38 WEB | Read the Bible Online"
+linkTitle: "38"
+description: "Read Job 38 Online | Then Yahweh answered Job out of the whirlwind..."
 weight: 38
 ---
 
-# Chapter 38
+# Job 38 
 
 **¹** Then Yahweh answered Job out of the whirlwind,
 

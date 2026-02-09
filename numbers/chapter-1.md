@@ -1,8 +1,11 @@
 ---
+title: "Numbers 1 WEB | Read the Bible Online"
+linkTitle: "1"
+description: "Read Numbers 1 Online | Yahweh[^135] spoke to Moses in the wilderness of Sinai, in the Tent of Meeting, on the first day of the second month, in the second year after they had come out of the land of Egypt, saying..."
 weight: 1
 ---
 
-# Chapter 1
+# Numbers 1 
 
 **¹** Yahweh[^135] spoke to Moses in the wilderness of Sinai, in the Tent of Meeting, on the first day of the second month, in the second year after they had come out of the land of Egypt, saying,
 

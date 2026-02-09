@@ -1,8 +1,11 @@
 ---
+title: "Psalm 32 WEB | Read the Bible Online"
+linkTitle: "32"
+description: "Read Psalm 32 Online | Blessed is he whose disobedience is forgiven, whose sin is covered..."
 weight: 32
 ---
 
-# Psalm 32
+# Psalm 32 
 
 By David. A contemplative psalm.
 

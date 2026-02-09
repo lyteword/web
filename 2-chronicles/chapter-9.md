@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 9 WEB | Read the Bible Online"
+linkTitle: "9"
+description: "Read 2 Chronicles 9 Online | When the queen of Sheba heard of the fame of Solomon, she came to test Solomon with hard questions at Jerusalem, with a very great caravan, including camels that bore spices, gold in abundance, and precious stones. When she had come to Solomon, she talked with him about all that was in her heart..."
 weight: 9
 ---
 
-# Chapter 9
+# 2 Chronicles 9 
 
 **¹** When the queen of Sheba heard of the fame of Solomon, she came to test Solomon with hard questions at Jerusalem, with a very great caravan, including camels that bore spices, gold in abundance, and precious stones. When she had come to Solomon, she talked with him about all that was in her heart.
 

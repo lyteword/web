@@ -1,8 +1,11 @@
 ---
+title: "Mark 7 WEB | Read the Bible Online"
+linkTitle: "7"
+description: "Read Mark 7 Online | Then the Pharisees and some of the scribes gathered together to him, having come from Jerusalem..."
 weight: 7
 ---
 
-# Chapter 7
+# Mark 7 
 
 **¹** Then the Pharisees and some of the scribes gathered together to him, having come from Jerusalem.
 

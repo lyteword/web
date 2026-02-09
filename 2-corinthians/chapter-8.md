@@ -1,8 +1,11 @@
 ---
+title: "2 Corinthians 8 WEB | Read the Bible Online"
+linkTitle: "8"
+description: "Read 2 Corinthians 8 Online | Moreover, brothers, we make known to you the grace of God which has been given in the assemblies of Macedonia..."
 weight: 8
 ---
 
-# Chapter 8
+# 2 Corinthians 8 
 
 **¹** Moreover, brothers, we make known to you the grace of God which has been given in the assemblies of Macedonia,
 

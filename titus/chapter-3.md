@@ -1,8 +1,11 @@
 ---
+title: "Titus 3 WEB | Read the Bible Online"
+linkTitle: "3"
+description: "Read Titus 3 Online | Remind them to be in subjection to rulers and to authorities, to be obedient, to be ready for every good work..."
 weight: 3
 ---
 
-# Chapter 3
+# Titus 3 
 
 **¹** Remind them to be in subjection to rulers and to authorities, to be obedient, to be ready for every good work,
 

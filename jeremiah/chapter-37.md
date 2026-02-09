@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 37 WEB | Read the Bible Online"
+linkTitle: "37"
+description: "Read Jeremiah 37 Online | Zedekiah the son of Josiah reigned as king instead of Coniah the son of Jehoiakim, whom Nebuchadnezzar king of Babylon made king in the land of Judah..."
 weight: 37
 ---
 
-# Chapter 37
+# Jeremiah 37 
 
 **¹** Zedekiah the son of Josiah reigned as king instead of Coniah the son of Jehoiakim, whom Nebuchadnezzar king of Babylon made king in the land of Judah.
 

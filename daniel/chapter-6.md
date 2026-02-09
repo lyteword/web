@@ -1,8 +1,11 @@
 ---
+title: "Daniel 6 WEB | Read the Bible Online"
+linkTitle: "6"
+description: "Read Daniel 6 Online | It pleased Darius to set over the kingdom one hundred twenty local governors, who should be throughout the whole kingdom..."
 weight: 6
 ---
 
-# Chapter 6
+# Daniel 6 
 
 **¹** It pleased Darius to set over the kingdom one hundred twenty local governors, who should be throughout the whole kingdom;
 

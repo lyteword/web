@@ -1,8 +1,11 @@
 ---
+title: "Genesis 26 WEB | Read the Bible Online"
+linkTitle: "26"
+description: "Read Genesis 26 Online | There was a famine in the land, in addition to the first famine that was in the days of Abraham. Isaac went to Abimelech king of the Philistines, to Gerar..."
 weight: 26
 ---
 
-# Chapter 26
+# Genesis 26 
 
 **¹** There was a famine in the land, in addition to the first famine that was in the days of Abraham. Isaac went to Abimelech king of the Philistines, to Gerar.
 

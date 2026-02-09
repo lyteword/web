@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 15 WEB | Read the Bible Online"
+linkTitle: "15"
+description: "Read Ezekiel 15 Online | Yahweh’s word came to me, saying..."
 weight: 15
 ---
 
-# Chapter 15
+# Ezekiel 15 
 
 **¹** Yahweh’s word came to me, saying,
 

@@ -1,8 +1,11 @@
 ---
+title: "Job 35 WEB | Read the Bible Online"
+linkTitle: "35"
+description: "Read Job 35 Online | Moreover Elihu answered..."
 weight: 35
 ---
 
-# Chapter 35
+# Job 35 
 
 **¹** Moreover Elihu answered,
 

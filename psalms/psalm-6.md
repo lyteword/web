@@ -1,8 +1,11 @@
 ---
+title: "Psalm 6 WEB | Read the Bible Online"
+linkTitle: "6"
+description: "Read Psalm 6 Online | Yahweh, don’t rebuke me in your anger, neither discipline me in your wrath..."
 weight: 6
 ---
 
-# Psalm 6
+# Psalm 6 
 
 For the Chief Musician; on stringed instruments, upon the eight-stringed lyre. A Psalm by David.
 

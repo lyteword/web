@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 59 WEB | Read the Bible Online"
+linkTitle: "59"
+description: "Read Isaiah 59 Online | Behold, Yahweh’s hand is not shortened, that it can’t save; nor his ear dull, that it can’t hear..."
 weight: 59
 ---
 
-# Chapter 59
+# Isaiah 59 
 
 **¹** Behold, Yahweh’s hand is not shortened, that it can’t save; nor his ear dull, that it can’t hear.
 

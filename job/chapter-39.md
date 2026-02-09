@@ -1,8 +1,11 @@
 ---
+title: "Job 39 WEB | Read the Bible Online"
+linkTitle: "39"
+description: "Read Job 39 Online | “Do you know the time when the mountain goats give birth? Do you watch when the doe bears fawns..."
 weight: 39
 ---
 
-# Chapter 39
+# Job 39 
 
 **¹** “Do you know the time when the mountain goats give birth? Do you watch when the doe bears fawns?
 

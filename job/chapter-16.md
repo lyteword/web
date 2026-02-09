@@ -1,8 +1,11 @@
 ---
+title: "Job 16 WEB | Read the Bible Online"
+linkTitle: "16"
+description: "Read Job 16 Online | Then Job answered..."
 weight: 16
 ---
 
-# Chapter 16
+# Job 16 
 
 **¹** Then Job answered,
 

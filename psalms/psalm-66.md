@@ -1,8 +1,11 @@
 ---
+title: "Psalm 66 WEB | Read the Bible Online"
+linkTitle: "66"
+description: "Read Psalm 66 Online | Make a joyful shout to God, all the earth..."
 weight: 66
 ---
 
-# Psalm 66
+# Psalm 66 
 
 For the Chief Musician. A song. A Psalm.
 

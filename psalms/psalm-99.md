@@ -1,8 +1,11 @@
 ---
+title: "Psalm 99 WEB | Read the Bible Online"
+linkTitle: "99"
+description: "Read Psalm 99 Online | Yahweh reigns! Let the peoples tremble. He sits enthroned among the cherubim. Let the earth be moved..."
 weight: 99
 ---
 
-# Psalm 99
+# Psalm 99 
 
 **¹** Yahweh reigns! Let the peoples tremble. He sits enthroned among the cherubim. Let the earth be moved.
 

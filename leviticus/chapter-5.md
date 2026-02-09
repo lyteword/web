@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 5 WEB | Read the Bible Online"
+linkTitle: "5"
+description: "Read Leviticus 5 Online | “‘If anyone sins, in that he hears a public adjuration to testify, he being a witness, whether he has seen or known, if he doesn’t report it, then he shall bear his iniquity..."
 weight: 5
 ---
 
-# Chapter 5
+# Leviticus 5 
 
 **¹** “‘If anyone sins, in that he hears a public adjuration to testify, he being a witness, whether he has seen or known, if he doesn’t report it, then he shall bear his iniquity.
 

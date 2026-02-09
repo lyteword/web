@@ -1,8 +1,11 @@
 ---
+title: "Psalm 21 WEB | Read the Bible Online"
+linkTitle: "21"
+description: "Read Psalm 21 Online | The king rejoices in your strength, Yahweh! How greatly he rejoices in your salvation..."
 weight: 21
 ---
 
-# Psalm 21
+# Psalm 21 
 
 For the Chief Musician. A Psalm by David.
 

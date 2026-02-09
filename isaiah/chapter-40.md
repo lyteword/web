@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 40 WEB | Read the Bible Online"
+linkTitle: "40"
+description: "Read Isaiah 40 Online | “Comfort, comfort my people,” says your God..."
 weight: 40
 ---
 
-# Chapter 40
+# Isaiah 40 
 
 **¹** “Comfort, comfort my people,” says your God.
 

@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 11 WEB | Read the Bible Online"
+linkTitle: "11"
+description: "Read Ezekiel 11 Online | Moreover the Spirit lifted me up and brought me to the east gate of Yahweh’s house, which looks eastward. Behold, twenty-five men were at the door of the gate; and I saw among them Jaazaniah the son of Azzur, and Pelatiah the son of Benaiah, princes of the people..."
 weight: 11
 ---
 
-# Chapter 11
+# Ezekiel 11 
 
 **¹** Moreover the Spirit lifted me up and brought me to the east gate of Yahweh’s house, which looks eastward. Behold, twenty-five men were at the door of the gate; and I saw among them Jaazaniah the son of Azzur, and Pelatiah the son of Benaiah, princes of the people.
 

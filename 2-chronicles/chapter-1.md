@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 1 WEB | Read the Bible Online"
+linkTitle: "1"
+description: "Read 2 Chronicles 1 Online | Solomon the son of David was firmly established in his kingdom, and Yahweh[^334] his God[^335] was with him, and made him exceedingly great..."
 weight: 1
 ---
 
-# Chapter 1
+# 2 Chronicles 1 
 
 **¹** Solomon the son of David was firmly established in his kingdom, and Yahweh[^334] his God[^335] was with him, and made him exceedingly great.
 

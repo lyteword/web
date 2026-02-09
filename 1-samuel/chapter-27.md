@@ -1,8 +1,11 @@
 ---
+title: "1 Samuel 27 WEB | Read the Bible Online"
+linkTitle: "27"
+description: "Read 1 Samuel 27 Online | David said in his heart, “I will now perish one day by the hand of Saul. There is nothing better for me than that I should escape into the land of the Philistines; and Saul will despair of me, to seek me any more in all the borders of Israel. So I will escape out of his hand...."
 weight: 27
 ---
 
-# Chapter 27
+# 1 Samuel 27 
 
 **¹** David said in his heart, “I will now perish one day by the hand of Saul. There is nothing better for me than that I should escape into the land of the Philistines; and Saul will despair of me, to seek me any more in all the borders of Israel. So I will escape out of his hand.”
 

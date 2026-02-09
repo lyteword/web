@@ -1,8 +1,11 @@
 ---
+title: "Psalm 145 WEB | Read the Bible Online"
+linkTitle: "145"
+description: "Read Psalm 145 Online | I will exalt you, my God, the King. I will praise your name forever and ever..."
 weight: 145
 ---
 
-# Psalm 145
+# Psalm 145 
 
 A praise psalm by David.[^465]
 

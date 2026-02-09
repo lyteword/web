@@ -1,8 +1,11 @@
 ---
+title: "Psalm 17 WEB | Read the Bible Online"
+linkTitle: "17"
+description: "Read Psalm 17 Online | Hear, Yahweh, my righteous plea. Give ear to my prayer that doesn’t go out of deceitful lips..."
 weight: 17
 ---
 
-# Psalm 17
+# Psalm 17 
 
 A Prayer by David.
 

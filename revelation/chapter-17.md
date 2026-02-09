@@ -1,8 +1,11 @@
 ---
+title: "Revelation 17 WEB | Read the Bible Online"
+linkTitle: "17"
+description: "Read Revelation 17 Online | One of the seven angels who had the seven bowls came and spoke with me, saying, “Come here. I will show you the judgment of the great prostitute who sits on many waters..."
 weight: 17
 ---
 
-# Chapter 17
+# Revelation 17 
 
 **¹** One of the seven angels who had the seven bowls came and spoke with me, saying, “Come here. I will show you the judgment of the great prostitute who sits on many waters,
 

@@ -1,8 +1,11 @@
 ---
+title: "James 4 WEB | Read the Bible Online"
+linkTitle: "4"
+description: "Read James 4 Online | Where do wars and fightings among you come from? Don’t they come from your pleasures that war in your members..."
 weight: 4
 ---
 
-# Chapter 4
+# James 4 
 
 **¹** Where do wars and fightings among you come from? Don’t they come from your pleasures that war in your members?
 

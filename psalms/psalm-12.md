@@ -1,8 +1,11 @@
 ---
+title: "Psalm 12 WEB | Read the Bible Online"
+linkTitle: "12"
+description: "Read Psalm 12 Online | Help, Yahweh; for the godly man ceases. For the faithful fail from among the children of men..."
 weight: 12
 ---
 
-# Psalm 12
+# Psalm 12 
 
 For the Chief Musician; upon an eight-stringed lyre. A Psalm of David.
 

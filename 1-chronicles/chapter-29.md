@@ -1,8 +1,11 @@
 ---
+title: "1 Chronicles 29 WEB | Read the Bible Online"
+linkTitle: "29"
+description: "Read 1 Chronicles 29 Online | David the king said to all the assembly, “Solomon my son, whom alone God has chosen, is yet young and tender, and the work is great; for the palace is not for man, but for Yahweh God..."
 weight: 29
 ---
 
-# Chapter 29
+# 1 Chronicles 29 
 
 **¹** David the king said to all the assembly, “Solomon my son, whom alone God has chosen, is yet young and tender, and the work is great; for the palace is not for man, but for Yahweh God.
 

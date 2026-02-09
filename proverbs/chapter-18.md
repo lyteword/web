@@ -1,8 +1,11 @@
 ---
+title: "Proverbs 18 WEB | Read the Bible Online"
+linkTitle: "18"
+description: "Read Proverbs 18 Online | A man who isolates himself pursues selfishness, and defies all sound judgment..."
 weight: 18
 ---
 
-# Chapter 18
+# Proverbs 18 
 
 **¹** A man who isolates himself pursues selfishness, and defies all sound judgment.
 

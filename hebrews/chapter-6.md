@@ -1,8 +1,11 @@
 ---
+title: "Hebrews 6 WEB | Read the Bible Online"
+linkTitle: "6"
+description: "Read Hebrews 6 Online | Therefore leaving the teaching of the first principles of Christ, let’s press on to perfection—not laying again a foundation of repentance from dead works, of faith toward God..."
 weight: 6
 ---
 
-# Chapter 6
+# Hebrews 6 
 
 **¹** Therefore leaving the teaching of the first principles of Christ, let’s press on to perfection—not laying again a foundation of repentance from dead works, of faith toward God,
 

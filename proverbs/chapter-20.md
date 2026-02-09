@@ -1,8 +1,11 @@
 ---
+title: "Proverbs 20 WEB | Read the Bible Online"
+linkTitle: "20"
+description: "Read Proverbs 20 Online | Wine is a mocker and beer is a brawler. Whoever is led astray by them is not wise..."
 weight: 20
 ---
 
-# Chapter 20
+# Proverbs 20 
 
 **¹** Wine is a mocker and beer is a brawler. Whoever is led astray by them is not wise.
 

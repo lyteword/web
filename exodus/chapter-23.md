@@ -1,8 +1,11 @@
 ---
+title: "Exodus 23 WEB | Read the Bible Online"
+linkTitle: "23"
+description: "Read Exodus 23 Online | “You shall not spread a false report. Don’t join your hand with the wicked to be a malicious witness..."
 weight: 23
 ---
 
-# Chapter 23
+# Exodus 23 
 
 **¹** “You shall not spread a false report. Don’t join your hand with the wicked to be a malicious witness.
 

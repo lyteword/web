@@ -1,8 +1,11 @@
 ---
+title: "Judges 1 WEB | Read the Bible Online"
+linkTitle: "1"
+description: "Read Judges 1 Online | After the death of Joshua, the children of Israel asked of Yahweh,[^201] saying, “Who should go up for us first against the Canaanites, to fight against them?..."
 weight: 1
 ---
 
-# Chapter 1
+# Judges 1 
 
 **¹** After the death of Joshua, the children of Israel asked of Yahweh,[^201] saying, “Who should go up for us first against the Canaanites, to fight against them?”
 

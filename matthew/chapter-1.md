@@ -1,8 +1,11 @@
 ---
+title: "Matthew 1 WEB | Read the Bible Online"
+linkTitle: "1"
+description: "Read Matthew 1 Online | The book of the genealogy of Jesus Christ,[^649] the son of David, the son of Abraham..."
 weight: 1
 ---
 
-# Chapter 1
+# Matthew 1 
 
 **¹** The book of the genealogy of Jesus Christ,[^649] the son of David, the son of Abraham.
 

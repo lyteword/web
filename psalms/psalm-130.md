@@ -1,8 +1,11 @@
 ---
+title: "Psalm 130 WEB | Read the Bible Online"
+linkTitle: "130"
+description: "Read Psalm 130 Online | Out of the depths I have cried to you, Yahweh..."
 weight: 130
 ---
 
-# Psalm 130
+# Psalm 130 
 
 A Song of Ascents.
 

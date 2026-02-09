@@ -1,8 +1,11 @@
 ---
+title: "Judges 6 WEB | Read the Bible Online"
+linkTitle: "6"
+description: "Read Judges 6 Online | The children of Israel did that which was evil in Yahweh’s sight, so Yahweh delivered them into the hand of Midian seven years..."
 weight: 6
 ---
 
-# Chapter 6
+# Judges 6 
 
 **¹** The children of Israel did that which was evil in Yahweh’s sight, so Yahweh delivered them into the hand of Midian seven years.
 

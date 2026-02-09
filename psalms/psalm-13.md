@@ -1,8 +1,11 @@
 ---
+title: "Psalm 13 WEB | Read the Bible Online"
+linkTitle: "13"
+description: "Read Psalm 13 Online | How long, Yahweh? Will you forget me forever? How long will you hide your face from me..."
 weight: 13
 ---
 
-# Psalm 13
+# Psalm 13 
 
 For the Chief Musician. A Psalm by David.
 

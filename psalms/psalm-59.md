@@ -1,8 +1,11 @@
 ---
+title: "Psalm 59 WEB | Read the Bible Online"
+linkTitle: "59"
+description: "Read Psalm 59 Online | Deliver me from my enemies, my God. Set me on high from those who rise up against me..."
 weight: 59
 ---
 
-# Psalm 59
+# Psalm 59 
 
 For the Chief Musician. To the tune of “Do Not Destroy.” A poem by David, when Saul sent, and they watched the house to kill him.
 

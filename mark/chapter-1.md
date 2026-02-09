@@ -1,8 +1,11 @@
 ---
+title: "Mark 1 WEB | Read the Bible Online"
+linkTitle: "1"
+description: "Read Mark 1 Online | The beginning of the Good News of Jesus Christ, the Son of God..."
 weight: 1
 ---
 
-# Chapter 1
+# Mark 1 
 
 **¹** The beginning of the Good News of Jesus Christ, the Son of God.
 

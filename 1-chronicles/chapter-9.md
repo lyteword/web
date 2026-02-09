@@ -1,8 +1,11 @@
 ---
+title: "1 Chronicles 9 WEB | Read the Bible Online"
+linkTitle: "9"
+description: "Read 1 Chronicles 9 Online | So all Israel were listed by genealogies; and behold,[^320] they are written in the book of the kings of Israel. Judah was carried away captive to Babylon for their disobedience..."
 weight: 9
 ---
 
-# Chapter 9
+# 1 Chronicles 9 
 
 **¹** So all Israel were listed by genealogies; and behold,[^320] they are written in the book of the kings of Israel. Judah was carried away captive to Babylon for their disobedience.
 

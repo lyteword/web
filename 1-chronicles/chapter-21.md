@@ -1,8 +1,11 @@
 ---
+title: "1 Chronicles 21 WEB | Read the Bible Online"
+linkTitle: "21"
+description: "Read 1 Chronicles 21 Online | Satan stood up against Israel, and moved David to take a census of Israel..."
 weight: 21
 ---
 
-# Chapter 21
+# 1 Chronicles 21 
 
 **¹** Satan stood up against Israel, and moved David to take a census of Israel.
 

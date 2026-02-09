@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 8 WEB | Read the Bible Online"
+linkTitle: "8"
+description: "Read Ezekiel 8 Online | In the sixth year, in the sixth month, in the fifth day of the month, as I sat in my house, and the elders of Judah sat before me, the Lord Yahweh’s hand fell on me there..."
 weight: 8
 ---
 
-# Chapter 8
+# Ezekiel 8 
 
 **¹** In the sixth year, in the sixth month, in the fifth day of the month, as I sat in my house, and the elders of Judah sat before me, the Lord Yahweh’s hand fell on me there.
 

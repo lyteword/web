@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 18 WEB | Read the Bible Online"
+linkTitle: "18"
+description: "Read Ezekiel 18 Online | Yahweh’s word came to me again, saying..."
 weight: 18
 ---
 
-# Chapter 18
+# Ezekiel 18 
 
 **¹** Yahweh’s word came to me again, saying,
 

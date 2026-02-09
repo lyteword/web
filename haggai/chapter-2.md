@@ -1,8 +1,11 @@
 ---
+title: "Haggai 2 WEB | Read the Bible Online"
+linkTitle: "2"
+description: "Read Haggai 2 Online | In the seventh month, in the twenty-first day of the month, Yahweh’s word came by Haggai the prophet, saying..."
 weight: 2
 ---
 
-# Chapter 2
+# Haggai 2 
 
 **¹** In the seventh month, in the twenty-first day of the month, Yahweh’s word came by Haggai the prophet, saying,
 

@@ -1,8 +1,11 @@
 ---
+title: "John 21 WEB | Read the Bible Online"
+linkTitle: "21"
+description: "Read John 21 Online | After these things, Jesus revealed himself again to the disciples at the sea of Tiberias. He revealed himself this way..."
 weight: 21
 ---
 
-# Chapter 21
+# John 21 
 
 **¹** After these things, Jesus revealed himself again to the disciples at the sea of Tiberias. He revealed himself this way.
 

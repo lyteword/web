@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 3 WEB | Read the Bible Online"
+linkTitle: "3"
+description: "Read Jeremiah 3 Online | “They say, ‘If a man puts away his wife, and she goes from him, and becomes another man’s, should he return to her again?’ Wouldn’t that land be greatly polluted? But you have played the prostitute with many lovers; yet return again to me,” says Yahweh..."
 weight: 3
 ---
 
-# Chapter 3
+# Jeremiah 3 
 
 **¹** “They say, ‘If a man puts away his wife, and she goes from him, and becomes another man’s, should he return to her again?’ Wouldn’t that land be greatly polluted? But you have played the prostitute with many lovers; yet return again to me,” says Yahweh.
 

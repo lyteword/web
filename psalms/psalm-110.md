@@ -1,8 +1,11 @@
 ---
+title: "Psalm 110 WEB | Read the Bible Online"
+linkTitle: "110"
+description: "Read Psalm 110 Online | Yahweh says to my Lord, “Sit at my right hand, until I make your enemies your footstool for your feet...."
 weight: 110
 ---
 
-# Psalm 110
+# Psalm 110 
 
 A Psalm by David.
 

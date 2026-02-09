@@ -1,8 +1,11 @@
 ---
+title: "Matthew 12 WEB | Read the Bible Online"
+linkTitle: "12"
+description: "Read Matthew 12 Online | At that time, Jesus went on the Sabbath day through the grain fields. His disciples were hungry and began to pluck heads of grain and to eat..."
 weight: 12
 ---
 
-# Chapter 12
+# Matthew 12 
 
 **¹** At that time, Jesus went on the Sabbath day through the grain fields. His disciples were hungry and began to pluck heads of grain and to eat.
 

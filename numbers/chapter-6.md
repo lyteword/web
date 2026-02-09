@@ -1,8 +1,11 @@
 ---
+title: "Numbers 6 WEB | Read the Bible Online"
+linkTitle: "6"
+description: "Read Numbers 6 Online | Yahweh spoke to Moses, saying..."
 weight: 6
 ---
 
-# Chapter 6
+# Numbers 6 
 
 **¹** Yahweh spoke to Moses, saying,
 

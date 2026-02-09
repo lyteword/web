@@ -1,8 +1,11 @@
 ---
+title: "Revelation 22 WEB | Read the Bible Online"
+linkTitle: "22"
+description: "Read Revelation 22 Online | He showed me a[^1463] river of water of life, clear as crystal, proceeding out of the throne of God and of the Lamb..."
 weight: 22
 ---
 
-# Chapter 22
+# Revelation 22 
 
 **¹** He showed me a[^1463] river of water of life, clear as crystal, proceeding out of the throne of God and of the Lamb,
 

@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 25 WEB | Read the Bible Online"
+linkTitle: "25"
+description: "Read Leviticus 25 Online | Yahweh said to Moses on Mount Sinai..."
 weight: 25
 ---
 
-# Chapter 25
+# Leviticus 25 
 
 **¹** Yahweh said to Moses on Mount Sinai,
 

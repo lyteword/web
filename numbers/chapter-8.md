@@ -1,8 +1,11 @@
 ---
+title: "Numbers 8 WEB | Read the Bible Online"
+linkTitle: "8"
+description: "Read Numbers 8 Online | Yahweh spoke to Moses, saying..."
 weight: 8
 ---
 
-# Chapter 8
+# Numbers 8 
 
 **¹** Yahweh spoke to Moses, saying,
 

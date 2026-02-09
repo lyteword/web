@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 37 WEB | Read the Bible Online"
+linkTitle: "37"
+description: "Read Isaiah 37 Online | When King Hezekiah heard it, he tore his clothes, covered himself with sackcloth, and went into Yahweh’s house..."
 weight: 37
 ---
 
-# Chapter 37
+# Isaiah 37 
 
 **¹** When King Hezekiah heard it, he tore his clothes, covered himself with sackcloth, and went into Yahweh’s house.
 

@@ -1,8 +1,11 @@
 ---
+title: "Job 14 WEB | Read the Bible Online"
+linkTitle: "14"
+description: "Read Job 14 Online | “Man, who is born of a woman, is of few days, and full of trouble..."
 weight: 14
 ---
 
-# Chapter 14
+# Job 14 
 
 **¹** “Man, who is born of a woman, is of few days, and full of trouble.
 

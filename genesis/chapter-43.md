@@ -1,8 +1,11 @@
 ---
+title: "Genesis 43 WEB | Read the Bible Online"
+linkTitle: "43"
+description: "Read Genesis 43 Online | The famine was severe in the land..."
 weight: 43
 ---
 
-# Chapter 43
+# Genesis 43 
 
 **¹** The famine was severe in the land.
 

@@ -1,8 +1,11 @@
 ---
+title: "Revelation 10 WEB | Read the Bible Online"
+linkTitle: "10"
+description: "Read Revelation 10 Online | I saw a mighty angel coming down out of the sky, clothed with a cloud. A rainbow was on his head. His face was like the sun, and his feet like pillars of fire..."
 weight: 10
 ---
 
-# Chapter 10
+# Revelation 10 
 
 **¹** I saw a mighty angel coming down out of the sky, clothed with a cloud. A rainbow was on his head. His face was like the sun, and his feet like pillars of fire.
 

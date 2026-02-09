@@ -1,8 +1,11 @@
 ---
+title: "Exodus 13 WEB | Read the Bible Online"
+linkTitle: "13"
+description: "Read Exodus 13 Online | Yahweh spoke to Moses, saying..."
 weight: 13
 ---
 
-# Chapter 13
+# Exodus 13 
 
 **¹** Yahweh spoke to Moses, saying,
 

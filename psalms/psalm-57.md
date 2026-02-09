@@ -1,8 +1,11 @@
 ---
+title: "Psalm 57 WEB | Read the Bible Online"
+linkTitle: "57"
+description: "Read Psalm 57 Online | Be merciful to me, God, be merciful to me, for my soul takes refuge in you. Yes, in the shadow of your wings, I will take refuge, until disaster has passed..."
 weight: 57
 ---
 
-# Psalm 57
+# Psalm 57 
 
 For the Chief Musician. To the tune of “Do Not Destroy.” A poem by David, when he fled from Saul, in the cave.
 

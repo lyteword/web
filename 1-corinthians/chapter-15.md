@@ -1,8 +1,11 @@
 ---
+title: "1 Corinthians 15 WEB | Read the Bible Online"
+linkTitle: "15"
+description: "Read 1 Corinthians 15 Online | Now I declare to you, brothers, the Good News which I preached to you, which also you received, in which you also stand..."
 weight: 15
 ---
 
-# Chapter 15
+# 1 Corinthians 15 
 
 **¹** Now I declare to you, brothers, the Good News which I preached to you, which also you received, in which you also stand,
 

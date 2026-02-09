@@ -1,8 +1,11 @@
 ---
+title: "1 Corinthians 12 WEB | Read the Bible Online"
+linkTitle: "12"
+description: "Read 1 Corinthians 12 Online | Now concerning spiritual things, brothers, I don’t want you to be ignorant..."
 weight: 12
 ---
 
-# Chapter 12
+# 1 Corinthians 12 
 
 **¹** Now concerning spiritual things, brothers, I don’t want you to be ignorant.
 

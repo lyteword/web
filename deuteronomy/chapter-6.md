@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 6 WEB | Read the Bible Online"
+linkTitle: "6"
+description: "Read Deuteronomy 6 Online | Now these are the commandments, the statutes, and the ordinances, which Yahweh your God commanded to teach you, that you might do them in the land that you go over to possess..."
 weight: 6
 ---
 
-# Chapter 6
+# Deuteronomy 6 
 
 **¹** Now these are the commandments, the statutes, and the ordinances, which Yahweh your God commanded to teach you, that you might do them in the land that you go over to possess;
 

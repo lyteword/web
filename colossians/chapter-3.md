@@ -1,8 +1,11 @@
 ---
+title: "Colossians 3 WEB | Read the Bible Online"
+linkTitle: "3"
+description: "Read Colossians 3 Online | If then you were raised together with Christ, seek the things that are above, where Christ is, seated on the right hand of God..."
 weight: 3
 ---
 
-# Chapter 3
+# Colossians 3 
 
 **¹** If then you were raised together with Christ, seek the things that are above, where Christ is, seated on the right hand of God.
 

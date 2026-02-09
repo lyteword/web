@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 1 WEB | Read the Bible Online"
+linkTitle: "1"
+description: "Read Ezekiel 1 Online | Now in the thirtieth year, in the fourth month, in the fifth day of the month, as I was among the captives by the river Chebar, the heavens were opened, and I saw visions of God.[^533..."
 weight: 1
 ---
 
-# Chapter 1
+# Ezekiel 1 
 
 **¹** Now in the thirtieth year, in the fourth month, in the fifth day of the month, as I was among the captives by the river Chebar, the heavens were opened, and I saw visions of God.[^533]
 

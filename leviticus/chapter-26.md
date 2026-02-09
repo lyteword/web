@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 26 WEB | Read the Bible Online"
+linkTitle: "26"
+description: "Read Leviticus 26 Online | “‘You shall make for yourselves no idols, and you shall not raise up a carved image or a pillar, and you shall not place any figured stone in your land, to bow down to it; for I am Yahweh your God..."
 weight: 26
 ---
 
-# Chapter 26
+# Leviticus 26 
 
 **¹** “‘You shall make for yourselves no idols, and you shall not raise up a carved image or a pillar, and you shall not place any figured stone in your land, to bow down to it; for I am Yahweh your God.
 

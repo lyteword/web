@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 18 WEB | Read the Bible Online"
+linkTitle: "18"
+description: "Read Deuteronomy 18 Online | The priests and the Levites—all the tribe of Levi—shall have no portion nor inheritance with Israel. They shall eat the offerings of Yahweh made by fire and his portion..."
 weight: 18
 ---
 
-# Chapter 18
+# Deuteronomy 18 
 
 **¹** The priests and the Levites—all the tribe of Levi—shall have no portion nor inheritance with Israel. They shall eat the offerings of Yahweh made by fire and his portion.
 

@@ -1,8 +1,11 @@
 ---
+title: "2 Corinthians 3 WEB | Read the Bible Online"
+linkTitle: "3"
+description: "Read 2 Corinthians 3 Online | Are we beginning again to commend ourselves? Or do we need, as do some, letters of commendation to you or from you..."
 weight: 3
 ---
 
-# Chapter 3
+# 2 Corinthians 3 
 
 **¹** Are we beginning again to commend ourselves? Or do we need, as do some, letters of commendation to you or from you?
 

@@ -1,8 +1,11 @@
 ---
+title: "Psalm 83 WEB | Read the Bible Online"
+linkTitle: "83"
+description: "Read Psalm 83 Online | God, don’t keep silent. Don’t keep silent, and don’t be still, God..."
 weight: 83
 ---
 
-# Psalm 83
+# Psalm 83 
 
 A song. A Psalm by Asaph.
 

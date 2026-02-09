@@ -1,8 +1,11 @@
 ---
+title: "Jude 1 WEB | Read the Bible Online"
+linkTitle: "1"
+description: "Read Jude 1 Online | Jude,[^1402] a servant of Jesus Christ,[^1403] and brother of James, to those who are called, sanctified by God the Father, and kept for Jesus Christ..."
 weight: 1
 ---
 
-# Chapter 1
+# Jude 1 
 
 **¹** Jude,[^1402] a servant of Jesus Christ,[^1403] and brother of James, to those who are called, sanctified by God the Father, and kept for Jesus Christ:
 

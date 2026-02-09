@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 41 WEB | Read the Bible Online"
+linkTitle: "41"
+description: "Read Jeremiah 41 Online | Now in the seventh month, Ishmael the son of Nethaniah, the son of Elishama, of the royal offspring and one of the chief officers of the king, and ten men with him, came to Gedaliah the son of Ahikam to Mizpah; and there they ate bread together in Mizpah..."
 weight: 41
 ---
 
-# Chapter 41
+# Jeremiah 41 
 
 **¹** Now in the seventh month, Ishmael the son of Nethaniah, the son of Elishama, of the royal offspring and one of the chief officers of the king, and ten men with him, came to Gedaliah the son of Ahikam to Mizpah; and there they ate bread together in Mizpah.
 

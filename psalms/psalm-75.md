@@ -1,8 +1,11 @@
 ---
+title: "Psalm 75 WEB | Read the Bible Online"
+linkTitle: "75"
+description: "Read Psalm 75 Online | We give thanks to you, God. We give thanks, for your Name is near. Men tell about your wondrous works..."
 weight: 75
 ---
 
-# Psalm 75
+# Psalm 75 
 
 For the Chief Musician. To the tune of “Do Not Destroy.” A Psalm by Asaph. A song.
 

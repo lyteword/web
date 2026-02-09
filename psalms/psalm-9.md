@@ -1,8 +1,11 @@
 ---
+title: "Psalm 9 WEB | Read the Bible Online"
+linkTitle: "9"
+description: "Read Psalm 9 Online | I will give thanks to Yahweh with my whole heart. I will tell of all your marvelous works..."
 weight: 9
 ---
 
-# Psalm 9
+# Psalm 9 
 
 For the Chief Musician. Set to “The Death of the Son.” A Psalm by David.
 

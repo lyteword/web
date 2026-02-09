@@ -1,8 +1,11 @@
 ---
+title: "Psalm 102 WEB | Read the Bible Online"
+linkTitle: "102"
+description: "Read Psalm 102 Online | Hear my prayer, Yahweh! Let my cry come to you..."
 weight: 102
 ---
 
-# Psalm 102
+# Psalm 102 
 
 A Prayer of the afflicted, when he is overwhelmed and pours out his complaint before Yahweh.
 

@@ -1,8 +1,11 @@
 ---
+title: "Judges 19 WEB | Read the Bible Online"
+linkTitle: "19"
+description: "Read Judges 19 Online | In those days, when there was no king in Israel, there was a certain Levite living on the farther side of the hill country of Ephraim, who took for himself a concubine out of Bethlehem Judah..."
 weight: 19
 ---
 
-# Chapter 19
+# Judges 19 
 
 **¹** In those days, when there was no king in Israel, there was a certain Levite living on the farther side of the hill country of Ephraim, who took for himself a concubine out of Bethlehem Judah.
 

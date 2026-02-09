@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 34 WEB | Read the Bible Online"
+linkTitle: "34"
+description: "Read Isaiah 34 Online | Come near, you nations, to hear! Listen, you peoples. Let the earth and all it contains hear, the world, and everything that comes from it..."
 weight: 34
 ---
 
-# Chapter 34
+# Isaiah 34 
 
 **¹** Come near, you nations, to hear! Listen, you peoples. Let the earth and all it contains hear, the world, and everything that comes from it.
 

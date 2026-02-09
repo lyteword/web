@@ -1,8 +1,11 @@
 ---
+title: "Revelation 3 WEB | Read the Bible Online"
+linkTitle: "3"
+description: "Read Revelation 3 Online | “And to the angel of the assembly in Sardis write:  “He who has the seven Spirits of God and the seven stars says these things:  “I know your works, that you have a reputation of being alive, but you are dead..."
 weight: 3
 ---
 
-# Chapter 3
+# Revelation 3 
 
 **¹**  “And to the angel of the assembly in Sardis write:  “He who has the seven Spirits of God and the seven stars says these things:  “I know your works, that you have a reputation of being alive, but you are dead. 
 

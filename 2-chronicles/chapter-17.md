@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 17 WEB | Read the Bible Online"
+linkTitle: "17"
+description: "Read 2 Chronicles 17 Online | Jehoshaphat his son reigned in his place, and strengthened himself against Israel..."
 weight: 17
 ---
 
-# Chapter 17
+# 2 Chronicles 17 
 
 **¹** Jehoshaphat his son reigned in his place, and strengthened himself against Israel.
 

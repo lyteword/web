@@ -1,8 +1,11 @@
 ---
+title: "Psalm 34 WEB | Read the Bible Online"
+linkTitle: "34"
+description: "Read Psalm 34 Online | [^434]I will bless Yahweh at all times. His praise will always be in my mouth..."
 weight: 34
 ---
 
-# Psalm 34
+# Psalm 34 
 
 By David; when he pretended to be insane before Abimelech, who drove him away, and he departed.
 

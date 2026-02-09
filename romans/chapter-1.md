@@ -1,8 +1,11 @@
 ---
+title: "Romans 1 WEB | Read the Bible Online"
+linkTitle: "1"
+description: "Read Romans 1 Online | Paul, a servant of Jesus Christ,[^1106] called to be an apostle, set apart for the Good News of God..."
 weight: 1
 ---
 
-# Chapter 1
+# Romans 1 
 
 **¹** Paul, a servant of Jesus Christ,[^1106] called to be an apostle, set apart for the Good News of God,
 

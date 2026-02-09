@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 36 WEB | Read the Bible Online"
+linkTitle: "36"
+description: "Read Ezekiel 36 Online | You, son of man, prophesy to the mountains of Israel, and say, “You mountains of Israel, hear Yahweh’s word..."
 weight: 36
 ---
 
-# Chapter 36
+# Ezekiel 36 
 
 **¹** You, son of man, prophesy to the mountains of Israel, and say, “You mountains of Israel, hear Yahweh’s word.
 

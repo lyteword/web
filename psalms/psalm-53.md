@@ -1,8 +1,11 @@
 ---
+title: "Psalm 53 WEB | Read the Bible Online"
+linkTitle: "53"
+description: "Read Psalm 53 Online | The fool has said in his heart, “There is no God.” They are corrupt, and have done abominable iniquity. There is no one who does good..."
 weight: 53
 ---
 
-# Psalm 53
+# Psalm 53 
 
 For the Chief Musician. To the tune of “Mahalath.” A contemplation by David.
 

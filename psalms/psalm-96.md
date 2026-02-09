@@ -1,8 +1,11 @@
 ---
+title: "Psalm 96 WEB | Read the Bible Online"
+linkTitle: "96"
+description: "Read Psalm 96 Online | Sing to Yahweh a new song! Sing to Yahweh, all the earth..."
 weight: 96
 ---
 
-# Psalm 96
+# Psalm 96 
 
 **¹** Sing to Yahweh a new song! Sing to Yahweh, all the earth.
 

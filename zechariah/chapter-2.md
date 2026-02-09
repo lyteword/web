@@ -1,8 +1,11 @@
 ---
+title: "Zechariah 2 WEB | Read the Bible Online"
+linkTitle: "2"
+description: "Read Zechariah 2 Online | I lifted up my eyes, and saw, and behold, a man with a measuring line in his hand..."
 weight: 2
 ---
 
-# Chapter 2
+# Zechariah 2 
 
 **¹** I lifted up my eyes, and saw, and behold, a man with a measuring line in his hand.
 

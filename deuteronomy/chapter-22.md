@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 22 WEB | Read the Bible Online"
+linkTitle: "22"
+description: "Read Deuteronomy 22 Online | You shall not see your brother’s ox or his sheep go astray and hide yourself from them. You shall surely bring them again to your brother..."
 weight: 22
 ---
 
-# Chapter 22
+# Deuteronomy 22 
 
 **¹** You shall not see your brother’s ox or his sheep go astray and hide yourself from them. You shall surely bring them again to your brother.
 

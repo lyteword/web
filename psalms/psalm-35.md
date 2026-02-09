@@ -1,8 +1,11 @@
 ---
+title: "Psalm 35 WEB | Read the Bible Online"
+linkTitle: "35"
+description: "Read Psalm 35 Online | Contend, Yahweh, with those who contend with me. Fight against those who fight against me..."
 weight: 35
 ---
 
-# Psalm 35
+# Psalm 35 
 
 By David.
 

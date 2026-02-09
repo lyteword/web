@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 4 WEB | Read the Bible Online"
+linkTitle: "4"
+description: "Read Leviticus 4 Online | Yahweh spoke to Moses, saying..."
 weight: 4
 ---
 
-# Chapter 4
+# Leviticus 4 
 
 **¹** Yahweh spoke to Moses, saying,
 

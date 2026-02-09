@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 8 WEB | Read the Bible Online"
+linkTitle: "8"
+description: "Read Deuteronomy 8 Online | You shall observe to do all the commandments which I command you today, that you may live, and multiply, and go in and possess the land which Yahweh swore to your fathers..."
 weight: 8
 ---
 
-# Chapter 8
+# Deuteronomy 8 
 
 **¹** You shall observe to do all the commandments which I command you today, that you may live, and multiply, and go in and possess the land which Yahweh swore to your fathers.
 

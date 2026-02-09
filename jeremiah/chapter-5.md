@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 5 WEB | Read the Bible Online"
+linkTitle: "5"
+description: "Read Jeremiah 5 Online | “Run back and forth through the streets of Jerusalem, and see now, and know, and seek in its wide places, if you can find a man, if there is anyone who does justly, who seeks truth, then I will pardon her..."
 weight: 5
 ---
 
-# Chapter 5
+# Jeremiah 5 
 
 **¹** “Run back and forth through the streets of Jerusalem, and see now, and know, and seek in its wide places, if you can find a man, if there is anyone who does justly, who seeks truth, then I will pardon her.
 

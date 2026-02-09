@@ -1,8 +1,11 @@
 ---
+title: "Psalm 41 WEB | Read the Bible Online"
+linkTitle: "41"
+description: "Read Psalm 41 Online | Blessed is he who considers the poor. Yahweh will deliver him in the day of evil..."
 weight: 41
 ---
 
-# Psalm 41
+# Psalm 41 
 
 For the Chief Musician. A Psalm by David.
 

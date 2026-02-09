@@ -1,8 +1,11 @@
 ---
+title: "Numbers 4 WEB | Read the Bible Online"
+linkTitle: "4"
+description: "Read Numbers 4 Online | Yahweh spoke to Moses and to Aaron, saying..."
 weight: 4
 ---
 
-# Chapter 4
+# Numbers 4 
 
 **¹** Yahweh spoke to Moses and to Aaron, saying,
 

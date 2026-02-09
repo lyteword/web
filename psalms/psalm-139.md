@@ -1,8 +1,11 @@
 ---
+title: "Psalm 139 WEB | Read the Bible Online"
+linkTitle: "139"
+description: "Read Psalm 139 Online | Yahweh, you have searched me, and you know me..."
 weight: 139
 ---
 
-# Psalm 139
+# Psalm 139 
 
 For the Chief Musician. A Psalm by David.
 

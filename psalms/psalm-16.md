@@ -1,8 +1,11 @@
 ---
+title: "Psalm 16 WEB | Read the Bible Online"
+linkTitle: "16"
+description: "Read Psalm 16 Online | Preserve me, God, for I take refuge in you..."
 weight: 16
 ---
 
-# Psalm 16
+# Psalm 16 
 
 A Poem by David.
 

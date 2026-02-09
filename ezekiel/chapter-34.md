@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 34 WEB | Read the Bible Online"
+linkTitle: "34"
+description: "Read Ezekiel 34 Online | Yahweh’s word came to me, saying..."
 weight: 34
 ---
 
-# Chapter 34
+# Ezekiel 34 
 
 **¹** Yahweh’s word came to me, saying,
 

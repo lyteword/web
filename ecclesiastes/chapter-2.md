@@ -1,8 +1,11 @@
 ---
+title: "Ecclesiastes 2 WEB | Read the Bible Online"
+linkTitle: "2"
+description: "Read Ecclesiastes 2 Online | I said in my heart, “Come now, I will test you with mirth; therefore enjoy pleasure;” and behold, this also was vanity..."
 weight: 2
 ---
 
-# Chapter 2
+# Ecclesiastes 2 
 
 **¹** I said in my heart, “Come now, I will test you with mirth; therefore enjoy pleasure;” and behold, this also was vanity.
 

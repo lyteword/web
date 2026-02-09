@@ -1,8 +1,11 @@
 ---
+title: "Micah 7 WEB | Read the Bible Online"
+linkTitle: "7"
+description: "Read Micah 7 Online | Misery is mine! Indeed, I am like one who gathers the summer fruits, as gleanings of the vineyard. There is no cluster of grapes to eat. My soul desires to eat the early fig..."
 weight: 7
 ---
 
-# Chapter 7
+# Micah 7 
 
 **¹** Misery is mine! Indeed, I am like one who gathers the summer fruits, as gleanings of the vineyard. There is no cluster of grapes to eat. My soul desires to eat the early fig.
 

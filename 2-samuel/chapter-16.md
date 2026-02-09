@@ -1,8 +1,11 @@
 ---
+title: "2 Samuel 16 WEB | Read the Bible Online"
+linkTitle: "16"
+description: "Read 2 Samuel 16 Online | When David was a little past the top, behold, Ziba the servant of Mephibosheth met him with a couple of donkeys saddled, and on them two hundred loaves of bread, and one hundred clusters of raisins, and one hundred summer fruits, and a container of wine..."
 weight: 16
 ---
 
-# Chapter 16
+# 2 Samuel 16 
 
 **¹** When David was a little past the top, behold, Ziba the servant of Mephibosheth met him with a couple of donkeys saddled, and on them two hundred loaves of bread, and one hundred clusters of raisins, and one hundred summer fruits, and a container of wine.
 

@@ -1,8 +1,11 @@
 ---
+title: "1 Thessalonians 3 WEB | Read the Bible Online"
+linkTitle: "3"
+description: "Read 1 Thessalonians 3 Online | Therefore when we couldn’t stand it any longer, we thought it good to be left behind at Athens alone..."
 weight: 3
 ---
 
-# Chapter 3
+# 1 Thessalonians 3 
 
 **¹** Therefore when we couldn’t stand it any longer, we thought it good to be left behind at Athens alone,
 

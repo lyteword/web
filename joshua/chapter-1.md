@@ -1,8 +1,11 @@
 ---
+title: "Joshua 1 WEB | Read the Bible Online"
+linkTitle: "1"
+description: "Read Joshua 1 Online | Now after the death of Moses the servant of Yahweh,[^192] Yahweh spoke to Joshua the son of Nun, Moses’ servant, saying..."
 weight: 1
 ---
 
-# Chapter 1
+# Joshua 1 
 
 **¹** Now after the death of Moses the servant of Yahweh,[^192] Yahweh spoke to Joshua the son of Nun, Moses’ servant, saying,
 

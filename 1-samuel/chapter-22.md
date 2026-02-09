@@ -1,8 +1,11 @@
 ---
+title: "1 Samuel 22 WEB | Read the Bible Online"
+linkTitle: "22"
+description: "Read 1 Samuel 22 Online | David therefore departed from there and escaped to Adullam’s cave. When his brothers and all his father’s house heard it, they went down there to him..."
 weight: 22
 ---
 
-# Chapter 22
+# 1 Samuel 22 
 
 **¹** David therefore departed from there and escaped to Adullam’s cave. When his brothers and all his father’s house heard it, they went down there to him.
 

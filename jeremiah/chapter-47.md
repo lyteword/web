@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 47 WEB | Read the Bible Online"
+linkTitle: "47"
+description: "Read Jeremiah 47 Online | Yahweh’s word that came to Jeremiah the prophet concerning the Philistines, before Pharaoh struck Gaza..."
 weight: 47
 ---
 
-# Chapter 47
+# Jeremiah 47 
 
 **¹** Yahweh’s word that came to Jeremiah the prophet concerning the Philistines, before Pharaoh struck Gaza.
 

@@ -1,8 +1,11 @@
 ---
+title: "1 Kings 18 WEB | Read the Bible Online"
+linkTitle: "18"
+description: "Read 1 Kings 18 Online | After many days, Yahweh’s word came to Elijah, in the third year, saying, “Go, show yourself to Ahab; and I will send rain on the earth...."
 weight: 18
 ---
 
-# Chapter 18
+# 1 Kings 18 
 
 **¹** After many days, Yahweh’s word came to Elijah, in the third year, saying, “Go, show yourself to Ahab; and I will send rain on the earth.”
 

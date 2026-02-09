@@ -1,8 +1,11 @@
 ---
+title: "Hosea 3 WEB | Read the Bible Online"
+linkTitle: "3"
+description: "Read Hosea 3 Online | Yahweh said to me, “Go again, love a woman loved by another, and an adulteress, even as Yahweh loves the children of Israel, though they turn to other gods, and love cakes of raisins...."
 weight: 3
 ---
 
-# Chapter 3
+# Hosea 3 
 
 **¹** Yahweh said to me, “Go again, love a woman loved by another, and an adulteress, even as Yahweh loves the children of Israel, though they turn to other gods, and love cakes of raisins.”
 

@@ -1,8 +1,11 @@
 ---
+title: "Numbers 15 WEB | Read the Bible Online"
+linkTitle: "15"
+description: "Read Numbers 15 Online | Yahweh spoke to Moses, saying..."
 weight: 15
 ---
 
-# Chapter 15
+# Numbers 15 
 
 **¹** Yahweh spoke to Moses, saying,
 

@@ -1,8 +1,11 @@
 ---
+title: "Romans 15 WEB | Read the Bible Online"
+linkTitle: "15"
+description: "Read Romans 15 Online | Now we who are strong ought to bear the weaknesses of the weak, and not to please ourselves..."
 weight: 15
 ---
 
-# Chapter 15
+# Romans 15 
 
 **¹** Now we who are strong ought to bear the weaknesses of the weak, and not to please ourselves.
 

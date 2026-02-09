@@ -1,8 +1,11 @@
 ---
+title: "Mark 6 WEB | Read the Bible Online"
+linkTitle: "6"
+description: "Read Mark 6 Online | He went out from there. He came into his own country, and his disciples followed him..."
 weight: 6
 ---
 
-# Chapter 6
+# Mark 6 
 
 **¹** He went out from there. He came into his own country, and his disciples followed him.
 

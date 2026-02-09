@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 14 WEB | Read the Bible Online"
+linkTitle: "14"
+description: "Read Leviticus 14 Online | Yahweh spoke to Moses, saying..."
 weight: 14
 ---
 
-# Chapter 14
+# Leviticus 14 
 
 **¹** Yahweh spoke to Moses, saying,
 

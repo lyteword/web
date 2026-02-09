@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 32 WEB | Read the Bible Online"
+linkTitle: "32"
+description: "Read Deuteronomy 32 Online | Give ear, you heavens, and I will speak. Let the earth hear the words of my mouth..."
 weight: 32
 ---
 
-# Chapter 32
+# Deuteronomy 32 
 
 **¹** Give ear, you heavens, and I will speak. Let the earth hear the words of my mouth.
 

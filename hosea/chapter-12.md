@@ -1,8 +1,11 @@
 ---
+title: "Hosea 12 WEB | Read the Bible Online"
+linkTitle: "12"
+description: "Read Hosea 12 Online | Ephraim feeds on wind, and chases the east wind. He continually multiplies lies and desolation. They make a covenant with Assyria, and oil is carried into Egypt..."
 weight: 12
 ---
 
-# Chapter 12
+# Hosea 12 
 
 **¹** Ephraim feeds on wind, and chases the east wind. He continually multiplies lies and desolation. They make a covenant with Assyria, and oil is carried into Egypt.
 

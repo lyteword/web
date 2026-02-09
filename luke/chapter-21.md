@@ -1,8 +1,11 @@
 ---
+title: "Luke 21 WEB | Read the Bible Online"
+linkTitle: "21"
+description: "Read Luke 21 Online | He looked up and saw the rich people who were putting their gifts into the treasury..."
 weight: 21
 ---
 
-# Chapter 21
+# Luke 21 
 
 **¹** He looked up and saw the rich people who were putting their gifts into the treasury.
 

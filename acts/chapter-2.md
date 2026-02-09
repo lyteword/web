@@ -1,8 +1,11 @@
 ---
+title: "Acts 2 WEB | Read the Bible Online"
+linkTitle: "2"
+description: "Read Acts 2 Online | Now when the day of Pentecost had come, they were all with one accord in one place..."
 weight: 2
 ---
 
-# Chapter 2
+# Acts 2 
 
 **¹** Now when the day of Pentecost had come, they were all with one accord in one place.
 

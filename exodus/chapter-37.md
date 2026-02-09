@@ -1,8 +1,11 @@
 ---
+title: "Exodus 37 WEB | Read the Bible Online"
+linkTitle: "37"
+description: "Read Exodus 37 Online | Bezalel made the ark of acacia wood. Its length was two and a half cubits,[^90] and its width a cubit and a half, and a cubit and a half its height..."
 weight: 37
 ---
 
-# Chapter 37
+# Exodus 37 
 
 **¹** Bezalel made the ark of acacia wood. Its length was two and a half cubits,[^90] and its width a cubit and a half, and a cubit and a half its height.
 

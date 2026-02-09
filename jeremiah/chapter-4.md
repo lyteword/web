@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 4 WEB | Read the Bible Online"
+linkTitle: "4"
+description: "Read Jeremiah 4 Online | “If you will return, Israel,” says Yahweh, “if you will return to me, and if you will put away your abominations out of my sight; then you will not be removed..."
 weight: 4
 ---
 
-# Chapter 4
+# Jeremiah 4 
 
 **¹** “If you will return, Israel,” says Yahweh, “if you will return to me, and if you will put away your abominations out of my sight; then you will not be removed;
 

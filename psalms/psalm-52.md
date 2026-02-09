@@ -1,8 +1,11 @@
 ---
+title: "Psalm 52 WEB | Read the Bible Online"
+linkTitle: "52"
+description: "Read Psalm 52 Online | Why do you boast of mischief, mighty man? God’s loving kindness endures continually..."
 weight: 52
 ---
 
-# Psalm 52
+# Psalm 52 
 
 For the Chief Musician. A contemplation by David, when Doeg the Edomite came and told Saul, “David has come to Ahimelech’s house.”
 

@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 7 WEB | Read the Bible Online"
+linkTitle: "7"
+description: "Read Ezekiel 7 Online | Moreover Yahweh’s word came to me, saying..."
 weight: 7
 ---
 
-# Chapter 7
+# Ezekiel 7 
 
 **¹** Moreover Yahweh’s word came to me, saying,
 

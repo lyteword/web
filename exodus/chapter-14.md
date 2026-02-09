@@ -1,8 +1,11 @@
 ---
+title: "Exodus 14 WEB | Read the Bible Online"
+linkTitle: "14"
+description: "Read Exodus 14 Online | Yahweh spoke to Moses, saying..."
 weight: 14
 ---
 
-# Chapter 14
+# Exodus 14 
 
 **¹** Yahweh spoke to Moses, saying,
 

@@ -1,8 +1,11 @@
 ---
+title: "1 Kings 5 WEB | Read the Bible Online"
+linkTitle: "5"
+description: "Read 1 Kings 5 Online | Hiram king of Tyre sent his servants to Solomon, for he had heard that they had anointed him king in the place of his father, and Hiram had always loved David..."
 weight: 5
 ---
 
-# Chapter 5
+# 1 Kings 5 
 
 **¹** Hiram king of Tyre sent his servants to Solomon, for he had heard that they had anointed him king in the place of his father, and Hiram had always loved David.
 

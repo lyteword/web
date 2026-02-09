@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 28 WEB | Read the Bible Online"
+linkTitle: "28"
+description: "Read Ezekiel 28 Online | Yahweh’s word came again to me, saying..."
 weight: 28
 ---
 
-# Chapter 28
+# Ezekiel 28 
 
 **¹** Yahweh’s word came again to me, saying,
 

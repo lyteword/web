@@ -1,8 +1,11 @@
 ---
+title: "Psalm 85 WEB | Read the Bible Online"
+linkTitle: "85"
+description: "Read Psalm 85 Online | Yahweh, you have been favorable to your land. You have restored the fortunes of Jacob..."
 weight: 85
 ---
 
-# Psalm 85
+# Psalm 85 
 
 For the Chief Musician. A Psalm by the sons of Korah.
 

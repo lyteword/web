@@ -1,8 +1,11 @@
 ---
+title: "Exodus 25 WEB | Read the Bible Online"
+linkTitle: "25"
+description: "Read Exodus 25 Online | Yahweh spoke to Moses, saying..."
 weight: 25
 ---
 
-# Chapter 25
+# Exodus 25 
 
 **¹** Yahweh spoke to Moses, saying,
 

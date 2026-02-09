@@ -1,8 +1,11 @@
 ---
+title: "1 Corinthians 14 WEB | Read the Bible Online"
+linkTitle: "14"
+description: "Read 1 Corinthians 14 Online | Follow after love and earnestly desire spiritual gifts, but especially that you may prophesy..."
 weight: 14
 ---
 
-# Chapter 14
+# 1 Corinthians 14 
 
 **¹** Follow after love and earnestly desire spiritual gifts, but especially that you may prophesy.
 

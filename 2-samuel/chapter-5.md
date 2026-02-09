@@ -1,8 +1,11 @@
 ---
+title: "2 Samuel 5 WEB | Read the Bible Online"
+linkTitle: "5"
+description: "Read 2 Samuel 5 Online | Then all the tribes of Israel came to David at Hebron and spoke, saying, “Behold, we are your bone and your flesh..."
 weight: 5
 ---
 
-# Chapter 5
+# 2 Samuel 5 
 
 **¹** Then all the tribes of Israel came to David at Hebron and spoke, saying, “Behold, we are your bone and your flesh.
 

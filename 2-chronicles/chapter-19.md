@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 19 WEB | Read the Bible Online"
+linkTitle: "19"
+description: "Read 2 Chronicles 19 Online | Jehoshaphat the king of Judah returned to his house in peace to Jerusalem..."
 weight: 19
 ---
 
-# Chapter 19
+# 2 Chronicles 19 
 
 **¹** Jehoshaphat the king of Judah returned to his house in peace to Jerusalem.
 

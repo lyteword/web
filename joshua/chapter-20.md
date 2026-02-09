@@ -1,8 +1,11 @@
 ---
+title: "Joshua 20 WEB | Read the Bible Online"
+linkTitle: "20"
+description: "Read Joshua 20 Online | Yahweh spoke to Joshua, saying..."
 weight: 20
 ---
 
-# Chapter 20
+# Joshua 20 
 
 **¹** Yahweh spoke to Joshua, saying,
 

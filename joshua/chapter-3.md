@@ -1,8 +1,11 @@
 ---
+title: "Joshua 3 WEB | Read the Bible Online"
+linkTitle: "3"
+description: "Read Joshua 3 Online | Joshua got up early in the morning; and they moved from Shittim and came to the Jordan, he and all the children of Israel. They camped there before they crossed over..."
 weight: 3
 ---
 
-# Chapter 3
+# Joshua 3 
 
 **¹** Joshua got up early in the morning; and they moved from Shittim and came to the Jordan, he and all the children of Israel. They camped there before they crossed over.
 

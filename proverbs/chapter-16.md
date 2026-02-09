@@ -1,8 +1,11 @@
 ---
+title: "Proverbs 16 WEB | Read the Bible Online"
+linkTitle: "16"
+description: "Read Proverbs 16 Online | The plans of the heart belong to man, but the answer of the tongue is from Yahweh..."
 weight: 16
 ---
 
-# Chapter 16
+# Proverbs 16 
 
 **¹** The plans of the heart belong to man, but the answer of the tongue is from Yahweh.
 

@@ -1,8 +1,11 @@
 ---
+title: "Numbers 5 WEB | Read the Bible Online"
+linkTitle: "5"
+description: "Read Numbers 5 Online | Yahweh spoke to Moses, saying..."
 weight: 5
 ---
 
-# Chapter 5
+# Numbers 5 
 
 **¹** Yahweh spoke to Moses, saying,
 

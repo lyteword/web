@@ -1,8 +1,11 @@
 ---
+title: "John 2 WEB | Read the Bible Online"
+linkTitle: "2"
+description: "Read John 2 Online | The third day, there was a wedding in Cana of Galilee. Jesus’ mother was there..."
 weight: 2
 ---
 
-# Chapter 2
+# John 2 
 
 **¹** The third day, there was a wedding in Cana of Galilee. Jesus’ mother was there.
 

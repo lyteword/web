@@ -1,8 +1,11 @@
 ---
+title: "1 Corinthians 3 WEB | Read the Bible Online"
+linkTitle: "3"
+description: "Read 1 Corinthians 3 Online | Brothers, I couldn’t speak to you as to spiritual, but as to fleshly, as to babies in Christ..."
 weight: 3
 ---
 
-# Chapter 3
+# 1 Corinthians 3 
 
 **¹** Brothers, I couldn’t speak to you as to spiritual, but as to fleshly, as to babies in Christ.
 

@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 18 WEB | Read the Bible Online"
+linkTitle: "18"
+description: "Read Jeremiah 18 Online | The word which came to Jeremiah from Yahweh, saying..."
 weight: 18
 ---
 
-# Chapter 18
+# Jeremiah 18 
 
 **¹** The word which came to Jeremiah from Yahweh, saying,
 

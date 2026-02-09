@@ -1,8 +1,11 @@
 ---
+title: "John 4 WEB | Read the Bible Online"
+linkTitle: "4"
+description: "Read John 4 Online | Therefore when the Lord knew that the Pharisees had heard that Jesus was making and baptizing more disciples than John..."
 weight: 4
 ---
 
-# Chapter 4
+# John 4 
 
 **¹** Therefore when the Lord knew that the Pharisees had heard that Jesus was making and baptizing more disciples than John
 

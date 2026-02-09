@@ -1,8 +1,11 @@
 ---
+title: "Judges 3 WEB | Read the Bible Online"
+linkTitle: "3"
+description: "Read Judges 3 Online | Now these are the nations which Yahweh left, to test Israel by them, even as many as had not known all the wars of Canaan..."
 weight: 3
 ---
 
-# Chapter 3
+# Judges 3 
 
 **¹** Now these are the nations which Yahweh left, to test Israel by them, even as many as had not known all the wars of Canaan;
 

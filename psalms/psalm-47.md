@@ -1,8 +1,11 @@
 ---
+title: "Psalm 47 WEB | Read the Bible Online"
+linkTitle: "47"
+description: "Read Psalm 47 Online | Oh clap your hands, all you nations. Shout to God with the voice of triumph..."
 weight: 47
 ---
 
-# Psalm 47
+# Psalm 47 
 
 For the Chief Musician. A Psalm by the sons of Korah.
 

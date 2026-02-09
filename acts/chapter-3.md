@@ -1,8 +1,11 @@
 ---
+title: "Acts 3 WEB | Read the Bible Online"
+linkTitle: "3"
+description: "Read Acts 3 Online | Peter and John were going up into the temple at the hour of prayer, the ninth hour.[^1027..."
 weight: 3
 ---
 
-# Chapter 3
+# Acts 3 
 
 **¹** Peter and John were going up into the temple at the hour of prayer, the ninth hour.[^1027]
 

@@ -1,8 +1,11 @@
 ---
+title: "Zechariah 9 WEB | Read the Bible Online"
+linkTitle: "9"
+description: "Read Zechariah 9 Online | A revelation. Yahweh’s word is against the land of Hadrach, and will rest upon Damascus— for the eye of man and of all the tribes of Israel is toward Yahweh..."
 weight: 9
 ---
 
-# Chapter 9
+# Zechariah 9 
 
 **¹** A revelation. Yahweh’s word is against the land of Hadrach, and will rest upon Damascus— for the eye of man and of all the tribes of Israel is toward Yahweh—
 

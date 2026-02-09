@@ -1,8 +1,11 @@
 ---
+title: "Judges 9 WEB | Read the Bible Online"
+linkTitle: "9"
+description: "Read Judges 9 Online | Abimelech the son of Jerubbaal went to Shechem to his mother’s brothers, and spoke with them and with all the family of the house of his mother’s father, saying..."
 weight: 9
 ---
 
-# Chapter 9
+# Judges 9 
 
 **¹** Abimelech the son of Jerubbaal went to Shechem to his mother’s brothers, and spoke with them and with all the family of the house of his mother’s father, saying,
 

@@ -1,8 +1,11 @@
 ---
+title: "Romans 13 WEB | Read the Bible Online"
+linkTitle: "13"
+description: "Read Romans 13 Online | Let every soul be in subjection to the higher authorities, for there is no authority except from God, and those who exist are ordained by God..."
 weight: 13
 ---
 
-# Chapter 13
+# Romans 13 
 
 **¹** Let every soul be in subjection to the higher authorities, for there is no authority except from God, and those who exist are ordained by God.
 

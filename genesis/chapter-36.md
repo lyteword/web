@@ -1,8 +1,11 @@
 ---
+title: "Genesis 36 WEB | Read the Bible Online"
+linkTitle: "36"
+description: "Read Genesis 36 Online | Now this is the history of the generations of Esau (that is, Edom)..."
 weight: 36
 ---
 
-# Chapter 36
+# Genesis 36 
 
 **¹** Now this is the history of the generations of Esau (that is, Edom).
 

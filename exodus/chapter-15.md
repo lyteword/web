@@ -1,8 +1,11 @@
 ---
+title: "Exodus 15 WEB | Read the Bible Online"
+linkTitle: "15"
+description: "Read Exodus 15 Online | Then Moses and the children of Israel sang this song to Yahweh, and said, “I will sing to Yahweh, for he has triumphed gloriously. He has thrown the horse and his rider into the sea..."
 weight: 15
 ---
 
-# Chapter 15
+# Exodus 15 
 
 **¹** Then Moses and the children of Israel sang this song to Yahweh, and said, “I will sing to Yahweh, for he has triumphed gloriously. He has thrown the horse and his rider into the sea.
 

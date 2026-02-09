@@ -1,8 +1,11 @@
 ---
+title: "Song Of Solomon 1 WEB | Read the Bible Online"
+linkTitle: "1"
+description: "Read Song Of Solomon 1 Online | The Song of songs, which is Solomon’s..."
 weight: 1
 ---
 
-# Chapter 1
+# Song Of Solomon 1 
 
 **¹** The Song of songs, which is Solomon’s.
 

@@ -1,8 +1,11 @@
 ---
+title: "Joshua 5 WEB | Read the Bible Online"
+linkTitle: "5"
+description: "Read Joshua 5 Online | When all the kings of the Amorites, who were beyond the Jordan westward, and all the kings of the Canaanites, who were by the sea, heard how Yahweh had dried up the waters of the Jordan from before the children of Israel until we had crossed over, their heart melted, and there was no more spirit in them, because of the children of Israel..."
 weight: 5
 ---
 
-# Chapter 5
+# Joshua 5 
 
 **¹** When all the kings of the Amorites, who were beyond the Jordan westward, and all the kings of the Canaanites, who were by the sea, heard how Yahweh had dried up the waters of the Jordan from before the children of Israel until we had crossed over, their heart melted, and there was no more spirit in them, because of the children of Israel.
 

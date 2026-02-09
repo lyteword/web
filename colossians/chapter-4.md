@@ -1,8 +1,11 @@
 ---
+title: "Colossians 4 WEB | Read the Bible Online"
+linkTitle: "4"
+description: "Read Colossians 4 Online | Masters, give to your servants that which is just and equal, knowing that you also have a Master in heaven..."
 weight: 4
 ---
 
-# Chapter 4
+# Colossians 4 
 
 **¹** Masters, give to your servants that which is just and equal, knowing that you also have a Master in heaven.
 

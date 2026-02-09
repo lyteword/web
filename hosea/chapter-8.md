@@ -1,8 +1,11 @@
 ---
+title: "Hosea 8 WEB | Read the Bible Online"
+linkTitle: "8"
+description: "Read Hosea 8 Online | “Put the trumpet to your lips! Something like an eagle is over Yahweh’s house, because they have broken my covenant and rebelled against my law..."
 weight: 8
 ---
 
-# Chapter 8
+# Hosea 8 
 
 **¹** “Put the trumpet to your lips! Something like an eagle is over Yahweh’s house, because they have broken my covenant and rebelled against my law.
 

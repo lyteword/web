@@ -1,8 +1,11 @@
 ---
+title: "Matthew 14 WEB | Read the Bible Online"
+linkTitle: "14"
+description: "Read Matthew 14 Online | At that time, Herod the tetrarch heard the report concerning Jesus..."
 weight: 14
 ---
 
-# Chapter 14
+# Matthew 14 
 
 **¹** At that time, Herod the tetrarch heard the report concerning Jesus,
 

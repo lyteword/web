@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 4 WEB | Read the Bible Online"
+linkTitle: "4"
+description: "Read Deuteronomy 4 Online | Now, Israel, listen to the statutes and to the ordinances which I teach you, to do them, that you may live and go in and possess the land which Yahweh, the God of your fathers, gives you..."
 weight: 4
 ---
 
-# Chapter 4
+# Deuteronomy 4 
 
 **¹** Now, Israel, listen to the statutes and to the ordinances which I teach you, to do them, that you may live and go in and possess the land which Yahweh, the God of your fathers, gives you.
 

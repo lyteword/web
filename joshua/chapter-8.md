@@ -1,8 +1,11 @@
 ---
+title: "Joshua 8 WEB | Read the Bible Online"
+linkTitle: "8"
+description: "Read Joshua 8 Online | Yahweh said to Joshua, “Don’t be afraid, and don’t be dismayed. Take all the warriors with you, and arise, go up to Ai. Behold, I have given into your hand the king of Ai, with his people, his city, and his land..."
 weight: 8
 ---
 
-# Chapter 8
+# Joshua 8 
 
 **¹** Yahweh said to Joshua, “Don’t be afraid, and don’t be dismayed. Take all the warriors with you, and arise, go up to Ai. Behold, I have given into your hand the king of Ai, with his people, his city, and his land.
 

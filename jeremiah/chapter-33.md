@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 33 WEB | Read the Bible Online"
+linkTitle: "33"
+description: "Read Jeremiah 33 Online | Moreover Yahweh’s word came to Jeremiah the second time, while he was still locked up in the court of the guard, saying..."
 weight: 33
 ---
 
-# Chapter 33
+# Jeremiah 33 
 
 **¹** Moreover Yahweh’s word came to Jeremiah the second time, while he was still locked up in the court of the guard, saying,
 

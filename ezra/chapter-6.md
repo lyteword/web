@@ -1,8 +1,11 @@
 ---
+title: "Ezra 6 WEB | Read the Bible Online"
+linkTitle: "6"
+description: "Read Ezra 6 Online | Then Darius the king made a decree, and the house of the archives, where the treasures were laid up in Babylon, was searched..."
 weight: 6
 ---
 
-# Chapter 6
+# Ezra 6 
 
 **¹** Then Darius the king made a decree, and the house of the archives, where the treasures were laid up in Babylon, was searched.
 

@@ -1,8 +1,11 @@
 ---
+title: "Romans 14 WEB | Read the Bible Online"
+linkTitle: "14"
+description: "Read Romans 14 Online | Now accept one who is weak in faith, but not for disputes over opinions..."
 weight: 14
 ---
 
-# Chapter 14
+# Romans 14 
 
 **¹** Now accept one who is weak in faith, but not for disputes over opinions.
 

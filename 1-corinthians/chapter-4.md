@@ -1,8 +1,11 @@
 ---
+title: "1 Corinthians 4 WEB | Read the Bible Online"
+linkTitle: "4"
+description: "Read 1 Corinthians 4 Online | So let a man think of us as Christ’s servants and stewards of God’s mysteries..."
 weight: 4
 ---
 
-# Chapter 4
+# 1 Corinthians 4 
 
 **¹** So let a man think of us as Christ’s servants and stewards of God’s mysteries.
 

@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 15 WEB | Read the Bible Online"
+linkTitle: "15"
+description: "Read Isaiah 15 Online | The burden of Moab. For in a night, Ar of Moab is laid waste, and brought to nothing. For in a night Kir of Moab is laid waste, and brought to nothing..."
 weight: 15
 ---
 
-# Chapter 15
+# Isaiah 15 
 
 **¹** The burden of Moab. For in a night, Ar of Moab is laid waste, and brought to nothing. For in a night Kir of Moab is laid waste, and brought to nothing.
 

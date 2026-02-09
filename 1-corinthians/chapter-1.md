@@ -1,8 +1,11 @@
 ---
+title: "1 Corinthians 1 WEB | Read the Bible Online"
+linkTitle: "1"
+description: "Read 1 Corinthians 1 Online | Paul, called to be an apostle of Jesus Christ[^1184] through the will of God, and our brother Sosthenes..."
 weight: 1
 ---
 
-# Chapter 1
+# 1 Corinthians 1 
 
 **¹** Paul, called to be an apostle of Jesus Christ[^1184] through the will of God, and our brother Sosthenes,
 

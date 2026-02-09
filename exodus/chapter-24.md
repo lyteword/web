@@ -1,8 +1,11 @@
 ---
+title: "Exodus 24 WEB | Read the Bible Online"
+linkTitle: "24"
+description: "Read Exodus 24 Online | He said to Moses, “Come up to Yahweh, you, and Aaron, Nadab, and Abihu, and seventy of the elders of Israel; and worship from a distance..."
 weight: 24
 ---
 
-# Chapter 24
+# Exodus 24 
 
 **¹** He said to Moses, “Come up to Yahweh, you, and Aaron, Nadab, and Abihu, and seventy of the elders of Israel; and worship from a distance.
 

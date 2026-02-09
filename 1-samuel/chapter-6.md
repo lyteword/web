@@ -1,8 +1,11 @@
 ---
+title: "1 Samuel 6 WEB | Read the Bible Online"
+linkTitle: "6"
+description: "Read 1 Samuel 6 Online | Yahweh’s ark was in the country of the Philistines seven months..."
 weight: 6
 ---
 
-# Chapter 6
+# 1 Samuel 6 
 
 **¹** Yahweh’s ark was in the country of the Philistines seven months.
 

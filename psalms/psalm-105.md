@@ -1,8 +1,11 @@
 ---
+title: "Psalm 105 WEB | Read the Bible Online"
+linkTitle: "105"
+description: "Read Psalm 105 Online | Give thanks to Yahweh! Call on his name! Make his doings known among the peoples..."
 weight: 105
 ---
 
-# Psalm 105
+# Psalm 105 
 
 **¹** Give thanks to Yahweh! Call on his name! Make his doings known among the peoples.
 

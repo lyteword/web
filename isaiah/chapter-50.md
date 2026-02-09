@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 50 WEB | Read the Bible Online"
+linkTitle: "50"
+description: "Read Isaiah 50 Online | Yahweh says, “Where is the bill of your mother’s divorce, with which I have put her away? Or to which of my creditors have I sold you? Behold, you were sold for your iniquities, and your mother was put away for your transgressions..."
 weight: 50
 ---
 
-# Chapter 50
+# Isaiah 50 
 
 **¹** Yahweh says, “Where is the bill of your mother’s divorce, with which I have put her away? Or to which of my creditors have I sold you? Behold, you were sold for your iniquities, and your mother was put away for your transgressions.
 

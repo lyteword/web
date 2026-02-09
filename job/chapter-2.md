@@ -1,8 +1,11 @@
 ---
+title: "Job 2 WEB | Read the Bible Online"
+linkTitle: "2"
+description: "Read Job 2 Online | Again, on the day when God’s sons came to present themselves before Yahweh, Satan came also among them to present himself before Yahweh..."
 weight: 2
 ---
 
-# Chapter 2
+# Job 2 
 
 **¹** Again, on the day when God’s sons came to present themselves before Yahweh, Satan came also among them to present himself before Yahweh.
 

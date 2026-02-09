@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 20 WEB | Read the Bible Online"
+linkTitle: "20"
+description: "Read Ezekiel 20 Online | In the seventh year, in the fifth month, the tenth day of the month, some of the elders of Israel came to inquire of Yahweh, and sat before me..."
 weight: 20
 ---
 
-# Chapter 20
+# Ezekiel 20 
 
 **¹** In the seventh year, in the fifth month, the tenth day of the month, some of the elders of Israel came to inquire of Yahweh, and sat before me.
 

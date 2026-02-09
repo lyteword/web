@@ -1,8 +1,11 @@
 ---
+title: "Acts 6 WEB | Read the Bible Online"
+linkTitle: "6"
+description: "Read Acts 6 Online | Now in those days, when the number of the disciples was multiplying, a complaint arose from the Hellenists[^1036] against the Hebrews, because their widows were neglected in the daily service..."
 weight: 6
 ---
 
-# Chapter 6
+# Acts 6 
 
 **¹** Now in those days, when the number of the disciples was multiplying, a complaint arose from the Hellenists[^1036] against the Hebrews, because their widows were neglected in the daily service.
 

@@ -1,8 +1,11 @@
 ---
+title: "Acts 10 WEB | Read the Bible Online"
+linkTitle: "10"
+description: "Read Acts 10 Online | Now there was a certain man in Caesarea, Cornelius by name, a centurion of what was called the Italian Regiment..."
 weight: 10
 ---
 
-# Chapter 10
+# Acts 10 
 
 **¹** Now there was a certain man in Caesarea, Cornelius by name, a centurion of what was called the Italian Regiment,
 

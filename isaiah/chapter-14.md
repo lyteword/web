@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 14 WEB | Read the Bible Online"
+linkTitle: "14"
+description: "Read Isaiah 14 Online | For Yahweh will have compassion on Jacob, and will yet choose Israel, and set them in their own land. The foreigner will join himself with them, and they will unite with the house of Jacob..."
 weight: 14
 ---
 
-# Chapter 14
+# Isaiah 14 
 
 **¹** For Yahweh will have compassion on Jacob, and will yet choose Israel, and set them in their own land. The foreigner will join himself with them, and they will unite with the house of Jacob.
 

@@ -1,8 +1,11 @@
 ---
+title: "Genesis 49 WEB | Read the Bible Online"
+linkTitle: "49"
+description: "Read Genesis 49 Online | Jacob called to his sons, and said: “Gather yourselves together, that I may tell you that which will happen to you in the days to come..."
 weight: 49
 ---
 
-# Chapter 49
+# Genesis 49 
 
 **¹** Jacob called to his sons, and said: “Gather yourselves together, that I may tell you that which will happen to you in the days to come.
 

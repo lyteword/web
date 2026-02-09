@@ -1,8 +1,11 @@
 ---
+title: "Numbers 3 WEB | Read the Bible Online"
+linkTitle: "3"
+description: "Read Numbers 3 Online | Now this is the history of the generations of Aaron and Moses in the day that Yahweh spoke with Moses in Mount Sinai..."
 weight: 3
 ---
 
-# Chapter 3
+# Numbers 3 
 
 **¹** Now this is the history of the generations of Aaron and Moses in the day that Yahweh spoke with Moses in Mount Sinai.
 

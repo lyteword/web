@@ -1,8 +1,11 @@
 ---
+title: "2 Kings 2 WEB | Read the Bible Online"
+linkTitle: "2"
+description: "Read 2 Kings 2 Online | When Yahweh was about to take Elijah up by a whirlwind into heaven, Elijah went with Elisha from Gilgal..."
 weight: 2
 ---
 
-# Chapter 2
+# 2 Kings 2 
 
 **¹** When Yahweh was about to take Elijah up by a whirlwind into heaven, Elijah went with Elisha from Gilgal.
 

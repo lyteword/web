@@ -1,8 +1,11 @@
 ---
+title: "Zechariah 3 WEB | Read the Bible Online"
+linkTitle: "3"
+description: "Read Zechariah 3 Online | He showed me Joshua the high priest standing before Yahweh’s angel, and Satan standing at his right hand to be his adversary..."
 weight: 3
 ---
 
-# Chapter 3
+# Zechariah 3 
 
 **¹** He showed me Joshua the high priest standing before Yahweh’s angel, and Satan standing at his right hand to be his adversary.
 

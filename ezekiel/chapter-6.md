@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 6 WEB | Read the Bible Online"
+linkTitle: "6"
+description: "Read Ezekiel 6 Online | Yahweh’s word came to me, saying..."
 weight: 6
 ---
 
-# Chapter 6
+# Ezekiel 6 
 
 **¹** Yahweh’s word came to me, saying,
 

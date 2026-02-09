@@ -1,8 +1,11 @@
 ---
+title: "Ecclesiastes 8 WEB | Read the Bible Online"
+linkTitle: "8"
+description: "Read Ecclesiastes 8 Online | Who is like the wise man? And who knows the interpretation of a thing? A man’s wisdom makes his face shine, and the hardness of his face is changed..."
 weight: 8
 ---
 
-# Chapter 8
+# Ecclesiastes 8 
 
 **¹** Who is like the wise man? And who knows the interpretation of a thing? A man’s wisdom makes his face shine, and the hardness of his face is changed.
 

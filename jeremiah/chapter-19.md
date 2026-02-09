@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 19 WEB | Read the Bible Online"
+linkTitle: "19"
+description: "Read Jeremiah 19 Online | Thus said Yahweh, “Go, and buy a potter’s earthen container, and take some of the elders of the people and of the elders of the priests..."
 weight: 19
 ---
 
-# Chapter 19
+# Jeremiah 19 
 
 **¹** Thus said Yahweh, “Go, and buy a potter’s earthen container, and take some of the elders of the people and of the elders of the priests;
 

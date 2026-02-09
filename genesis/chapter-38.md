@@ -1,8 +1,11 @@
 ---
+title: "Genesis 38 WEB | Read the Bible Online"
+linkTitle: "38"
+description: "Read Genesis 38 Online | At that time, Judah went down from his brothers, and visited a certain Adullamite, whose name was Hirah..."
 weight: 38
 ---
 
-# Chapter 38
+# Genesis 38 
 
 **¹** At that time, Judah went down from his brothers, and visited a certain Adullamite, whose name was Hirah.
 

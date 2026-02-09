@@ -1,8 +1,11 @@
 ---
+title: "Ecclesiastes 4 WEB | Read the Bible Online"
+linkTitle: "4"
+description: "Read Ecclesiastes 4 Online | Then I returned and saw all the oppressions that are done under the sun: and behold, the tears of those who were oppressed, and they had no comforter; and on the side of their oppressors there was power; but they had no comforter..."
 weight: 4
 ---
 
-# Chapter 4
+# Ecclesiastes 4 
 
 **¹** Then I returned and saw all the oppressions that are done under the sun: and behold, the tears of those who were oppressed, and they had no comforter; and on the side of their oppressors there was power; but they had no comforter.
 

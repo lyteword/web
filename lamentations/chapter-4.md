@@ -1,8 +1,11 @@
 ---
+title: "Lamentations 4 WEB | Read the Bible Online"
+linkTitle: "4"
+description: "Read Lamentations 4 Online | How the gold has become dim! The most pure gold has changed! The stones of the sanctuary are poured out at the head of every street..."
 weight: 4
 ---
 
-# Chapter 4
+# Lamentations 4 
 
 **¹** How the gold has become dim! The most pure gold has changed! The stones of the sanctuary are poured out at the head of every street.
 

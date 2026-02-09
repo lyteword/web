@@ -1,8 +1,11 @@
 ---
+title: "Psalm 46 WEB | Read the Bible Online"
+linkTitle: "46"
+description: "Read Psalm 46 Online | God is our refuge and strength, a very present help in trouble..."
 weight: 46
 ---
 
-# Psalm 46
+# Psalm 46 
 
 For the Chief Musician. By the sons of Korah. According to Alamoth.[^438]
 

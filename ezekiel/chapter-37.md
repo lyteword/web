@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 37 WEB | Read the Bible Online"
+linkTitle: "37"
+description: "Read Ezekiel 37 Online | Yahweh’s hand was on me, and he brought me out in Yahweh’s Spirit, and set me down in the middle of the valley; and it was full of bones..."
 weight: 37
 ---
 
-# Chapter 37
+# Ezekiel 37 
 
 **¹** Yahweh’s hand was on me, and he brought me out in Yahweh’s Spirit, and set me down in the middle of the valley; and it was full of bones.
 

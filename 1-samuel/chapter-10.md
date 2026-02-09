@@ -1,8 +1,11 @@
 ---
+title: "1 Samuel 10 WEB | Read the Bible Online"
+linkTitle: "10"
+description: "Read 1 Samuel 10 Online | Then Samuel took the vial of oil and poured it on his head, then kissed him and said, “Hasn’t Yahweh anointed you to be prince over his inheritance..."
 weight: 10
 ---
 
-# Chapter 10
+# 1 Samuel 10 
 
 **¹** Then Samuel took the vial of oil and poured it on his head, then kissed him and said, “Hasn’t Yahweh anointed you to be prince over his inheritance?
 

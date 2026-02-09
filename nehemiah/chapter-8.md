@@ -1,8 +1,11 @@
 ---
+title: "Nehemiah 8 WEB | Read the Bible Online"
+linkTitle: "8"
+description: "Read Nehemiah 8 Online | All the people gathered themselves together as one man into the wide place that was in front of the water gate; and they spoke to Ezra the scribe to bring the book of the law of Moses, which Yahweh had commanded to Israel..."
 weight: 8
 ---
 
-# Chapter 8
+# Nehemiah 8 
 
 **¹** All the people gathered themselves together as one man into the wide place that was in front of the water gate; and they spoke to Ezra the scribe to bring the book of the law of Moses, which Yahweh had commanded to Israel.
 

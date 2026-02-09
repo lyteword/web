@@ -1,8 +1,11 @@
 ---
+title: "Psalm 77 WEB | Read the Bible Online"
+linkTitle: "77"
+description: "Read Psalm 77 Online | My cry goes to God! Indeed, I cry to God for help, and for him to listen to me..."
 weight: 77
 ---
 
-# Psalm 77
+# Psalm 77 
 
 For the Chief Musician. To Jeduthun. A Psalm by Asaph.
 

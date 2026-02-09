@@ -1,8 +1,11 @@
 ---
+title: "1 Kings 22 WEB | Read the Bible Online"
+linkTitle: "22"
+description: "Read 1 Kings 22 Online | They continued three years without war between Syria and Israel..."
 weight: 22
 ---
 
-# Chapter 22
+# 1 Kings 22 
 
 **¹** They continued three years without war between Syria and Israel.
 

@@ -1,8 +1,11 @@
 ---
+title: "Psalm 131 WEB | Read the Bible Online"
+linkTitle: "131"
+description: "Read Psalm 131 Online | Yahweh, my heart isn’t arrogant, nor my eyes lofty; nor do I concern myself with great matters, or things too wonderful for me..."
 weight: 131
 ---
 
-# Psalm 131
+# Psalm 131 
 
 A Song of Ascents. By David.
 

@@ -1,8 +1,11 @@
 ---
+title: "Psalm 108 WEB | Read the Bible Online"
+linkTitle: "108"
+description: "Read Psalm 108 Online | My heart is steadfast, God. I will sing and I will make music with my soul..."
 weight: 108
 ---
 
-# Psalm 108
+# Psalm 108 
 
 A Song. A Psalm by David.
 

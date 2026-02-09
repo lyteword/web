@@ -1,8 +1,11 @@
 ---
+title: "2 Kings 7 WEB | Read the Bible Online"
+linkTitle: "7"
+description: "Read 2 Kings 7 Online | Elisha said, “Hear Yahweh’s word. Yahweh says, ‘Tomorrow about this time a seah[^298] of fine flour will be sold for a shekel,[^299] and two seahs of barley for a shekel, in the gate of Samaria.’..."
 weight: 7
 ---
 
-# Chapter 7
+# 2 Kings 7 
 
 **¹** Elisha said, “Hear Yahweh’s word. Yahweh says, ‘Tomorrow about this time a seah[^298] of fine flour will be sold for a shekel,[^299] and two seahs of barley for a shekel, in the gate of Samaria.’”
 

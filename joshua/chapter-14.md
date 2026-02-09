@@ -1,8 +1,11 @@
 ---
+title: "Joshua 14 WEB | Read the Bible Online"
+linkTitle: "14"
+description: "Read Joshua 14 Online | These are the inheritances which the children of Israel took in the land of Canaan, which Eleazar the priest, Joshua the son of Nun, and the heads of the fathers’ houses of the tribes of the children of Israel, distributed to them..."
 weight: 14
 ---
 
-# Chapter 14
+# Joshua 14 
 
 **¹** These are the inheritances which the children of Israel took in the land of Canaan, which Eleazar the priest, Joshua the son of Nun, and the heads of the fathers’ houses of the tribes of the children of Israel, distributed to them,
 

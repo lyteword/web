@@ -1,8 +1,11 @@
 ---
+title: "Daniel 12 WEB | Read the Bible Online"
+linkTitle: "12"
+description: "Read Daniel 12 Online | “At that time Michael will stand up, the great prince who stands for the children of your people; and there will be a time of trouble, such as never was since there was a nation even to that same time. At that time your people will be delivered, everyone who is found written in the book..."
 weight: 12
 ---
 
-# Chapter 12
+# Daniel 12 
 
 **¹** “At that time Michael will stand up, the great prince who stands for the children of your people; and there will be a time of trouble, such as never was since there was a nation even to that same time. At that time your people will be delivered, everyone who is found written in the book.
 

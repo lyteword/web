@@ -1,8 +1,11 @@
 ---
+title: "Numbers 18 WEB | Read the Bible Online"
+linkTitle: "18"
+description: "Read Numbers 18 Online | Yahweh said to Aaron, “You and your sons and your fathers’ house with you shall bear the iniquity of the sanctuary; and you and your sons with you shall bear the iniquity of your priesthood..."
 weight: 18
 ---
 
-# Chapter 18
+# Numbers 18 
 
 **¹** Yahweh said to Aaron, “You and your sons and your fathers’ house with you shall bear the iniquity of the sanctuary; and you and your sons with you shall bear the iniquity of your priesthood.
 

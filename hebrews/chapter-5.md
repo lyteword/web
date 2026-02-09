@@ -1,8 +1,11 @@
 ---
+title: "Hebrews 5 WEB | Read the Bible Online"
+linkTitle: "5"
+description: "Read Hebrews 5 Online | For every high priest, being taken from among men, is appointed for men in things pertaining to God, that he may offer both gifts and sacrifices for sins..."
 weight: 5
 ---
 
-# Chapter 5
+# Hebrews 5 
 
 **¹** For every high priest, being taken from among men, is appointed for men in things pertaining to God, that he may offer both gifts and sacrifices for sins.
 

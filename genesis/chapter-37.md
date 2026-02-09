@@ -1,8 +1,11 @@
 ---
+title: "Genesis 37 WEB | Read the Bible Online"
+linkTitle: "37"
+description: "Read Genesis 37 Online | Jacob lived in the land of his father’s travels, in the land of Canaan..."
 weight: 37
 ---
 
-# Chapter 37
+# Genesis 37 
 
 **¹** Jacob lived in the land of his father’s travels, in the land of Canaan.
 

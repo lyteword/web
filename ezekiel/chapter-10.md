@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 10 WEB | Read the Bible Online"
+linkTitle: "10"
+description: "Read Ezekiel 10 Online | Then I looked, and see, in the expanse that was over the head of the cherubim there appeared above them as it were a sapphire[^541] stone, as the appearance of the likeness of a throne..."
 weight: 10
 ---
 
-# Chapter 10
+# Ezekiel 10 
 
 **¹** Then I looked, and see, in the expanse that was over the head of the cherubim there appeared above them as it were a sapphire[^541] stone, as the appearance of the likeness of a throne.
 

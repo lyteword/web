@@ -1,8 +1,11 @@
 ---
+title: "Nehemiah 5 WEB | Read the Bible Online"
+linkTitle: "5"
+description: "Read Nehemiah 5 Online | Then there arose a great cry of the people and of their wives against their brothers the Jews..."
 weight: 5
 ---
 
-# Chapter 5
+# Nehemiah 5 
 
 **¹** Then there arose a great cry of the people and of their wives against their brothers the Jews.
 

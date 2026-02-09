@@ -1,8 +1,11 @@
 ---
+title: "2 Corinthians 2 WEB | Read the Bible Online"
+linkTitle: "2"
+description: "Read 2 Corinthians 2 Online | But I determined this for myself, that I would not come to you again in sorrow..."
 weight: 2
 ---
 
-# Chapter 2
+# 2 Corinthians 2 
 
 **¹** But I determined this for myself, that I would not come to you again in sorrow.
 

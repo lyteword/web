@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 3 WEB | Read the Bible Online"
+linkTitle: "3"
+description: "Read Isaiah 3 Online | For, behold,[^493] the Lord, Yahweh of Armies, takes away from Jerusalem and from Judah supply and support, the whole supply of bread, and the whole supply of water..."
 weight: 3
 ---
 
-# Chapter 3
+# Isaiah 3 
 
 **¹** For, behold,[^493] the Lord, Yahweh of Armies, takes away from Jerusalem and from Judah supply and support, the whole supply of bread, and the whole supply of water;
 

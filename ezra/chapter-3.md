@@ -1,8 +1,11 @@
 ---
+title: "Ezra 3 WEB | Read the Bible Online"
+linkTitle: "3"
+description: "Read Ezra 3 Online | When the seventh month had come, and the children of Israel were in the cities, the people gathered themselves together as one man to Jerusalem..."
 weight: 3
 ---
 
-# Chapter 3
+# Ezra 3 
 
 **¹** When the seventh month had come, and the children of Israel were in the cities, the people gathered themselves together as one man to Jerusalem.
 

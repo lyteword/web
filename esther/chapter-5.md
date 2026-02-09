@@ -1,8 +1,11 @@
 ---
+title: "Esther 5 WEB | Read the Bible Online"
+linkTitle: "5"
+description: "Read Esther 5 Online | Now on the third day, Esther put on her royal clothing and stood in the inner court of the king’s house, next to the king’s house. The king sat on his royal throne in the royal house, next to the entrance of the house..."
 weight: 5
 ---
 
-# Chapter 5
+# Esther 5 
 
 **¹** Now on the third day, Esther put on her royal clothing and stood in the inner court of the king’s house, next to the king’s house. The king sat on his royal throne in the royal house, next to the entrance of the house.
 

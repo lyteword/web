@@ -1,8 +1,11 @@
 ---
+title: "1 Samuel 26 WEB | Read the Bible Online"
+linkTitle: "26"
+description: "Read 1 Samuel 26 Online | The Ziphites came to Saul to Gibeah, saying, “Doesn’t David hide himself in the hill of Hachilah, which is before the desert?..."
 weight: 26
 ---
 
-# Chapter 26
+# 1 Samuel 26 
 
 **¹** The Ziphites came to Saul to Gibeah, saying, “Doesn’t David hide himself in the hill of Hachilah, which is before the desert?”
 

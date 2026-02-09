@@ -1,8 +1,11 @@
 ---
+title: "Genesis 17 WEB | Read the Bible Online"
+linkTitle: "17"
+description: "Read Genesis 17 Online | When Abram was ninety-nine years old, Yahweh appeared to Abram and said to him, “I am God Almighty. Walk before me and be blameless..."
 weight: 17
 ---
 
-# Chapter 17
+# Genesis 17 
 
 **¹** When Abram was ninety-nine years old, Yahweh appeared to Abram and said to him, “I am God Almighty. Walk before me and be blameless.
 

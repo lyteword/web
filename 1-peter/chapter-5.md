@@ -1,8 +1,11 @@
 ---
+title: "1 Peter 5 WEB | Read the Bible Online"
+linkTitle: "5"
+description: "Read 1 Peter 5 Online | Therefore I exhort the elders among you, as a fellow elder and a witness of the sufferings of Christ, and who will also share in the glory that will be revealed..."
 weight: 5
 ---
 
-# Chapter 5
+# 1 Peter 5 
 
 **¹** Therefore I exhort the elders among you, as a fellow elder and a witness of the sufferings of Christ, and who will also share in the glory that will be revealed:
 

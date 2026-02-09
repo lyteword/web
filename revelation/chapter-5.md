@@ -1,8 +1,11 @@
 ---
+title: "Revelation 5 WEB | Read the Bible Online"
+linkTitle: "5"
+description: "Read Revelation 5 Online | I saw, in the right hand of him who sat on the throne, a book written inside and outside, sealed shut with seven seals..."
 weight: 5
 ---
 
-# Chapter 5
+# Revelation 5 
 
 **¹** I saw, in the right hand of him who sat on the throne, a book written inside and outside, sealed shut with seven seals.
 

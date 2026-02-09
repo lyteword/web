@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 22 WEB | Read the Bible Online"
+linkTitle: "22"
+description: "Read Jeremiah 22 Online | Yahweh said, “Go down to the house of the king of Judah, and speak this word there..."
 weight: 22
 ---
 
-# Chapter 22
+# Jeremiah 22 
 
 **¹** Yahweh said, “Go down to the house of the king of Judah, and speak this word there:
 

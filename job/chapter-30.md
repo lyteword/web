@@ -1,8 +1,11 @@
 ---
+title: "Job 30 WEB | Read the Bible Online"
+linkTitle: "30"
+description: "Read Job 30 Online | “But now those who are younger than I have me in derision, whose fathers I considered unworthy to put with my sheep dogs..."
 weight: 30
 ---
 
-# Chapter 30
+# Job 30 
 
 **¹** “But now those who are younger than I have me in derision, whose fathers I considered unworthy to put with my sheep dogs.
 

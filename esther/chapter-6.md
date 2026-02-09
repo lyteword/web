@@ -1,8 +1,11 @@
 ---
+title: "Esther 6 WEB | Read the Bible Online"
+linkTitle: "6"
+description: "Read Esther 6 Online | On that night, the king couldn’t sleep. He commanded the book of records of the chronicles to be brought, and they were read to the king..."
 weight: 6
 ---
 
-# Chapter 6
+# Esther 6 
 
 **¹** On that night, the king couldn’t sleep. He commanded the book of records of the chronicles to be brought, and they were read to the king.
 

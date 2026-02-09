@@ -1,8 +1,11 @@
 ---
+title: "Joshua 7 WEB | Read the Bible Online"
+linkTitle: "7"
+description: "Read Joshua 7 Online | But the children of Israel committed a trespass in the devoted things; for Achan, the son of Carmi, the son of Zabdi, the son of Zerah, of the tribe of Judah, took some of the devoted things. Therefore Yahweh’s anger burned against the children of Israel..."
 weight: 7
 ---
 
-# Chapter 7
+# Joshua 7 
 
 **¹** But the children of Israel committed a trespass in the devoted things; for Achan, the son of Carmi, the son of Zabdi, the son of Zerah, of the tribe of Judah, took some of the devoted things. Therefore Yahweh’s anger burned against the children of Israel.
 

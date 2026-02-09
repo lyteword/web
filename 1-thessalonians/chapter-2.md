@@ -1,8 +1,11 @@
 ---
+title: "1 Thessalonians 2 WEB | Read the Bible Online"
+linkTitle: "2"
+description: "Read 1 Thessalonians 2 Online | For you yourselves know, brothers, our visit to you wasn’t in vain..."
 weight: 2
 ---
 
-# Chapter 2
+# 1 Thessalonians 2 
 
 **¹** For you yourselves know, brothers, our visit to you wasn’t in vain,
 

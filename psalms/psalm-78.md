@@ -1,8 +1,11 @@
 ---
+title: "Psalm 78 WEB | Read the Bible Online"
+linkTitle: "78"
+description: "Read Psalm 78 Online | Hear my teaching, my people. Turn your ears to the words of my mouth..."
 weight: 78
 ---
 
-# Psalm 78
+# Psalm 78 
 
 A contemplation by Asaph.
 

@@ -1,8 +1,11 @@
 ---
+title: "Genesis 10 WEB | Read the Bible Online"
+linkTitle: "10"
+description: "Read Genesis 10 Online | Now this is the history of the generations of the sons of Noah and of Shem, Ham, and Japheth. Sons were born to them after the flood..."
 weight: 10
 ---
 
-# Chapter 10
+# Genesis 10 
 
 **¹** Now this is the history of the generations of the sons of Noah and of Shem, Ham, and Japheth. Sons were born to them after the flood.
 

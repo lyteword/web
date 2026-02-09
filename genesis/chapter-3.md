@@ -1,8 +1,11 @@
 ---
+title: "Genesis 3 WEB | Read the Bible Online"
+linkTitle: "3"
+description: "Read Genesis 3 Online | Now the serpent was more subtle than any animal of the field which Yahweh God had made. He said to the woman, “Has God really said, ‘You shall not eat of any tree of the garden’?..."
 weight: 3
 ---
 
-# Chapter 3
+# Genesis 3 
 
 **¹** Now the serpent was more subtle than any animal of the field which Yahweh God had made. He said to the woman, “Has God really said, ‘You shall not eat of any tree of the garden’?”
 

@@ -1,8 +1,11 @@
 ---
+title: "Exodus 8 WEB | Read the Bible Online"
+linkTitle: "8"
+description: "Read Exodus 8 Online | Yahweh spoke to Moses, “Go in to Pharaoh, and tell him, ‘This is what Yahweh says, “Let my people go, that they may serve me..."
 weight: 8
 ---
 
-# Chapter 8
+# Exodus 8 
 
 **¹** Yahweh spoke to Moses, “Go in to Pharaoh, and tell him, ‘This is what Yahweh says, “Let my people go, that they may serve me.
 

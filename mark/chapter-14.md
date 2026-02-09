@@ -1,8 +1,11 @@
 ---
+title: "Mark 14 WEB | Read the Bible Online"
+linkTitle: "14"
+description: "Read Mark 14 Online | It was now two days before the Passover and the Feast of Unleavened Bread, and the chief priests and the scribes sought how they might seize him by deception and kill him..."
 weight: 14
 ---
 
-# Chapter 14
+# Mark 14 
 
 **¹** It was now two days before the Passover and the Feast of Unleavened Bread, and the chief priests and the scribes sought how they might seize him by deception and kill him.
 

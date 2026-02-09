@@ -1,8 +1,11 @@
 ---
+title: "Exodus 20 WEB | Read the Bible Online"
+linkTitle: "20"
+description: "Read Exodus 20 Online | God[^68] spoke all these words, saying..."
 weight: 20
 ---
 
-# Chapter 20
+# Exodus 20 
 
 **¹** God[^68] spoke all these words, saying,
 

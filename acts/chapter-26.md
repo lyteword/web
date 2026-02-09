@@ -1,8 +1,11 @@
 ---
+title: "Acts 26 WEB | Read the Bible Online"
+linkTitle: "26"
+description: "Read Acts 26 Online | Agrippa said to Paul, “You may speak for yourself.” Then Paul stretched out his hand, and made his defense..."
 weight: 26
 ---
 
-# Chapter 26
+# Acts 26 
 
 **¹** Agrippa said to Paul, “You may speak for yourself.” Then Paul stretched out his hand, and made his defense.
 

@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 7 WEB | Read the Bible Online"
+linkTitle: "7"
+description: "Read Isaiah 7 Online | In the days of Ahaz the son of Jotham, the son of Uzziah, king of Judah, Rezin the king of Syria and Pekah the son of Remaliah, king of Israel, went up to Jerusalem to war against it, but could not prevail against it..."
 weight: 7
 ---
 
-# Chapter 7
+# Isaiah 7 
 
 **¹** In the days of Ahaz the son of Jotham, the son of Uzziah, king of Judah, Rezin the king of Syria and Pekah the son of Remaliah, king of Israel, went up to Jerusalem to war against it, but could not prevail against it.
 

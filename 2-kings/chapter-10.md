@@ -1,8 +1,11 @@
 ---
+title: "2 Kings 10 WEB | Read the Bible Online"
+linkTitle: "10"
+description: "Read 2 Kings 10 Online | Now Ahab had seventy sons in Samaria. Jehu wrote letters and sent them to Samaria, to the rulers of Jezreel, even the elders, and to those who brought up Ahab’s sons, saying..."
 weight: 10
 ---
 
-# Chapter 10
+# 2 Kings 10 
 
 **¹** Now Ahab had seventy sons in Samaria. Jehu wrote letters and sent them to Samaria, to the rulers of Jezreel, even the elders, and to those who brought up Ahab’s sons, saying,
 

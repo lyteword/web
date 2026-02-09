@@ -1,8 +1,11 @@
 ---
+title: "Mark 11 WEB | Read the Bible Online"
+linkTitle: "11"
+description: "Read Mark 11 Online | When they came near to Jerusalem, to Bethsphage[^834] and Bethany, at the Mount of Olives, he sent two of his disciples..."
 weight: 11
 ---
 
-# Chapter 11
+# Mark 11 
 
 **¹** When they came near to Jerusalem, to Bethsphage[^834] and Bethany, at the Mount of Olives, he sent two of his disciples
 

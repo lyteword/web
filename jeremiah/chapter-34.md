@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 34 WEB | Read the Bible Online"
+linkTitle: "34"
+description: "Read Jeremiah 34 Online | The word which came to Jeremiah from Yahweh, when Nebuchadnezzar king of Babylon, with all his army, all the kingdoms of the earth that were under his dominion, and all the peoples, were fighting against Jerusalem and against all its cities, saying..."
 weight: 34
 ---
 
-# Chapter 34
+# Jeremiah 34 
 
 **¹** The word which came to Jeremiah from Yahweh, when Nebuchadnezzar king of Babylon, with all his army, all the kingdoms of the earth that were under his dominion, and all the peoples, were fighting against Jerusalem and against all its cities, saying:
 

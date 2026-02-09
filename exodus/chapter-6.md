@@ -1,8 +1,11 @@
 ---
+title: "Exodus 6 WEB | Read the Bible Online"
+linkTitle: "6"
+description: "Read Exodus 6 Online | Yahweh said to Moses, “Now you shall see what I will do to Pharaoh, for by a strong hand he shall let them go, and by a strong hand he shall drive them out of his land...."
 weight: 6
 ---
 
-# Chapter 6
+# Exodus 6 
 
 **¹** Yahweh said to Moses, “Now you shall see what I will do to Pharaoh, for by a strong hand he shall let them go, and by a strong hand he shall drive them out of his land.”
 

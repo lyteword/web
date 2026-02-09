@@ -1,8 +1,11 @@
 ---
+title: "2 Samuel 22 WEB | Read the Bible Online"
+linkTitle: "22"
+description: "Read 2 Samuel 22 Online | David spoke to Yahweh the words of this song in the day that Yahweh delivered him out of the hand of all his enemies, and out of the hand of Saul..."
 weight: 22
 ---
 
-# Chapter 22
+# 2 Samuel 22 
 
 **¹** David spoke to Yahweh the words of this song in the day that Yahweh delivered him out of the hand of all his enemies, and out of the hand of Saul,
 

@@ -1,8 +1,11 @@
 ---
+title: "Revelation 4 WEB | Read the Bible Online"
+linkTitle: "4"
+description: "Read Revelation 4 Online | After these things I looked and saw a door opened in heaven; and the first voice that I heard, like a trumpet speaking with me, was one saying, “Come up here, and I will show you the things which must happen after this...."
 weight: 4
 ---
 
-# Chapter 4
+# Revelation 4 
 
 **¹** After these things I looked and saw a door opened in heaven; and the first voice that I heard, like a trumpet speaking with me, was one saying, “Come up here, and I will show you the things which must happen after this.”
 

@@ -1,8 +1,11 @@
 ---
+title: "Acts 14 WEB | Read the Bible Online"
+linkTitle: "14"
+description: "Read Acts 14 Online | In Iconium, they entered together into the synagogue of the Jews, and so spoke that a great multitude both of Jews and of Greeks believed..."
 weight: 14
 ---
 
-# Chapter 14
+# Acts 14 
 
 **¹** In Iconium, they entered together into the synagogue of the Jews, and so spoke that a great multitude both of Jews and of Greeks believed.
 

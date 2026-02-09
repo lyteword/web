@@ -1,8 +1,11 @@
 ---
+title: "Galatians 4 WEB | Read the Bible Online"
+linkTitle: "4"
+description: "Read Galatians 4 Online | But I say that so long as the heir is a child, he is no different from a bondservant, though he is lord of all..."
 weight: 4
 ---
 
-# Chapter 4
+# Galatians 4 
 
 **¹** But I say that so long as the heir is a child, he is no different from a bondservant, though he is lord of all,
 

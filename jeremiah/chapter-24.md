@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 24 WEB | Read the Bible Online"
+linkTitle: "24"
+description: "Read Jeremiah 24 Online | Yahweh showed me, and behold, two baskets of figs were set before Yahweh’s temple, after Nebuchadnezzar king of Babylon had carried away captive Jeconiah the son of Jehoiakim, king of Judah, and the princes of Judah, with the craftsmen and smiths, from Jerusalem, and had brought them to Babylon..."
 weight: 24
 ---
 
-# Chapter 24
+# Jeremiah 24 
 
 **¹** Yahweh showed me, and behold, two baskets of figs were set before Yahweh’s temple, after Nebuchadnezzar king of Babylon had carried away captive Jeconiah the son of Jehoiakim, king of Judah, and the princes of Judah, with the craftsmen and smiths, from Jerusalem, and had brought them to Babylon.
 

@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 2 WEB | Read the Bible Online"
+linkTitle: "2"
+description: "Read 2 Chronicles 2 Online | Now Solomon decided to build a house for Yahweh’s name, and a house for his kingdom..."
 weight: 2
 ---
 
-# Chapter 2
+# 2 Chronicles 2 
 
 **¹** Now Solomon decided to build a house for Yahweh’s name, and a house for his kingdom.
 

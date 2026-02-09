@@ -1,8 +1,11 @@
 ---
+title: "Genesis 35 WEB | Read the Bible Online"
+linkTitle: "35"
+description: "Read Genesis 35 Online | God said to Jacob, “Arise, go up to Bethel, and live there. Make there an altar to God, who appeared to you when you fled from the face of Esau your brother...."
 weight: 35
 ---
 
-# Chapter 35
+# Genesis 35 
 
 **¹** God said to Jacob, “Arise, go up to Bethel, and live there. Make there an altar to God, who appeared to you when you fled from the face of Esau your brother.”
 

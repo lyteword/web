@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 24 WEB | Read the Bible Online"
+linkTitle: "24"
+description: "Read Leviticus 24 Online | Yahweh spoke to Moses, saying..."
 weight: 24
 ---
 
-# Chapter 24
+# Leviticus 24 
 
 **¹** Yahweh spoke to Moses, saying,
 

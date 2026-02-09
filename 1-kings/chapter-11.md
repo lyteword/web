@@ -1,8 +1,11 @@
 ---
+title: "1 Kings 11 WEB | Read the Bible Online"
+linkTitle: "11"
+description: "Read 1 Kings 11 Online | Now King Solomon loved many foreign women, together with the daughter of Pharaoh: women of the Moabites, Ammonites, Edomites, Sidonians, and Hittites..."
 weight: 11
 ---
 
-# Chapter 11
+# 1 Kings 11 
 
 **¹** Now King Solomon loved many foreign women, together with the daughter of Pharaoh: women of the Moabites, Ammonites, Edomites, Sidonians, and Hittites,
 

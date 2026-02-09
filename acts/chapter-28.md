@@ -1,8 +1,11 @@
 ---
+title: "Acts 28 WEB | Read the Bible Online"
+linkTitle: "28"
+description: "Read Acts 28 Online | When we had escaped, then they[^1102] learned that the island was called Malta..."
 weight: 28
 ---
 
-# Chapter 28
+# Acts 28 
 
 **¹** When we had escaped, then they[^1102] learned that the island was called Malta.
 

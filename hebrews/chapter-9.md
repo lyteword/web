@@ -1,8 +1,11 @@
 ---
+title: "Hebrews 9 WEB | Read the Bible Online"
+linkTitle: "9"
+description: "Read Hebrews 9 Online | Now indeed even the first[^1326] covenant had ordinances of divine service and an earthly sanctuary..."
 weight: 9
 ---
 
-# Chapter 9
+# Hebrews 9 
 
 **¹** Now indeed even the first[^1326] covenant had ordinances of divine service and an earthly sanctuary.
 

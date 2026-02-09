@@ -1,8 +1,11 @@
 ---
+title: "Joshua 23 WEB | Read the Bible Online"
+linkTitle: "23"
+description: "Read Joshua 23 Online | After many days, when Yahweh had given rest to Israel from their enemies all around, and Joshua was old and well advanced in years..."
 weight: 23
 ---
 
-# Chapter 23
+# Joshua 23 
 
 **¹** After many days, when Yahweh had given rest to Israel from their enemies all around, and Joshua was old and well advanced in years,
 

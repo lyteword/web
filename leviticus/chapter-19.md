@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 19 WEB | Read the Bible Online"
+linkTitle: "19"
+description: "Read Leviticus 19 Online | Yahweh spoke to Moses, saying..."
 weight: 19
 ---
 
-# Chapter 19
+# Leviticus 19 
 
 **¹** Yahweh spoke to Moses, saying,
 

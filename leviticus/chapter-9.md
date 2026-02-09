@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 9 WEB | Read the Bible Online"
+linkTitle: "9"
+description: "Read Leviticus 9 Online | On the eighth day, Moses called Aaron and his sons, and the elders of Israel..."
 weight: 9
 ---
 
-# Chapter 9
+# Leviticus 9 
 
 **¹** On the eighth day, Moses called Aaron and his sons, and the elders of Israel;
 

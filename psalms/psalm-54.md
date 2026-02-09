@@ -1,8 +1,11 @@
 ---
+title: "Psalm 54 WEB | Read the Bible Online"
+linkTitle: "54"
+description: "Read Psalm 54 Online | Save me, God, by your name. Vindicate me in your might..."
 weight: 54
 ---
 
-# Psalm 54
+# Psalm 54 
 
 For the Chief Musician. On stringed instruments. A contemplation by David, when the Ziphites came and said to Saul, “Isn’t David hiding himself among us?”
 

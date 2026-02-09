@@ -1,8 +1,11 @@
 ---
+title: "Proverbs 2 WEB | Read the Bible Online"
+linkTitle: "2"
+description: "Read Proverbs 2 Online | My son, if you will receive my words, and store up my commandments within you..."
 weight: 2
 ---
 
-# Chapter 2
+# Proverbs 2 
 
 **¹** My son, if you will receive my words, and store up my commandments within you,
 

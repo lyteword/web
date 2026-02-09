@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 7 WEB | Read the Bible Online"
+linkTitle: "7"
+description: "Read 2 Chronicles 7 Online | Now when Solomon had finished praying, fire came down from heaven and consumed the burnt offering and the sacrifices; and Yahweh’s glory filled the house..."
 weight: 7
 ---
 
-# Chapter 7
+# 2 Chronicles 7 
 
 **¹** Now when Solomon had finished praying, fire came down from heaven and consumed the burnt offering and the sacrifices; and Yahweh’s glory filled the house.
 

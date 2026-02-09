@@ -1,8 +1,11 @@
 ---
+title: "1 Kings 12 WEB | Read the Bible Online"
+linkTitle: "12"
+description: "Read 1 Kings 12 Online | Rehoboam went to Shechem, for all Israel had come to Shechem to make him king..."
 weight: 12
 ---
 
-# Chapter 12
+# 1 Kings 12 
 
 **¹** Rehoboam went to Shechem, for all Israel had come to Shechem to make him king.
 

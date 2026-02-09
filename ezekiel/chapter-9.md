@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 9 WEB | Read the Bible Online"
+linkTitle: "9"
+description: "Read Ezekiel 9 Online | Then he cried in my ears with a loud voice, saying, “Cause those who are in charge of the city to draw near, each man with his destroying weapon in his hand...."
 weight: 9
 ---
 
-# Chapter 9
+# Ezekiel 9 
 
 **¹** Then he cried in my ears with a loud voice, saying, “Cause those who are in charge of the city to draw near, each man with his destroying weapon in his hand.”
 

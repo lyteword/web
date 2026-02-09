@@ -1,8 +1,11 @@
 ---
+title: "Romans 16 WEB | Read the Bible Online"
+linkTitle: "16"
+description: "Read Romans 16 Online | I commend to you Phoebe, our sister, who is a servant[^1181] of the assembly that is at Cenchreae..."
 weight: 16
 ---
 
-# Chapter 16
+# Romans 16 
 
 **¹** I commend to you Phoebe, our sister, who is a servant[^1181] of the assembly that is at Cenchreae,
 

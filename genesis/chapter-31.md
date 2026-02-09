@@ -1,8 +1,11 @@
 ---
+title: "Genesis 31 WEB | Read the Bible Online"
+linkTitle: "31"
+description: "Read Genesis 31 Online | Jacob heard Laban’s sons’ words, saying, “Jacob has taken away all that was our father’s. He has obtained all this wealth from that which was our father’s...."
 weight: 31
 ---
 
-# Chapter 31
+# Genesis 31 
 
 **¹** Jacob heard Laban’s sons’ words, saying, “Jacob has taken away all that was our father’s. He has obtained all this wealth from that which was our father’s.”
 

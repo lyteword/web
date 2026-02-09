@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 32 WEB | Read the Bible Online"
+linkTitle: "32"
+description: "Read 2 Chronicles 32 Online | After these things and this faithfulness, Sennacherib king of Assyria came, entered into Judah, encamped against the fortified cities, and intended to win them for himself..."
 weight: 32
 ---
 
-# Chapter 32
+# 2 Chronicles 32 
 
 **¹** After these things and this faithfulness, Sennacherib king of Assyria came, entered into Judah, encamped against the fortified cities, and intended to win them for himself.
 

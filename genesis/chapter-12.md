@@ -1,8 +1,11 @@
 ---
+title: "Genesis 12 WEB | Read the Bible Online"
+linkTitle: "12"
+description: "Read Genesis 12 Online | Now Yahweh said to Abram, “Leave your country, and your relatives, and your father’s house, and go to the land that I will show you..."
 weight: 12
 ---
 
-# Chapter 12
+# Genesis 12 
 
 **¹** Now Yahweh said to Abram, “Leave your country, and your relatives, and your father’s house, and go to the land that I will show you.
 

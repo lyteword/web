@@ -1,8 +1,11 @@
 ---
+title: "Psalm 93 WEB | Read the Bible Online"
+linkTitle: "93"
+description: "Read Psalm 93 Online | Yahweh reigns! He is clothed with majesty! Yahweh is armed with strength. The world also is established. It can’t be moved..."
 weight: 93
 ---
 
-# Psalm 93
+# Psalm 93 
 
 **¹** Yahweh reigns! He is clothed with majesty! Yahweh is armed with strength. The world also is established. It can’t be moved.
 

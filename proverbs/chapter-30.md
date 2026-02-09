@@ -1,8 +1,11 @@
 ---
+title: "Proverbs 30 WEB | Read the Bible Online"
+linkTitle: "30"
+description: "Read Proverbs 30 Online | The words of Agur the son of Jakeh, the revelation: the man says to Ithiel, to Ithiel and Ucal..."
 weight: 30
 ---
 
-# Chapter 30
+# Proverbs 30 
 
 **¹** The words of Agur the son of Jakeh, the revelation: the man says to Ithiel, to Ithiel and Ucal:
 

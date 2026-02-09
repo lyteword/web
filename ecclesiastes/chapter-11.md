@@ -1,8 +1,11 @@
 ---
+title: "Ecclesiastes 11 WEB | Read the Bible Online"
+linkTitle: "11"
+description: "Read Ecclesiastes 11 Online | Cast your bread on the waters; for you shall find it after many days..."
 weight: 11
 ---
 
-# Chapter 11
+# Ecclesiastes 11 
 
 **¹** Cast your bread on the waters; for you shall find it after many days.
 

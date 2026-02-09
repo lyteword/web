@@ -1,8 +1,11 @@
 ---
+title: "Lamentations 1 WEB | Read the Bible Online"
+linkTitle: "1"
+description: "Read Lamentations 1 Online | How the city sits solitary, that was full of people! She has become as a widow, who was great among the nations! She who was a princess among the provinces has become a slave..."
 weight: 1
 ---
 
-# Chapter 1
+# Lamentations 1 
 
 **¹** How the city sits solitary, that was full of people! She has become as a widow, who was great among the nations! She who was a princess among the provinces has become a slave!
 

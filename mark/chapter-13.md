@@ -1,8 +1,11 @@
 ---
+title: "Mark 13 WEB | Read the Bible Online"
+linkTitle: "13"
+description: "Read Mark 13 Online | As he went out of the temple, one of his disciples said to him, “Teacher, see what kind of stones and what kind of buildings!..."
 weight: 13
 ---
 
-# Chapter 13
+# Mark 13 
 
 **¹** As he went out of the temple, one of his disciples said to him, “Teacher, see what kind of stones and what kind of buildings!”
 

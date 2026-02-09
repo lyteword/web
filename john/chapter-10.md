@@ -1,8 +1,11 @@
 ---
+title: "John 10 WEB | Read the Bible Online"
+linkTitle: "10"
+description: "Read John 10 Online | “Most certainly, I tell you, one who doesn’t enter by the door into the sheep fold, but climbs up some other way, is a thief and a robber..."
 weight: 10
 ---
 
-# Chapter 10
+# John 10 
 
 **¹**  “Most certainly, I tell you, one who doesn’t enter by the door into the sheep fold, but climbs up some other way, is a thief and a robber.
 

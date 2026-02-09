@@ -1,8 +1,11 @@
 ---
+title: "Numbers 23 WEB | Read the Bible Online"
+linkTitle: "23"
+description: "Read Numbers 23 Online | Balaam said to Balak, “Build here seven altars for me, and prepare here seven bulls and seven rams for me...."
 weight: 23
 ---
 
-# Chapter 23
+# Numbers 23 
 
 **¹** Balaam said to Balak, “Build here seven altars for me, and prepare here seven bulls and seven rams for me.”
 

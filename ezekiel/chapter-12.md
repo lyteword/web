@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 12 WEB | Read the Bible Online"
+linkTitle: "12"
+description: "Read Ezekiel 12 Online | Yahweh’s word also came to me, saying..."
 weight: 12
 ---
 
-# Chapter 12
+# Ezekiel 12 
 
 **¹** Yahweh’s word also came to me, saying,
 

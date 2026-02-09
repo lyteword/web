@@ -1,8 +1,11 @@
 ---
+title: "Mark 9 WEB | Read the Bible Online"
+linkTitle: "9"
+description: "Read Mark 9 Online | He said to them,  “Most certainly I tell you, there are some standing here who will in no way taste death until they see God’s Kingdom come with power...."
 weight: 9
 ---
 
-# Chapter 9
+# Mark 9 
 
 **¹** He said to them,  “Most certainly I tell you, there are some standing here who will in no way taste death until they see God’s Kingdom come with power.”
 

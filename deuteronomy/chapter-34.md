@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 34 WEB | Read the Bible Online"
+linkTitle: "34"
+description: "Read Deuteronomy 34 Online | Moses went up from the plains of Moab to Mount Nebo, to the top of Pisgah, that is opposite Jericho. Yahweh showed him all the land of Gilead to Dan..."
 weight: 34
 ---
 
-# Chapter 34
+# Deuteronomy 34 
 
 **¹** Moses went up from the plains of Moab to Mount Nebo, to the top of Pisgah, that is opposite Jericho. Yahweh showed him all the land of Gilead to Dan,
 
