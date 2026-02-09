@@ -39,7 +39,7 @@ For the Chief Musician. Set to “The Death of the Son.” A Psalm by David.
 
 **¹⁵** The nations have sunk down in the pit that they made. In the net which they hid, their own foot is taken.
 
-**¹⁶** Yahweh has made himself known. He has executed judgment. The wicked is snared by the work of his own hands. \qs Meditation. Selah.\qs*
+**¹⁶** Yahweh has made himself known. He has executed judgment. The wicked is snared by the work of his own hands. * Meditation. Selah.*
 
 **¹⁷** The wicked shall be turned back to Sheol,[^427] even all the nations that forget God.
 
@@ -47,6 +47,6 @@ For the Chief Musician. Set to “The Death of the Son.” A Psalm by David.
 
 **¹⁹** Arise, Yahweh! Don’t let man prevail. Let the nations be judged in your sight.
 
-**²⁰** Put them in fear, Yahweh. Let the nations know that they are only men. \qs Selah.\qs*
+**²⁰** Put them in fear, Yahweh. Let the nations know that they are only men. *Selah.*
 
 [^427]: 9:17 Sheol is the place of the dead.

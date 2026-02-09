@@ -15,7 +15,7 @@ A contemplation by Ethan, the Ezrahite.
 
 **³** “I have made a covenant with my chosen one, I have sworn to David, my servant,
 
-**⁴** ‘I will establish your offspring forever, and build up your throne to all generations.’” \qs Selah.\qs*
+**⁴** ‘I will establish your offspring forever, and build up your throne to all generations.’” *Selah.*
 
 **⁵** The heavens will praise your wonders, Yahweh, your faithfulness also in the assembly of the holy ones.
 
@@ -81,7 +81,7 @@ A contemplation by Ethan, the Ezrahite.
 
 **³⁶** His offspring will endure forever, his throne like the sun before me.
 
-**³⁷** It will be established forever like the moon, the faithful witness in the sky.” \qs Selah.\qs*
+**³⁷** It will be established forever like the moon, the faithful witness in the sky.” *Selah.*
 
 **³⁸** But you have rejected and spurned. You have been angry with your anointed.
 
@@ -97,13 +97,13 @@ A contemplation by Ethan, the Ezrahite.
 
 **⁴⁴** You have ended his splendor, and thrown his throne down to the ground.
 
-**⁴⁵** You have shortened the days of his youth. You have covered him with shame. \qs Selah.\qs*
+**⁴⁵** You have shortened the days of his youth. You have covered him with shame. *Selah.*
 
 **⁴⁶** How long, Yahweh? Will you hide yourself forever? Will your wrath burn like fire?
 
 **⁴⁷** Remember how short my time is, for what vanity you have created all the children of men!
 
-**⁴⁸** What man is he who shall live and not see death, who shall deliver his soul from the power of Sheol?[^449] \qs Selah.\qs*
+**⁴⁸** What man is he who shall live and not see death, who shall deliver his soul from the power of Sheol?[^449] *Selah.*
 
 **⁴⁹** Lord, where are your former loving kindnesses, which you swore to David in your faithfulness?
 

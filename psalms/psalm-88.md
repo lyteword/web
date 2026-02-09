@@ -21,13 +21,13 @@ A Song. A Psalm by the sons of Korah. For the Chief Musician. To the tune of “
 
 **⁶** You have laid me in the lowest pit, in the darkest depths.
 
-**⁷** Your wrath lies heavily on me. You have afflicted me with all your waves. \qs Selah.\qs*
+**⁷** Your wrath lies heavily on me. You have afflicted me with all your waves. *Selah.*
 
 **⁸** You have taken my friends from me. You have made me an abomination to them. I am confined, and I can’t escape.
 
 **⁹** My eyes are dim from grief. I have called on you daily, Yahweh. I have spread out my hands to you.
 
-**¹⁰** Do you show wonders to the dead? Do the departed spirits rise up and praise you? \qs Selah.\qs*
+**¹⁰** Do you show wonders to the dead? Do the departed spirits rise up and praise you? *Selah.*
 
 **¹¹** Is your loving kindness declared in the grave? Or your faithfulness in Destruction?
 

@@ -19,7 +19,7 @@ A Psalm by David.
 
 **⁵** I remember the days of old. I meditate on all your doings. I contemplate the work of your hands.
 
-**⁶** I spread out my hands to you. My soul thirsts for you, like a parched land. \qs Selah.\qs*
+**⁶** I spread out my hands to you. My soul thirsts for you, like a parched land. *Selah.*
 
 **⁷** Hurry to answer me, Yahweh. My spirit fails. Don’t hide your face from me, so that I don’t become like those who go down into the pit.
 

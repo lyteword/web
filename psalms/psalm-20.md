@@ -13,7 +13,7 @@ For the Chief Musician. A Psalm by David.
 
 **²** send you help from the sanctuary, grant you support from Zion,
 
-**³** remember all your offerings, and accept your burned sacrifice. \qs Selah.\qs*
+**³** remember all your offerings, and accept your burned sacrifice. *Selah.*
 
 **⁴** May he grant you your heart’s desire, and fulfill all your counsel.
 

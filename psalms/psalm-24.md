@@ -19,7 +19,7 @@ A Psalm by David.
 
 **⁵** He shall receive a blessing from Yahweh, righteousness from the God of his salvation.
 
-**⁶** This is the generation of those who seek Him, who seek your face—even Jacob. \qs Selah.\qs*
+**⁶** This is the generation of those who seek Him, who seek your face—even Jacob. *Selah.*
 
 **⁷** Lift up your heads, you gates! Be lifted up, you everlasting doors, and the King of glory will come in.
 
@@ -27,4 +27,4 @@ A Psalm by David.
 
 **⁹** Lift up your heads, you gates; yes, lift them up, you everlasting doors, and the King of glory will come in.
 
-**¹⁰** Who is this King of glory? Yahweh of Armies is the King of glory! \qs Selah.\qs*
+**¹⁰** Who is this King of glory? Yahweh of Armies is the King of glory! *Selah.*

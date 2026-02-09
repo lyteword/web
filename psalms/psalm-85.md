@@ -11,7 +11,7 @@ For the Chief Musician. A Psalm by the sons of Korah.
 
 **¹** Yahweh, you have been favorable to your land. You have restored the fortunes of Jacob.
 
-**²** You have forgiven the iniquity of your people. You have covered all their sin. \qs Selah.\qs*
+**²** You have forgiven the iniquity of your people. You have covered all their sin. *Selah.*
 
 **³** You have taken away all your wrath. You have turned from the fierceness of your anger.
 

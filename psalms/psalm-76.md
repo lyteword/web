@@ -13,7 +13,7 @@ For the Chief Musician. On stringed instruments. A Psalm by Asaph. A song.
 
 **²** His tabernacle is also in Salem. His dwelling place in Zion.
 
-**³** There he broke the flaming arrows of the bow, the shield, and the sword, and the weapons of war. \qs Selah.\qs*
+**³** There he broke the flaming arrows of the bow, the shield, and the sword, and the weapons of war. *Selah.*
 
 **⁴** Glorious are you, and excellent, more than mountains of game.
 
@@ -25,7 +25,7 @@ For the Chief Musician. On stringed instruments. A Psalm by Asaph. A song.
 
 **⁸** You pronounced judgment from heaven. The earth feared, and was silent,
 
-**⁹** when God arose to judgment, to save all the afflicted ones of the earth. \qs Selah.\qs*
+**⁹** when God arose to judgment, to save all the afflicted ones of the earth. *Selah.*
 
 **¹⁰** Surely the wrath of man praises you. The survivors of your wrath are restrained.
 

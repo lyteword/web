@@ -15,7 +15,7 @@ For the Chief Musician. For a stringed instrument. By David.
 
 **³** For you have been a refuge for me, a strong tower from the enemy.
 
-**⁴** I will dwell in your tent forever. I will take refuge in the shelter of your wings. \qs Selah.\qs*
+**⁴** I will dwell in your tent forever. I will take refuge in the shelter of your wings. *Selah.*
 
 **⁵** For you, God, have heard my vows. You have given me the heritage of those who fear your name.
 
