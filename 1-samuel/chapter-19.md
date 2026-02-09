@@ -1,8 +1,11 @@
 ---
+title: "1 Samuel 19 WEB | Read the Bible Online"
+linkTitle: "19"
+description: "Read 1 Samuel 19 Online | Saul spoke to Jonathan his son and to all his servants, that they should kill David. But Jonathan, Saul’s son, greatly delighted in David..."
 weight: 19
 ---
 
-# Chapter 19
+# 1 Samuel 19 
 
 **¹** Saul spoke to Jonathan his son and to all his servants, that they should kill David. But Jonathan, Saul’s son, greatly delighted in David.
 

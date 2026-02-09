@@ -1,8 +1,11 @@
 ---
+title: "Acts 17 WEB | Read the Bible Online"
+linkTitle: "17"
+description: "Read Acts 17 Online | Now when they had passed through Amphipolis and Apollonia, they came to Thessalonica, where there was a Jewish synagogue..."
 weight: 17
 ---
 
-# Chapter 17
+# Acts 17 
 
 **¹** Now when they had passed through Amphipolis and Apollonia, they came to Thessalonica, where there was a Jewish synagogue.
 

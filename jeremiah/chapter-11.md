@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 11 WEB | Read the Bible Online"
+linkTitle: "11"
+description: "Read Jeremiah 11 Online | The word that came to Jeremiah from Yahweh, saying..."
 weight: 11
 ---
 
-# Chapter 11
+# Jeremiah 11 
 
 **¹** The word that came to Jeremiah from Yahweh, saying,
 

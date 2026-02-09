@@ -1,8 +1,11 @@
 ---
+title: "Psalm 23 WEB | Read the Bible Online"
+linkTitle: "23"
+description: "Read Psalm 23 Online | Yahweh is my shepherd; I shall lack nothing..."
 weight: 23
 ---
 
-# Psalm 23
+# Psalm 23 
 
 A Psalm by David.
 

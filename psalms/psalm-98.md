@@ -1,8 +1,11 @@
 ---
+title: "Psalm 98 WEB | Read the Bible Online"
+linkTitle: "98"
+description: "Read Psalm 98 Online | Sing to Yahweh a new song, for he has done marvelous things! His right hand and his holy arm have worked salvation for him..."
 weight: 98
 ---
 
-# Psalm 98
+# Psalm 98 
 
 A Psalm.
 

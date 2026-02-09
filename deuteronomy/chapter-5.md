@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 5 WEB | Read the Bible Online"
+linkTitle: "5"
+description: "Read Deuteronomy 5 Online | Moses called to all Israel, and said to them, “Hear, Israel, the statutes and the ordinances which I speak in your ears today, that you may learn them, and observe to do them...."
 weight: 5
 ---
 
-# Chapter 5
+# Deuteronomy 5 
 
 **¹** Moses called to all Israel, and said to them, “Hear, Israel, the statutes and the ordinances which I speak in your ears today, that you may learn them, and observe to do them.”
 

@@ -1,8 +1,11 @@
 ---
+title: "Proverbs 29 WEB | Read the Bible Online"
+linkTitle: "29"
+description: "Read Proverbs 29 Online | He who is often rebuked and stiffens his neck will be destroyed suddenly, with no remedy..."
 weight: 29
 ---
 
-# Chapter 29
+# Proverbs 29 
 
 **¹** He who is often rebuked and stiffens his neck will be destroyed suddenly, with no remedy.
 

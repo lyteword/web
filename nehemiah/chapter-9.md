@@ -1,8 +1,11 @@
 ---
+title: "Nehemiah 9 WEB | Read the Bible Online"
+linkTitle: "9"
+description: "Read Nehemiah 9 Online | Now in the twenty-fourth day of this month the children of Israel were assembled with fasting, with sackcloth, and dirt on them..."
 weight: 9
 ---
 
-# Chapter 9
+# Nehemiah 9 
 
 **¹** Now in the twenty-fourth day of this month the children of Israel were assembled with fasting, with sackcloth, and dirt on them.
 

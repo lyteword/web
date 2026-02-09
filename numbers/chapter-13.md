@@ -1,8 +1,11 @@
 ---
+title: "Numbers 13 WEB | Read the Bible Online"
+linkTitle: "13"
+description: "Read Numbers 13 Online | Yahweh spoke to Moses, saying..."
 weight: 13
 ---
 
-# Chapter 13
+# Numbers 13 
 
 **¹** Yahweh spoke to Moses, saying,
 

@@ -1,8 +1,11 @@
 ---
+title: "Genesis 4 WEB | Read the Bible Online"
+linkTitle: "4"
+description: "Read Genesis 4 Online | The man knew[^7] Eve his wife. She conceived,[^8] and gave birth to Cain, and said, “I have gotten a man with Yahweh’s help...."
 weight: 4
 ---
 
-# Chapter 4
+# Genesis 4 
 
 **¹** The man knew[^7] Eve his wife. She conceived,[^8] and gave birth to Cain, and said, “I have gotten a man with Yahweh’s help.”
 

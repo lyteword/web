@@ -1,8 +1,11 @@
 ---
+title: "Psalm 90 WEB | Read the Bible Online"
+linkTitle: "90"
+description: "Read Psalm 90 Online | Lord,[^451] you have been our dwelling place for all generations..."
 weight: 90
 ---
 
-# Psalm 90
+# Psalm 90 
 
 A Prayer by Moses, the man of God.[^450]
 

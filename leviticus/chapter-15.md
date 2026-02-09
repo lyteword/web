@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 15 WEB | Read the Bible Online"
+linkTitle: "15"
+description: "Read Leviticus 15 Online | Yahweh spoke to Moses and to Aaron, saying..."
 weight: 15
 ---
 
-# Chapter 15
+# Leviticus 15 
 
 **¹** Yahweh spoke to Moses and to Aaron, saying,
 

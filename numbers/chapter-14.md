@@ -1,8 +1,11 @@
 ---
+title: "Numbers 14 WEB | Read the Bible Online"
+linkTitle: "14"
+description: "Read Numbers 14 Online | All the congregation lifted up their voice, and cried; and the people wept that night..."
 weight: 14
 ---
 
-# Chapter 14
+# Numbers 14 
 
 **¹** All the congregation lifted up their voice, and cried; and the people wept that night.
 

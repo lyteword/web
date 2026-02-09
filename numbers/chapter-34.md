@@ -1,8 +1,11 @@
 ---
+title: "Numbers 34 WEB | Read the Bible Online"
+linkTitle: "34"
+description: "Read Numbers 34 Online | Yahweh spoke to Moses, saying..."
 weight: 34
 ---
 
-# Chapter 34
+# Numbers 34 
 
 **¹** Yahweh spoke to Moses, saying,
 

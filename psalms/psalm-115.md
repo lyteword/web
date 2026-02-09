@@ -1,8 +1,11 @@
 ---
+title: "Psalm 115 WEB | Read the Bible Online"
+linkTitle: "115"
+description: "Read Psalm 115 Online | Not to us, Yahweh, not to us, but to your name give glory, for your loving kindness, and for your truth’s sake..."
 weight: 115
 ---
 
-# Psalm 115
+# Psalm 115 
 
 **¹** Not to us, Yahweh, not to us, but to your name give glory, for your loving kindness, and for your truth’s sake.
 

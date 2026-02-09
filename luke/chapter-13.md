@@ -1,8 +1,11 @@
 ---
+title: "Luke 13 WEB | Read the Bible Online"
+linkTitle: "13"
+description: "Read Luke 13 Online | Now there were some present at the same time who told him about the Galileans whose blood Pilate had mixed with their sacrifices..."
 weight: 13
 ---
 
-# Chapter 13
+# Luke 13 
 
 **¹** Now there were some present at the same time who told him about the Galileans whose blood Pilate had mixed with their sacrifices.
 

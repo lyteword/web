@@ -1,8 +1,11 @@
 ---
+title: "Malachi 3 WEB | Read the Bible Online"
+linkTitle: "3"
+description: "Read Malachi 3 Online | “Behold, I send my messenger, and he will prepare the way before me! The Lord, whom you seek, will suddenly come to his temple. Behold, the messenger of the covenant, whom you desire, is coming!” says Yahweh of Armies..."
 weight: 3
 ---
 
-# Chapter 3
+# Malachi 3 
 
 **¹** “Behold, I send my messenger, and he will prepare the way before me! The Lord, whom you seek, will suddenly come to his temple. Behold, the messenger of the covenant, whom you desire, is coming!” says Yahweh of Armies.
 

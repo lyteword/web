@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 54 WEB | Read the Bible Online"
+linkTitle: "54"
+description: "Read Isaiah 54 Online | “Sing, barren, you who didn’t give birth! Break out into singing, and cry aloud, you who didn’t travail with child! For more are the children of the desolate than the children of the married wife,” says Yahweh..."
 weight: 54
 ---
 
-# Chapter 54
+# Isaiah 54 
 
 **¹** “Sing, barren, you who didn’t give birth! Break out into singing, and cry aloud, you who didn’t travail with child! For more are the children of the desolate than the children of the married wife,” says Yahweh.
 

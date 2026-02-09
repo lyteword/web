@@ -1,8 +1,11 @@
 ---
+title: "John 7 WEB | Read the Bible Online"
+linkTitle: "7"
+description: "Read John 7 Online | After these things, Jesus was walking in Galilee, for he wouldn’t walk in Judea, because the Jews sought to kill him..."
 weight: 7
 ---
 
-# Chapter 7
+# John 7 
 
 **¹** After these things, Jesus was walking in Galilee, for he wouldn’t walk in Judea, because the Jews sought to kill him.
 

@@ -1,8 +1,11 @@
 ---
+title: "2 Kings 22 WEB | Read the Bible Online"
+linkTitle: "22"
+description: "Read 2 Kings 22 Online | Josiah was eight years old when he began to reign, and he reigned thirty-one years in Jerusalem. His mother’s name was Jedidah the daughter of Adaiah of Bozkath..."
 weight: 22
 ---
 
-# Chapter 22
+# 2 Kings 22 
 
 **¹** Josiah was eight years old when he began to reign, and he reigned thirty-one years in Jerusalem. His mother’s name was Jedidah the daughter of Adaiah of Bozkath.
 

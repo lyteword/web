@@ -1,8 +1,11 @@
 ---
+title: "1 Kings 15 WEB | Read the Bible Online"
+linkTitle: "15"
+description: "Read 1 Kings 15 Online | Now in the eighteenth year of King Jeroboam the son of Nebat, Abijam began to reign over Judah..."
 weight: 15
 ---
 
-# Chapter 15
+# 1 Kings 15 
 
 **¹** Now in the eighteenth year of King Jeroboam the son of Nebat, Abijam began to reign over Judah.
 

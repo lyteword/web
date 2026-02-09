@@ -1,8 +1,11 @@
 ---
+title: "1 Chronicles 6 WEB | Read the Bible Online"
+linkTitle: "6"
+description: "Read 1 Chronicles 6 Online | The sons of Levi: Gershon, Kohath, and Merari..."
 weight: 6
 ---
 
-# Chapter 6
+# 1 Chronicles 6 
 
 **¹** The sons of Levi: Gershon, Kohath, and Merari.
 

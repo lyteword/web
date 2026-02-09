@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 27 WEB | Read the Bible Online"
+linkTitle: "27"
+description: "Read Deuteronomy 27 Online | Moses and the elders of Israel commanded the people, saying, “Keep all the commandment which I command you today..."
 weight: 27
 ---
 
-# Chapter 27
+# Deuteronomy 27 
 
 **¹** Moses and the elders of Israel commanded the people, saying, “Keep all the commandment which I command you today.
 

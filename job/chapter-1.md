@@ -1,8 +1,11 @@
 ---
+title: "Job 1 WEB | Read the Bible Online"
+linkTitle: "1"
+description: "Read Job 1 Online | There was a man in the land of Uz, whose name was Job. That man was blameless and upright, and one who feared God,[^401] and turned away from evil..."
 weight: 1
 ---
 
-# Chapter 1
+# Job 1 
 
 **¹** There was a man in the land of Uz, whose name was Job. That man was blameless and upright, and one who feared God,[^401] and turned away from evil.
 

@@ -1,8 +1,11 @@
 ---
+title: "Exodus 33 WEB | Read the Bible Online"
+linkTitle: "33"
+description: "Read Exodus 33 Online | Yahweh spoke to Moses, “Depart, go up from here, you and the people that you have brought up out of the land of Egypt, to the land of which I swore to Abraham, to Isaac, and to Jacob, saying, ‘I will give it to your offspring...."
 weight: 33
 ---
 
-# Chapter 33
+# Exodus 33 
 
 **¹** Yahweh spoke to Moses, “Depart, go up from here, you and the people that you have brought up out of the land of Egypt, to the land of which I swore to Abraham, to Isaac, and to Jacob, saying, ‘I will give it to your offspring.’
 

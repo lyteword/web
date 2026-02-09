@@ -1,8 +1,11 @@
 ---
+title: "Matthew 6 WEB | Read the Bible Online"
+linkTitle: "6"
+description: "Read Matthew 6 Online | “Be careful that you don’t do your charitable giving[^690]  before men, to be seen by them, or else you have no reward from your Father who is in heaven..."
 weight: 6
 ---
 
-# Chapter 6
+# Matthew 6 
 
 **¹**  “Be careful that you don’t do your charitable giving[^690]  before men, to be seen by them, or else you have no reward from your Father who is in heaven.
 

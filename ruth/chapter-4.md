@@ -1,8 +1,11 @@
 ---
+title: "Ruth 4 WEB | Read the Bible Online"
+linkTitle: "4"
+description: "Read Ruth 4 Online | Now Boaz went up to the gate and sat down there. Behold, the near kinsman of whom Boaz spoke came by. Boaz said to him, “Come over here, friend, and sit down!” He came over, and sat down..."
 weight: 4
 ---
 
-# Chapter 4
+# Ruth 4 
 
 **¹** Now Boaz went up to the gate and sat down there. Behold, the near kinsman of whom Boaz spoke came by. Boaz said to him, “Come over here, friend, and sit down!” He came over, and sat down.
 

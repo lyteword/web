@@ -1,8 +1,11 @@
 ---
+title: "1 Peter 3 WEB | Read the Bible Online"
+linkTitle: "3"
+description: "Read 1 Peter 3 Online | In the same way, wives, be in subjection to your own husbands, so that, even if any don’t obey the Word, they may be won by the behavior of their wives without a word..."
 weight: 3
 ---
 
-# Chapter 3
+# 1 Peter 3 
 
 **¹** In the same way, wives, be in subjection to your own husbands, so that, even if any don’t obey the Word, they may be won by the behavior of their wives without a word,
 

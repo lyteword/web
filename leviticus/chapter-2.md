@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 2 WEB | Read the Bible Online"
+linkTitle: "2"
+description: "Read Leviticus 2 Online | “‘When anyone offers an offering of a meal offering to Yahweh, his offering shall be of fine flour. He shall pour oil on it, and put frankincense on it..."
 weight: 2
 ---
 
-# Chapter 2
+# Leviticus 2 
 
 **¹** “‘When anyone offers an offering of a meal offering to Yahweh, his offering shall be of fine flour. He shall pour oil on it, and put frankincense on it.
 

@@ -1,8 +1,11 @@
 ---
+title: "Job 12 WEB | Read the Bible Online"
+linkTitle: "12"
+description: "Read Job 12 Online | Then Job answered..."
 weight: 12
 ---
 
-# Chapter 12
+# Job 12 
 
 **¹** Then Job answered,
 

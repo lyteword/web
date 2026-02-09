@@ -1,8 +1,11 @@
 ---
+title: "1 Kings 1 WEB | Read the Bible Online"
+linkTitle: "1"
+description: "Read 1 Kings 1 Online | Now King David was old and advanced in years; and they covered him with clothes, but he couldn’t keep warm..."
 weight: 1
 ---
 
-# Chapter 1
+# 1 Kings 1 
 
 **¹** Now King David was old and advanced in years; and they covered him with clothes, but he couldn’t keep warm.
 

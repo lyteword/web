@@ -1,8 +1,11 @@
 ---
+title: "Matthew 13 WEB | Read the Bible Online"
+linkTitle: "13"
+description: "Read Matthew 13 Online | On that day Jesus went out of the house and sat by the seaside..."
 weight: 13
 ---
 
-# Chapter 13
+# Matthew 13 
 
 **¹** On that day Jesus went out of the house and sat by the seaside.
 

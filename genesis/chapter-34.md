@@ -1,8 +1,11 @@
 ---
+title: "Genesis 34 WEB | Read the Bible Online"
+linkTitle: "34"
+description: "Read Genesis 34 Online | Dinah, the daughter of Leah, whom she bore to Jacob, went out to see the daughters of the land..."
 weight: 34
 ---
 
-# Chapter 34
+# Genesis 34 
 
 **¹** Dinah, the daughter of Leah, whom she bore to Jacob, went out to see the daughters of the land.
 

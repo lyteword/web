@@ -1,8 +1,11 @@
 ---
+title: "1 Timothy 3 WEB | Read the Bible Online"
+linkTitle: "3"
+description: "Read 1 Timothy 3 Online | This is a faithful saying: someone who seeks to be an overseer[^1279] desires a good work..."
 weight: 3
 ---
 
-# Chapter 3
+# 1 Timothy 3 
 
 **¹** This is a faithful saying: someone who seeks to be an overseer[^1279] desires a good work.
 

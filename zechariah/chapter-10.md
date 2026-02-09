@@ -1,8 +1,11 @@
 ---
+title: "Zechariah 10 WEB | Read the Bible Online"
+linkTitle: "10"
+description: "Read Zechariah 10 Online | Ask of Yahweh rain in the spring time, Yahweh who makes storm clouds, and he gives rain showers to everyone for the plants in the field..."
 weight: 10
 ---
 
-# Chapter 10
+# Zechariah 10 
 
 **¹** Ask of Yahweh rain in the spring time, Yahweh who makes storm clouds, and he gives rain showers to everyone for the plants in the field.
 

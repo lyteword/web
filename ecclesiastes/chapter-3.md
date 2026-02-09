@@ -1,8 +1,11 @@
 ---
+title: "Ecclesiastes 3 WEB | Read the Bible Online"
+linkTitle: "3"
+description: "Read Ecclesiastes 3 Online | For everything there is a season, and a time for every purpose under heaven..."
 weight: 3
 ---
 
-# Chapter 3
+# Ecclesiastes 3 
 
 **¹** For everything there is a season, and a time for every purpose under heaven:
 

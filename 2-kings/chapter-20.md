@@ -1,8 +1,11 @@
 ---
+title: "2 Kings 20 WEB | Read the Bible Online"
+linkTitle: "20"
+description: "Read 2 Kings 20 Online | In those days Hezekiah was sick and dying. Isaiah the prophet the son of Amoz came to him, and said to him, “Yahweh says, ‘Set your house in order; for you will die, and not live.’..."
 weight: 20
 ---
 
-# Chapter 20
+# 2 Kings 20 
 
 **¹** In those days Hezekiah was sick and dying. Isaiah the prophet the son of Amoz came to him, and said to him, “Yahweh says, ‘Set your house in order; for you will die, and not live.’”
 

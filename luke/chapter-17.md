@@ -1,8 +1,11 @@
 ---
+title: "Luke 17 WEB | Read the Bible Online"
+linkTitle: "17"
+description: "Read Luke 17 Online | He said to the disciples,  “It is impossible that no occasions of stumbling should come, but woe to him through whom they come..."
 weight: 17
 ---
 
-# Chapter 17
+# Luke 17 
 
 **¹** He said to the disciples,  “It is impossible that no occasions of stumbling should come, but woe to him through whom they come!
 

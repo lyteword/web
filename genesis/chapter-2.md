@@ -1,8 +1,11 @@
 ---
+title: "Genesis 2 WEB | Read the Bible Online"
+linkTitle: "2"
+description: "Read Genesis 2 Online | The heavens, the earth, and all their vast array were finished..."
 weight: 2
 ---
 
-# Chapter 2
+# Genesis 2 
 
 **¹** The heavens, the earth, and all their vast array were finished.
 

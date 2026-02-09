@@ -1,8 +1,11 @@
 ---
+title: "1 Chronicles 27 WEB | Read the Bible Online"
+linkTitle: "27"
+description: "Read 1 Chronicles 27 Online | Now the children of Israel after their number, the heads of fathers’ households and the captains of thousands and of hundreds, and their officers who served the king in any matter of the divisions which came in and went out month by month throughout all the months of the year—of every division were twenty-four thousand..."
 weight: 27
 ---
 
-# Chapter 27
+# 1 Chronicles 27 
 
 **¹** Now the children of Israel after their number, the heads of fathers’ households and the captains of thousands and of hundreds, and their officers who served the king in any matter of the divisions which came in and went out month by month throughout all the months of the year—of every division were twenty-four thousand.
 

@@ -1,8 +1,11 @@
 ---
+title: "Ruth 3 WEB | Read the Bible Online"
+linkTitle: "3"
+description: "Read Ruth 3 Online | Naomi her mother-in-law said to her, “My daughter, shall I not seek rest for you, that it may be well with you..."
 weight: 3
 ---
 
-# Chapter 3
+# Ruth 3 
 
 **¹** Naomi her mother-in-law said to her, “My daughter, shall I not seek rest for you, that it may be well with you?
 

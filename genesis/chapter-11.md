@@ -1,8 +1,11 @@
 ---
+title: "Genesis 11 WEB | Read the Bible Online"
+linkTitle: "11"
+description: "Read Genesis 11 Online | The whole earth was of one language and of one speech..."
 weight: 11
 ---
 
-# Chapter 11
+# Genesis 11 
 
 **¹** The whole earth was of one language and of one speech.
 

@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 25 WEB | Read the Bible Online"
+linkTitle: "25"
+description: "Read Ezekiel 25 Online | Yahweh’s word came to me, saying..."
 weight: 25
 ---
 
-# Chapter 25
+# Ezekiel 25 
 
 **¹** Yahweh’s word came to me, saying,
 

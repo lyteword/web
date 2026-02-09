@@ -1,8 +1,11 @@
 ---
+title: "Psalm 138 WEB | Read the Bible Online"
+linkTitle: "138"
+description: "Read Psalm 138 Online | I will give you thanks with my whole heart. Before the gods,[^462] I will sing praises to you..."
 weight: 138
 ---
 
-# Psalm 138
+# Psalm 138 
 
 By David.
 

@@ -1,8 +1,11 @@
 ---
+title: "Psalm 44 WEB | Read the Bible Online"
+linkTitle: "44"
+description: "Read Psalm 44 Online | We have heard with our ears, God; our fathers have told us what work you did in their days, in the days of old..."
 weight: 44
 ---
 
-# Psalm 44
+# Psalm 44 
 
 For the Chief Musician. By the sons of Korah. A contemplative psalm.
 

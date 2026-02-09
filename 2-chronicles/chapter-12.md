@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 12 WEB | Read the Bible Online"
+linkTitle: "12"
+description: "Read 2 Chronicles 12 Online | When the kingdom of Rehoboam was established and he was strong, he abandoned Yahweh’s law, and all Israel with him..."
 weight: 12
 ---
 
-# Chapter 12
+# 2 Chronicles 12 
 
 **¹** When the kingdom of Rehoboam was established and he was strong, he abandoned Yahweh’s law, and all Israel with him.
 

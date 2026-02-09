@@ -1,8 +1,11 @@
 ---
+title: "1 John 3 WEB | Read the Bible Online"
+linkTitle: "3"
+description: "Read 1 John 3 Online | See how great a love the Father has given to us, that we should be called children of God! For this cause the world doesn’t know us, because it didn’t know him..."
 weight: 3
 ---
 
-# Chapter 3
+# 1 John 3 
 
 **¹** See how great a love the Father has given to us, that we should be called children of God! For this cause the world doesn’t know us, because it didn’t know him.
 

@@ -1,8 +1,11 @@
 ---
+title: "James 3 WEB | Read the Bible Online"
+linkTitle: "3"
+description: "Read James 3 Online | Let not many of you be teachers, my brothers, knowing that we will receive heavier judgment..."
 weight: 3
 ---
 
-# Chapter 3
+# James 3 
 
 **¹** Let not many of you be teachers, my brothers, knowing that we will receive heavier judgment.
 

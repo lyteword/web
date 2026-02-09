@@ -1,8 +1,11 @@
 ---
+title: "1 Timothy 6 WEB | Read the Bible Online"
+linkTitle: "6"
+description: "Read 1 Timothy 6 Online | Let as many as are bondservants under the yoke count their own masters worthy of all honor, that the name of God and the doctrine not be blasphemed..."
 weight: 6
 ---
 
-# Chapter 6
+# 1 Timothy 6 
 
 **¹** Let as many as are bondservants under the yoke count their own masters worthy of all honor, that the name of God and the doctrine not be blasphemed.
 

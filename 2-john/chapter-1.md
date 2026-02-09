@@ -1,8 +1,11 @@
 ---
+title: "2 John 1 WEB | Read the Bible Online"
+linkTitle: "1"
+description: "Read 2 John 1 Online | The elder, to the chosen lady and her children, whom I love in truth, and not I only, but also all those who know the truth..."
 weight: 1
 ---
 
-# Chapter 1
+# 2 John 1 
 
 **¹** The elder, to the chosen lady and her children, whom I love in truth, and not I only, but also all those who know the truth,
 

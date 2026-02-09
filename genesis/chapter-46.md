@@ -1,8 +1,11 @@
 ---
+title: "Genesis 46 WEB | Read the Bible Online"
+linkTitle: "46"
+description: "Read Genesis 46 Online | Israel traveled with all that he had, and came to Beersheba, and offered sacrifices to the God of his father, Isaac..."
 weight: 46
 ---
 
-# Chapter 46
+# Genesis 46 
 
 **¹** Israel traveled with all that he had, and came to Beersheba, and offered sacrifices to the God of his father, Isaac.
 

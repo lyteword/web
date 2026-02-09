@@ -1,8 +1,11 @@
 ---
+title: "Acts 21 WEB | Read the Bible Online"
+linkTitle: "21"
+description: "Read Acts 21 Online | When we had departed from them and had set sail, we came with a straight course to Cos, and the next day to Rhodes, and from there to Patara..."
 weight: 21
 ---
 
-# Chapter 21
+# Acts 21 
 
 **¹** When we had departed from them and had set sail, we came with a straight course to Cos, and the next day to Rhodes, and from there to Patara.
 

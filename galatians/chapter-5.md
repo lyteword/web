@@ -1,8 +1,11 @@
 ---
+title: "Galatians 5 WEB | Read the Bible Online"
+linkTitle: "5"
+description: "Read Galatians 5 Online | Stand firm therefore in the liberty by which Christ has made us free, and don’t be entangled again with a yoke of bondage..."
 weight: 5
 ---
 
-# Chapter 5
+# Galatians 5 
 
 **¹** Stand firm therefore in the liberty by which Christ has made us free, and don’t be entangled again with a yoke of bondage.
 

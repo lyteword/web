@@ -1,8 +1,11 @@
 ---
+title: "2 Kings 15 WEB | Read the Bible Online"
+linkTitle: "15"
+description: "Read 2 Kings 15 Online | In the twenty-seventh year of Jeroboam king of Israel, Azariah son of Amaziah king of Judah began to reign..."
 weight: 15
 ---
 
-# Chapter 15
+# 2 Kings 15 
 
 **¹** In the twenty-seventh year of Jeroboam king of Israel, Azariah son of Amaziah king of Judah began to reign.
 

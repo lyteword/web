@@ -1,8 +1,11 @@
 ---
+title: "Psalm 149 WEB | Read the Bible Online"
+linkTitle: "149"
+description: "Read Psalm 149 Online | Praise Yahweh! Sing to Yahweh a new song, his praise in the assembly of the saints..."
 weight: 149
 ---
 
-# Psalm 149
+# Psalm 149 
 
 **¹** Praise Yahweh! Sing to Yahweh a new song, his praise in the assembly of the saints.
 

@@ -1,8 +1,11 @@
 ---
+title: "Psalm 143 WEB | Read the Bible Online"
+linkTitle: "143"
+description: "Read Psalm 143 Online | Hear my prayer, Yahweh. Listen to my petitions. In your faithfulness and righteousness, relieve me..."
 weight: 143
 ---
 
-# Psalm 143
+# Psalm 143 
 
 A Psalm by David.
 

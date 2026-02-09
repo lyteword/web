@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 18 WEB | Read the Bible Online"
+linkTitle: "18"
+description: "Read 2 Chronicles 18 Online | Now Jehoshaphat had riches and honor in abundance; and he allied himself with Ahab..."
 weight: 18
 ---
 
-# Chapter 18
+# 2 Chronicles 18 
 
 **¹** Now Jehoshaphat had riches and honor in abundance; and he allied himself with Ahab.
 

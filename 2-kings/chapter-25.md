@@ -1,8 +1,11 @@
 ---
+title: "2 Kings 25 WEB | Read the Bible Online"
+linkTitle: "25"
+description: "Read 2 Kings 25 Online | In the ninth year of his reign, in the tenth month, in the tenth day of the month, Nebuchadnezzar king of Babylon came, he and all his army, against Jerusalem, and encamped against it; and they built forts against it around it..."
 weight: 25
 ---
 
-# Chapter 25
+# 2 Kings 25 
 
 **¹** In the ninth year of his reign, in the tenth month, in the tenth day of the month, Nebuchadnezzar king of Babylon came, he and all his army, against Jerusalem, and encamped against it; and they built forts against it around it.
 

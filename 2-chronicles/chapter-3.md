@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 3 WEB | Read the Bible Online"
+linkTitle: "3"
+description: "Read 2 Chronicles 3 Online | Then Solomon began to build Yahweh’s house at Jerusalem on Mount Moriah, where Yahweh appeared to David his father, which he prepared in the place that David had appointed, on the threshing floor of Ornan the Jebusite..."
 weight: 3
 ---
 
-# Chapter 3
+# 2 Chronicles 3 
 
 **¹** Then Solomon began to build Yahweh’s house at Jerusalem on Mount Moriah, where Yahweh appeared to David his father, which he prepared in the place that David had appointed, on the threshing floor of Ornan the Jebusite.
 

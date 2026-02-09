@@ -1,8 +1,11 @@
 ---
+title: "Ezra 1 WEB | Read the Bible Online"
+linkTitle: "1"
+description: "Read Ezra 1 Online | Now in the first year of Cyrus king of Persia, that Yahweh’s[^370] word by Jeremiah’s mouth might be accomplished, Yahweh stirred up the spirit of Cyrus king of Persia, so that he made a proclamation throughout all his kingdom, and put it also in writing, saying..."
 weight: 1
 ---
 
-# Chapter 1
+# Ezra 1 
 
 **¹** Now in the first year of Cyrus king of Persia, that Yahweh’s[^370] word by Jeremiah’s mouth might be accomplished, Yahweh stirred up the spirit of Cyrus king of Persia, so that he made a proclamation throughout all his kingdom, and put it also in writing, saying,
 

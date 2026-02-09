@@ -1,8 +1,11 @@
 ---
+title: "Judges 2 WEB | Read the Bible Online"
+linkTitle: "2"
+description: "Read Judges 2 Online | Yahweh’s angel came up from Gilgal to Bochim. He said, “I brought you out of Egypt, and have brought you to the land which I swore to give your fathers. I said, ‘I will never break my covenant with you..."
 weight: 2
 ---
 
-# Chapter 2
+# Judges 2 
 
 **¹** Yahweh’s angel came up from Gilgal to Bochim. He said, “I brought you out of Egypt, and have brought you to the land which I swore to give your fathers. I said, ‘I will never break my covenant with you.
 

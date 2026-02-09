@@ -1,8 +1,11 @@
 ---
+title: "Numbers 21 WEB | Read the Bible Online"
+linkTitle: "21"
+description: "Read Numbers 21 Online | The Canaanite, the king of Arad, who lived in the South, heard that Israel came by the way of Atharim. He fought against Israel, and took some of them captive..."
 weight: 21
 ---
 
-# Chapter 21
+# Numbers 21 
 
 **¹** The Canaanite, the king of Arad, who lived in the South, heard that Israel came by the way of Atharim. He fought against Israel, and took some of them captive.
 

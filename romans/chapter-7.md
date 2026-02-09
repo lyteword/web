@@ -1,8 +1,11 @@
 ---
+title: "Romans 7 WEB | Read the Bible Online"
+linkTitle: "7"
+description: "Read Romans 7 Online | Or don’t you know, brothers[^1124] (for I speak to men who know the law), that the law has dominion over a man for as long as he lives..."
 weight: 7
 ---
 
-# Chapter 7
+# Romans 7 
 
 **¹** Or don’t you know, brothers[^1124] (for I speak to men who know the law), that the law has dominion over a man for as long as he lives?
 

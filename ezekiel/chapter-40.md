@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 40 WEB | Read the Bible Online"
+linkTitle: "40"
+description: "Read Ezekiel 40 Online | In the twenty-fifth year of our captivity, in the beginning of the year, in the tenth day of the month, in the fourteenth year after the city was struck, in the same day, Yahweh’s hand was on me, and he brought me there..."
 weight: 40
 ---
 
-# Chapter 40
+# Ezekiel 40 
 
 **¹** In the twenty-fifth year of our captivity, in the beginning of the year, in the tenth day of the month, in the fourteenth year after the city was struck, in the same day, Yahweh’s hand was on me, and he brought me there.
 

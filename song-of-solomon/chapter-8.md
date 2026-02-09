@@ -1,8 +1,11 @@
 ---
+title: "Song Of Solomon 8 WEB | Read the Bible Online"
+linkTitle: "8"
+description: "Read Song Of Solomon 8 Online | Oh that you were like my brother, who nursed from the breasts of my mother! If I found you outside, I would kiss you; yes, and no one would despise me..."
 weight: 8
 ---
 
-# Chapter 8
+# Song Of Solomon 8 
 
 **¹** Oh that you were like my brother, who nursed from the breasts of my mother! If I found you outside, I would kiss you; yes, and no one would despise me.
 

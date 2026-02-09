@@ -1,8 +1,11 @@
 ---
+title: "Romans 2 WEB | Read the Bible Online"
+linkTitle: "2"
+description: "Read Romans 2 Online | Therefore you are without excuse, O man, whoever you are who judge. For in that which you judge another, you condemn yourself. For you who judge practice the same things..."
 weight: 2
 ---
 
-# Chapter 2
+# Romans 2 
 
 **¹** Therefore you are without excuse, O man, whoever you are who judge. For in that which you judge another, you condemn yourself. For you who judge practice the same things.
 

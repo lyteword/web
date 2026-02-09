@@ -1,8 +1,11 @@
 ---
+title: "Genesis 16 WEB | Read the Bible Online"
+linkTitle: "16"
+description: "Read Genesis 16 Online | Now Sarai, Abram’s wife, bore him no children. She had a servant, an Egyptian, whose name was Hagar..."
 weight: 16
 ---
 
-# Chapter 16
+# Genesis 16 
 
 **¹** Now Sarai, Abram’s wife, bore him no children. She had a servant, an Egyptian, whose name was Hagar.
 

@@ -1,8 +1,11 @@
 ---
+title: "Matthew 28 WEB | Read the Bible Online"
+linkTitle: "28"
+description: "Read Matthew 28 Online | Now after the Sabbath, as it began to dawn on the first day of the week, Mary Magdalene and the other Mary came to see the tomb..."
 weight: 28
 ---
 
-# Chapter 28
+# Matthew 28 
 
 **¹** Now after the Sabbath, as it began to dawn on the first day of the week, Mary Magdalene and the other Mary came to see the tomb.
 

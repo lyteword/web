@@ -1,8 +1,11 @@
 ---
+title: "Job 7 WEB | Read the Bible Online"
+linkTitle: "7"
+description: "Read Job 7 Online | “Isn’t a man forced to labor on earth? Aren’t his days like the days of a hired hand..."
 weight: 7
 ---
 
-# Chapter 7
+# Job 7 
 
 **¹** “Isn’t a man forced to labor on earth? Aren’t his days like the days of a hired hand?
 

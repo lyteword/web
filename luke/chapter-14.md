@@ -1,8 +1,11 @@
 ---
+title: "Luke 14 WEB | Read the Bible Online"
+linkTitle: "14"
+description: "Read Luke 14 Online | When he went into the house of one of the rulers of the Pharisees on a Sabbath to eat bread, they were watching him..."
 weight: 14
 ---
 
-# Chapter 14
+# Luke 14 
 
 **¹** When he went into the house of one of the rulers of the Pharisees on a Sabbath to eat bread, they were watching him.
 

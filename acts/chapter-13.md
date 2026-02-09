@@ -1,8 +1,11 @@
 ---
+title: "Acts 13 WEB | Read the Bible Online"
+linkTitle: "13"
+description: "Read Acts 13 Online | Now in the assembly that was at Antioch there were some prophets and teachers: Barnabas, Simeon who was called Niger, Lucius of Cyrene, Manaen the foster brother of Herod the tetrarch, and Saul..."
 weight: 13
 ---
 
-# Chapter 13
+# Acts 13 
 
 **¹** Now in the assembly that was at Antioch there were some prophets and teachers: Barnabas, Simeon who was called Niger, Lucius of Cyrene, Manaen the foster brother of Herod the tetrarch, and Saul.
 

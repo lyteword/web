@@ -1,8 +1,11 @@
 ---
+title: "2 Samuel 4 WEB | Read the Bible Online"
+linkTitle: "4"
+description: "Read 2 Samuel 4 Online | When Saul’s son heard that Abner was dead in Hebron, his hands became feeble, and all the Israelites were troubled..."
 weight: 4
 ---
 
-# Chapter 4
+# 2 Samuel 4 
 
 **¹** When Saul’s son heard that Abner was dead in Hebron, his hands became feeble, and all the Israelites were troubled.
 

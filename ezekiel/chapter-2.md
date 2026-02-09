@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 2 WEB | Read the Bible Online"
+linkTitle: "2"
+description: "Read Ezekiel 2 Online | He said to me, “Son of man, stand on your feet, and I will speak with you...."
 weight: 2
 ---
 
-# Chapter 2
+# Ezekiel 2 
 
 **¹** He said to me, “Son of man, stand on your feet, and I will speak with you.”
 

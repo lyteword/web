@@ -1,8 +1,11 @@
 ---
+title: "Psalm 51 WEB | Read the Bible Online"
+linkTitle: "51"
+description: "Read Psalm 51 Online | Have mercy on me, God, according to your loving kindness. According to the multitude of your tender mercies, blot out my transgressions..."
 weight: 51
 ---
 
-# Psalm 51
+# Psalm 51 
 
 For the Chief Musician. A Psalm by David, when Nathan the prophet came to him, after he had gone in to Bathsheba.
 

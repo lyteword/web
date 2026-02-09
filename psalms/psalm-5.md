@@ -1,8 +1,11 @@
 ---
+title: "Psalm 5 WEB | Read the Bible Online"
+linkTitle: "5"
+description: "Read Psalm 5 Online | Give ear to my words, Yahweh. Consider my meditation..."
 weight: 5
 ---
 
-# Psalm 5
+# Psalm 5 
 
 For the Chief Musician, with the flutes. A Psalm by David.
 

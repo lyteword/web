@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 21 WEB | Read the Bible Online"
+linkTitle: "21"
+description: "Read Isaiah 21 Online | The burden of the wilderness of the sea. As whirlwinds in the South sweep through, it comes from the wilderness, from an awesome land..."
 weight: 21
 ---
 
-# Chapter 21
+# Isaiah 21 
 
 **¹** The burden of the wilderness of the sea. As whirlwinds in the South sweep through, it comes from the wilderness, from an awesome land.
 

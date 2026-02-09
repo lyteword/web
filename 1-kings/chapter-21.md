@@ -1,8 +1,11 @@
 ---
+title: "1 Kings 21 WEB | Read the Bible Online"
+linkTitle: "21"
+description: "Read 1 Kings 21 Online | After these things, Naboth the Jezreelite had a vineyard which was in Jezreel, next to the palace of Ahab king of Samaria..."
 weight: 21
 ---
 
-# Chapter 21
+# 1 Kings 21 
 
 **¹** After these things, Naboth the Jezreelite had a vineyard which was in Jezreel, next to the palace of Ahab king of Samaria.
 

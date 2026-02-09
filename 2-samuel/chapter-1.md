@@ -1,8 +1,11 @@
 ---
+title: "2 Samuel 1 WEB | Read the Bible Online"
+linkTitle: "1"
+description: "Read 2 Samuel 1 Online | After the death of Saul, when David had returned from the slaughter of the Amalekites, and David had stayed two days in Ziklag..."
 weight: 1
 ---
 
-# Chapter 1
+# 2 Samuel 1 
 
 **¹** After the death of Saul, when David had returned from the slaughter of the Amalekites, and David had stayed two days in Ziklag,
 

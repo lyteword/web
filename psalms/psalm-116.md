@@ -1,8 +1,11 @@
 ---
+title: "Psalm 116 WEB | Read the Bible Online"
+linkTitle: "116"
+description: "Read Psalm 116 Online | I love Yahweh, because he listens to my voice, and my cries for mercy..."
 weight: 116
 ---
 
-# Psalm 116
+# Psalm 116 
 
 **¹** I love Yahweh, because he listens to my voice, and my cries for mercy.
 

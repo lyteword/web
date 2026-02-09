@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 17 WEB | Read the Bible Online"
+linkTitle: "17"
+description: "Read Isaiah 17 Online | The burden of Damascus. “Behold, Damascus is taken away from being a city, and it will be a ruinous heap..."
 weight: 17
 ---
 
-# Chapter 17
+# Isaiah 17 
 
 **¹** The burden of Damascus. “Behold, Damascus is taken away from being a city, and it will be a ruinous heap.
 

@@ -1,8 +1,11 @@
 ---
+title: "Psalm 95 WEB | Read the Bible Online"
+linkTitle: "95"
+description: "Read Psalm 95 Online | Oh come, let’s sing to Yahweh. Let’s shout aloud to the rock of our salvation..."
 weight: 95
 ---
 
-# Psalm 95
+# Psalm 95 
 
 **¹** Oh come, let’s sing to Yahweh. Let’s shout aloud to the rock of our salvation!
 

@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 10 WEB | Read the Bible Online"
+linkTitle: "10"
+description: "Read Jeremiah 10 Online | Hear the word which Yahweh speaks to you, house of Israel..."
 weight: 10
 ---
 
-# Chapter 10
+# Jeremiah 10 
 
 **¹** Hear the word which Yahweh speaks to you, house of Israel!
 

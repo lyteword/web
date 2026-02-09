@@ -1,8 +1,11 @@
 ---
+title: "Job 13 WEB | Read the Bible Online"
+linkTitle: "13"
+description: "Read Job 13 Online | “Behold, my eye has seen all this. My ear has heard and understood it..."
 weight: 13
 ---
 
-# Chapter 13
+# Job 13 
 
 **¹** “Behold, my eye has seen all this. My ear has heard and understood it.
 

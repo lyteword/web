@@ -1,8 +1,11 @@
 ---
+title: "Zechariah 7 WEB | Read the Bible Online"
+linkTitle: "7"
+description: "Read Zechariah 7 Online | In the fourth year of King Darius, Yahweh’s word came to Zechariah in the fourth day of the ninth month, the month of Chislev..."
 weight: 7
 ---
 
-# Chapter 7
+# Zechariah 7 
 
 **¹** In the fourth year of King Darius, Yahweh’s word came to Zechariah in the fourth day of the ninth month, the month of Chislev.
 

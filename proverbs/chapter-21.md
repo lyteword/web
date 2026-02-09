@@ -1,8 +1,11 @@
 ---
+title: "Proverbs 21 WEB | Read the Bible Online"
+linkTitle: "21"
+description: "Read Proverbs 21 Online | The king’s heart is in Yahweh’s hand like the watercourses. He turns it wherever he desires..."
 weight: 21
 ---
 
-# Chapter 21
+# Proverbs 21 
 
 **¹** The king’s heart is in Yahweh’s hand like the watercourses. He turns it wherever he desires.
 

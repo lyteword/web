@@ -1,8 +1,11 @@
 ---
+title: "Psalm 97 WEB | Read the Bible Online"
+linkTitle: "97"
+description: "Read Psalm 97 Online | Yahweh reigns! Let the earth rejoice! Let the multitude of islands be glad..."
 weight: 97
 ---
 
-# Psalm 97
+# Psalm 97 
 
 **¹** Yahweh reigns! Let the earth rejoice! Let the multitude of islands be glad!
 

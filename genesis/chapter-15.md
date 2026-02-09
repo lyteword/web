@@ -1,8 +1,11 @@
 ---
+title: "Genesis 15 WEB | Read the Bible Online"
+linkTitle: "15"
+description: "Read Genesis 15 Online | After these things Yahweh’s word came to Abram in a vision, saying, “Don’t be afraid, Abram. I am your shield, your exceedingly great reward...."
 weight: 15
 ---
 
-# Chapter 15
+# Genesis 15 
 
 **¹** After these things Yahweh’s word came to Abram in a vision, saying, “Don’t be afraid, Abram. I am your shield, your exceedingly great reward.”
 

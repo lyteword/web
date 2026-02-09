@@ -1,8 +1,11 @@
 ---
+title: "Revelation 1 WEB | Read the Bible Online"
+linkTitle: "1"
+description: "Read Revelation 1 Online | This is the Revelation of Jesus Christ,[^1406] which God gave him to show to his servants the things which must happen soon, which he sent and made known by his angel[^1407] to his servant, John..."
 weight: 1
 ---
 
-# Chapter 1
+# Revelation 1 
 
 **¹** This is the Revelation of Jesus Christ,[^1406] which God gave him to show to his servants the things which must happen soon, which he sent and made known by his angel[^1407] to his servant, John,
 

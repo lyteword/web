@@ -1,8 +1,11 @@
 ---
+title: "1 Timothy 4 WEB | Read the Bible Online"
+linkTitle: "4"
+description: "Read 1 Timothy 4 Online | But the Spirit says expressly that in later times some will fall away from the faith, paying attention to seducing spirits and doctrines of demons..."
 weight: 4
 ---
 
-# Chapter 4
+# 1 Timothy 4 
 
 **¹** But the Spirit says expressly that in later times some will fall away from the faith, paying attention to seducing spirits and doctrines of demons,
 

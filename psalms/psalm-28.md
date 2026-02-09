@@ -1,8 +1,11 @@
 ---
+title: "Psalm 28 WEB | Read the Bible Online"
+linkTitle: "28"
+description: "Read Psalm 28 Online | To you, Yahweh, I call. My rock, don’t be deaf to me, lest, if you are silent to me, I would become like those who go down into the pit..."
 weight: 28
 ---
 
-# Psalm 28
+# Psalm 28 
 
 By David.
 

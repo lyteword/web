@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 28 WEB | Read the Bible Online"
+linkTitle: "28"
+description: "Read Jeremiah 28 Online | That same year, in the beginning of the reign of Zedekiah king of Judah, in the fourth year, in the fifth month, Hananiah the son of Azzur, the prophet, who was of Gibeon, spoke to me in Yahweh’s house, in the presence of the priests and of all the people, saying..."
 weight: 28
 ---
 
-# Chapter 28
+# Jeremiah 28 
 
 **¹** That same year, in the beginning of the reign of Zedekiah king of Judah, in the fourth year, in the fifth month, Hananiah the son of Azzur, the prophet, who was of Gibeon, spoke to me in Yahweh’s house, in the presence of the priests and of all the people, saying,
 

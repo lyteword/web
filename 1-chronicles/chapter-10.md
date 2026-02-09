@@ -1,8 +1,11 @@
 ---
+title: "1 Chronicles 10 WEB | Read the Bible Online"
+linkTitle: "10"
+description: "Read 1 Chronicles 10 Online | Now the Philistines fought against Israel; and the men of Israel fled from before the Philistines, and fell down slain on Mount Gilboa..."
 weight: 10
 ---
 
-# Chapter 10
+# 1 Chronicles 10 
 
 **¹** Now the Philistines fought against Israel; and the men of Israel fled from before the Philistines, and fell down slain on Mount Gilboa.
 

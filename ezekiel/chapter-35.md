@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 35 WEB | Read the Bible Online"
+linkTitle: "35"
+description: "Read Ezekiel 35 Online | Moreover Yahweh’s word came to me, saying..."
 weight: 35
 ---
 
-# Chapter 35
+# Ezekiel 35 
 
 **¹** Moreover Yahweh’s word came to me, saying,
 

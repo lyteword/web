@@ -1,8 +1,11 @@
 ---
+title: "Matthew 3 WEB | Read the Bible Online"
+linkTitle: "3"
+description: "Read Matthew 3 Online | In those days, John the Baptizer came, preaching in the wilderness of Judea, saying..."
 weight: 3
 ---
 
-# Chapter 3
+# Matthew 3 
 
 **¹** In those days, John the Baptizer came, preaching in the wilderness of Judea, saying,
 

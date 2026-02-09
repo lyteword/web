@@ -1,8 +1,11 @@
 ---
+title: "Mark 2 WEB | Read the Bible Online"
+linkTitle: "2"
+description: "Read Mark 2 Online | When he entered again into Capernaum after some days, it was heard that he was at home..."
 weight: 2
 ---
 
-# Chapter 2
+# Mark 2 
 
 **¹** When he entered again into Capernaum after some days, it was heard that he was at home.
 

@@ -1,8 +1,11 @@
 ---
+title: "2 Samuel 2 WEB | Read the Bible Online"
+linkTitle: "2"
+description: "Read 2 Samuel 2 Online | After this, David inquired of Yahweh, saying, “Shall I go up into any of the cities of Judah?” Yahweh said to him, “Go up.” David said, “Where shall I go up?” He said, “To Hebron...."
 weight: 2
 ---
 
-# Chapter 2
+# 2 Samuel 2 
 
 **¹** After this, David inquired of Yahweh, saying, “Shall I go up into any of the cities of Judah?” Yahweh said to him, “Go up.” David said, “Where shall I go up?” He said, “To Hebron.”
 

@@ -1,8 +1,11 @@
 ---
+title: "John 16 WEB | Read the Bible Online"
+linkTitle: "16"
+description: "Read John 16 Online | “I have said these things to you so that you wouldn’t be caused to stumble..."
 weight: 16
 ---
 
-# Chapter 16
+# John 16 
 
 **¹**  “I have said these things to you so that you wouldn’t be caused to stumble.
 

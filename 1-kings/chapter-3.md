@@ -1,8 +1,11 @@
 ---
+title: "1 Kings 3 WEB | Read the Bible Online"
+linkTitle: "3"
+description: "Read 1 Kings 3 Online | Solomon made a marriage alliance with Pharaoh king of Egypt. He took Pharaoh’s daughter and brought her into David’s city until he had finished building his own house, Yahweh’s house, and the wall around Jerusalem..."
 weight: 3
 ---
 
-# Chapter 3
+# 1 Kings 3 
 
 **¹** Solomon made a marriage alliance with Pharaoh king of Egypt. He took Pharaoh’s daughter and brought her into David’s city until he had finished building his own house, Yahweh’s house, and the wall around Jerusalem.
 

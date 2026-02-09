@@ -1,8 +1,11 @@
 ---
+title: "1 Chronicles 18 WEB | Read the Bible Online"
+linkTitle: "18"
+description: "Read 1 Chronicles 18 Online | After this, David defeated the Philistines and subdued them, and took Gath and its towns out of the hand of the Philistines..."
 weight: 18
 ---
 
-# Chapter 18
+# 1 Chronicles 18 
 
 **¹** After this, David defeated the Philistines and subdued them, and took Gath and its towns out of the hand of the Philistines.
 

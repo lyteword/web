@@ -1,8 +1,11 @@
 ---
+title: "Song Of Solomon 7 WEB | Read the Bible Online"
+linkTitle: "7"
+description: "Read Song Of Solomon 7 Online | How beautiful are your feet in sandals, prince’s daughter! Your rounded thighs are like jewels, the work of the hands of a skillful workman..."
 weight: 7
 ---
 
-# Chapter 7
+# Song Of Solomon 7 
 
 **¹** How beautiful are your feet in sandals, prince’s daughter! Your rounded thighs are like jewels, the work of the hands of a skillful workman.
 

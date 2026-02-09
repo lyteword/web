@@ -1,8 +1,11 @@
 ---
+title: "Judges 4 WEB | Read the Bible Online"
+linkTitle: "4"
+description: "Read Judges 4 Online | The children of Israel again did that which was evil in Yahweh’s sight, when Ehud was dead..."
 weight: 4
 ---
 
-# Chapter 4
+# Judges 4 
 
 **¹** The children of Israel again did that which was evil in Yahweh’s sight, when Ehud was dead.
 

@@ -1,8 +1,11 @@
 ---
+title: "Luke 6 WEB | Read the Bible Online"
+linkTitle: "6"
+description: "Read Luke 6 Online | Now on the second Sabbath after the first, he was going through the grain fields. His disciples plucked the heads of grain and ate, rubbing them in their hands..."
 weight: 6
 ---
 
-# Chapter 6
+# Luke 6 
 
 **¹** Now on the second Sabbath after the first, he was going through the grain fields. His disciples plucked the heads of grain and ate, rubbing them in their hands.
 

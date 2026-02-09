@@ -1,8 +1,11 @@
 ---
+title: "Hosea 13 WEB | Read the Bible Online"
+linkTitle: "13"
+description: "Read Hosea 13 Online | When Ephraim spoke, there was trembling. He exalted himself in Israel, but when he became guilty through Baal, he died..."
 weight: 13
 ---
 
-# Chapter 13
+# Hosea 13 
 
 **¹** When Ephraim spoke, there was trembling. He exalted himself in Israel, but when he became guilty through Baal, he died.
 

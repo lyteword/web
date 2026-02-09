@@ -1,8 +1,11 @@
 ---
+title: "Hosea 11 WEB | Read the Bible Online"
+linkTitle: "11"
+description: "Read Hosea 11 Online | “When Israel was a child, then I loved him, and called my son out of Egypt..."
 weight: 11
 ---
 
-# Chapter 11
+# Hosea 11 
 
 **¹** “When Israel was a child, then I loved him, and called my son out of Egypt.
 

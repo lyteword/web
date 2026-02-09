@@ -1,8 +1,11 @@
 ---
+title: "Numbers 17 WEB | Read the Bible Online"
+linkTitle: "17"
+description: "Read Numbers 17 Online | Yahweh spoke to Moses, saying..."
 weight: 17
 ---
 
-# Chapter 17
+# Numbers 17 
 
 **¹** Yahweh spoke to Moses, saying,
 

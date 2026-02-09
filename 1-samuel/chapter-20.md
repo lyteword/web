@@ -1,8 +1,11 @@
 ---
+title: "1 Samuel 20 WEB | Read the Bible Online"
+linkTitle: "20"
+description: "Read 1 Samuel 20 Online | David fled from Naioth in Ramah, and came and said to Jonathan, “What have I done? What is my iniquity? What is my sin before your father, that he seeks my life?..."
 weight: 20
 ---
 
-# Chapter 20
+# 1 Samuel 20 
 
 **¹** David fled from Naioth in Ramah, and came and said to Jonathan, “What have I done? What is my iniquity? What is my sin before your father, that he seeks my life?”
 

@@ -1,8 +1,11 @@
 ---
+title: "Acts 9 WEB | Read the Bible Online"
+linkTitle: "9"
+description: "Read Acts 9 Online | But Saul, still breathing threats and slaughter against the disciples of the Lord, went to the high priest..."
 weight: 9
 ---
 
-# Chapter 9
+# Acts 9 
 
 **¹** But Saul, still breathing threats and slaughter against the disciples of the Lord, went to the high priest
 

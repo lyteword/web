@@ -1,8 +1,11 @@
 ---
+title: "1 Corinthians 16 WEB | Read the Bible Online"
+linkTitle: "16"
+description: "Read 1 Corinthians 16 Online | Now concerning the collection for the saints: as I commanded the assemblies of Galatia, you do likewise..."
 weight: 16
 ---
 
-# Chapter 16
+# 1 Corinthians 16 
 
 **¹** Now concerning the collection for the saints: as I commanded the assemblies of Galatia, you do likewise.
 

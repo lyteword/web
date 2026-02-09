@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 12 WEB | Read the Bible Online"
+linkTitle: "12"
+description: "Read Leviticus 12 Online | Yahweh spoke to Moses, saying..."
 weight: 12
 ---
 
-# Chapter 12
+# Leviticus 12 
 
 **¹** Yahweh spoke to Moses, saying,
 

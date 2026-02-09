@@ -1,8 +1,11 @@
 ---
+title: "Job 5 WEB | Read the Bible Online"
+linkTitle: "5"
+description: "Read Job 5 Online | “Call now; is there any who will answer you? To which of the holy ones will you turn..."
 weight: 5
 ---
 
-# Chapter 5
+# Job 5 
 
 **¹** “Call now; is there any who will answer you? To which of the holy ones will you turn?
 

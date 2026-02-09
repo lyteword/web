@@ -1,8 +1,11 @@
 ---
+title: "Esther 4 WEB | Read the Bible Online"
+linkTitle: "4"
+description: "Read Esther 4 Online | Now when Mordecai found out all that was done, Mordecai tore his clothes and put on sackcloth with ashes, and went out into the middle of the city, and wailed loudly and bitterly..."
 weight: 4
 ---
 
-# Chapter 4
+# Esther 4 
 
 **¹** Now when Mordecai found out all that was done, Mordecai tore his clothes and put on sackcloth with ashes, and went out into the middle of the city, and wailed loudly and bitterly.
 

@@ -1,8 +1,11 @@
 ---
+title: "Genesis 48 WEB | Read the Bible Online"
+linkTitle: "48"
+description: "Read Genesis 48 Online | After these things, someone said to Joseph, “Behold, your father is sick.” He took with him his two sons, Manasseh and Ephraim..."
 weight: 48
 ---
 
-# Chapter 48
+# Genesis 48 
 
 **¹** After these things, someone said to Joseph, “Behold, your father is sick.” He took with him his two sons, Manasseh and Ephraim.
 

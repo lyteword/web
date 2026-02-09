@@ -1,8 +1,11 @@
 ---
+title: "Nahum 1 WEB | Read the Bible Online"
+linkTitle: "1"
+description: "Read Nahum 1 Online | A revelation about Nineveh. The book of the vision of Nahum the Elkoshite..."
 weight: 1
 ---
 
-# Chapter 1
+# Nahum 1 
 
 **¹** A revelation about Nineveh. The book of the vision of Nahum the Elkoshite.
 

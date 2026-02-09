@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 10 WEB | Read the Bible Online"
+linkTitle: "10"
+description: "Read Isaiah 10 Online | Woe to those who decree unrighteous decrees, and to the writers who write oppressive decrees..."
 weight: 10
 ---
 
-# Chapter 10
+# Isaiah 10 
 
 **¹** Woe to those who decree unrighteous decrees, and to the writers who write oppressive decrees
 

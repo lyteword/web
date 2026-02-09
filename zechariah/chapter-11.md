@@ -1,8 +1,11 @@
 ---
+title: "Zechariah 11 WEB | Read the Bible Online"
+linkTitle: "11"
+description: "Read Zechariah 11 Online | Open your doors, Lebanon, that the fire may devour your cedars..."
 weight: 11
 ---
 
-# Chapter 11
+# Zechariah 11 
 
 **¹** Open your doors, Lebanon, that the fire may devour your cedars.
 

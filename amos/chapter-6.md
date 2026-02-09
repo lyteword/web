@@ -1,8 +1,11 @@
 ---
+title: "Amos 6 WEB | Read the Bible Online"
+linkTitle: "6"
+description: "Read Amos 6 Online | Woe to those who are at ease in Zion, and to those who are secure on the mountain of Samaria, the notable men of the chief of the nations, to whom the house of Israel come..."
 weight: 6
 ---
 
-# Chapter 6
+# Amos 6 
 
 **¹** Woe to those who are at ease in Zion, and to those who are secure on the mountain of Samaria, the notable men of the chief of the nations, to whom the house of Israel come!
 

@@ -1,8 +1,11 @@
 ---
+title: "Haggai 1 WEB | Read the Bible Online"
+linkTitle: "1"
+description: "Read Haggai 1 Online | In the second year of Darius the king, in the sixth month, in the first day of the month, Yahweh’s[^629] word came by Haggai the prophet, to Zerubbabel the son of Shealtiel, governor of Judah, and to Joshua the son of Jehozadak, the high priest, saying..."
 weight: 1
 ---
 
-# Chapter 1
+# Haggai 1 
 
 **¹** In the second year of Darius the king, in the sixth month, in the first day of the month, Yahweh’s[^629] word came by Haggai the prophet, to Zerubbabel the son of Shealtiel, governor of Judah, and to Joshua the son of Jehozadak, the high priest, saying,
 

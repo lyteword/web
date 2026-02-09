@@ -1,8 +1,11 @@
 ---
+title: "2 Samuel 11 WEB | Read the Bible Online"
+linkTitle: "11"
+description: "Read 2 Samuel 11 Online | At the return of the year, at the time when kings go out, David sent Joab and his servants with him, and all Israel; and they destroyed the children of Ammon and besieged Rabbah. But David stayed at Jerusalem..."
 weight: 11
 ---
 
-# Chapter 11
+# 2 Samuel 11 
 
 **¹** At the return of the year, at the time when kings go out, David sent Joab and his servants with him, and all Israel; and they destroyed the children of Ammon and besieged Rabbah. But David stayed at Jerusalem.
 

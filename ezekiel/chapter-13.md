@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 13 WEB | Read the Bible Online"
+linkTitle: "13"
+description: "Read Ezekiel 13 Online | Yahweh’s word came to me, saying..."
 weight: 13
 ---
 
-# Chapter 13
+# Ezekiel 13 
 
 **¹** Yahweh’s word came to me, saying,
 

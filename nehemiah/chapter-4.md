@@ -1,8 +1,11 @@
 ---
+title: "Nehemiah 4 WEB | Read the Bible Online"
+linkTitle: "4"
+description: "Read Nehemiah 4 Online | But when Sanballat heard that we were building the wall, he was angry, and was very indignant, and mocked the Jews..."
 weight: 4
 ---
 
-# Chapter 4
+# Nehemiah 4 
 
 **¹** But when Sanballat heard that we were building the wall, he was angry, and was very indignant, and mocked the Jews.
 

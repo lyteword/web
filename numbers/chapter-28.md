@@ -1,8 +1,11 @@
 ---
+title: "Numbers 28 WEB | Read the Bible Online"
+linkTitle: "28"
+description: "Read Numbers 28 Online | Yahweh spoke to Moses, saying..."
 weight: 28
 ---
 
-# Chapter 28
+# Numbers 28 
 
 **¹** Yahweh spoke to Moses, saying,
 

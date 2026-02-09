@@ -1,8 +1,11 @@
 ---
+title: "Jonah 3 WEB | Read the Bible Online"
+linkTitle: "3"
+description: "Read Jonah 3 Online | Yahweh’s word came to Jonah the second time, saying..."
 weight: 3
 ---
 
-# Chapter 3
+# Jonah 3 
 
 **¹** Yahweh’s word came to Jonah the second time, saying,
 

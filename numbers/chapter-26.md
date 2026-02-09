@@ -1,8 +1,11 @@
 ---
+title: "Numbers 26 WEB | Read the Bible Online"
+linkTitle: "26"
+description: "Read Numbers 26 Online | After the plague, Yahweh spoke to Moses and to Eleazar the son of Aaron the priest, saying..."
 weight: 26
 ---
 
-# Chapter 26
+# Numbers 26 
 
 **¹** After the plague, Yahweh spoke to Moses and to Eleazar the son of Aaron the priest, saying,
 

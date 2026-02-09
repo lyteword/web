@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 19 WEB | Read the Bible Online"
+linkTitle: "19"
+description: "Read Ezekiel 19 Online | “Moreover, take up a lamentation for the princes of Israel..."
 weight: 19
 ---
 
-# Chapter 19
+# Ezekiel 19 
 
 **¹** “Moreover, take up a lamentation for the princes of Israel,
 

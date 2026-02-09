@@ -1,8 +1,11 @@
 ---
+title: "2 Samuel 24 WEB | Read the Bible Online"
+linkTitle: "24"
+description: "Read 2 Samuel 24 Online | Again Yahweh’s anger burned against Israel, and he moved David against them, saying, “Go, count Israel and Judah...."
 weight: 24
 ---
 
-# Chapter 24
+# 2 Samuel 24 
 
 **¹** Again Yahweh’s anger burned against Israel, and he moved David against them, saying, “Go, count Israel and Judah.”
 

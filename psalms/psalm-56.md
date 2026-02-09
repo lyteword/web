@@ -1,8 +1,11 @@
 ---
+title: "Psalm 56 WEB | Read the Bible Online"
+linkTitle: "56"
+description: "Read Psalm 56 Online | Be merciful to me, God, for man wants to swallow me up. All day long, he attacks and oppresses me..."
 weight: 56
 ---
 
-# Psalm 56
+# Psalm 56 
 
 For the Chief Musician. To the tune of “Silent Dove in Distant Lands.” A poem by David, when the Philistines seized him in Gath.
 

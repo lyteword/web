@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 47 WEB | Read the Bible Online"
+linkTitle: "47"
+description: "Read Ezekiel 47 Online | He brought me back to the door of the temple; and behold, waters flowed out from under the threshold of the temple eastward, for the front of the temple faced toward the east. The waters came down from underneath, from the right side of the temple, on the south of the altar..."
 weight: 47
 ---
 
-# Chapter 47
+# Ezekiel 47 
 
 **¹** He brought me back to the door of the temple; and behold, waters flowed out from under the threshold of the temple eastward, for the front of the temple faced toward the east. The waters came down from underneath, from the right side of the temple, on the south of the altar.
 

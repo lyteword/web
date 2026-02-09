@@ -1,8 +1,11 @@
 ---
+title: "Romans 11 WEB | Read the Bible Online"
+linkTitle: "11"
+description: "Read Romans 11 Online | I ask then, did God reject his people? May it never be! For I also am an Israelite, a descendant of Abraham, of the tribe of Benjamin..."
 weight: 11
 ---
 
-# Chapter 11
+# Romans 11 
 
 **¹** I ask then, did God reject his people? May it never be! For I also am an Israelite, a descendant of Abraham, of the tribe of Benjamin.
 

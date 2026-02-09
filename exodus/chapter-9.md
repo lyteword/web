@@ -1,8 +1,11 @@
 ---
+title: "Exodus 9 WEB | Read the Bible Online"
+linkTitle: "9"
+description: "Read Exodus 9 Online | Then Yahweh said to Moses, “Go in to Pharaoh, and tell him, ‘This is what Yahweh, the God of the Hebrews, says: “Let my people go, that they may serve me..."
 weight: 9
 ---
 
-# Chapter 9
+# Exodus 9 
 
 **¹** Then Yahweh said to Moses, “Go in to Pharaoh, and tell him, ‘This is what Yahweh, the God of the Hebrews, says: “Let my people go, that they may serve me.
 

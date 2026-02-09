@@ -1,8 +1,11 @@
 ---
+title: "Psalm 73 WEB | Read the Bible Online"
+linkTitle: "73"
+description: "Read Psalm 73 Online | Surely God[^443] is good to Israel, to those who are pure in heart..."
 weight: 73
 ---
 
-# Psalm 73
+# Psalm 73 
 
 A Psalm by Asaph.
 

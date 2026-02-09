@@ -1,8 +1,11 @@
 ---
+title: "Joshua 10 WEB | Read the Bible Online"
+linkTitle: "10"
+description: "Read Joshua 10 Online | Now when Adoni-Zedek king of Jerusalem heard how Joshua had taken Ai, and had utterly destroyed it; as he had done to Jericho and her king, so he had done to Ai and her king; and how the inhabitants of Gibeon had made peace with Israel, and were among them..."
 weight: 10
 ---
 
-# Chapter 10
+# Joshua 10 
 
 **¹** Now when Adoni-Zedek king of Jerusalem heard how Joshua had taken Ai, and had utterly destroyed it; as he had done to Jericho and her king, so he had done to Ai and her king; and how the inhabitants of Gibeon had made peace with Israel, and were among them,
 

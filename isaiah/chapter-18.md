@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 18 WEB | Read the Bible Online"
+linkTitle: "18"
+description: "Read Isaiah 18 Online | Ah, the land of the rustling of wings, which is beyond the rivers of Ethiopia..."
 weight: 18
 ---
 
-# Chapter 18
+# Isaiah 18 
 
 **¹** Ah, the land of the rustling of wings, which is beyond the rivers of Ethiopia;
 

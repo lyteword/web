@@ -1,8 +1,11 @@
 ---
+title: "Exodus 34 WEB | Read the Bible Online"
+linkTitle: "34"
+description: "Read Exodus 34 Online | Yahweh said to Moses, “Chisel two stone tablets like the first. I will write on the tablets the words that were on the first tablets, which you broke..."
 weight: 34
 ---
 
-# Chapter 34
+# Exodus 34 
 
 **¹** Yahweh said to Moses, “Chisel two stone tablets like the first. I will write on the tablets the words that were on the first tablets, which you broke.
 

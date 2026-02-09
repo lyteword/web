@@ -1,8 +1,11 @@
 ---
+title: "Exodus 16 WEB | Read the Bible Online"
+linkTitle: "16"
+description: "Read Exodus 16 Online | They took their journey from Elim, and all the congregation of the children of Israel came to the wilderness of Sin, which is between Elim and Sinai, on the fifteenth day of the second month after their departing out of the land of Egypt..."
 weight: 16
 ---
 
-# Chapter 16
+# Exodus 16 
 
 **¹** They took their journey from Elim, and all the congregation of the children of Israel came to the wilderness of Sin, which is between Elim and Sinai, on the fifteenth day of the second month after their departing out of the land of Egypt.
 

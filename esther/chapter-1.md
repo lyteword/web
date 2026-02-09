@@ -1,8 +1,11 @@
 ---
+title: "Esther 1 WEB | Read the Bible Online"
+linkTitle: "1"
+description: "Read Esther 1 Online | Now in the days of Ahasuerus (this is Ahasuerus who reigned from India even to Ethiopia, over one hundred twenty-seven provinces)..."
 weight: 1
 ---
 
-# Chapter 1
+# Esther 1 
 
 **¹** Now in the days of Ahasuerus (this is Ahasuerus who reigned from India even to Ethiopia, over one hundred twenty-seven provinces),
 

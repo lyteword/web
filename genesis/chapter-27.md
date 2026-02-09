@@ -1,8 +1,11 @@
 ---
+title: "Genesis 27 WEB | Read the Bible Online"
+linkTitle: "27"
+description: "Read Genesis 27 Online | When Isaac was old, and his eyes were dim, so that he could not see, he called Esau his elder son, and said to him, “My son?” He said to him, “Here I am...."
 weight: 27
 ---
 
-# Chapter 27
+# Genesis 27 
 
 **¹** When Isaac was old, and his eyes were dim, so that he could not see, he called Esau his elder son, and said to him, “My son?” He said to him, “Here I am.”
 

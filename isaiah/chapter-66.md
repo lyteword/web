@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 66 WEB | Read the Bible Online"
+linkTitle: "66"
+description: "Read Isaiah 66 Online | Yahweh says: “Heaven is my throne, and the earth is my footstool. What kind of house will you build to me? Where will I rest..."
 weight: 66
 ---
 
-# Chapter 66
+# Isaiah 66 
 
 **¹** Yahweh says: “Heaven is my throne, and the earth is my footstool. What kind of house will you build to me? Where will I rest?
 

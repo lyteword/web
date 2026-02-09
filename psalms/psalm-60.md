@@ -1,8 +1,11 @@
 ---
+title: "Psalm 60 WEB | Read the Bible Online"
+linkTitle: "60"
+description: "Read Psalm 60 Online | God, you have rejected us. You have broken us down. You have been angry. Restore us, again..."
 weight: 60
 ---
 
-# Psalm 60
+# Psalm 60 
 
 For the Chief Musician. To the tune of “The Lily of the Covenant.” A teaching poem by David, when he fought with Aram Naharaim and with Aram Zobah, and Joab returned, and killed twelve thousand of Edom in the Valley of Salt.
 

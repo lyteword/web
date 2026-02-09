@@ -1,8 +1,11 @@
 ---
+title: "Psalm 112 WEB | Read the Bible Online"
+linkTitle: "112"
+description: "Read Psalm 112 Online | Praise Yah![^459] Blessed is the man who fears Yahweh, who delights greatly in his commandments..."
 weight: 112
 ---
 
-# Psalm 112
+# Psalm 112 
 
 **¹** Praise Yah![^459] Blessed is the man who fears Yahweh, who delights greatly in his commandments.
 

@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 11 WEB | Read the Bible Online"
+linkTitle: "11"
+description: "Read Isaiah 11 Online | A shoot will come out of the stock of Jesse, and a branch out of his roots will bear fruit..."
 weight: 11
 ---
 
-# Chapter 11
+# Isaiah 11 
 
 **¹** A shoot will come out of the stock of Jesse, and a branch out of his roots will bear fruit.
 

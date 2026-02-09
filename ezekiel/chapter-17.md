@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 17 WEB | Read the Bible Online"
+linkTitle: "17"
+description: "Read Ezekiel 17 Online | Yahweh’s word came to me, saying..."
 weight: 17
 ---
 
-# Chapter 17
+# Ezekiel 17 
 
 **¹** Yahweh’s word came to me, saying,
 

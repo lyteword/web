@@ -1,8 +1,11 @@
 ---
+title: "2 Corinthians 9 WEB | Read the Bible Online"
+linkTitle: "9"
+description: "Read 2 Corinthians 9 Online | It is indeed unnecessary for me to write to you concerning the service to the saints..."
 weight: 9
 ---
 
-# Chapter 9
+# 2 Corinthians 9 
 
 **¹** It is indeed unnecessary for me to write to you concerning the service to the saints,
 

@@ -1,8 +1,11 @@
 ---
+title: "Job 41 WEB | Read the Bible Online"
+linkTitle: "41"
+description: "Read Job 41 Online | “Can you draw out Leviathan[^417] with a fish hook, or press down his tongue with a cord..."
 weight: 41
 ---
 
-# Chapter 41
+# Job 41 
 
 **¹** “Can you draw out Leviathan[^417] with a fish hook, or press down his tongue with a cord?
 

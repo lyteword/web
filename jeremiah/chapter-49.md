@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 49 WEB | Read the Bible Online"
+linkTitle: "49"
+description: "Read Jeremiah 49 Online | Of the children of Ammon. Yahweh says: “Has Israel no sons? Has he no heir? Why then does Malcam possess Gad, and his people dwell in its cities..."
 weight: 49
 ---
 
-# Chapter 49
+# Jeremiah 49 
 
 **¹** Of the children of Ammon. Yahweh says: “Has Israel no sons? Has he no heir? Why then does Malcam possess Gad, and his people dwell in its cities?
 

@@ -1,8 +1,11 @@
 ---
+title: "Hebrews 4 WEB | Read the Bible Online"
+linkTitle: "4"
+description: "Read Hebrews 4 Online | Let’s fear therefore, lest perhaps anyone of you should seem to have come short of a promise of entering into his rest..."
 weight: 4
 ---
 
-# Chapter 4
+# Hebrews 4 
 
 **¹** Let’s fear therefore, lest perhaps anyone of you should seem to have come short of a promise of entering into his rest.
 

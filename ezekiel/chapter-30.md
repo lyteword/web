@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 30 WEB | Read the Bible Online"
+linkTitle: "30"
+description: "Read Ezekiel 30 Online | Yahweh’s word came again to me, saying..."
 weight: 30
 ---
 
-# Chapter 30
+# Ezekiel 30 
 
 **¹** Yahweh’s word came again to me, saying,
 

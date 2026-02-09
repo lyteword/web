@@ -1,8 +1,11 @@
 ---
+title: "Job 11 WEB | Read the Bible Online"
+linkTitle: "11"
+description: "Read Job 11 Online | Then Zophar, the Naamathite, answered..."
 weight: 11
 ---
 
-# Chapter 11
+# Job 11 
 
 **¹** Then Zophar, the Naamathite, answered,
 

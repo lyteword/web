@@ -1,8 +1,11 @@
 ---
+title: "Psalm 29 WEB | Read the Bible Online"
+linkTitle: "29"
+description: "Read Psalm 29 Online | Ascribe to Yahweh, you sons of the mighty, ascribe to Yahweh glory and strength..."
 weight: 29
 ---
 
-# Psalm 29
+# Psalm 29 
 
 A Psalm by David.
 

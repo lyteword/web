@@ -1,8 +1,11 @@
 ---
+title: "Numbers 36 WEB | Read the Bible Online"
+linkTitle: "36"
+description: "Read Numbers 36 Online | The heads of the fathers’ households of the family of the children of Gilead, the son of Machir, the son of Manasseh, of the families of the sons of Joseph, came near and spoke before Moses and before the princes, the heads of the fathers’ households of the children of Israel..."
 weight: 36
 ---
 
-# Chapter 36
+# Numbers 36 
 
 **¹** The heads of the fathers’ households of the family of the children of Gilead, the son of Machir, the son of Manasseh, of the families of the sons of Joseph, came near and spoke before Moses and before the princes, the heads of the fathers’ households of the children of Israel.
 

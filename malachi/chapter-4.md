@@ -1,8 +1,11 @@
 ---
+title: "Malachi 4 WEB | Read the Bible Online"
+linkTitle: "4"
+description: "Read Malachi 4 Online | “For behold, the day comes, burning like a furnace, when all the proud and all who work wickedness will be stubble. The day that comes will burn them up,” says Yahweh of Armies, “so that it will leave them neither root nor branch..."
 weight: 4
 ---
 
-# Chapter 4
+# Malachi 4 
 
 **¹** “For behold, the day comes, burning like a furnace, when all the proud and all who work wickedness will be stubble. The day that comes will burn them up,” says Yahweh of Armies, “so that it will leave them neither root nor branch.
 

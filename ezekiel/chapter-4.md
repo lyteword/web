@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 4 WEB | Read the Bible Online"
+linkTitle: "4"
+description: "Read Ezekiel 4 Online | “You also, son of man, take a tile, and lay it before yourself, and portray on it a city, even Jerusalem..."
 weight: 4
 ---
 
-# Chapter 4
+# Ezekiel 4 
 
 **¹** “You also, son of man, take a tile, and lay it before yourself, and portray on it a city, even Jerusalem.
 

@@ -1,8 +1,11 @@
 ---
+title: "Proverbs 8 WEB | Read the Bible Online"
+linkTitle: "8"
+description: "Read Proverbs 8 Online | Doesn’t wisdom cry out? Doesn’t understanding raise her voice..."
 weight: 8
 ---
 
-# Chapter 8
+# Proverbs 8 
 
 **¹** Doesn’t wisdom cry out? Doesn’t understanding raise her voice?
 

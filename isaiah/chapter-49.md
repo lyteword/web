@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 49 WEB | Read the Bible Online"
+linkTitle: "49"
+description: "Read Isaiah 49 Online | Listen, islands, to me. Listen, you peoples, from afar: Yahweh has called me from the womb; from the inside of my mother, he has mentioned my name..."
 weight: 49
 ---
 
-# Chapter 49
+# Isaiah 49 
 
 **¹** Listen, islands, to me. Listen, you peoples, from afar: Yahweh has called me from the womb; from the inside of my mother, he has mentioned my name.
 

@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 7 WEB | Read the Bible Online"
+linkTitle: "7"
+description: "Read Deuteronomy 7 Online | When Yahweh your God brings you into the land where you go to possess it, and casts out many nations before you—the Hittite, the Girgashite, the Amorite, the Canaanite, the Perizzite, the Hivite, and the Jebusite—seven nations greater and mightier than you..."
 weight: 7
 ---
 
-# Chapter 7
+# Deuteronomy 7 
 
 **¹** When Yahweh your God brings you into the land where you go to possess it, and casts out many nations before you—the Hittite, the Girgashite, the Amorite, the Canaanite, the Perizzite, the Hivite, and the Jebusite—seven nations greater and mightier than you;
 

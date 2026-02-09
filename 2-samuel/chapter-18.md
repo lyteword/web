@@ -1,8 +1,11 @@
 ---
+title: "2 Samuel 18 WEB | Read the Bible Online"
+linkTitle: "18"
+description: "Read 2 Samuel 18 Online | David counted the people who were with him, and set captains of thousands and captains of hundreds over them..."
 weight: 18
 ---
 
-# Chapter 18
+# 2 Samuel 18 
 
 **¹** David counted the people who were with him, and set captains of thousands and captains of hundreds over them.
 

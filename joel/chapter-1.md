@@ -1,8 +1,11 @@
 ---
+title: "Joel 1 WEB | Read the Bible Online"
+linkTitle: "1"
+description: "Read Joel 1 Online | Yahweh’s[^591] word that came to Joel, the son of Pethuel..."
 weight: 1
 ---
 
-# Chapter 1
+# Joel 1 
 
 **¹** Yahweh’s[^591] word that came to Joel, the son of Pethuel.
 

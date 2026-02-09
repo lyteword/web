@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 24 WEB | Read the Bible Online"
+linkTitle: "24"
+description: "Read Deuteronomy 24 Online | When a man takes a wife and marries her, then it shall be, if she finds no favor in his eyes because he has found some unseemly thing in her, that he shall write her a certificate of divorce, put it in her hand, and send her out of his house..."
 weight: 24
 ---
 
-# Chapter 24
+# Deuteronomy 24 
 
 **¹** When a man takes a wife and marries her, then it shall be, if she finds no favor in his eyes because he has found some unseemly thing in her, that he shall write her a certificate of divorce, put it in her hand, and send her out of his house.
 

@@ -1,8 +1,11 @@
 ---
+title: "Psalm 58 WEB | Read the Bible Online"
+linkTitle: "58"
+description: "Read Psalm 58 Online | Do you indeed speak righteousness, silent ones? Do you judge blamelessly, you sons of men..."
 weight: 58
 ---
 
-# Psalm 58
+# Psalm 58 
 
 For the Chief Musician. To the tune of “Do Not Destroy.” A poem by David.
 

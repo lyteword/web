@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 26 WEB | Read the Bible Online"
+linkTitle: "26"
+description: "Read Deuteronomy 26 Online | It shall be, when you have come in to the land which Yahweh your God gives you for an inheritance, possess it, and dwell in it..."
 weight: 26
 ---
 
-# Chapter 26
+# Deuteronomy 26 
 
 **¹** It shall be, when you have come in to the land which Yahweh your God gives you for an inheritance, possess it, and dwell in it,
 

@@ -1,8 +1,11 @@
 ---
+title: "Genesis 23 WEB | Read the Bible Online"
+linkTitle: "23"
+description: "Read Genesis 23 Online | Sarah lived one hundred twenty-seven years. This was the length of Sarah’s life..."
 weight: 23
 ---
 
-# Chapter 23
+# Genesis 23 
 
 **¹** Sarah lived one hundred twenty-seven years. This was the length of Sarah’s life.
 

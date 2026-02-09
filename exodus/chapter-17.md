@@ -1,8 +1,11 @@
 ---
+title: "Exodus 17 WEB | Read the Bible Online"
+linkTitle: "17"
+description: "Read Exodus 17 Online | All the congregation of the children of Israel traveled from the wilderness of Sin, starting according to Yahweh’s commandment, and encamped in Rephidim; but there was no water for the people to drink..."
 weight: 17
 ---
 
-# Chapter 17
+# Exodus 17 
 
 **¹** All the congregation of the children of Israel traveled from the wilderness of Sin, starting according to Yahweh’s commandment, and encamped in Rephidim; but there was no water for the people to drink.
 

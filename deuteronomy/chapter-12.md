@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 12 WEB | Read the Bible Online"
+linkTitle: "12"
+description: "Read Deuteronomy 12 Online | These are the statutes and the ordinances which you shall observe to do in the land which Yahweh, the God of your fathers, has given you to possess all the days that you live on the earth..."
 weight: 12
 ---
 
-# Chapter 12
+# Deuteronomy 12 
 
 **¹** These are the statutes and the ordinances which you shall observe to do in the land which Yahweh, the God of your fathers, has given you to possess all the days that you live on the earth.
 

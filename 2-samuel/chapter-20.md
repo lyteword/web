@@ -1,8 +1,11 @@
 ---
+title: "2 Samuel 20 WEB | Read the Bible Online"
+linkTitle: "20"
+description: "Read 2 Samuel 20 Online | There happened to be there a wicked fellow, whose name was Sheba the son of Bichri, a Benjamite; and he blew the trumpet, and said, “We have no portion in David, neither have we inheritance in the son of Jesse. Every man to his tents, Israel!..."
 weight: 20
 ---
 
-# Chapter 20
+# 2 Samuel 20 
 
 **¹** There happened to be there a wicked fellow, whose name was Sheba the son of Bichri, a Benjamite; and he blew the trumpet, and said, “We have no portion in David, neither have we inheritance in the son of Jesse. Every man to his tents, Israel!”
 

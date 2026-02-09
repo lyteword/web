@@ -1,8 +1,11 @@
 ---
+title: "Matthew 25 WEB | Read the Bible Online"
+linkTitle: "25"
+description: "Read Matthew 25 Online | “Then the Kingdom of Heaven will be like ten virgins who took their lamps and went out to meet the bridegroom..."
 weight: 25
 ---
 
-# Chapter 25
+# Matthew 25 
 
 **¹**  “Then the Kingdom of Heaven will be like ten virgins who took their lamps and went out to meet the bridegroom.
 

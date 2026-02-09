@@ -1,8 +1,11 @@
 ---
+title: "Song Of Solomon 4 WEB | Read the Bible Online"
+linkTitle: "4"
+description: "Read Song Of Solomon 4 Online | Behold, you are beautiful, my love. Behold, you are beautiful. Your eyes are like doves behind your veil. Your hair is as a flock of goats, that descend from Mount Gilead..."
 weight: 4
 ---
 
-# Chapter 4
+# Song Of Solomon 4 
 
 Lover
 

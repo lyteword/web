@@ -1,8 +1,11 @@
 ---
+title: "Titus 2 WEB | Read the Bible Online"
+linkTitle: "2"
+description: "Read Titus 2 Online | But say the things which fit sound doctrine..."
 weight: 2
 ---
 
-# Chapter 2
+# Titus 2 
 
 **¹** But say the things which fit sound doctrine,
 

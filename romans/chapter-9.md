@@ -1,8 +1,11 @@
 ---
+title: "Romans 9 WEB | Read the Bible Online"
+linkTitle: "9"
+description: "Read Romans 9 Online | I tell the truth in Christ. I am not lying, my conscience testifying with me in the Holy Spirit..."
 weight: 9
 ---
 
-# Chapter 9
+# Romans 9 
 
 **¹** I tell the truth in Christ. I am not lying, my conscience testifying with me in the Holy Spirit
 

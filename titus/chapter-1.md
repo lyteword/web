@@ -1,8 +1,11 @@
 ---
+title: "Titus 1 WEB | Read the Bible Online"
+linkTitle: "1"
+description: "Read Titus 1 Online | Paul, a servant of God and an apostle of Jesus Christ,[^1294] according to the faith of God’s chosen ones and the knowledge of the truth which is according to godliness..."
 weight: 1
 ---
 
-# Chapter 1
+# Titus 1 
 
 **¹** Paul, a servant of God and an apostle of Jesus Christ,[^1294] according to the faith of God’s chosen ones and the knowledge of the truth which is according to godliness,
 

@@ -1,8 +1,11 @@
 ---
+title: "Numbers 12 WEB | Read the Bible Online"
+linkTitle: "12"
+description: "Read Numbers 12 Online | Miriam and Aaron spoke against Moses because of the Cushite woman whom he had married; for he had married a Cushite woman..."
 weight: 12
 ---
 
-# Chapter 12
+# Numbers 12 
 
 **¹** Miriam and Aaron spoke against Moses because of the Cushite woman whom he had married; for he had married a Cushite woman.
 

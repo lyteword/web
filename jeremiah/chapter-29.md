@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 29 WEB | Read the Bible Online"
+linkTitle: "29"
+description: "Read Jeremiah 29 Online | Now these are the words of the letter that Jeremiah the prophet sent from Jerusalem to the residue of the elders of the captivity, and to the priests, to the prophets, and to all the people whom Nebuchadnezzar had carried away captive from Jerusalem to Babylon..."
 weight: 29
 ---
 
-# Chapter 29
+# Jeremiah 29 
 
 **¹** Now these are the words of the letter that Jeremiah the prophet sent from Jerusalem to the residue of the elders of the captivity, and to the priests, to the prophets, and to all the people whom Nebuchadnezzar had carried away captive from Jerusalem to Babylon,
 

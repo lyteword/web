@@ -1,8 +1,11 @@
 ---
+title: "Luke 9 WEB | Read the Bible Online"
+linkTitle: "9"
+description: "Read Luke 9 Online | He called the twelve[^893] together and gave them power and authority over all demons, and to cure diseases..."
 weight: 9
 ---
 
-# Chapter 9
+# Luke 9 
 
 **¹** He called the twelve[^893] together and gave them power and authority over all demons, and to cure diseases.
 

@@ -1,8 +1,11 @@
 ---
+title: "1 Samuel 16 WEB | Read the Bible Online"
+linkTitle: "16"
+description: "Read 1 Samuel 16 Online | Yahweh said to Samuel, “How long will you mourn for Saul, since I have rejected him from being king over Israel? Fill your horn with oil, and go. I will send you to Jesse the Bethlehemite, for I have provided a king for myself among his sons...."
 weight: 16
 ---
 
-# Chapter 16
+# 1 Samuel 16 
 
 **¹** Yahweh said to Samuel, “How long will you mourn for Saul, since I have rejected him from being king over Israel? Fill your horn with oil, and go. I will send you to Jesse the Bethlehemite, for I have provided a king for myself among his sons.”
 

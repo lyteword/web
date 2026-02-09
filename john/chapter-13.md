@@ -1,8 +1,11 @@
 ---
+title: "John 13 WEB | Read the Bible Online"
+linkTitle: "13"
+description: "Read John 13 Online | Now before the feast of the Passover, Jesus, knowing that his time had come that he would depart from this world to the Father, having loved his own who were in the world, he loved them to the end..."
 weight: 13
 ---
 
-# Chapter 13
+# John 13 
 
 **¹** Now before the feast of the Passover, Jesus, knowing that his time had come that he would depart from this world to the Father, having loved his own who were in the world, he loved them to the end.
 

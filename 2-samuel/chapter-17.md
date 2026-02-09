@@ -1,8 +1,11 @@
 ---
+title: "2 Samuel 17 WEB | Read the Bible Online"
+linkTitle: "17"
+description: "Read 2 Samuel 17 Online | Moreover Ahithophel said to Absalom, “Let me now choose twelve thousand men, and I will arise and pursue after David tonight..."
 weight: 17
 ---
 
-# Chapter 17
+# 2 Samuel 17 
 
 **¹** Moreover Ahithophel said to Absalom, “Let me now choose twelve thousand men, and I will arise and pursue after David tonight.
 

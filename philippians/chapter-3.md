@@ -1,8 +1,11 @@
 ---
+title: "Philippians 3 WEB | Read the Bible Online"
+linkTitle: "3"
+description: "Read Philippians 3 Online | Finally, my brothers, rejoice in the Lord! To write the same things to you, to me indeed is not tiresome, but for you it is safe..."
 weight: 3
 ---
 
-# Chapter 3
+# Philippians 3 
 
 **¹** Finally, my brothers, rejoice in the Lord! To write the same things to you, to me indeed is not tiresome, but for you it is safe.
 

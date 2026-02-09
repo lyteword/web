@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 9 WEB | Read the Bible Online"
+linkTitle: "9"
+description: "Read Deuteronomy 9 Online | Hear, Israel! You are to pass over the Jordan today, to go in to dispossess nations greater and mightier than yourself, cities great and fortified up to the sky..."
 weight: 9
 ---
 
-# Chapter 9
+# Deuteronomy 9 
 
 **¹** Hear, Israel! You are to pass over the Jordan today, to go in to dispossess nations greater and mightier than yourself, cities great and fortified up to the sky,
 

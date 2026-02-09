@@ -1,8 +1,11 @@
 ---
+title: "Joshua 15 WEB | Read the Bible Online"
+linkTitle: "15"
+description: "Read Joshua 15 Online | The lot for the tribe of the children of Judah according to their families was to the border of Edom, even to the wilderness of Zin southward, at the uttermost part of the south..."
 weight: 15
 ---
 
-# Chapter 15
+# Joshua 15 
 
 **¹** The lot for the tribe of the children of Judah according to their families was to the border of Edom, even to the wilderness of Zin southward, at the uttermost part of the south.
 

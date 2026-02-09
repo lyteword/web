@@ -1,8 +1,11 @@
 ---
+title: "1 Samuel 28 WEB | Read the Bible Online"
+linkTitle: "28"
+description: "Read 1 Samuel 28 Online | In those days, the Philistines gathered their armies together for warfare, to fight with Israel. Achish said to David, “Know assuredly that you will go out with me in the army, you and your men...."
 weight: 28
 ---
 
-# Chapter 28
+# 1 Samuel 28 
 
 **¹** In those days, the Philistines gathered their armies together for warfare, to fight with Israel. Achish said to David, “Know assuredly that you will go out with me in the army, you and your men.”
 

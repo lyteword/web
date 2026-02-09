@@ -1,8 +1,11 @@
 ---
+title: "John 14 WEB | Read the Bible Online"
+linkTitle: "14"
+description: "Read John 14 Online | “Don’t let your heart be troubled. Believe in God. Believe also in me..."
 weight: 14
 ---
 
-# Chapter 14
+# John 14 
 
 **¹**  “Don’t let your heart be troubled. Believe in God. Believe also in me.
 

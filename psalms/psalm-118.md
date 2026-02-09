@@ -1,8 +1,11 @@
 ---
+title: "Psalm 118 WEB | Read the Bible Online"
+linkTitle: "118"
+description: "Read Psalm 118 Online | Give thanks to Yahweh, for he is good, for his loving kindness endures forever..."
 weight: 118
 ---
 
-# Psalm 118
+# Psalm 118 
 
 **¹** Give thanks to Yahweh, for he is good, for his loving kindness endures forever.
 

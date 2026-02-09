@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 45 WEB | Read the Bible Online"
+linkTitle: "45"
+description: "Read Isaiah 45 Online | Yahweh says to his anointed, to Cyrus, whose right hand I have held to subdue nations before him and strip kings of their armor, to open the doors before him, and the gates shall not be shut..."
 weight: 45
 ---
 
-# Chapter 45
+# Isaiah 45 
 
 **¹** Yahweh says to his anointed, to Cyrus, whose right hand I have held to subdue nations before him and strip kings of their armor, to open the doors before him, and the gates shall not be shut:
 

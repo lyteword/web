@@ -1,8 +1,11 @@
 ---
+title: "2 Samuel 19 WEB | Read the Bible Online"
+linkTitle: "19"
+description: "Read 2 Samuel 19 Online | Joab was told, “Behold, the king weeps and mourns for Absalom...."
 weight: 19
 ---
 
-# Chapter 19
+# 2 Samuel 19 
 
 **¹** Joab was told, “Behold, the king weeps and mourns for Absalom.”
 

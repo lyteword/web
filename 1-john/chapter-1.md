@@ -1,8 +1,11 @@
 ---
+title: "1 John 1 WEB | Read the Bible Online"
+linkTitle: "1"
+description: "Read 1 John 1 Online | That which was from the beginning, that which we have heard, that which we have seen with our eyes, that which we saw, and our hands touched, concerning the Word of life..."
 weight: 1
 ---
 
-# Chapter 1
+# 1 John 1 
 
 **¹** That which was from the beginning, that which we have heard, that which we have seen with our eyes, that which we saw, and our hands touched, concerning the Word of life
 

@@ -1,8 +1,11 @@
 ---
+title: "Genesis 21 WEB | Read the Bible Online"
+linkTitle: "21"
+description: "Read Genesis 21 Online | Yahweh visited Sarah as he had said, and Yahweh did to Sarah as he had spoken..."
 weight: 21
 ---
 
-# Chapter 21
+# Genesis 21 
 
 **¹** Yahweh visited Sarah as he had said, and Yahweh did to Sarah as he had spoken.
 

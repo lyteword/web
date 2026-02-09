@@ -1,8 +1,11 @@
 ---
+title: "Psalm 111 WEB | Read the Bible Online"
+linkTitle: "111"
+description: "Read Psalm 111 Online | Praise Yah![^458] I will give thanks to Yahweh with my whole heart, in the council of the upright, and in the congregation..."
 weight: 111
 ---
 
-# Psalm 111
+# Psalm 111 
 
 **¹** Praise Yah![^458] I will give thanks to Yahweh with my whole heart, in the council of the upright, and in the congregation.
 

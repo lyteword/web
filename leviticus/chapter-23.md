@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 23 WEB | Read the Bible Online"
+linkTitle: "23"
+description: "Read Leviticus 23 Online | Yahweh spoke to Moses, saying..."
 weight: 23
 ---
 
-# Chapter 23
+# Leviticus 23 
 
 **¹** Yahweh spoke to Moses, saying,
 

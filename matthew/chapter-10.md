@@ -1,8 +1,11 @@
 ---
+title: "Matthew 10 WEB | Read the Bible Online"
+linkTitle: "10"
+description: "Read Matthew 10 Online | He called to himself his twelve disciples, and gave them authority over unclean spirits, to cast them out, and to heal every disease and every sickness..."
 weight: 10
 ---
 
-# Chapter 10
+# Matthew 10 
 
 **¹** He called to himself his twelve disciples, and gave them authority over unclean spirits, to cast them out, and to heal every disease and every sickness.
 

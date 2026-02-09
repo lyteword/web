@@ -1,8 +1,11 @@
 ---
+title: "Ezra 9 WEB | Read the Bible Online"
+linkTitle: "9"
+description: "Read Ezra 9 Online | Now when these things were done, the princes came near to me, saying, “The people of Israel, the priests, and the Levites have not separated themselves from the peoples of the lands, following their abominations, even those of the Canaanites, the Hittites, the Perizzites, the Jebusites, the Ammonites, the Moabites, the Egyptians, and the Amorites..."
 weight: 9
 ---
 
-# Chapter 9
+# Ezra 9 
 
 **¹** Now when these things were done, the princes came near to me, saying, “The people of Israel, the priests, and the Levites have not separated themselves from the peoples of the lands, following their abominations, even those of the Canaanites, the Hittites, the Perizzites, the Jebusites, the Ammonites, the Moabites, the Egyptians, and the Amorites.
 

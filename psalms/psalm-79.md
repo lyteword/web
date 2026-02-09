@@ -1,8 +1,11 @@
 ---
+title: "Psalm 79 WEB | Read the Bible Online"
+linkTitle: "79"
+description: "Read Psalm 79 Online | God, the nations have come into your inheritance. They have defiled your holy temple. They have laid Jerusalem in heaps..."
 weight: 79
 ---
 
-# Psalm 79
+# Psalm 79 
 
 A Psalm by Asaph.
 

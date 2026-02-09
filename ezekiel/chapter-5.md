@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 5 WEB | Read the Bible Online"
+linkTitle: "5"
+description: "Read Ezekiel 5 Online | “You, son of man, take a sharp sword. You shall take it as a barber’s razor to yourself, and shall cause it to pass over your head and over your beard. Then take balances to weigh and divide the hair..."
 weight: 5
 ---
 
-# Chapter 5
+# Ezekiel 5 
 
 **¹** “You, son of man, take a sharp sword. You shall take it as a barber’s razor to yourself, and shall cause it to pass over your head and over your beard. Then take balances to weigh and divide the hair.
 

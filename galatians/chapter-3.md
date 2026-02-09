@@ -1,8 +1,11 @@
 ---
+title: "Galatians 3 WEB | Read the Bible Online"
+linkTitle: "3"
+description: "Read Galatians 3 Online | Foolish Galatians, who has bewitched you not to obey the truth, before whose eyes Jesus Christ was openly portrayed among you as crucified..."
 weight: 3
 ---
 
-# Chapter 3
+# Galatians 3 
 
 **¹** Foolish Galatians, who has bewitched you not to obey the truth, before whose eyes Jesus Christ was openly portrayed among you as crucified?
 

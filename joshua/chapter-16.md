@@ -1,8 +1,11 @@
 ---
+title: "Joshua 16 WEB | Read the Bible Online"
+linkTitle: "16"
+description: "Read Joshua 16 Online | The lot came out for the children of Joseph from the Jordan at Jericho, at the waters of Jericho on the east, even the wilderness, going up from Jericho through the hill country to Bethel..."
 weight: 16
 ---
 
-# Chapter 16
+# Joshua 16 
 
 **¹** The lot came out for the children of Joseph from the Jordan at Jericho, at the waters of Jericho on the east, even the wilderness, going up from Jericho through the hill country to Bethel.
 

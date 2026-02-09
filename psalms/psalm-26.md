@@ -1,8 +1,11 @@
 ---
+title: "Psalm 26 WEB | Read the Bible Online"
+linkTitle: "26"
+description: "Read Psalm 26 Online | Judge me, Yahweh, for I have walked in my integrity. I have trusted also in Yahweh without wavering..."
 weight: 26
 ---
 
-# Psalm 26
+# Psalm 26 
 
 By David.
 

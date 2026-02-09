@@ -1,8 +1,11 @@
 ---
+title: "Genesis 13 WEB | Read the Bible Online"
+linkTitle: "13"
+description: "Read Genesis 13 Online | Abram went up out of Egypt—he, his wife, all that he had, and Lot with him—into the South..."
 weight: 13
 ---
 
-# Chapter 13
+# Genesis 13 
 
 **¹** Abram went up out of Egypt—he, his wife, all that he had, and Lot with him—into the South.
 

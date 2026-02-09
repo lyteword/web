@@ -1,8 +1,11 @@
 ---
+title: "1 Chronicles 25 WEB | Read the Bible Online"
+linkTitle: "25"
+description: "Read 1 Chronicles 25 Online | Moreover, David and the captains of the army set apart for the service certain of the sons of Asaph, of Heman, and of Jeduthun, who were to prophesy with harps, with stringed instruments, and with cymbals. The number of those who did the work according to their service was..."
 weight: 25
 ---
 
-# Chapter 25
+# 1 Chronicles 25 
 
 **¹** Moreover, David and the captains of the army set apart for the service certain of the sons of Asaph, of Heman, and of Jeduthun, who were to prophesy with harps, with stringed instruments, and with cymbals. The number of those who did the work according to their service was:
 

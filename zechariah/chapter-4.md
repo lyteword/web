@@ -1,8 +1,11 @@
 ---
+title: "Zechariah 4 WEB | Read the Bible Online"
+linkTitle: "4"
+description: "Read Zechariah 4 Online | The angel who talked with me came again and wakened me, as a man who is wakened out of his sleep..."
 weight: 4
 ---
 
-# Chapter 4
+# Zechariah 4 
 
 **¹** The angel who talked with me came again and wakened me, as a man who is wakened out of his sleep.
 

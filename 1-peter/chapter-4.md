@@ -1,8 +1,11 @@
 ---
+title: "1 Peter 4 WEB | Read the Bible Online"
+linkTitle: "4"
+description: "Read 1 Peter 4 Online | Therefore, since Christ suffered for us in the flesh, arm yourselves also with the same mind; for he who has suffered in the flesh has ceased from sin..."
 weight: 4
 ---
 
-# Chapter 4
+# 1 Peter 4 
 
 **¹** Therefore, since Christ suffered for us in the flesh, arm yourselves also with the same mind; for he who has suffered in the flesh has ceased from sin,
 

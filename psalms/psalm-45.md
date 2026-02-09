@@ -1,8 +1,11 @@
 ---
+title: "Psalm 45 WEB | Read the Bible Online"
+linkTitle: "45"
+description: "Read Psalm 45 Online | My heart overflows with a noble theme. I recite my verses for the king. My tongue is like the pen of a skillful writer..."
 weight: 45
 ---
 
-# Psalm 45
+# Psalm 45 
 
 For the Chief Musician. Set to “The Lilies.” A contemplation by the sons of Korah. A wedding song.
 

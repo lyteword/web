@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 20 WEB | Read the Bible Online"
+linkTitle: "20"
+description: "Read Leviticus 20 Online | Yahweh spoke to Moses, saying..."
 weight: 20
 ---
 
-# Chapter 20
+# Leviticus 20 
 
 **¹** Yahweh spoke to Moses, saying,
 

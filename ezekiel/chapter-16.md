@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 16 WEB | Read the Bible Online"
+linkTitle: "16"
+description: "Read Ezekiel 16 Online | Again Yahweh’s word came to me, saying..."
 weight: 16
 ---
 
-# Chapter 16
+# Ezekiel 16 
 
 **¹** Again Yahweh’s word came to me, saying,
 

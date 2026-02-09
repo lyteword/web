@@ -1,8 +1,11 @@
 ---
+title: "Nehemiah 13 WEB | Read the Bible Online"
+linkTitle: "13"
+description: "Read Nehemiah 13 Online | On that day they read in the book of Moses in the hearing of the people; and it was found written in it that an Ammonite and a Moabite should not enter into the assembly of God forever..."
 weight: 13
 ---
 
-# Chapter 13
+# Nehemiah 13 
 
 **¹** On that day they read in the book of Moses in the hearing of the people; and it was found written in it that an Ammonite and a Moabite should not enter into the assembly of God forever,
 

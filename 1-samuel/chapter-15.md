@@ -1,8 +1,11 @@
 ---
+title: "1 Samuel 15 WEB | Read the Bible Online"
+linkTitle: "15"
+description: "Read 1 Samuel 15 Online | Samuel said to Saul, “Yahweh sent me to anoint you to be king over his people, over Israel. Now therefore listen to the voice of Yahweh’s words..."
 weight: 15
 ---
 
-# Chapter 15
+# 1 Samuel 15 
 
 **¹** Samuel said to Saul, “Yahweh sent me to anoint you to be king over his people, over Israel. Now therefore listen to the voice of Yahweh’s words.
 

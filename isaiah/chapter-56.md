@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 56 WEB | Read the Bible Online"
+linkTitle: "56"
+description: "Read Isaiah 56 Online | Yahweh says: “Maintain justice and do what is right, for my salvation is near and my righteousness will soon be revealed..."
 weight: 56
 ---
 
-# Chapter 56
+# Isaiah 56 
 
 **¹** Yahweh says: “Maintain justice and do what is right, for my salvation is near and my righteousness will soon be revealed.
 

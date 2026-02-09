@@ -1,8 +1,11 @@
 ---
+title: "Acts 19 WEB | Read the Bible Online"
+linkTitle: "19"
+description: "Read Acts 19 Online | While Apollos was at Corinth, Paul, having passed through the upper country, came to Ephesus and found certain disciples..."
 weight: 19
 ---
 
-# Chapter 19
+# Acts 19 
 
 **¹** While Apollos was at Corinth, Paul, having passed through the upper country, came to Ephesus and found certain disciples.
 

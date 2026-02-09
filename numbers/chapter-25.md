@@ -1,8 +1,11 @@
 ---
+title: "Numbers 25 WEB | Read the Bible Online"
+linkTitle: "25"
+description: "Read Numbers 25 Online | Israel stayed in Shittim; and the people began to play the prostitute with the daughters of Moab..."
 weight: 25
 ---
 
-# Chapter 25
+# Numbers 25 
 
 **¹** Israel stayed in Shittim; and the people began to play the prostitute with the daughters of Moab;
 

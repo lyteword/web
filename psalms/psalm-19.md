@@ -1,8 +1,11 @@
 ---
+title: "Psalm 19 WEB | Read the Bible Online"
+linkTitle: "19"
+description: "Read Psalm 19 Online | The heavens declare the glory of God. The expanse shows his handiwork..."
 weight: 19
 ---
 
-# Psalm 19
+# Psalm 19 
 
 For the Chief Musician. A Psalm by David.
 

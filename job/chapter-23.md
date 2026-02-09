@@ -1,8 +1,11 @@
 ---
+title: "Job 23 WEB | Read the Bible Online"
+linkTitle: "23"
+description: "Read Job 23 Online | Then Job answered..."
 weight: 23
 ---
 
-# Chapter 23
+# Job 23 
 
 **¹** Then Job answered,
 

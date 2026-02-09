@@ -1,8 +1,11 @@
 ---
+title: "1 John 2 WEB | Read the Bible Online"
+linkTitle: "2"
+description: "Read 1 John 2 Online | My little children, I write these things to you so that you may not sin. If anyone sins, we have a Counselor[^1393] with the Father, Jesus Christ, the righteous..."
 weight: 2
 ---
 
-# Chapter 2
+# 1 John 2 
 
 **¹** My little children, I write these things to you so that you may not sin. If anyone sins, we have a Counselor[^1393] with the Father, Jesus Christ, the righteous.
 

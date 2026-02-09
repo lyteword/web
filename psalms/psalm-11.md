@@ -1,8 +1,11 @@
 ---
+title: "Psalm 11 WEB | Read the Bible Online"
+linkTitle: "11"
+description: "Read Psalm 11 Online | In Yahweh, I take refuge. How can you say to my soul, “Flee as a bird to your mountain”..."
 weight: 11
 ---
 
-# Psalm 11
+# Psalm 11 
 
 For the Chief Musician. By David.
 

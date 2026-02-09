@@ -1,8 +1,11 @@
 ---
+title: "2 Thessalonians 1 WEB | Read the Bible Online"
+linkTitle: "1"
+description: "Read 2 Thessalonians 1 Online | Paul, Silvanus, and Timothy, to the assembly of the Thessalonians in God our Father and the Lord Jesus Christ..."
 weight: 1
 ---
 
-# Chapter 1
+# 2 Thessalonians 1 
 
 **¹** Paul, Silvanus, and Timothy, to the assembly of the Thessalonians in God our Father and the Lord Jesus Christ:
 

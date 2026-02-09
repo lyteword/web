@@ -1,8 +1,11 @@
 ---
+title: "1 Samuel 24 WEB | Read the Bible Online"
+linkTitle: "24"
+description: "Read 1 Samuel 24 Online | When Saul had returned from following the Philistines, he was told, “Behold, David is in the wilderness of En Gedi...."
 weight: 24
 ---
 
-# Chapter 24
+# 1 Samuel 24 
 
 **¹** When Saul had returned from following the Philistines, he was told, “Behold, David is in the wilderness of En Gedi.”
 

@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 1 WEB | Read the Bible Online"
+linkTitle: "1"
+description: "Read Leviticus 1 Online | Yahweh[^105] called to Moses, and spoke to him from the Tent of Meeting, saying..."
 weight: 1
 ---
 
-# Chapter 1
+# Leviticus 1 
 
 **¹** Yahweh[^105] called to Moses, and spoke to him from the Tent of Meeting, saying,
 

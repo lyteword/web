@@ -1,8 +1,11 @@
 ---
+title: "Luke 23 WEB | Read the Bible Online"
+linkTitle: "23"
+description: "Read Luke 23 Online | The whole company of them rose up and brought him before Pilate..."
 weight: 23
 ---
 
-# Chapter 23
+# Luke 23 
 
 **¹** The whole company of them rose up and brought him before Pilate.
 

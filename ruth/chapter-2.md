@@ -1,8 +1,11 @@
 ---
+title: "Ruth 2 WEB | Read the Bible Online"
+linkTitle: "2"
+description: "Read Ruth 2 Online | Naomi had a relative of her husband’s, a mighty man of wealth, of the family of Elimelech, and his name was Boaz..."
 weight: 2
 ---
 
-# Chapter 2
+# Ruth 2 
 
 **¹** Naomi had a relative of her husband’s, a mighty man of wealth, of the family of Elimelech, and his name was Boaz.
 

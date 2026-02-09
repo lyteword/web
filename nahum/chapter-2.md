@@ -1,8 +1,11 @@
 ---
+title: "Nahum 2 WEB | Read the Bible Online"
+linkTitle: "2"
+description: "Read Nahum 2 Online | He who dashes in pieces has come up against you. Keep the fortress! Watch the way! Strengthen your waist! Fortify your power mightily..."
 weight: 2
 ---
 
-# Chapter 2
+# Nahum 2 
 
 **¹** He who dashes in pieces has come up against you. Keep the fortress! Watch the way! Strengthen your waist! Fortify your power mightily!
 

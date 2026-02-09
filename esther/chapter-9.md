@@ -1,8 +1,11 @@
 ---
+title: "Esther 9 WEB | Read the Bible Online"
+linkTitle: "9"
+description: "Read Esther 9 Online | Now in the twelfth month, which is the month Adar, on the thirteenth day of the month, when the king’s commandment and his decree came near to be put in execution, on the day that the enemies of the Jews hoped to conquer them, (but it turned out that the opposite happened, that the Jews conquered those who hated them)..."
 weight: 9
 ---
 
-# Chapter 9
+# Esther 9 
 
 **¹** Now in the twelfth month, which is the month Adar, on the thirteenth day of the month, when the king’s commandment and his decree came near to be put in execution, on the day that the enemies of the Jews hoped to conquer them, (but it turned out that the opposite happened, that the Jews conquered those who hated them),
 

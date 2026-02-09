@@ -1,8 +1,11 @@
 ---
+title: "2 Peter 1 WEB | Read the Bible Online"
+linkTitle: "1"
+description: "Read 2 Peter 1 Online | Simon Peter, a servant and apostle of Jesus Christ,[^1386] to those who have obtained a like precious faith with us in the righteousness of our God and Savior, Jesus Christ..."
 weight: 1
 ---
 
-# Chapter 1
+# 2 Peter 1 
 
 **¹** Simon Peter, a servant and apostle of Jesus Christ,[^1386] to those who have obtained a like precious faith with us in the righteousness of our God and Savior, Jesus Christ:
 

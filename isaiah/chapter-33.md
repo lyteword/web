@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 33 WEB | Read the Bible Online"
+linkTitle: "33"
+description: "Read Isaiah 33 Online | Woe to you who destroy, but you weren’t destroyed, and who betray, but nobody betrayed you! When you have finished destroying, you will be destroyed; and when you have finished betrayal, you will be betrayed..."
 weight: 33
 ---
 
-# Chapter 33
+# Isaiah 33 
 
 **¹** Woe to you who destroy, but you weren’t destroyed, and who betray, but nobody betrayed you! When you have finished destroying, you will be destroyed; and when you have finished betrayal, you will be betrayed.
 

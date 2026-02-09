@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 16 WEB | Read the Bible Online"
+linkTitle: "16"
+description: "Read Leviticus 16 Online | Yahweh spoke to Moses after the death of the two sons of Aaron, when they came near before Yahweh, and died..."
 weight: 16
 ---
 
-# Chapter 16
+# Leviticus 16 
 
 **¹** Yahweh spoke to Moses after the death of the two sons of Aaron, when they came near before Yahweh, and died;
 

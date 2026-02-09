@@ -1,8 +1,11 @@
 ---
+title: "Psalm 84 WEB | Read the Bible Online"
+linkTitle: "84"
+description: "Read Psalm 84 Online | How lovely are your dwellings, Yahweh of Armies..."
 weight: 84
 ---
 
-# Psalm 84
+# Psalm 84 
 
 For the Chief Musician. On an instrument of Gath. A Psalm by the sons of Korah.
 

@@ -1,8 +1,11 @@
 ---
+title: "Luke 12 WEB | Read the Bible Online"
+linkTitle: "12"
+description: "Read Luke 12 Online | Meanwhile, when a multitude of many thousands had gathered together, so much so that they trampled on each other, he began to tell his disciples first of all,  “Beware of the yeast of the Pharisees, which is hypocrisy..."
 weight: 12
 ---
 
-# Chapter 12
+# Luke 12 
 
 **¹** Meanwhile, when a multitude of many thousands had gathered together, so much so that they trampled on each other, he began to tell his disciples first of all,  “Beware of the yeast of the Pharisees, which is hypocrisy.
 

@@ -1,8 +1,11 @@
 ---
+title: "Psalm 31 WEB | Read the Bible Online"
+linkTitle: "31"
+description: "Read Psalm 31 Online | In you, Yahweh, I take refuge. Let me never be disappointed. Deliver me in your righteousness..."
 weight: 31
 ---
 
-# Psalm 31
+# Psalm 31 
 
 For the Chief Musician. A Psalm by David.
 

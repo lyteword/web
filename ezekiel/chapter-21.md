@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 21 WEB | Read the Bible Online"
+linkTitle: "21"
+description: "Read Ezekiel 21 Online | Yahweh’s word came to me, saying..."
 weight: 21
 ---
 
-# Chapter 21
+# Ezekiel 21 
 
 **¹** Yahweh’s word came to me, saying,
 

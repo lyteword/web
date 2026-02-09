@@ -1,8 +1,11 @@
 ---
+title: "Exodus 38 WEB | Read the Bible Online"
+linkTitle: "38"
+description: "Read Exodus 38 Online | He made the altar of burnt offering of acacia wood. It was square. Its length was five cubits,[^92] its width was five cubits, and its height was three cubits..."
 weight: 38
 ---
 
-# Chapter 38
+# Exodus 38 
 
 **¹** He made the altar of burnt offering of acacia wood. It was square. Its length was five cubits,[^92] its width was five cubits, and its height was three cubits.
 

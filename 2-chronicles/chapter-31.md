@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 31 WEB | Read the Bible Online"
+linkTitle: "31"
+description: "Read 2 Chronicles 31 Online | Now when all this was finished, all Israel who were present went out to the cities of Judah and broke the pillars in pieces, cut down the Asherah poles, and broke down the high places and the altars out of all Judah and Benjamin, also in Ephraim and Manasseh, until they had destroyed them all. Then all the children of Israel returned, every man to his possession, into their own cities..."
 weight: 31
 ---
 
-# Chapter 31
+# 2 Chronicles 31 
 
 **¹** Now when all this was finished, all Israel who were present went out to the cities of Judah and broke the pillars in pieces, cut down the Asherah poles, and broke down the high places and the altars out of all Judah and Benjamin, also in Ephraim and Manasseh, until they had destroyed them all. Then all the children of Israel returned, every man to his possession, into their own cities.
 

@@ -1,8 +1,11 @@
 ---
+title: "Exodus 11 WEB | Read the Bible Online"
+linkTitle: "11"
+description: "Read Exodus 11 Online | Yahweh said to Moses, “I will bring yet one more plague on Pharaoh, and on Egypt; afterwards he will let you go. When he lets you go, he will surely thrust you out altogether..."
 weight: 11
 ---
 
-# Chapter 11
+# Exodus 11 
 
 **¹** Yahweh said to Moses, “I will bring yet one more plague on Pharaoh, and on Egypt; afterwards he will let you go. When he lets you go, he will surely thrust you out altogether.
 

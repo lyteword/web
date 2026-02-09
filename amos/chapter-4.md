@@ -1,8 +1,11 @@
 ---
+title: "Amos 4 WEB | Read the Bible Online"
+linkTitle: "4"
+description: "Read Amos 4 Online | Listen to this word, you cows of Bashan, who are on the mountain of Samaria, who oppress the poor, who crush the needy, who tell their husbands, “Bring us drinks!..."
 weight: 4
 ---
 
-# Chapter 4
+# Amos 4 
 
 **¹** Listen to this word, you cows of Bashan, who are on the mountain of Samaria, who oppress the poor, who crush the needy, who tell their husbands, “Bring us drinks!”
 

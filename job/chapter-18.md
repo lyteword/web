@@ -1,8 +1,11 @@
 ---
+title: "Job 18 WEB | Read the Bible Online"
+linkTitle: "18"
+description: "Read Job 18 Online | Then Bildad the Shuhite answered..."
 weight: 18
 ---
 
-# Chapter 18
+# Job 18 
 
 **¹** Then Bildad the Shuhite answered,
 

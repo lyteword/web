@@ -1,8 +1,11 @@
 ---
+title: "Psalm 133 WEB | Read the Bible Online"
+linkTitle: "133"
+description: "Read Psalm 133 Online | See how good and how pleasant it is for brothers to live together in unity..."
 weight: 133
 ---
 
-# Psalm 133
+# Psalm 133 
 
 A Song of Ascents. By David.
 

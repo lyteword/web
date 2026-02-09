@@ -1,8 +1,11 @@
 ---
+title: "Hosea 9 WEB | Read the Bible Online"
+linkTitle: "9"
+description: "Read Hosea 9 Online | Don’t rejoice, Israel, to jubilation like the nations; for you were unfaithful to your God. You love the wages of a prostitute at every grain threshing floor..."
 weight: 9
 ---
 
-# Chapter 9
+# Hosea 9 
 
 **¹** Don’t rejoice, Israel, to jubilation like the nations; for you were unfaithful to your God. You love the wages of a prostitute at every grain threshing floor.
 

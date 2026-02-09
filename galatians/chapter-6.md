@@ -1,8 +1,11 @@
 ---
+title: "Galatians 6 WEB | Read the Bible Online"
+linkTitle: "6"
+description: "Read Galatians 6 Online | Brothers, even if a man is caught in some fault, you who are spiritual must restore such a one in a spirit of gentleness, looking to yourself so that you also aren’t tempted..."
 weight: 6
 ---
 
-# Chapter 6
+# Galatians 6 
 
 **¹** Brothers, even if a man is caught in some fault, you who are spiritual must restore such a one in a spirit of gentleness, looking to yourself so that you also aren’t tempted.
 

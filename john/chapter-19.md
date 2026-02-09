@@ -1,8 +1,11 @@
 ---
+title: "John 19 WEB | Read the Bible Online"
+linkTitle: "19"
+description: "Read John 19 Online | So Pilate then took Jesus and flogged him..."
 weight: 19
 ---
 
-# Chapter 19
+# John 19 
 
 **¹** So Pilate then took Jesus and flogged him.
 

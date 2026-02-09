@@ -1,8 +1,11 @@
 ---
+title: "Revelation 13 WEB | Read the Bible Online"
+linkTitle: "13"
+description: "Read Revelation 13 Online | Then I stood[^1443] on the sand of the sea. I saw a beast coming up out of the sea, having ten horns and seven heads. On his horns were ten crowns, and on his heads, blasphemous names..."
 weight: 13
 ---
 
-# Chapter 13
+# Revelation 13 
 
 **¹** Then I stood[^1443] on the sand of the sea. I saw a beast coming up out of the sea, having ten horns and seven heads. On his horns were ten crowns, and on his heads, blasphemous names.
 

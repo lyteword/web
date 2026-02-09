@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 28 WEB | Read the Bible Online"
+linkTitle: "28"
+description: "Read Isaiah 28 Online | Woe to the crown of pride of the drunkards of Ephraim, and to the fading flower of his glorious beauty, which is on the head of the fertile valley of those who are overcome with wine..."
 weight: 28
 ---
 
-# Chapter 28
+# Isaiah 28 
 
 **¹** Woe to the crown of pride of the drunkards of Ephraim, and to the fading flower of his glorious beauty, which is on the head of the fertile valley of those who are overcome with wine!
 

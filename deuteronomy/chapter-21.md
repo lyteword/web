@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 21 WEB | Read the Bible Online"
+linkTitle: "21"
+description: "Read Deuteronomy 21 Online | If someone is found slain in the land which Yahweh your God gives you to possess, lying in the field, and it isn’t known who has struck him..."
 weight: 21
 ---
 
-# Chapter 21
+# Deuteronomy 21 
 
 **¹** If someone is found slain in the land which Yahweh your God gives you to possess, lying in the field, and it isn’t known who has struck him,
 

@@ -1,8 +1,11 @@
 ---
+title: "Obadiah 1 WEB | Read the Bible Online"
+linkTitle: "1"
+description: "Read Obadiah 1 Online | The vision of Obadiah. This is what the Lord[^601] Yahweh[^602] says about Edom. We have heard news from Yahweh, and an ambassador is sent among the nations, saying, “Arise, and let’s rise up against her in battle..."
 weight: 1
 ---
 
-# Chapter 1
+# Obadiah 1 
 
 **¹** The vision of Obadiah. This is what the Lord[^601] Yahweh[^602] says about Edom. We have heard news from Yahweh, and an ambassador is sent among the nations, saying, “Arise, and let’s rise up against her in battle.
 

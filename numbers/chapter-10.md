@@ -1,8 +1,11 @@
 ---
+title: "Numbers 10 WEB | Read the Bible Online"
+linkTitle: "10"
+description: "Read Numbers 10 Online | Yahweh spoke to Moses, saying..."
 weight: 10
 ---
 
-# Chapter 10
+# Numbers 10 
 
 **¹** Yahweh spoke to Moses, saying,
 

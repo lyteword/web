@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 41 WEB | Read the Bible Online"
+linkTitle: "41"
+description: "Read Isaiah 41 Online | “Keep silent before me, islands, and let the peoples renew their strength. Let them come near, then let them speak. Let’s meet together for judgment..."
 weight: 41
 ---
 
-# Chapter 41
+# Isaiah 41 
 
 **¹** “Keep silent before me, islands, and let the peoples renew their strength. Let them come near, then let them speak. Let’s meet together for judgment.
 

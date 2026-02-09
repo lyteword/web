@@ -1,8 +1,11 @@
 ---
+title: "Nehemiah 6 WEB | Read the Bible Online"
+linkTitle: "6"
+description: "Read Nehemiah 6 Online | Now when it was reported to Sanballat, Tobiah, Geshem the Arabian, and to the rest of our enemies that I had built the wall, and that there was no breach left in it (though even to that time I had not set up the doors in the gates)..."
 weight: 6
 ---
 
-# Chapter 6
+# Nehemiah 6 
 
 **¹** Now when it was reported to Sanballat, Tobiah, Geshem the Arabian, and to the rest of our enemies that I had built the wall, and that there was no breach left in it (though even to that time I had not set up the doors in the gates),
 

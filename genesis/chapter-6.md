@@ -1,8 +1,11 @@
 ---
+title: "Genesis 6 WEB | Read the Bible Online"
+linkTitle: "6"
+description: "Read Genesis 6 Online | When men began to multiply on the surface of the ground, and daughters were born to them..."
 weight: 6
 ---
 
-# Chapter 6
+# Genesis 6 
 
 **¹** When men began to multiply on the surface of the ground, and daughters were born to them,
 

@@ -1,8 +1,11 @@
 ---
+title: "Job 25 WEB | Read the Bible Online"
+linkTitle: "25"
+description: "Read Job 25 Online | Then Bildad the Shuhite answered..."
 weight: 25
 ---
 
-# Chapter 25
+# Job 25 
 
 **¹** Then Bildad the Shuhite answered,
 

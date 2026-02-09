@@ -1,8 +1,11 @@
 ---
+title: "Acts 12 WEB | Read the Bible Online"
+linkTitle: "12"
+description: "Read Acts 12 Online | Now about that time, King Herod stretched out his hands to oppress some of the assembly..."
 weight: 12
 ---
 
-# Chapter 12
+# Acts 12 
 
 **¹** Now about that time, King Herod stretched out his hands to oppress some of the assembly.
 

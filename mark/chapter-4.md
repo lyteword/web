@@ -1,8 +1,11 @@
 ---
+title: "Mark 4 WEB | Read the Bible Online"
+linkTitle: "4"
+description: "Read Mark 4 Online | Again he began to teach by the seaside. A great multitude was gathered to him, so that he entered into a boat in the sea and sat down. All the multitude were on the land by the sea..."
 weight: 4
 ---
 
-# Chapter 4
+# Mark 4 
 
 **¹** Again he began to teach by the seaside. A great multitude was gathered to him, so that he entered into a boat in the sea and sat down. All the multitude were on the land by the sea.
 

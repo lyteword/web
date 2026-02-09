@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 12 WEB | Read the Bible Online"
+linkTitle: "12"
+description: "Read Jeremiah 12 Online | You are righteous, Yahweh, when I contend with you; yet I would like to plead a case with you. Why does the way of the wicked prosper? Why are they all at ease who deal very treacherously..."
 weight: 12
 ---
 
-# Chapter 12
+# Jeremiah 12 
 
 **¹** You are righteous, Yahweh, when I contend with you; yet I would like to plead a case with you. Why does the way of the wicked prosper? Why are they all at ease who deal very treacherously?
 

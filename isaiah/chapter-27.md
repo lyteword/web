@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 27 WEB | Read the Bible Online"
+linkTitle: "27"
+description: "Read Isaiah 27 Online | In that day, Yahweh with his hard and great and strong sword will punish leviathan, the fleeing serpent, and leviathan, the twisted serpent; and he will kill the dragon that is in the sea..."
 weight: 27
 ---
 
-# Chapter 27
+# Isaiah 27 
 
 **¹** In that day, Yahweh with his hard and great and strong sword will punish leviathan, the fleeing serpent, and leviathan, the twisted serpent; and he will kill the dragon that is in the sea.
 

@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 55 WEB | Read the Bible Online"
+linkTitle: "55"
+description: "Read Isaiah 55 Online | “Hey! Come, everyone who thirsts, to the waters! Come, he who has no money, buy, and eat! Yes, come, buy wine and milk without money and without price..."
 weight: 55
 ---
 
-# Chapter 55
+# Isaiah 55 
 
 **¹** “Hey! Come, everyone who thirsts, to the waters! Come, he who has no money, buy, and eat! Yes, come, buy wine and milk without money and without price.
 

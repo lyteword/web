@@ -1,8 +1,11 @@
 ---
+title: "Matthew 7 WEB | Read the Bible Online"
+linkTitle: "7"
+description: "Read Matthew 7 Online | “Don’t judge, so that you won’t be judged..."
 weight: 7
 ---
 
-# Chapter 7
+# Matthew 7 
 
 **¹**  “Don’t judge, so that you won’t be judged.
 

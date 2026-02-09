@@ -1,8 +1,11 @@
 ---
+title: "Psalm 135 WEB | Read the Bible Online"
+linkTitle: "135"
+description: "Read Psalm 135 Online | Praise Yah! Praise Yahweh’s name! Praise him, you servants of Yahweh..."
 weight: 135
 ---
 
-# Psalm 135
+# Psalm 135 
 
 **¹** Praise Yah! Praise Yahweh’s name! Praise him, you servants of Yahweh,
 

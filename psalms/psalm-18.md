@@ -1,8 +1,11 @@
 ---
+title: "Psalm 18 WEB | Read the Bible Online"
+linkTitle: "18"
+description: "Read Psalm 18 Online | I love you, Yahweh, my strength..."
 weight: 18
 ---
 
-# Psalm 18
+# Psalm 18 
 
 For the Chief Musician. By David the servant of Yahweh, who spoke to Yahweh the words of this song in the day that Yahweh delivered him from the hand of all his enemies, and from the hand of Saul. He said,
 

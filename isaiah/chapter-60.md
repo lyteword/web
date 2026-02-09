@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 60 WEB | Read the Bible Online"
+linkTitle: "60"
+description: "Read Isaiah 60 Online | “Arise, shine; for your light has come, and Yahweh’s glory has risen on you..."
 weight: 60
 ---
 
-# Chapter 60
+# Isaiah 60 
 
 **¹** “Arise, shine; for your light has come, and Yahweh’s glory has risen on you!
 

@@ -1,8 +1,11 @@
 ---
+title: "Hebrews 2 WEB | Read the Bible Online"
+linkTitle: "2"
+description: "Read Hebrews 2 Online | Therefore we ought to pay greater attention to the things that were heard, lest perhaps we drift away..."
 weight: 2
 ---
 
-# Chapter 2
+# Hebrews 2 
 
 **¹** Therefore we ought to pay greater attention to the things that were heard, lest perhaps we drift away.
 

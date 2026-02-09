@@ -1,8 +1,11 @@
 ---
+title: "1 Kings 16 WEB | Read the Bible Online"
+linkTitle: "16"
+description: "Read 1 Kings 16 Online | Yahweh’s word came to Jehu the son of Hanani against Baasha, saying..."
 weight: 16
 ---
 
-# Chapter 16
+# 1 Kings 16 
 
 **¹** Yahweh’s word came to Jehu the son of Hanani against Baasha, saying,
 

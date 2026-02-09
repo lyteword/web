@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 30 WEB | Read the Bible Online"
+linkTitle: "30"
+description: "Read 2 Chronicles 30 Online | Hezekiah sent to all Israel and Judah, and wrote letters also to Ephraim and Manasseh, that they should come to Yahweh’s house at Jerusalem, to keep the Passover to Yahweh, the God of Israel..."
 weight: 30
 ---
 
-# Chapter 30
+# 2 Chronicles 30 
 
 **¹** Hezekiah sent to all Israel and Judah, and wrote letters also to Ephraim and Manasseh, that they should come to Yahweh’s house at Jerusalem, to keep the Passover to Yahweh, the God of Israel.
 

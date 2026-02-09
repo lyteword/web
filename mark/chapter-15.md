@@ -1,8 +1,11 @@
 ---
+title: "Mark 15 WEB | Read the Bible Online"
+linkTitle: "15"
+description: "Read Mark 15 Online | Immediately in the morning the chief priests, with the elders, scribes, and the whole council, held a consultation, bound Jesus, carried him away, and delivered him up to Pilate..."
 weight: 15
 ---
 
-# Chapter 15
+# Mark 15 
 
 **¹** Immediately in the morning the chief priests, with the elders, scribes, and the whole council, held a consultation, bound Jesus, carried him away, and delivered him up to Pilate.
 

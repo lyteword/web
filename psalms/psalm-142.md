@@ -1,8 +1,11 @@
 ---
+title: "Psalm 142 WEB | Read the Bible Online"
+linkTitle: "142"
+description: "Read Psalm 142 Online | I cry with my voice to Yahweh. With my voice, I ask Yahweh for mercy..."
 weight: 142
 ---
 
-# Psalm 142
+# Psalm 142 
 
 A contemplation by David, when he was in the cave. A Prayer.
 

@@ -1,8 +1,11 @@
 ---
+title: "Amos 9 WEB | Read the Bible Online"
+linkTitle: "9"
+description: "Read Amos 9 Online | I saw the Lord standing beside the altar, and he said, “Strike the tops of the pillars, that the thresholds may shake. Break them in pieces on the head of all of them. I will kill the last of them with the sword. Not one of them will flee away. Not one of them will escape..."
 weight: 9
 ---
 
-# Chapter 9
+# Amos 9 
 
 **¹** I saw the Lord standing beside the altar, and he said, “Strike the tops of the pillars, that the thresholds may shake. Break them in pieces on the head of all of them. I will kill the last of them with the sword. Not one of them will flee away. Not one of them will escape.
 

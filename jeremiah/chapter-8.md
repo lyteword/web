@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 8 WEB | Read the Bible Online"
+linkTitle: "8"
+description: "Read Jeremiah 8 Online | “At that time,” says Yahweh, “they will bring the bones of the kings of Judah, the bones of his princes, the bones of the priests, the bones of the prophets, and the bones of the inhabitants of Jerusalem, out of their graves..."
 weight: 8
 ---
 
-# Chapter 8
+# Jeremiah 8 
 
 **¹** “At that time,” says Yahweh, “they will bring the bones of the kings of Judah, the bones of his princes, the bones of the priests, the bones of the prophets, and the bones of the inhabitants of Jerusalem, out of their graves.
 

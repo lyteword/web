@@ -1,8 +1,11 @@
 ---
+title: "1 Chronicles 15 WEB | Read the Bible Online"
+linkTitle: "15"
+description: "Read 1 Chronicles 15 Online | David made himself houses in David’s city; and he prepared a place for God’s ark, and pitched a tent for it..."
 weight: 15
 ---
 
-# Chapter 15
+# 1 Chronicles 15 
 
 **¹** David made himself houses in David’s city; and he prepared a place for God’s ark, and pitched a tent for it.
 
