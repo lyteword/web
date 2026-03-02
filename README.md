@@ -22,7 +22,7 @@ This repository contains a complete **World English Bible (WEB)** translation of
 
 `john/chapter-1.md`
 ```
-# Chapter 1
+# John 1
 
 **¹** In the beginning was the Word, and the Word was with God, and the Word was God.
 
