@@ -1,7 +1,8 @@
 ---
 title: "Acts 7 WEB | Read the Bible Online"
 linkTitle: "7"
-description: "Read Acts 7 Online | The high priest said, “Are these things so?..."
+description: >
+  Read Acts 7 Online | The high priest said, “Are these things so?...
 weight: 7
 ---
 

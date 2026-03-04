@@ -1,7 +1,8 @@
 ---
 title: "Psalm 142 WEB | Read the Bible Online"
 linkTitle: "142"
-description: "Read Psalm 142 Online | I cry with my voice to Yahweh. With my voice, I ask Yahweh for mercy..."
+description: >
+  Read Psalm 142 Online | I cry with my voice to Yahweh. With my voice, I ask Yahweh for mercy...
 weight: 142
 ---
 

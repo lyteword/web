@@ -1,7 +1,8 @@
 ---
 title: "Psalm 91 WEB | Read the Bible Online"
 linkTitle: "91"
-description: "Read Psalm 91 Online | He who dwells in the secret place of the Most High will rest in the shadow of the Almighty..."
+description: >
+  Read Psalm 91 Online | He who dwells in the secret place of the Most High will rest in the shadow of the Almighty...
 weight: 91
 ---
 

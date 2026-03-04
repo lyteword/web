@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 47 WEB | Read the Bible Online"
 linkTitle: "47"
-description: "Read Isaiah 47 Online | “Come down and sit in the dust, virgin daughter of Babylon. Sit on the ground without a throne, daughter of the Chaldeans. For you will no longer be called tender and delicate..."
+description: >
+  Read Isaiah 47 Online | “Come down and sit in the dust, virgin daughter of Babylon. Sit on the ground without a throne, daughter of the Chaldeans. For you will no longer be called tender and delicate...
 weight: 47
 ---
 

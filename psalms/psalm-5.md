@@ -1,7 +1,8 @@
 ---
 title: "Psalm 5 WEB | Read the Bible Online"
 linkTitle: "5"
-description: "Read Psalm 5 Online | Give ear to my words, Yahweh. Consider my meditation..."
+description: >
+  Read Psalm 5 Online | Give ear to my words, Yahweh. Consider my meditation...
 weight: 5
 ---
 

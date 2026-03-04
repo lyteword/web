@@ -1,7 +1,8 @@
 ---
 title: "Deuteronomy 30 WEB | Read the Bible Online"
 linkTitle: "30"
-description: "Read Deuteronomy 30 Online | It shall happen, when all these things have come on you, the blessing and the curse, which I have set before you, and you shall call them to mind among all the nations where Yahweh your God has driven you..."
+description: >
+  Read Deuteronomy 30 Online | It shall happen, when all these things have come on you, the blessing and the curse, which I have set before you, and you shall call them to mind among all the nations where Yahweh your God has driven you...
 weight: 30
 ---
 

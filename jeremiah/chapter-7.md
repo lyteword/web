@@ -1,7 +1,8 @@
 ---
 title: "Jeremiah 7 WEB | Read the Bible Online"
 linkTitle: "7"
-description: "Read Jeremiah 7 Online | The word that came to Jeremiah from Yahweh, saying..."
+description: >
+  Read Jeremiah 7 Online | The word that came to Jeremiah from Yahweh, saying...
 weight: 7
 ---
 

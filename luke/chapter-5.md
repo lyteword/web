@@ -1,7 +1,8 @@
 ---
 title: "Luke 5 WEB | Read the Bible Online"
 linkTitle: "5"
-description: "Read Luke 5 Online | Now while the multitude pressed on him and heard the word of God, he was standing by the lake of Gennesaret..."
+description: >
+  Read Luke 5 Online | Now while the multitude pressed on him and heard the word of God, he was standing by the lake of Gennesaret...
 weight: 5
 ---
 

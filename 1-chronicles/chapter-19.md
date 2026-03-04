@@ -1,7 +1,8 @@
 ---
 title: "1 Chronicles 19 WEB | Read the Bible Online"
 linkTitle: "19"
-description: "Read 1 Chronicles 19 Online | After this, Nahash the king of the children of Ammon died, and his son reigned in his place..."
+description: >
+  Read 1 Chronicles 19 Online | After this, Nahash the king of the children of Ammon died, and his son reigned in his place...
 weight: 19
 ---
 

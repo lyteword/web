@@ -1,7 +1,8 @@
 ---
 title: "Jeremiah 15 WEB | Read the Bible Online"
 linkTitle: "15"
-description: "Read Jeremiah 15 Online | Then Yahweh said to me, “Though Moses and Samuel stood before me, yet my mind would not turn toward this people. Cast them out of my sight, and let them go out..."
+description: >
+  Read Jeremiah 15 Online | Then Yahweh said to me, “Though Moses and Samuel stood before me, yet my mind would not turn toward this people. Cast them out of my sight, and let them go out...
 weight: 15
 ---
 

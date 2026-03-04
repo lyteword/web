@@ -1,7 +1,8 @@
 ---
 title: "Joshua 4 WEB | Read the Bible Online"
 linkTitle: "4"
-description: "Read Joshua 4 Online | When all the nation had completely crossed over the Jordan, Yahweh spoke to Joshua, saying..."
+description: >
+  Read Joshua 4 Online | When all the nation had completely crossed over the Jordan, Yahweh spoke to Joshua, saying...
 weight: 4
 ---
 

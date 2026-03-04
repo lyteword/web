@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 65 WEB | Read the Bible Online"
 linkTitle: "65"
-description: "Read Isaiah 65 Online | “I am inquired of by those who didn’t ask. I am found by those who didn’t seek me. I said, ‘See me, see me,’ to a nation that was not called by my name..."
+description: >
+  Read Isaiah 65 Online | “I am inquired of by those who didn’t ask. I am found by those who didn’t seek me. I said, ‘See me, see me,’ to a nation that was not called by my name...
 weight: 65
 ---
 

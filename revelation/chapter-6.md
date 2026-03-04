@@ -1,7 +1,8 @@
 ---
 title: "Revelation 6 WEB | Read the Bible Online"
 linkTitle: "6"
-description: "Read Revelation 6 Online | I saw that the Lamb opened one of the seven seals, and I heard one of the four living creatures saying, as with a voice of thunder, “Come and see!..."
+description: >
+  Read Revelation 6 Online | I saw that the Lamb opened one of the seven seals, and I heard one of the four living creatures saying, as with a voice of thunder, “Come and see!...
 weight: 6
 ---
 

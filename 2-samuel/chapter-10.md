@@ -1,7 +1,8 @@
 ---
 title: "2 Samuel 10 WEB | Read the Bible Online"
 linkTitle: "10"
-description: "Read 2 Samuel 10 Online | After this, the king of the children of Ammon died, and Hanun his son reigned in his place..."
+description: >
+  Read 2 Samuel 10 Online | After this, the king of the children of Ammon died, and Hanun his son reigned in his place...
 weight: 10
 ---
 

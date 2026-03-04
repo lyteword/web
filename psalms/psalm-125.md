@@ -1,7 +1,8 @@
 ---
 title: "Psalm 125 WEB | Read the Bible Online"
 linkTitle: "125"
-description: "Read Psalm 125 Online | Those who trust in Yahweh are as Mount Zion, which can’t be moved, but remains forever..."
+description: >
+  Read Psalm 125 Online | Those who trust in Yahweh are as Mount Zion, which can’t be moved, but remains forever...
 weight: 125
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Jeremiah 48 WEB | Read the Bible Online"
 linkTitle: "48"
-description: "Read Jeremiah 48 Online | Of Moab. Yahweh of Armies, the God of Israel, says: “Woe to Nebo! For it is laid waste. Kiriathaim is disappointed. It is taken. Misgab[^527] is put to shame and broken down..."
+description: >
+  Read Jeremiah 48 Online | Of Moab. Yahweh of Armies, the God of Israel, says: “Woe to Nebo! For it is laid waste. Kiriathaim is disappointed. It is taken. Misgab is put to shame and broken down...
 weight: 48
 ---
 

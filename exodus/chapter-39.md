@@ -1,7 +1,8 @@
 ---
 title: "Exodus 39 WEB | Read the Bible Online"
 linkTitle: "39"
-description: "Read Exodus 39 Online | Of the blue, purple, and scarlet, they made finely worked garments for ministering in the holy place, and made the holy garments for Aaron, as Yahweh commanded Moses..."
+description: >
+  Read Exodus 39 Online | Of the blue, purple, and scarlet, they made finely worked garments for ministering in the holy place, and made the holy garments for Aaron, as Yahweh commanded Moses...
 weight: 39
 ---
 

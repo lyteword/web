@@ -1,7 +1,8 @@
 ---
 title: "1 Peter 2 WEB | Read the Bible Online"
 linkTitle: "2"
-description: "Read 1 Peter 2 Online | Putting away therefore all wickedness, all deceit, hypocrisies, envies, and all evil speaking..."
+description: >
+  Read 1 Peter 2 Online | Putting away therefore all wickedness, all deceit, hypocrisies, envies, and all evil speaking...
 weight: 2
 ---
 

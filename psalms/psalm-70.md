@@ -1,7 +1,8 @@
 ---
 title: "Psalm 70 WEB | Read the Bible Online"
 linkTitle: "70"
-description: "Read Psalm 70 Online | Hurry, God, to deliver me. Come quickly to help me, Yahweh..."
+description: >
+  Read Psalm 70 Online | Hurry, God, to deliver me. Come quickly to help me, Yahweh...
 weight: 70
 ---
 

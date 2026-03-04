@@ -1,7 +1,8 @@
 ---
 title: "Matthew 7 WEB | Read the Bible Online"
 linkTitle: "7"
-description: "Read Matthew 7 Online | “Don’t judge, so that you won’t be judged..."
+description: >
+  Read Matthew 7 Online | “Don’t judge, so that you won’t be judged...
 weight: 7
 ---
 

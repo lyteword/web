@@ -1,7 +1,8 @@
 ---
 title: "Esther 3 WEB | Read the Bible Online"
 linkTitle: "3"
-description: "Read Esther 3 Online | After these things King Ahasuerus promoted Haman the son of Hammedatha the Agagite, and advanced him, and set his seat above all the princes who were with him..."
+description: >
+  Read Esther 3 Online | After these things King Ahasuerus promoted Haman the son of Hammedatha the Agagite, and advanced him, and set his seat above all the princes who were with him...
 weight: 3
 ---
 

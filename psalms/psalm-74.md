@@ -1,7 +1,8 @@
 ---
 title: "Psalm 74 WEB | Read the Bible Online"
 linkTitle: "74"
-description: "Read Psalm 74 Online | God, why have you rejected us forever? Why does your anger smolder against the sheep of your pasture..."
+description: >
+  Read Psalm 74 Online | God, why have you rejected us forever? Why does your anger smolder against the sheep of your pasture...
 weight: 74
 ---
 

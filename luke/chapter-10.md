@@ -1,7 +1,8 @@
 ---
 title: "Luke 10 WEB | Read the Bible Online"
 linkTitle: "10"
-description: "Read Luke 10 Online | Now after these things, the Lord also appointed seventy others, and sent them two by two ahead of him[^898] into every city and place where he was about to come..."
+description: >
+  Read Luke 10 Online | Now after these things, the Lord also appointed seventy others, and sent them two by two ahead of him into every city and place where he was about to come...
 weight: 10
 ---
 

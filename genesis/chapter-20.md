@@ -1,7 +1,8 @@
 ---
 title: "Genesis 20 WEB | Read the Bible Online"
 linkTitle: "20"
-description: "Read Genesis 20 Online | Abraham traveled from there toward the land of the South, and lived between Kadesh and Shur. He lived as a foreigner in Gerar..."
+description: >
+  Read Genesis 20 Online | Abraham traveled from there toward the land of the South, and lived between Kadesh and Shur. He lived as a foreigner in Gerar...
 weight: 20
 ---
 

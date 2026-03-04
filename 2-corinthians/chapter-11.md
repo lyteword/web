@@ -1,7 +1,8 @@
 ---
 title: "2 Corinthians 11 WEB | Read the Bible Online"
 linkTitle: "11"
-description: "Read 2 Corinthians 11 Online | I wish that you would bear with me in a little foolishness, but indeed you do bear with me..."
+description: >
+  Read 2 Corinthians 11 Online | I wish that you would bear with me in a little foolishness, but indeed you do bear with me...
 weight: 11
 ---
 

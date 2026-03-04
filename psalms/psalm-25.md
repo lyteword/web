@@ -1,7 +1,8 @@
 ---
 title: "Psalm 25 WEB | Read the Bible Online"
 linkTitle: "25"
-description: "Read Psalm 25 Online | To you, Yahweh, I lift up my soul..."
+description: >
+  Read Psalm 25 Online | To you, Yahweh, I lift up my soul...
 weight: 25
 ---
 

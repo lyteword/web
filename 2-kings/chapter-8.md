@@ -1,7 +1,8 @@
 ---
 title: "2 Kings 8 WEB | Read the Bible Online"
 linkTitle: "8"
-description: "Read 2 Kings 8 Online | Now Elisha had spoken to the woman whose son he had restored to life, saying, “Arise, and go, you and your household, and stay for a while wherever you can; for Yahweh has called for a famine. It will also come on the land for seven years...."
+description: >
+  Read 2 Kings 8 Online | Now Elisha had spoken to the woman whose son he had restored to life, saying, “Arise, and go, you and your household, and stay for a while wherever you can; for Yahweh has called for a famine. It will also come on the land for seven years....
 weight: 8
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "1 Kings 17 WEB | Read the Bible Online"
 linkTitle: "17"
-description: "Read 1 Kings 17 Online | Elijah the Tishbite, who was one of the settlers of Gilead, said to Ahab, “As Yahweh, the God of Israel, lives, before whom I stand, there shall not be dew nor rain these years, but according to my word...."
+description: >
+  Read 1 Kings 17 Online | Elijah the Tishbite, who was one of the settlers of Gilead, said to Ahab, “As Yahweh, the God of Israel, lives, before whom I stand, there shall not be dew nor rain these years, but according to my word....
 weight: 17
 ---
 

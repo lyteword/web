@@ -1,7 +1,8 @@
 ---
 title: "Psalm 126 WEB | Read the Bible Online"
 linkTitle: "126"
-description: "Read Psalm 126 Online | When Yahweh brought back those who returned to Zion, we were like those who dream..."
+description: >
+  Read Psalm 126 Online | When Yahweh brought back those who returned to Zion, we were like those who dream...
 weight: 126
 ---
 

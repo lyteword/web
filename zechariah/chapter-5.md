@@ -1,7 +1,8 @@
 ---
 title: "Zechariah 5 WEB | Read the Bible Online"
 linkTitle: "5"
-description: "Read Zechariah 5 Online | Then again I lifted up my eyes and saw, and behold, a flying scroll..."
+description: >
+  Read Zechariah 5 Online | Then again I lifted up my eyes and saw, and behold, a flying scroll...
 weight: 5
 ---
 

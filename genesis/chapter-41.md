@@ -1,7 +1,8 @@
 ---
 title: "Genesis 41 WEB | Read the Bible Online"
 linkTitle: "41"
-description: "Read Genesis 41 Online | At the end of two full years, Pharaoh dreamed, and behold, he stood by the river..."
+description: >
+  Read Genesis 41 Online | At the end of two full years, Pharaoh dreamed, and behold, he stood by the river...
 weight: 41
 ---
 

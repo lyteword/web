@@ -1,7 +1,8 @@
 ---
 title: "Job 37 WEB | Read the Bible Online"
 linkTitle: "37"
-description: "Read Job 37 Online | “Yes, at this my heart trembles, and is moved out of its place..."
+description: >
+  Read Job 37 Online | “Yes, at this my heart trembles, and is moved out of its place...
 weight: 37
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Matthew 20 WEB | Read the Bible Online"
 linkTitle: "20"
-description: "Read Matthew 20 Online | “For the Kingdom of Heaven is like a man who was the master of a household, who went out early in the morning to hire laborers for his vineyard..."
+description: >
+  Read Matthew 20 Online | “For the Kingdom of Heaven is like a man who was the master of a household, who went out early in the morning to hire laborers for his vineyard...
 weight: 20
 ---
 

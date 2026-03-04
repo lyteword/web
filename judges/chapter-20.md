@@ -1,7 +1,8 @@
 ---
 title: "Judges 20 WEB | Read the Bible Online"
 linkTitle: "20"
-description: "Read Judges 20 Online | Then all the children of Israel went out, and the congregation was assembled as one man, from Dan even to Beersheba, with the land of Gilead, to Yahweh at Mizpah..."
+description: >
+  Read Judges 20 Online | Then all the children of Israel went out, and the congregation was assembled as one man, from Dan even to Beersheba, with the land of Gilead, to Yahweh at Mizpah...
 weight: 20
 ---
 

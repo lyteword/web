@@ -1,7 +1,8 @@
 ---
 title: "2 Thessalonians 3 WEB | Read the Bible Online"
 linkTitle: "3"
-description: "Read 2 Thessalonians 3 Online | Finally, brothers, pray for us, that the word of the Lord may spread rapidly and be glorified, even as also with you..."
+description: >
+  Read 2 Thessalonians 3 Online | Finally, brothers, pray for us, that the word of the Lord may spread rapidly and be glorified, even as also with you...
 weight: 3
 ---
 

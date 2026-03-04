@@ -1,7 +1,8 @@
 ---
 title: "1 Chronicles 1 WEB | Read the Bible Online"
 linkTitle: "1"
-description: "Read 1 Chronicles 1 Online | Adam, Seth, Enosh..."
+description: >
+  Read 1 Chronicles 1 Online | Adam, Seth, Enosh...
 weight: 1
 ---
 

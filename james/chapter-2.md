@@ -1,7 +1,8 @@
 ---
 title: "James 2 WEB | Read the Bible Online"
 linkTitle: "2"
-description: "Read James 2 Online | My brothers, don’t hold the faith of our glorious Lord Jesus Christ with partiality..."
+description: >
+  Read James 2 Online | My brothers, don’t hold the faith of our glorious Lord Jesus Christ with partiality...
 weight: 2
 ---
 

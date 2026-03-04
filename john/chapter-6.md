@@ -1,7 +1,8 @@
 ---
 title: "John 6 WEB | Read the Bible Online"
 linkTitle: "6"
-description: "Read John 6 Online | After these things, Jesus went away to the other side of the sea of Galilee, which is also called the Sea of Tiberias..."
+description: >
+  Read John 6 Online | After these things, Jesus went away to the other side of the sea of Galilee, which is also called the Sea of Tiberias...
 weight: 6
 ---
 

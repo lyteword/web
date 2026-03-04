@@ -1,7 +1,8 @@
 ---
 title: "2 Kings 17 WEB | Read the Bible Online"
 linkTitle: "17"
-description: "Read 2 Kings 17 Online | In the twelfth year of Ahaz king of Judah, Hoshea the son of Elah began to reign in Samaria over Israel for nine years..."
+description: >
+  Read 2 Kings 17 Online | In the twelfth year of Ahaz king of Judah, Hoshea the son of Elah began to reign in Samaria over Israel for nine years...
 weight: 17
 ---
 

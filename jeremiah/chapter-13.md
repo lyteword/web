@@ -1,7 +1,8 @@
 ---
 title: "Jeremiah 13 WEB | Read the Bible Online"
 linkTitle: "13"
-description: "Read Jeremiah 13 Online | Yahweh said to me, “Go, and buy yourself a linen belt, and put it on your waist, and don’t put it in water...."
+description: >
+  Read Jeremiah 13 Online | Yahweh said to me, “Go, and buy yourself a linen belt, and put it on your waist, and don’t put it in water....
 weight: 13
 ---
 

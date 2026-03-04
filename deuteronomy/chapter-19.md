@@ -1,7 +1,8 @@
 ---
 title: "Deuteronomy 19 WEB | Read the Bible Online"
 linkTitle: "19"
-description: "Read Deuteronomy 19 Online | When Yahweh your God cuts off the nations whose land Yahweh your God gives you, and you succeed them and dwell in their cities and in their houses..."
+description: >
+  Read Deuteronomy 19 Online | When Yahweh your God cuts off the nations whose land Yahweh your God gives you, and you succeed them and dwell in their cities and in their houses...
 weight: 19
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "1 Timothy 1 WEB | Read the Bible Online"
 linkTitle: "1"
-description: "Read 1 Timothy 1 Online | Paul, an apostle of Jesus Christ according to the commandment of God our Savior and the Lord Jesus Christ[^1277] our hope..."
+description: >
+  Read 1 Timothy 1 Online | Paul, an apostle of Jesus Christ according to the commandment of God our Savior and the Lord Jesus Christ our hope...
 weight: 1
 ---
 

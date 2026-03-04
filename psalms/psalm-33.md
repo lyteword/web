@@ -1,7 +1,8 @@
 ---
 title: "Psalm 33 WEB | Read the Bible Online"
 linkTitle: "33"
-description: "Read Psalm 33 Online | Rejoice in Yahweh, you righteous! Praise is fitting for the upright..."
+description: >
+  Read Psalm 33 Online | Rejoice in Yahweh, you righteous! Praise is fitting for the upright...
 weight: 33
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Leviticus 22 WEB | Read the Bible Online"
 linkTitle: "22"
-description: "Read Leviticus 22 Online | Yahweh spoke to Moses, saying..."
+description: >
+  Read Leviticus 22 Online | Yahweh spoke to Moses, saying...
 weight: 22
 ---
 

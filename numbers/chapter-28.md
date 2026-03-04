@@ -1,7 +1,8 @@
 ---
 title: "Numbers 28 WEB | Read the Bible Online"
 linkTitle: "28"
-description: "Read Numbers 28 Online | Yahweh spoke to Moses, saying..."
+description: >
+  Read Numbers 28 Online | Yahweh spoke to Moses, saying...
 weight: 28
 ---
 

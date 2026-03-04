@@ -1,7 +1,8 @@
 ---
 title: "1 Samuel 29 WEB | Read the Bible Online"
 linkTitle: "29"
-description: "Read 1 Samuel 29 Online | Now the Philistines gathered together all their armies to Aphek; and the Israelites encamped by the spring which is in Jezreel..."
+description: >
+  Read 1 Samuel 29 Online | Now the Philistines gathered together all their armies to Aphek; and the Israelites encamped by the spring which is in Jezreel...
 weight: 29
 ---
 

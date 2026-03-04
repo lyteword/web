@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 57 WEB | Read the Bible Online"
 linkTitle: "57"
-description: "Read Isaiah 57 Online | The righteous perish, and no one lays it to heart. Merciful men are taken away, and no one considers that the righteous is taken away from the evil..."
+description: >
+  Read Isaiah 57 Online | The righteous perish, and no one lays it to heart. Merciful men are taken away, and no one considers that the righteous is taken away from the evil...
 weight: 57
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Numbers 11 WEB | Read the Bible Online"
 linkTitle: "11"
-description: "Read Numbers 11 Online | The people were complaining in the ears of Yahweh. When Yahweh heard it, his anger burned; and Yahweh’s fire burned among them, and consumed some of the outskirts of the camp..."
+description: >
+  Read Numbers 11 Online | The people were complaining in the ears of Yahweh. When Yahweh heard it, his anger burned; and Yahweh’s fire burned among them, and consumed some of the outskirts of the camp...
 weight: 11
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Psalm 59 WEB | Read the Bible Online"
 linkTitle: "59"
-description: "Read Psalm 59 Online | Deliver me from my enemies, my God. Set me on high from those who rise up against me..."
+description: >
+  Read Psalm 59 Online | Deliver me from my enemies, my God. Set me on high from those who rise up against me...
 weight: 59
 ---
 

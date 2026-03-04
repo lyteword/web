@@ -1,7 +1,8 @@
 ---
 title: "Leviticus 27 WEB | Read the Bible Online"
 linkTitle: "27"
-description: "Read Leviticus 27 Online | Yahweh spoke to Moses, saying..."
+description: >
+  Read Leviticus 27 Online | Yahweh spoke to Moses, saying...
 weight: 27
 ---
 

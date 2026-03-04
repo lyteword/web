@@ -1,7 +1,8 @@
 ---
 title: "Psalm 4 WEB | Read the Bible Online"
 linkTitle: "4"
-description: "Read Psalm 4 Online | Answer me when I call, God of my righteousness. Give me relief from my distress. Have mercy on me, and hear my prayer..."
+description: >
+  Read Psalm 4 Online | Answer me when I call, God of my righteousness. Give me relief from my distress. Have mercy on me, and hear my prayer...
 weight: 4
 ---
 

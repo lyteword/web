@@ -1,7 +1,8 @@
 ---
 title: "Joshua 13 WEB | Read the Bible Online"
 linkTitle: "13"
-description: "Read Joshua 13 Online | Now Joshua was old and well advanced in years. Yahweh said to him, “You are old and advanced in years, and there remains yet very much land to be possessed..."
+description: >
+  Read Joshua 13 Online | Now Joshua was old and well advanced in years. Yahweh said to him, “You are old and advanced in years, and there remains yet very much land to be possessed...
 weight: 13
 ---
 

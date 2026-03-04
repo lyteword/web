@@ -1,7 +1,8 @@
 ---
 title: "Luke 22 WEB | Read the Bible Online"
 linkTitle: "22"
-description: "Read Luke 22 Online | Now the feast of unleavened bread, which is called the Passover, was approaching..."
+description: >
+  Read Luke 22 Online | Now the feast of unleavened bread, which is called the Passover, was approaching...
 weight: 22
 ---
 

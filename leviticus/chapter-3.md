@@ -1,7 +1,8 @@
 ---
 title: "Leviticus 3 WEB | Read the Bible Online"
 linkTitle: "3"
-description: "Read Leviticus 3 Online | “‘If his offering is a sacrifice of peace offerings, if he offers it from the herd, whether male or female, he shall offer it without defect before Yahweh..."
+description: >
+  Read Leviticus 3 Online | “‘If his offering is a sacrifice of peace offerings, if he offers it from the herd, whether male or female, he shall offer it without defect before Yahweh...
 weight: 3
 ---
 

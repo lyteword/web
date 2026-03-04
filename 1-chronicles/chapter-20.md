@@ -1,7 +1,8 @@
 ---
 title: "1 Chronicles 20 WEB | Read the Bible Online"
 linkTitle: "20"
-description: "Read 1 Chronicles 20 Online | At the time of the return of the year, at the time when kings go out, Joab led out the army and wasted the country of the children of Ammon, and came and besieged Rabbah. But David stayed at Jerusalem. Joab struck Rabbah, and overthrew it..."
+description: >
+  Read 1 Chronicles 20 Online | At the time of the return of the year, at the time when kings go out, Joab led out the army and wasted the country of the children of Ammon, and came and besieged Rabbah. But David stayed at Jerusalem. Joab struck Rabbah, and overthrew it...
 weight: 20
 ---
 

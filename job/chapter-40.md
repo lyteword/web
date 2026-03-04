@@ -1,7 +1,8 @@
 ---
 title: "Job 40 WEB | Read the Bible Online"
 linkTitle: "40"
-description: "Read Job 40 Online | Moreover Yahweh answered Job..."
+description: >
+  Read Job 40 Online | Moreover Yahweh answered Job...
 weight: 40
 ---
 

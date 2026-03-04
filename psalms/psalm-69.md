@@ -1,7 +1,8 @@
 ---
 title: "Psalm 69 WEB | Read the Bible Online"
 linkTitle: "69"
-description: "Read Psalm 69 Online | Save me, God, for the waters have come up to my neck..."
+description: >
+  Read Psalm 69 Online | Save me, God, for the waters have come up to my neck...
 weight: 69
 ---
 

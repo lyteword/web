@@ -1,7 +1,8 @@
 ---
 title: "Psalm 129 WEB | Read the Bible Online"
 linkTitle: "129"
-description: "Read Psalm 129 Online | Many times they have afflicted me from my youth up. Let Israel now say..."
+description: >
+  Read Psalm 129 Online | Many times they have afflicted me from my youth up. Let Israel now say...
 weight: 129
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Leviticus 11 WEB | Read the Bible Online"
 linkTitle: "11"
-description: "Read Leviticus 11 Online | Yahweh spoke to Moses and to Aaron, saying to them..."
+description: >
+  Read Leviticus 11 Online | Yahweh spoke to Moses and to Aaron, saying to them...
 weight: 11
 ---
 

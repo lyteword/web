@@ -1,7 +1,8 @@
 ---
 title: "Leviticus 8 WEB | Read the Bible Online"
 linkTitle: "8"
-description: "Read Leviticus 8 Online | Yahweh spoke to Moses, saying..."
+description: >
+  Read Leviticus 8 Online | Yahweh spoke to Moses, saying...
 weight: 8
 ---
 

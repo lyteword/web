@@ -1,7 +1,8 @@
 ---
 title: "Song Of Solomon 3 WEB | Read the Bible Online"
 linkTitle: "3"
-description: "Read Song Of Solomon 3 Online | By night on my bed, I sought him whom my soul loves. I sought him, but I didn’t find him..."
+description: >
+  Read Song Of Solomon 3 Online | By night on my bed, I sought him whom my soul loves. I sought him, but I didn’t find him...
 weight: 3
 ---
 

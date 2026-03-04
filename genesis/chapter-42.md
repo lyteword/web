@@ -1,7 +1,8 @@
 ---
 title: "Genesis 42 WEB | Read the Bible Online"
 linkTitle: "42"
-description: "Read Genesis 42 Online | Now Jacob saw that there was grain in Egypt, and Jacob said to his sons, “Why do you look at one another?..."
+description: >
+  Read Genesis 42 Online | Now Jacob saw that there was grain in Egypt, and Jacob said to his sons, “Why do you look at one another?...
 weight: 42
 ---
 

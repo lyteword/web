@@ -1,7 +1,8 @@
 ---
 title: "2 Kings 9 WEB | Read the Bible Online"
 linkTitle: "9"
-description: "Read 2 Kings 9 Online | Elisha the prophet called one of the sons of the prophets, and said to him, “Put your belt on your waist, take this vial of oil in your hand, and go to Ramoth Gilead..."
+description: >
+  Read 2 Kings 9 Online | Elisha the prophet called one of the sons of the prophets, and said to him, “Put your belt on your waist, take this vial of oil in your hand, and go to Ramoth Gilead...
 weight: 9
 ---
 

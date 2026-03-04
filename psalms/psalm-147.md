@@ -1,7 +1,8 @@
 ---
 title: "Psalm 147 WEB | Read the Bible Online"
 linkTitle: "147"
-description: "Read Psalm 147 Online | Praise Yah, for it is good to sing praises to our God; for it is pleasant and fitting to praise him..."
+description: >
+  Read Psalm 147 Online | Praise Yah, for it is good to sing praises to our God; for it is pleasant and fitting to praise him...
 weight: 147
 ---
 

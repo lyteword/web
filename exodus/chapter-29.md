@@ -1,7 +1,8 @@
 ---
 title: "Exodus 29 WEB | Read the Bible Online"
 linkTitle: "29"
-description: "Read Exodus 29 Online | “This is the thing that you shall do to them to make them holy, to minister to me in the priest’s office: take one young bull and two rams without defect..."
+description: >
+  Read Exodus 29 Online | “This is the thing that you shall do to them to make them holy, to minister to me in the priest’s office: take one young bull and two rams without defect...
 weight: 29
 ---
 

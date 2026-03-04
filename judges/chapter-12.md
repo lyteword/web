@@ -1,7 +1,8 @@
 ---
 title: "Judges 12 WEB | Read the Bible Online"
 linkTitle: "12"
-description: "Read Judges 12 Online | The men of Ephraim were gathered together, and passed northward; and they said to Jephthah, “Why did you pass over to fight against the children of Ammon, and didn’t call us to go with you? We will burn your house around you with fire!..."
+description: >
+  Read Judges 12 Online | The men of Ephraim were gathered together, and passed northward; and they said to Jephthah, “Why did you pass over to fight against the children of Ammon, and didn’t call us to go with you? We will burn your house around you with fire!...
 weight: 12
 ---
 

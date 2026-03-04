@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 44 WEB | Read the Bible Online"
 linkTitle: "44"
-description: "Read Isaiah 44 Online | Yet listen now, Jacob my servant, and Israel, whom I have chosen..."
+description: >
+  Read Isaiah 44 Online | Yet listen now, Jacob my servant, and Israel, whom I have chosen...
 weight: 44
 ---
 

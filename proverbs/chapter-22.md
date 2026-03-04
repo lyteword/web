@@ -1,7 +1,8 @@
 ---
 title: "Proverbs 22 WEB | Read the Bible Online"
 linkTitle: "22"
-description: "Read Proverbs 22 Online | A good name is more desirable than great riches, and loving favor is better than silver and gold..."
+description: >
+  Read Proverbs 22 Online | A good name is more desirable than great riches, and loving favor is better than silver and gold...
 weight: 22
 ---
 

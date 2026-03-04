@@ -1,7 +1,8 @@
 ---
 title: "Proverbs 27 WEB | Read the Bible Online"
 linkTitle: "27"
-description: "Read Proverbs 27 Online | Don’t boast about tomorrow; for you don’t know what a day may bring..."
+description: >
+  Read Proverbs 27 Online | Don’t boast about tomorrow; for you don’t know what a day may bring...
 weight: 27
 ---
 

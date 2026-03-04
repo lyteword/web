@@ -1,7 +1,8 @@
 ---
 title: "Nehemiah 7 WEB | Read the Bible Online"
 linkTitle: "7"
-description: "Read Nehemiah 7 Online | Now when the wall was built and I had set up the doors, and the gatekeepers and the singers and the Levites were appointed..."
+description: >
+  Read Nehemiah 7 Online | Now when the wall was built and I had set up the doors, and the gatekeepers and the singers and the Levites were appointed...
 weight: 7
 ---
 

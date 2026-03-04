@@ -1,7 +1,8 @@
 ---
 title: "Zephaniah 2 WEB | Read the Bible Online"
 linkTitle: "2"
-description: "Read Zephaniah 2 Online | Gather yourselves together, yes, gather together, you nation that has no shame..."
+description: >
+  Read Zephaniah 2 Online | Gather yourselves together, yes, gather together, you nation that has no shame...
 weight: 2
 ---
 

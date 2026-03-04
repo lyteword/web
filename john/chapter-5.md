@@ -1,7 +1,8 @@
 ---
 title: "John 5 WEB | Read the Bible Online"
 linkTitle: "5"
-description: "Read John 5 Online | After these things, there was a feast of the Jews, and Jesus went up to Jerusalem..."
+description: >
+  Read John 5 Online | After these things, there was a feast of the Jews, and Jesus went up to Jerusalem...
 weight: 5
 ---
 

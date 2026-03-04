@@ -1,7 +1,8 @@
 ---
 title: "Psalm 43 WEB | Read the Bible Online"
 linkTitle: "43"
-description: "Read Psalm 43 Online | Vindicate me, God, and plead my cause against an ungodly nation. Oh, deliver me from deceitful and wicked men..."
+description: >
+  Read Psalm 43 Online | Vindicate me, God, and plead my cause against an ungodly nation. Oh, deliver me from deceitful and wicked men...
 weight: 43
 ---
 

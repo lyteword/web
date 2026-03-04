@@ -1,7 +1,8 @@
 ---
 title: "Acts 20 WEB | Read the Bible Online"
 linkTitle: "20"
-description: "Read Acts 20 Online | After the uproar had ceased, Paul sent for the disciples, took leave of them, and departed to go into Macedonia..."
+description: >
+  Read Acts 20 Online | After the uproar had ceased, Paul sent for the disciples, took leave of them, and departed to go into Macedonia...
 weight: 20
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Acts 23 WEB | Read the Bible Online"
 linkTitle: "23"
-description: "Read Acts 23 Online | Paul, looking steadfastly at the council, said, “Brothers, I have lived before God in all good conscience until today...."
+description: >
+  Read Acts 23 Online | Paul, looking steadfastly at the council, said, “Brothers, I have lived before God in all good conscience until today....
 weight: 23
 ---
 

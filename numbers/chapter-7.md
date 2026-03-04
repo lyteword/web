@@ -1,7 +1,8 @@
 ---
 title: "Numbers 7 WEB | Read the Bible Online"
 linkTitle: "7"
-description: "Read Numbers 7 Online | On the day that Moses had finished setting up the tabernacle, and had anointed it and sanctified it with all its furniture, and the altar with all its vessels, and had anointed and sanctified them..."
+description: >
+  Read Numbers 7 Online | On the day that Moses had finished setting up the tabernacle, and had anointed it and sanctified it with all its furniture, and the altar with all its vessels, and had anointed and sanctified them...
 weight: 7
 ---
 

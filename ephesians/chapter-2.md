@@ -1,7 +1,8 @@
 ---
 title: "Ephesians 2 WEB | Read the Bible Online"
 linkTitle: "2"
-description: "Read Ephesians 2 Online | You were made alive when you were dead in transgressions and sins..."
+description: >
+  Read Ephesians 2 Online | You were made alive when you were dead in transgressions and sins...
 weight: 2
 ---
 

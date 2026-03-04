@@ -1,7 +1,8 @@
 ---
 title: "Ezekiel 26 WEB | Read the Bible Online"
 linkTitle: "26"
-description: "Read Ezekiel 26 Online | In the eleventh year, in the first of the month, Yahweh’s word came to me, saying..."
+description: >
+  Read Ezekiel 26 Online | In the eleventh year, in the first of the month, Yahweh’s word came to me, saying...
 weight: 26
 ---
 

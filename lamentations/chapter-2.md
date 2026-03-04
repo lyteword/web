@@ -1,7 +1,8 @@
 ---
 title: "Lamentations 2 WEB | Read the Bible Online"
 linkTitle: "2"
-description: "Read Lamentations 2 Online | How has the Lord covered the daughter of Zion with a cloud in his anger! He has cast the beauty of Israel down from heaven to the earth, and hasn’t remembered his footstool in the day of his anger..."
+description: >
+  Read Lamentations 2 Online | How has the Lord covered the daughter of Zion with a cloud in his anger! He has cast the beauty of Israel down from heaven to the earth, and hasn’t remembered his footstool in the day of his anger...
 weight: 2
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Psalm 80 WEB | Read the Bible Online"
 linkTitle: "80"
-description: "Read Psalm 80 Online | Hear us, Shepherd of Israel, you who lead Joseph like a flock, you who sit above the cherubim, shine out..."
+description: >
+  Read Psalm 80 Online | Hear us, Shepherd of Israel, you who lead Joseph like a flock, you who sit above the cherubim, shine out...
 weight: 80
 ---
 

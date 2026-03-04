@@ -1,7 +1,8 @@
 ---
 title: "Exodus 12 WEB | Read the Bible Online"
 linkTitle: "12"
-description: "Read Exodus 12 Online | Yahweh spoke to Moses and Aaron in the land of Egypt, saying..."
+description: >
+  Read Exodus 12 Online | Yahweh spoke to Moses and Aaron in the land of Egypt, saying...
 weight: 12
 ---
 

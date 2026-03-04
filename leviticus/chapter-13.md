@@ -1,7 +1,8 @@
 ---
 title: "Leviticus 13 WEB | Read the Bible Online"
 linkTitle: "13"
-description: "Read Leviticus 13 Online | Yahweh spoke to Moses and to Aaron, saying..."
+description: >
+  Read Leviticus 13 Online | Yahweh spoke to Moses and to Aaron, saying...
 weight: 13
 ---
 

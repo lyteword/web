@@ -1,7 +1,8 @@
 ---
 title: "Micah 3 WEB | Read the Bible Online"
 linkTitle: "3"
-description: "Read Micah 3 Online | I said, “Please listen, you heads of Jacob, and rulers of the house of Israel: Isn’t it for you to know justice..."
+description: >
+  Read Micah 3 Online | I said, “Please listen, you heads of Jacob, and rulers of the house of Israel: Isn’t it for you to know justice...
 weight: 3
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Micah 4 WEB | Read the Bible Online"
 linkTitle: "4"
-description: "Read Micah 4 Online | But in the latter days, it will happen that the mountain of Yahweh’s temple will be established on the top of the mountains, and it will be exalted above the hills; and peoples will stream to it..."
+description: >
+  Read Micah 4 Online | But in the latter days, it will happen that the mountain of Yahweh’s temple will be established on the top of the mountains, and it will be exalted above the hills; and peoples will stream to it...
 weight: 4
 ---
 

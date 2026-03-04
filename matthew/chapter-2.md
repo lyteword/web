@@ -1,7 +1,8 @@
 ---
 title: "Matthew 2 WEB | Read the Bible Online"
 linkTitle: "2"
-description: "Read Matthew 2 Online | Now when Jesus was born in Bethlehem of Judea in the days of King Herod, behold, wise men[^655] from the east came to Jerusalem, saying..."
+description: >
+  Read Matthew 2 Online | Now when Jesus was born in Bethlehem of Judea in the days of King Herod, behold, wise men from the east came to Jerusalem, saying...
 weight: 2
 ---
 

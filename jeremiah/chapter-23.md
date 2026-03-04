@@ -1,7 +1,8 @@
 ---
 title: "Jeremiah 23 WEB | Read the Bible Online"
 linkTitle: "23"
-description: "Read Jeremiah 23 Online | “Woe to the shepherds who destroy and scatter the sheep of my pasture!” says Yahweh..."
+description: >
+  Read Jeremiah 23 Online | “Woe to the shepherds who destroy and scatter the sheep of my pasture!” says Yahweh...
 weight: 23
 ---
 

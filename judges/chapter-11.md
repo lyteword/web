@@ -1,7 +1,8 @@
 ---
 title: "Judges 11 WEB | Read the Bible Online"
 linkTitle: "11"
-description: "Read Judges 11 Online | Now Jephthah the Gileadite was a mighty man of valor. He was the son of a prostitute. Gilead became the father of Jephthah..."
+description: >
+  Read Judges 11 Online | Now Jephthah the Gileadite was a mighty man of valor. He was the son of a prostitute. Gilead became the father of Jephthah...
 weight: 11
 ---
 

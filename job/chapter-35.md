@@ -1,7 +1,8 @@
 ---
 title: "Job 35 WEB | Read the Bible Online"
 linkTitle: "35"
-description: "Read Job 35 Online | Moreover Elihu answered..."
+description: >
+  Read Job 35 Online | Moreover Elihu answered...
 weight: 35
 ---
 

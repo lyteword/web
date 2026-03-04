@@ -1,7 +1,8 @@
 ---
 title: "Job 10 WEB | Read the Bible Online"
 linkTitle: "10"
-description: "Read Job 10 Online | “My soul is weary of my life. I will give free course to my complaint. I will speak in the bitterness of my soul..."
+description: >
+  Read Job 10 Online | “My soul is weary of my life. I will give free course to my complaint. I will speak in the bitterness of my soul...
 weight: 10
 ---
 

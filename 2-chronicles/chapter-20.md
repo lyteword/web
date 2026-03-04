@@ -1,7 +1,8 @@
 ---
 title: "2 Chronicles 20 WEB | Read the Bible Online"
 linkTitle: "20"
-description: "Read 2 Chronicles 20 Online | After this, the children of Moab, the children of Ammon, and with them some of the Ammonites, came against Jehoshaphat to battle..."
+description: >
+  Read 2 Chronicles 20 Online | After this, the children of Moab, the children of Ammon, and with them some of the Ammonites, came against Jehoshaphat to battle...
 weight: 20
 ---
 

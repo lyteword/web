@@ -1,7 +1,8 @@
 ---
 title: "Leviticus 12 WEB | Read the Bible Online"
 linkTitle: "12"
-description: "Read Leviticus 12 Online | Yahweh spoke to Moses, saying..."
+description: >
+  Read Leviticus 12 Online | Yahweh spoke to Moses, saying...
 weight: 12
 ---
 

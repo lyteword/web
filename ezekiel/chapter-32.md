@@ -1,7 +1,8 @@
 ---
 title: "Ezekiel 32 WEB | Read the Bible Online"
 linkTitle: "32"
-description: "Read Ezekiel 32 Online | In the twelfth year, in the twelfth month, in the first day of the month, Yahweh’s word came to me, saying..."
+description: >
+  Read Ezekiel 32 Online | In the twelfth year, in the twelfth month, in the first day of the month, Yahweh’s word came to me, saying...
 weight: 32
 ---
 

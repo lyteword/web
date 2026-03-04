@@ -1,7 +1,8 @@
 ---
 title: "Genesis 18 WEB | Read the Bible Online"
 linkTitle: "18"
-description: "Read Genesis 18 Online | Yahweh appeared to him by the oaks of Mamre, as he sat in the tent door in the heat of the day..."
+description: >
+  Read Genesis 18 Online | Yahweh appeared to him by the oaks of Mamre, as he sat in the tent door in the heat of the day...
 weight: 18
 ---
 

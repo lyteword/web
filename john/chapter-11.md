@@ -1,7 +1,8 @@
 ---
 title: "John 11 WEB | Read the Bible Online"
 linkTitle: "11"
-description: "Read John 11 Online | Now a certain man was sick, Lazarus from Bethany, of the village of Mary and her sister, Martha..."
+description: >
+  Read John 11 Online | Now a certain man was sick, Lazarus from Bethany, of the village of Mary and her sister, Martha...
 weight: 11
 ---
 

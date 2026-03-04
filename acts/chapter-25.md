@@ -1,7 +1,8 @@
 ---
 title: "Acts 25 WEB | Read the Bible Online"
 linkTitle: "25"
-description: "Read Acts 25 Online | Festus therefore, having come into the province, after three days went up to Jerusalem from Caesarea..."
+description: >
+  Read Acts 25 Online | Festus therefore, having come into the province, after three days went up to Jerusalem from Caesarea...
 weight: 25
 ---
 

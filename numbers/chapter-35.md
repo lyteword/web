@@ -1,7 +1,8 @@
 ---
 title: "Numbers 35 WEB | Read the Bible Online"
 linkTitle: "35"
-description: "Read Numbers 35 Online | Yahweh spoke to Moses in the plains of Moab by the Jordan at Jericho, saying..."
+description: >
+  Read Numbers 35 Online | Yahweh spoke to Moses in the plains of Moab by the Jordan at Jericho, saying...
 weight: 35
 ---
 

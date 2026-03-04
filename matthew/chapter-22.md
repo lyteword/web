@@ -1,7 +1,8 @@
 ---
 title: "Matthew 22 WEB | Read the Bible Online"
 linkTitle: "22"
-description: "Read Matthew 22 Online | Jesus answered and spoke to them again in parables, saying..."
+description: >
+  Read Matthew 22 Online | Jesus answered and spoke to them again in parables, saying...
 weight: 22
 ---
 

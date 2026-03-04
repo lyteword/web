@@ -1,7 +1,8 @@
 ---
 title: "Psalm 113 WEB | Read the Bible Online"
 linkTitle: "113"
-description: "Read Psalm 113 Online | Praise Yah! Praise, you servants of Yahweh, praise Yahweh’s name..."
+description: >
+  Read Psalm 113 Online | Praise Yah! Praise, you servants of Yahweh, praise Yahweh’s name...
 weight: 113
 ---
 

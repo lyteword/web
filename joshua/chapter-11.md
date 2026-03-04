@@ -1,7 +1,8 @@
 ---
 title: "Joshua 11 WEB | Read the Bible Online"
 linkTitle: "11"
-description: "Read Joshua 11 Online | When Jabin king of Hazor heard of it, he sent to Jobab king of Madon, to the king of Shimron, to the king of Achshaph..."
+description: >
+  Read Joshua 11 Online | When Jabin king of Hazor heard of it, he sent to Jobab king of Madon, to the king of Shimron, to the king of Achshaph...
 weight: 11
 ---
 

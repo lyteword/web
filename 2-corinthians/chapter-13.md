@@ -1,7 +1,8 @@
 ---
 title: "2 Corinthians 13 WEB | Read the Bible Online"
 linkTitle: "13"
-description: "Read 2 Corinthians 13 Online | This is the third time I am coming to you. “At the mouth of two or three witnesses shall every word be established.”[^1231..."
+description: >
+  Read 2 Corinthians 13 Online | This is the third time I am coming to you. “At the mouth of two or three witnesses shall every word be established.”[^1231...
 weight: 13
 ---
 

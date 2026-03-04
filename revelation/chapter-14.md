@@ -1,7 +1,8 @@
 ---
 title: "Revelation 14 WEB | Read the Bible Online"
 linkTitle: "14"
-description: "Read Revelation 14 Online | I saw, and behold, the Lamb standing on Mount Zion, and with him a number, one hundred forty-four thousand, having his name and the name of his Father written on their foreheads..."
+description: >
+  Read Revelation 14 Online | I saw, and behold, the Lamb standing on Mount Zion, and with him a number, one hundred forty-four thousand, having his name and the name of his Father written on their foreheads...
 weight: 14
 ---
 

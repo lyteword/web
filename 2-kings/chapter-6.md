@@ -1,7 +1,8 @@
 ---
 title: "2 Kings 6 WEB | Read the Bible Online"
 linkTitle: "6"
-description: "Read 2 Kings 6 Online | The sons of the prophets said to Elisha, “See now, the place where we live and meet with you is too small for us..."
+description: >
+  Read 2 Kings 6 Online | The sons of the prophets said to Elisha, “See now, the place where we live and meet with you is too small for us...
 weight: 6
 ---
 

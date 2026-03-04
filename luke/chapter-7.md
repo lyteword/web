@@ -1,7 +1,8 @@
 ---
 title: "Luke 7 WEB | Read the Bible Online"
 linkTitle: "7"
-description: "Read Luke 7 Online | After he had finished speaking in the hearing of the people, he entered into Capernaum..."
+description: >
+  Read Luke 7 Online | After he had finished speaking in the hearing of the people, he entered into Capernaum...
 weight: 7
 ---
 

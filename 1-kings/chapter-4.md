@@ -1,7 +1,8 @@
 ---
 title: "1 Kings 4 WEB | Read the Bible Online"
 linkTitle: "4"
-description: "Read 1 Kings 4 Online | King Solomon was king over all Israel..."
+description: >
+  Read 1 Kings 4 Online | King Solomon was king over all Israel...
 weight: 4
 ---
 

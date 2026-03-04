@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 61 WEB | Read the Bible Online"
 linkTitle: "61"
-description: "Read Isaiah 61 Online | The Lord Yahweh’s Spirit is on me, because Yahweh has anointed me to preach good news to the humble. He has sent me to bind up the broken hearted, to proclaim liberty to the captives and release to those who are bound,[^516..."
+description: >
+  Read Isaiah 61 Online | The Lord Yahweh’s Spirit is on me, because Yahweh has anointed me to preach good news to the humble. He has sent me to bind up the broken hearted, to proclaim liberty to the captives and release to those who are bound,[^516...
 weight: 61
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "John 8 WEB | Read the Bible Online"
 linkTitle: "8"
-description: "Read John 8 Online | but Jesus went to the Mount of Olives..."
+description: >
+  Read John 8 Online | but Jesus went to the Mount of Olives...
 weight: 8
 ---
 

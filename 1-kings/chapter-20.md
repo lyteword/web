@@ -1,7 +1,8 @@
 ---
 title: "1 Kings 20 WEB | Read the Bible Online"
 linkTitle: "20"
-description: "Read 1 Kings 20 Online | Ben Hadad the king of Syria gathered all his army together; and there were thirty-two kings with him, with horses and chariots. He went up and besieged Samaria, and fought against it..."
+description: >
+  Read 1 Kings 20 Online | Ben Hadad the king of Syria gathered all his army together; and there were thirty-two kings with him, with horses and chariots. He went up and besieged Samaria, and fought against it...
 weight: 20
 ---
 

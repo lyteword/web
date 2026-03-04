@@ -1,7 +1,8 @@
 ---
 title: "2 Peter 3 WEB | Read the Bible Online"
 linkTitle: "3"
-description: "Read 2 Peter 3 Online | This is now, beloved, the second letter that I have written to you; and in both of them I stir up your sincere mind by reminding you..."
+description: >
+  Read 2 Peter 3 Online | This is now, beloved, the second letter that I have written to you; and in both of them I stir up your sincere mind by reminding you...
 weight: 3
 ---
 

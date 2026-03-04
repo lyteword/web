@@ -1,7 +1,8 @@
 ---
 title: "Mark 8 WEB | Read the Bible Online"
 linkTitle: "8"
-description: "Read Mark 8 Online | In those days, when there was a very great multitude, and they had nothing to eat, Jesus called his disciples to himself and said to them..."
+description: >
+  Read Mark 8 Online | In those days, when there was a very great multitude, and they had nothing to eat, Jesus called his disciples to himself and said to them...
 weight: 8
 ---
 

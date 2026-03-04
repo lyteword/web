@@ -1,7 +1,8 @@
 ---
 title: "Proverbs 10 WEB | Read the Bible Online"
 linkTitle: "10"
-description: "Read Proverbs 10 Online | The proverbs of Solomon. A wise son makes a glad father; but a foolish son brings grief to his mother..."
+description: >
+  Read Proverbs 10 Online | The proverbs of Solomon. A wise son makes a glad father; but a foolish son brings grief to his mother...
 weight: 10
 ---
 

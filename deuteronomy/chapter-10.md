@@ -1,7 +1,8 @@
 ---
 title: "Deuteronomy 10 WEB | Read the Bible Online"
 linkTitle: "10"
-description: "Read Deuteronomy 10 Online | At that time Yahweh said to me, “Cut two stone tablets like the first, and come up to me onto the mountain, and make an ark of wood..."
+description: >
+  Read Deuteronomy 10 Online | At that time Yahweh said to me, “Cut two stone tablets like the first, and come up to me onto the mountain, and make an ark of wood...
 weight: 10
 ---
 

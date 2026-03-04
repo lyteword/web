@@ -1,7 +1,8 @@
 ---
 title: "Exodus 4 WEB | Read the Bible Online"
 linkTitle: "4"
-description: "Read Exodus 4 Online | Moses answered, “But, behold, they will not believe me, nor listen to my voice; for they will say, ‘Yahweh has not appeared to you.’..."
+description: >
+  Read Exodus 4 Online | Moses answered, “But, behold, they will not believe me, nor listen to my voice; for they will say, ‘Yahweh has not appeared to you.’...
 weight: 4
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "1 Samuel 18 WEB | Read the Bible Online"
 linkTitle: "18"
-description: "Read 1 Samuel 18 Online | When he had finished speaking to Saul, the soul of Jonathan was knit with the soul of David, and Jonathan loved him as his own soul..."
+description: >
+  Read 1 Samuel 18 Online | When he had finished speaking to Saul, the soul of Jonathan was knit with the soul of David, and Jonathan loved him as his own soul...
 weight: 18
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 16 WEB | Read the Bible Online"
 linkTitle: "16"
-description: "Read Isaiah 16 Online | Send the lambs for the ruler of the land from Selah to the wilderness, to the mountain of the daughter of Zion..."
+description: >
+  Read Isaiah 16 Online | Send the lambs for the ruler of the land from Selah to the wilderness, to the mountain of the daughter of Zion...
 weight: 16
 ---
 

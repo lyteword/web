@@ -1,7 +1,8 @@
 ---
 title: "Deuteronomy 14 WEB | Read the Bible Online"
 linkTitle: "14"
-description: "Read Deuteronomy 14 Online | You are the children of Yahweh your God. You shall not cut yourselves, nor make any baldness between your eyes for the dead..."
+description: >
+  Read Deuteronomy 14 Online | You are the children of Yahweh your God. You shall not cut yourselves, nor make any baldness between your eyes for the dead...
 weight: 14
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "1 Chronicles 22 WEB | Read the Bible Online"
 linkTitle: "22"
-description: "Read 1 Chronicles 22 Online | Then David said, “This is the house of Yahweh God, and this is the altar of burnt offering for Israel...."
+description: >
+  Read 1 Chronicles 22 Online | Then David said, “This is the house of Yahweh God, and this is the altar of burnt offering for Israel....
 weight: 22
 ---
 

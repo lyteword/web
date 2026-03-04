@@ -1,7 +1,8 @@
 ---
 title: "Joshua 6 WEB | Read the Bible Online"
 linkTitle: "6"
-description: "Read Joshua 6 Online | Now Jericho was tightly shut up because of the children of Israel. No one went out, and no one came in..."
+description: >
+  Read Joshua 6 Online | Now Jericho was tightly shut up because of the children of Israel. No one went out, and no one came in...
 weight: 6
 ---
 

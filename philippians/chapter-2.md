@@ -1,7 +1,8 @@
 ---
 title: "Philippians 2 WEB | Read the Bible Online"
 linkTitle: "2"
-description: "Read Philippians 2 Online | If therefore there is any exhortation in Christ, if any consolation of love, if any fellowship of the Spirit, if any tender mercies and compassion..."
+description: >
+  Read Philippians 2 Online | If therefore there is any exhortation in Christ, if any consolation of love, if any fellowship of the Spirit, if any tender mercies and compassion...
 weight: 2
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Numbers 19 WEB | Read the Bible Online"
 linkTitle: "19"
-description: "Read Numbers 19 Online | Yahweh spoke to Moses and to Aaron, saying..."
+description: >
+  Read Numbers 19 Online | Yahweh spoke to Moses and to Aaron, saying...
 weight: 19
 ---
 

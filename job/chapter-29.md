@@ -1,7 +1,8 @@
 ---
 title: "Job 29 WEB | Read the Bible Online"
 linkTitle: "29"
-description: "Read Job 29 Online | Job again took up his parable, and said..."
+description: >
+  Read Job 29 Online | Job again took up his parable, and said...
 weight: 29
 ---
 

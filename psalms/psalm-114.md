@@ -1,7 +1,8 @@
 ---
 title: "Psalm 114 WEB | Read the Bible Online"
 linkTitle: "114"
-description: "Read Psalm 114 Online | When Israel went out of Egypt, the house of Jacob from a people of foreign language..."
+description: >
+  Read Psalm 114 Online | When Israel went out of Egypt, the house of Jacob from a people of foreign language...
 weight: 114
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Psalm 37 WEB | Read the Bible Online"
 linkTitle: "37"
-description: "Read Psalm 37 Online | Don’t fret because of evildoers, neither be envious against those who work unrighteousness..."
+description: >
+  Read Psalm 37 Online | Don’t fret because of evildoers, neither be envious against those who work unrighteousness...
 weight: 37
 ---
 

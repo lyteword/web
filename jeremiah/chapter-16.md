@@ -1,7 +1,8 @@
 ---
 title: "Jeremiah 16 WEB | Read the Bible Online"
 linkTitle: "16"
-description: "Read Jeremiah 16 Online | Then Yahweh’s word came to me, saying..."
+description: >
+  Read Jeremiah 16 Online | Then Yahweh’s word came to me, saying...
 weight: 16
 ---
 

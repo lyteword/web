@@ -1,7 +1,8 @@
 ---
 title: "Psalm 24 WEB | Read the Bible Online"
 linkTitle: "24"
-description: "Read Psalm 24 Online | The earth is Yahweh’s, with its fullness; the world, and those who dwell in it..."
+description: >
+  Read Psalm 24 Online | The earth is Yahweh’s, with its fullness; the world, and those who dwell in it...
 weight: 24
 ---
 

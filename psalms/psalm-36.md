@@ -1,7 +1,8 @@
 ---
 title: "Psalm 36 WEB | Read the Bible Online"
 linkTitle: "36"
-description: "Read Psalm 36 Online | A revelation is within my heart about the disobedience of the wicked: There is no fear of God before his eyes..."
+description: >
+  Read Psalm 36 Online | A revelation is within my heart about the disobedience of the wicked: There is no fear of God before his eyes...
 weight: 36
 ---
 

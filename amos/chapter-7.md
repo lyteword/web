@@ -1,7 +1,8 @@
 ---
 title: "Amos 7 WEB | Read the Bible Online"
 linkTitle: "7"
-description: "Read Amos 7 Online | Thus the Lord Yahweh showed me: behold, he formed locusts in the beginning of the shooting up of the latter growth; and behold, it was the latter growth after the king’s harvest..."
+description: >
+  Read Amos 7 Online | Thus the Lord Yahweh showed me: behold, he formed locusts in the beginning of the shooting up of the latter growth; and behold, it was the latter growth after the king’s harvest...
 weight: 7
 ---
 

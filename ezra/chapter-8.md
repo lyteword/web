@@ -1,7 +1,8 @@
 ---
 title: "Ezra 8 WEB | Read the Bible Online"
 linkTitle: "8"
-description: "Read Ezra 8 Online | Now these are the heads of their fathers’ households, and this is the genealogy of those who went up with me from Babylon, in the reign of Artaxerxes the king..."
+description: >
+  Read Ezra 8 Online | Now these are the heads of their fathers’ households, and this is the genealogy of those who went up with me from Babylon, in the reign of Artaxerxes the king...
 weight: 8
 ---
 

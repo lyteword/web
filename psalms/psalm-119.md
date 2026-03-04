@@ -1,7 +1,8 @@
 ---
 title: "Psalm 119 WEB | Read the Bible Online"
 linkTitle: "119"
-description: "Read Psalm 119 Online | Blessed are those whose ways are blameless, who walk according to Yahweh’s law..."
+description: >
+  Read Psalm 119 Online | Blessed are those whose ways are blameless, who walk according to Yahweh’s law...
 weight: 119
 ---
 

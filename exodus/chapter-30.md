@@ -1,7 +1,8 @@
 ---
 title: "Exodus 30 WEB | Read the Bible Online"
 linkTitle: "30"
-description: "Read Exodus 30 Online | “You shall make an altar to burn incense on. You shall make it of acacia wood..."
+description: >
+  Read Exodus 30 Online | “You shall make an altar to burn incense on. You shall make it of acacia wood...
 weight: 30
 ---
 

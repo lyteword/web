@@ -1,7 +1,8 @@
 ---
 title: "Amos 8 WEB | Read the Bible Online"
 linkTitle: "8"
-description: "Read Amos 8 Online | Thus the Lord Yahweh showed me: behold, a basket of summer fruit..."
+description: >
+  Read Amos 8 Online | Thus the Lord Yahweh showed me: behold, a basket of summer fruit...
 weight: 8
 ---
 

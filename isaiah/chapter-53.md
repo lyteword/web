@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 53 WEB | Read the Bible Online"
 linkTitle: "53"
-description: "Read Isaiah 53 Online | Who has believed our message? To whom has Yahweh’s arm been revealed..."
+description: >
+  Read Isaiah 53 Online | Who has believed our message? To whom has Yahweh’s arm been revealed...
 weight: 53
 ---
 

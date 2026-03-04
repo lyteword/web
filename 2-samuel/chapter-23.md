@@ -1,7 +1,8 @@
 ---
 title: "2 Samuel 23 WEB | Read the Bible Online"
 linkTitle: "23"
-description: "Read 2 Samuel 23 Online | Now these are the last words of David. David the son of Jesse says, the man who was raised on high says, the anointed of the God of Jacob, the sweet psalmist of Israel..."
+description: >
+  Read 2 Samuel 23 Online | Now these are the last words of David. David the son of Jesse says, the man who was raised on high says, the anointed of the God of Jacob, the sweet psalmist of Israel...
 weight: 23
 ---
 

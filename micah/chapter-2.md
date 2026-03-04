@@ -1,7 +1,8 @@
 ---
 title: "Micah 2 WEB | Read the Bible Online"
 linkTitle: "2"
-description: "Read Micah 2 Online | Woe to those who devise iniquity and work evil on their beds! When the morning is light, they practice it, because it is in the power of their hand..."
+description: >
+  Read Micah 2 Online | Woe to those who devise iniquity and work evil on their beds! When the morning is light, they practice it, because it is in the power of their hand...
 weight: 2
 ---
 

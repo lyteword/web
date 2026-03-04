@@ -1,7 +1,8 @@
 ---
 title: "Amos 2 WEB | Read the Bible Online"
 linkTitle: "2"
-description: "Read Amos 2 Online | Yahweh says: “For three transgressions of Moab, yes, for four, I will not turn away its punishment, because he burned the bones of the king of Edom into lime..."
+description: >
+  Read Amos 2 Online | Yahweh says: “For three transgressions of Moab, yes, for four, I will not turn away its punishment, because he burned the bones of the king of Edom into lime...
 weight: 2
 ---
 

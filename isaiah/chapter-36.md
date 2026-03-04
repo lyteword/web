@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 36 WEB | Read the Bible Online"
 linkTitle: "36"
-description: "Read Isaiah 36 Online | Now in the fourteenth year of King Hezekiah, Sennacherib king of Assyria attacked all of the fortified cities of Judah and captured them..."
+description: >
+  Read Isaiah 36 Online | Now in the fourteenth year of King Hezekiah, Sennacherib king of Assyria attacked all of the fortified cities of Judah and captured them...
 weight: 36
 ---
 

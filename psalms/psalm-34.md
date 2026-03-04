@@ -1,7 +1,8 @@
 ---
 title: "Psalm 34 WEB | Read the Bible Online"
 linkTitle: "34"
-description: "Read Psalm 34 Online | [^434]I will bless Yahweh at all times. His praise will always be in my mouth..."
+description: >
+  Read Psalm 34 Online | I will bless Yahweh at all times. His praise will always be in my mouth...
 weight: 34
 ---
 

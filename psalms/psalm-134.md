@@ -1,7 +1,8 @@
 ---
 title: "Psalm 134 WEB | Read the Bible Online"
 linkTitle: "134"
-description: "Read Psalm 134 Online | Look! Praise Yahweh, all you servants of Yahweh, who stand by night in Yahweh’s house..."
+description: >
+  Read Psalm 134 Online | Look! Praise Yahweh, all you servants of Yahweh, who stand by night in Yahweh’s house...
 weight: 134
 ---
 

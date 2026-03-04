@@ -1,7 +1,8 @@
 ---
 title: "Ephesians 3 WEB | Read the Bible Online"
 linkTitle: "3"
-description: "Read Ephesians 3 Online | For this cause I, Paul, am the prisoner of Christ Jesus on behalf of you Gentiles..."
+description: >
+  Read Ephesians 3 Online | For this cause I, Paul, am the prisoner of Christ Jesus on behalf of you Gentiles...
 weight: 3
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Judges 13 WEB | Read the Bible Online"
 linkTitle: "13"
-description: "Read Judges 13 Online | The children of Israel again did that which was evil in Yahweh’s sight; and Yahweh delivered them into the hand of the Philistines forty years..."
+description: >
+  Read Judges 13 Online | The children of Israel again did that which was evil in Yahweh’s sight; and Yahweh delivered them into the hand of the Philistines forty years...
 weight: 13
 ---
 

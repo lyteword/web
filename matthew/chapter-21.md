@@ -1,7 +1,8 @@
 ---
 title: "Matthew 21 WEB | Read the Bible Online"
 linkTitle: "21"
-description: "Read Matthew 21 Online | When they came near to Jerusalem and came to Bethsphage,[^752] to the Mount of Olives, then Jesus sent two disciples..."
+description: >
+  Read Matthew 21 Online | When they came near to Jerusalem and came to Bethsphage, to the Mount of Olives, then Jesus sent two disciples...
 weight: 21
 ---
 

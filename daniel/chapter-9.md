@@ -1,7 +1,8 @@
 ---
 title: "Daniel 9 WEB | Read the Bible Online"
 linkTitle: "9"
-description: "Read Daniel 9 Online | In the first year of Darius the son of Ahasuerus, of the offspring of the Medes, who was made king over the realm of the Chaldeans..."
+description: >
+  Read Daniel 9 Online | In the first year of Darius the son of Ahasuerus, of the offspring of the Medes, who was made king over the realm of the Chaldeans...
 weight: 9
 ---
 

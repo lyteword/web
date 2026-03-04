@@ -1,7 +1,8 @@
 ---
 title: "Psalm 104 WEB | Read the Bible Online"
 linkTitle: "104"
-description: "Read Psalm 104 Online | Bless Yahweh, my soul. Yahweh, my God, you are very great. You are clothed with honor and majesty..."
+description: >
+  Read Psalm 104 Online | Bless Yahweh, my soul. Yahweh, my God, you are very great. You are clothed with honor and majesty...
 weight: 104
 ---
 

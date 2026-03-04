@@ -1,7 +1,8 @@
 ---
 title: "Genesis 24 WEB | Read the Bible Online"
 linkTitle: "24"
-description: "Read Genesis 24 Online | Abraham was old, and well advanced in age. Yahweh had blessed Abraham in all things..."
+description: >
+  Read Genesis 24 Online | Abraham was old, and well advanced in age. Yahweh had blessed Abraham in all things...
 weight: 24
 ---
 

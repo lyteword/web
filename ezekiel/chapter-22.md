@@ -1,7 +1,8 @@
 ---
 title: "Ezekiel 22 WEB | Read the Bible Online"
 linkTitle: "22"
-description: "Read Ezekiel 22 Online | Moreover Yahweh’s word came to me, saying..."
+description: >
+  Read Ezekiel 22 Online | Moreover Yahweh’s word came to me, saying...
 weight: 22
 ---
 

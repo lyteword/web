@@ -1,7 +1,8 @@
 ---
 title: "Psalm 146 WEB | Read the Bible Online"
 linkTitle: "146"
-description: "Read Psalm 146 Online | Praise Yah! Praise Yahweh, my soul..."
+description: >
+  Read Psalm 146 Online | Praise Yah! Praise Yahweh, my soul...
 weight: 146
 ---
 

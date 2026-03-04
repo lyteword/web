@@ -1,7 +1,8 @@
 ---
 title: "Psalm 30 WEB | Read the Bible Online"
 linkTitle: "30"
-description: "Read Psalm 30 Online | I will extol you, Yahweh, for you have raised me up, and have not made my foes to rejoice over me..."
+description: >
+  Read Psalm 30 Online | I will extol you, Yahweh, for you have raised me up, and have not made my foes to rejoice over me...
 weight: 30
 ---
 

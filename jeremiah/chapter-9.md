@@ -1,7 +1,8 @@
 ---
 title: "Jeremiah 9 WEB | Read the Bible Online"
 linkTitle: "9"
-description: "Read Jeremiah 9 Online | Oh that my head were waters, and my eyes a spring of tears, that I might weep day and night for the slain of the daughter of my people..."
+description: >
+  Read Jeremiah 9 Online | Oh that my head were waters, and my eyes a spring of tears, that I might weep day and night for the slain of the daughter of my people...
 weight: 9
 ---
 

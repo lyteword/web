@@ -1,7 +1,8 @@
 ---
 title: "Joshua 20 WEB | Read the Bible Online"
 linkTitle: "20"
-description: "Read Joshua 20 Online | Yahweh spoke to Joshua, saying..."
+description: >
+  Read Joshua 20 Online | Yahweh spoke to Joshua, saying...
 weight: 20
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Psalm 20 WEB | Read the Bible Online"
 linkTitle: "20"
-description: "Read Psalm 20 Online | May Yahweh answer you in the day of trouble. May the name of the God of Jacob set you up on high..."
+description: >
+  Read Psalm 20 Online | May Yahweh answer you in the day of trouble. May the name of the God of Jacob set you up on high...
 weight: 20
 ---
 

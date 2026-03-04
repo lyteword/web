@@ -1,7 +1,8 @@
 ---
 title: "Genesis 28 WEB | Read the Bible Online"
 linkTitle: "28"
-description: "Read Genesis 28 Online | Isaac called Jacob, blessed him, and commanded him, “You shall not take a wife of the daughters of Canaan..."
+description: >
+  Read Genesis 28 Online | Isaac called Jacob, blessed him, and commanded him, “You shall not take a wife of the daughters of Canaan...
 weight: 28
 ---
 

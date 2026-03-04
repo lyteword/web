@@ -1,7 +1,8 @@
 ---
 title: "1 Chronicles 12 WEB | Read the Bible Online"
 linkTitle: "12"
-description: "Read 1 Chronicles 12 Online | Now these are those who came to David to Ziklag while he was a fugitive from Saul the son of Kish. They were among the mighty men, his helpers in war..."
+description: >
+  Read 1 Chronicles 12 Online | Now these are those who came to David to Ziklag while he was a fugitive from Saul the son of Kish. They were among the mighty men, his helpers in war...
 weight: 12
 ---
 

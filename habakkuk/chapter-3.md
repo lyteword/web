@@ -1,7 +1,8 @@
 ---
 title: "Habakkuk 3 WEB | Read the Bible Online"
 linkTitle: "3"
-description: "Read Habakkuk 3 Online | A prayer of Habakkuk, the prophet, set to victorious music..."
+description: >
+  Read Habakkuk 3 Online | A prayer of Habakkuk, the prophet, set to victorious music...
 weight: 3
 ---
 

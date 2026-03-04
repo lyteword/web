@@ -1,7 +1,8 @@
 ---
 title: "1 Corinthians 13 WEB | Read the Bible Online"
 linkTitle: "13"
-description: "Read 1 Corinthians 13 Online | If I speak with the languages of men and of angels, but don’t have love, I have become sounding brass or a clanging cymbal..."
+description: >
+  Read 1 Corinthians 13 Online | If I speak with the languages of men and of angels, but don’t have love, I have become sounding brass or a clanging cymbal...
 weight: 13
 ---
 

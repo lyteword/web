@@ -1,7 +1,8 @@
 ---
 title: "Exodus 13 WEB | Read the Bible Online"
 linkTitle: "13"
-description: "Read Exodus 13 Online | Yahweh spoke to Moses, saying..."
+description: >
+  Read Exodus 13 Online | Yahweh spoke to Moses, saying...
 weight: 13
 ---
 

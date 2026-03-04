@@ -1,7 +1,8 @@
 ---
 title: "Ruth 1 WEB | Read the Bible Online"
 linkTitle: "1"
-description: "Read Ruth 1 Online | In the days when the judges judged, there was a famine in the land. A certain man of Bethlehem Judah went to live in the country of Moab with his wife and his two sons..."
+description: >
+  Read Ruth 1 Online | In the days when the judges judged, there was a famine in the land. A certain man of Bethlehem Judah went to live in the country of Moab with his wife and his two sons...
 weight: 1
 ---
 

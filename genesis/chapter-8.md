@@ -1,7 +1,8 @@
 ---
 title: "Genesis 8 WEB | Read the Bible Online"
 linkTitle: "8"
-description: "Read Genesis 8 Online | God remembered Noah, all the animals, and all the livestock that were with him in the ship; and God made a wind to pass over the earth. The waters subsided..."
+description: >
+  Read Genesis 8 Online | God remembered Noah, all the animals, and all the livestock that were with him in the ship; and God made a wind to pass over the earth. The waters subsided...
 weight: 8
 ---
 

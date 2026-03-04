@@ -1,7 +1,8 @@
 ---
 title: "Matthew 11 WEB | Read the Bible Online"
 linkTitle: "11"
-description: "Read Matthew 11 Online | When Jesus had finished directing his twelve disciples, he departed from there to teach and preach in their cities..."
+description: >
+  Read Matthew 11 Online | When Jesus had finished directing his twelve disciples, he departed from there to teach and preach in their cities...
 weight: 11
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Nehemiah 3 WEB | Read the Bible Online"
 linkTitle: "3"
-description: "Read Nehemiah 3 Online | Then Eliashib the high priest rose up with his brothers the priests, and they built the sheep gate. They sanctified it, and set up its doors. They sanctified it even to the tower of Hammeah, to the tower of Hananel..."
+description: >
+  Read Nehemiah 3 Online | Then Eliashib the high priest rose up with his brothers the priests, and they built the sheep gate. They sanctified it, and set up its doors. They sanctified it even to the tower of Hammeah, to the tower of Hananel...
 weight: 3
 ---
 

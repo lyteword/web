@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 30 WEB | Read the Bible Online"
 linkTitle: "30"
-description: "Read Isaiah 30 Online | “Woe to the rebellious children”, says Yahweh, “who take counsel, but not from me; and who make an alliance, but not with my Spirit, that they may add sin to sin..."
+description: >
+  Read Isaiah 30 Online | “Woe to the rebellious children”, says Yahweh, “who take counsel, but not from me; and who make an alliance, but not with my Spirit, that they may add sin to sin...
 weight: 30
 ---
 

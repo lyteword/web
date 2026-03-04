@@ -1,7 +1,8 @@
 ---
 title: "Genesis 40 WEB | Read the Bible Online"
 linkTitle: "40"
-description: "Read Genesis 40 Online | After these things, the butler of the king of Egypt and his baker offended their lord, the king of Egypt..."
+description: >
+  Read Genesis 40 Online | After these things, the butler of the king of Egypt and his baker offended their lord, the king of Egypt...
 weight: 40
 ---
 

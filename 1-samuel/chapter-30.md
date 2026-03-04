@@ -1,7 +1,8 @@
 ---
 title: "1 Samuel 30 WEB | Read the Bible Online"
 linkTitle: "30"
-description: "Read 1 Samuel 30 Online | When David and his men had come to Ziklag on the third day, the Amalekites had made a raid on the South and on Ziklag, and had struck Ziklag and burned it with fire..."
+description: >
+  Read 1 Samuel 30 Online | When David and his men had come to Ziklag on the third day, the Amalekites had made a raid on the South and on Ziklag, and had struck Ziklag and burned it with fire...
 weight: 30
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Acts 15 WEB | Read the Bible Online"
 linkTitle: "15"
-description: "Read Acts 15 Online | Some men came down from Judea and taught the brothers,[^1079] “Unless you are circumcised after the custom of Moses, you can’t be saved...."
+description: >
+  Read Acts 15 Online | Some men came down from Judea and taught the brothers, “Unless you are circumcised after the custom of Moses, you can’t be saved....
 weight: 15
 ---
 

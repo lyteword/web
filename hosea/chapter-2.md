@@ -1,7 +1,8 @@
 ---
 title: "Hosea 2 WEB | Read the Bible Online"
 linkTitle: "2"
-description: "Read Hosea 2 Online | “Say to your brothers, ‘My people!’[^585] and to your sisters, ‘My loved one!’[^586..."
+description: >
+  Read Hosea 2 Online | “Say to your brothers, ‘My people!’ and to your sisters, ‘My loved one!’[^586...
 weight: 2
 ---
 

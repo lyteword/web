@@ -1,7 +1,8 @@
 ---
 title: "2 Chronicles 8 WEB | Read the Bible Online"
 linkTitle: "8"
-description: "Read 2 Chronicles 8 Online | At the end of twenty years, in which Solomon had built Yahweh’s house and his own house..."
+description: >
+  Read 2 Chronicles 8 Online | At the end of twenty years, in which Solomon had built Yahweh’s house and his own house...
 weight: 8
 ---
 

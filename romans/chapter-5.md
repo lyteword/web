@@ -1,7 +1,8 @@
 ---
 title: "Romans 5 WEB | Read the Bible Online"
 linkTitle: "5"
-description: "Read Romans 5 Online | Being therefore justified by faith, we have peace with God through our Lord Jesus Christ..."
+description: >
+  Read Romans 5 Online | Being therefore justified by faith, we have peace with God through our Lord Jesus Christ...
 weight: 5
 ---
 

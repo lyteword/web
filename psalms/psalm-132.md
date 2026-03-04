@@ -1,7 +1,8 @@
 ---
 title: "Psalm 132 WEB | Read the Bible Online"
 linkTitle: "132"
-description: "Read Psalm 132 Online | Yahweh, remember David and all his affliction..."
+description: >
+  Read Psalm 132 Online | Yahweh, remember David and all his affliction...
 weight: 132
 ---
 

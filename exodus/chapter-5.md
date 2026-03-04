@@ -1,7 +1,8 @@
 ---
 title: "Exodus 5 WEB | Read the Bible Online"
 linkTitle: "5"
-description: "Read Exodus 5 Online | Afterward Moses and Aaron came, and said to Pharaoh, “This is what Yahweh, the God of Israel, says, ‘Let my people go, that they may hold a feast to me in the wilderness.’..."
+description: >
+  Read Exodus 5 Online | Afterward Moses and Aaron came, and said to Pharaoh, “This is what Yahweh, the God of Israel, says, ‘Let my people go, that they may hold a feast to me in the wilderness.’...
 weight: 5
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Luke 18 WEB | Read the Bible Online"
 linkTitle: "18"
-description: "Read Luke 18 Online | He also spoke a parable to them that they must always pray and not give up..."
+description: >
+  Read Luke 18 Online | He also spoke a parable to them that they must always pray and not give up...
 weight: 18
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Numbers 27 WEB | Read the Bible Online"
 linkTitle: "27"
-description: "Read Numbers 27 Online | Then the daughters of Zelophehad, the son of Hepher, the son of Gilead, the son of Machir, the son of Manasseh, of the families of Manasseh the son of Joseph came near. These are the names of his daughters: Mahlah, Noah, Hoglah, Milcah, and Tirzah..."
+description: >
+  Read Numbers 27 Online | Then the daughters of Zelophehad, the son of Hepher, the son of Gilead, the son of Machir, the son of Manasseh, of the families of Manasseh the son of Joseph came near. These are the names of his daughters: Mahlah, Noah, Hoglah, Milcah, and Tirzah...
 weight: 27
 ---
 

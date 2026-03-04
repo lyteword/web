@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 38 WEB | Read the Bible Online"
 linkTitle: "38"
-description: "Read Isaiah 38 Online | In those days Hezekiah was sick and near death. Isaiah the prophet, the son of Amoz, came to him, and said to him, “Yahweh says, ‘Set your house in order, for you will die, and not live.’..."
+description: >
+  Read Isaiah 38 Online | In those days Hezekiah was sick and near death. Isaiah the prophet, the son of Amoz, came to him, and said to him, “Yahweh says, ‘Set your house in order, for you will die, and not live.’...
 weight: 38
 ---
 

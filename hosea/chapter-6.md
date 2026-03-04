@@ -1,7 +1,8 @@
 ---
 title: "Hosea 6 WEB | Read the Bible Online"
 linkTitle: "6"
-description: "Read Hosea 6 Online | “Come! Let’s return to Yahweh; for he has torn us to pieces, and he will heal us; he has injured us, and he will bind up our wounds..."
+description: >
+  Read Hosea 6 Online | “Come! Let’s return to Yahweh; for he has torn us to pieces, and he will heal us; he has injured us, and he will bind up our wounds...
 weight: 6
 ---
 

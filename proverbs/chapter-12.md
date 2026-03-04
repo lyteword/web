@@ -1,7 +1,8 @@
 ---
 title: "Proverbs 12 WEB | Read the Bible Online"
 linkTitle: "12"
-description: "Read Proverbs 12 Online | Whoever loves correction loves knowledge, but he who hates reproof is stupid..."
+description: >
+  Read Proverbs 12 Online | Whoever loves correction loves knowledge, but he who hates reproof is stupid...
 weight: 12
 ---
 

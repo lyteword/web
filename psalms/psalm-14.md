@@ -1,7 +1,8 @@
 ---
 title: "Psalm 14 WEB | Read the Bible Online"
 linkTitle: "14"
-description: "Read Psalm 14 Online | The fool has said in his heart, “There is no God.” They are corrupt. They have done abominable deeds. There is no one who does good..."
+description: >
+  Read Psalm 14 Online | The fool has said in his heart, “There is no God.” They are corrupt. They have done abominable deeds. There is no one who does good...
 weight: 14
 ---
 

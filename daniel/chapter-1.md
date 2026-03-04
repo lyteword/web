@@ -1,7 +1,8 @@
 ---
 title: "Daniel 1 WEB | Read the Bible Online"
 linkTitle: "1"
-description: "Read Daniel 1 Online | In the third year of the reign of Jehoiakim king of Judah, Nebuchadnezzar king of Babylon came to Jerusalem and besieged it..."
+description: >
+  Read Daniel 1 Online | In the third year of the reign of Jehoiakim king of Judah, Nebuchadnezzar king of Babylon came to Jerusalem and besieged it...
 weight: 1
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Matthew 19 WEB | Read the Bible Online"
 linkTitle: "19"
-description: "Read Matthew 19 Online | When Jesus had finished these words, he departed from Galilee and came into the borders of Judea beyond the Jordan..."
+description: >
+  Read Matthew 19 Online | When Jesus had finished these words, he departed from Galilee and came into the borders of Judea beyond the Jordan...
 weight: 19
 ---
 

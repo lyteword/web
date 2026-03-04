@@ -1,7 +1,8 @@
 ---
 title: "Psalm 22 WEB | Read the Bible Online"
 linkTitle: "22"
-description: "Read Psalm 22 Online | My God, my God, why have you forsaken me? Why are you so far from helping me, and from the words of my groaning..."
+description: >
+  Read Psalm 22 Online | My God, my God, why have you forsaken me? Why are you so far from helping me, and from the words of my groaning...
 weight: 22
 ---
 

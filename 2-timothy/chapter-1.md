@@ -1,7 +1,8 @@
 ---
 title: "2 Timothy 1 WEB | Read the Bible Online"
 linkTitle: "1"
-description: "Read 2 Timothy 1 Online | Paul, an apostle of Jesus Christ[^1289] through the will of God, according to the promise of the life which is in Christ Jesus..."
+description: >
+  Read 2 Timothy 1 Online | Paul, an apostle of Jesus Christ through the will of God, according to the promise of the life which is in Christ Jesus...
 weight: 1
 ---
 

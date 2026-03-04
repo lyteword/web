@@ -1,7 +1,8 @@
 ---
 title: "Numbers 2 WEB | Read the Bible Online"
 linkTitle: "2"
-description: "Read Numbers 2 Online | Yahweh spoke to Moses and to Aaron, saying..."
+description: >
+  Read Numbers 2 Online | Yahweh spoke to Moses and to Aaron, saying...
 weight: 2
 ---
 

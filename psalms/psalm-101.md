@@ -1,7 +1,8 @@
 ---
 title: "Psalm 101 WEB | Read the Bible Online"
 linkTitle: "101"
-description: "Read Psalm 101 Online | I will sing of loving kindness and justice. To you, Yahweh, I will sing praises..."
+description: >
+  Read Psalm 101 Online | I will sing of loving kindness and justice. To you, Yahweh, I will sing praises...
 weight: 101
 ---
 

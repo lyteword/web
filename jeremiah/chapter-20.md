@@ -1,7 +1,8 @@
 ---
 title: "Jeremiah 20 WEB | Read the Bible Online"
 linkTitle: "20"
-description: "Read Jeremiah 20 Online | Now Pashhur, the son of Immer the priest, who was chief officer in Yahweh’s house, heard Jeremiah prophesying these things..."
+description: >
+  Read Jeremiah 20 Online | Now Pashhur, the son of Immer the priest, who was chief officer in Yahweh’s house, heard Jeremiah prophesying these things...
 weight: 20
 ---
 

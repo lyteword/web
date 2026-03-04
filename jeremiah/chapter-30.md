@@ -1,7 +1,8 @@
 ---
 title: "Jeremiah 30 WEB | Read the Bible Online"
 linkTitle: "30"
-description: "Read Jeremiah 30 Online | The word that came to Jeremiah from Yahweh, saying..."
+description: >
+  Read Jeremiah 30 Online | The word that came to Jeremiah from Yahweh, saying...
 weight: 30
 ---
 

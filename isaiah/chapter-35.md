@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 35 WEB | Read the Bible Online"
 linkTitle: "35"
-description: "Read Isaiah 35 Online | The wilderness and the dry land will be glad. The desert will rejoice and blossom like a rose..."
+description: >
+  Read Isaiah 35 Online | The wilderness and the dry land will be glad. The desert will rejoice and blossom like a rose...
 weight: 35
 ---
 

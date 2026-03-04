@@ -1,7 +1,8 @@
 ---
 title: "Romans 12 WEB | Read the Bible Online"
 linkTitle: "12"
-description: "Read Romans 12 Online | Therefore I urge you, brothers, by the mercies of God, to present your bodies a living sacrifice, holy, acceptable to God, which is your spiritual service..."
+description: >
+  Read Romans 12 Online | Therefore I urge you, brothers, by the mercies of God, to present your bodies a living sacrifice, holy, acceptable to God, which is your spiritual service...
 weight: 12
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Psalm 77 WEB | Read the Bible Online"
 linkTitle: "77"
-description: "Read Psalm 77 Online | My cry goes to God! Indeed, I cry to God for help, and for him to listen to me..."
+description: >
+  Read Psalm 77 Online | My cry goes to God! Indeed, I cry to God for help, and for him to listen to me...
 weight: 77
 ---
 

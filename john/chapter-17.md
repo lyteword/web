@@ -1,7 +1,8 @@
 ---
 title: "John 17 WEB | Read the Bible Online"
 linkTitle: "17"
-description: "Read John 17 Online | Jesus said these things, then lifting up his eyes to heaven, he said,  “Father, the time has come. Glorify your Son, that your Son may also glorify you..."
+description: >
+  Read John 17 Online | Jesus said these things, then lifting up his eyes to heaven, he said, “Father, the time has come. Glorify your Son, that your Son may also glorify you...
 weight: 17
 ---
 

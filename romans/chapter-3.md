@@ -1,7 +1,8 @@
 ---
 title: "Romans 3 WEB | Read the Bible Online"
 linkTitle: "3"
-description: "Read Romans 3 Online | Then what advantage does the Jew have? Or what is the profit of circumcision..."
+description: >
+  Read Romans 3 Online | Then what advantage does the Jew have? Or what is the profit of circumcision...
 weight: 3
 ---
 

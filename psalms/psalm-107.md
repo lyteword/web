@@ -1,7 +1,8 @@
 ---
 title: "Psalm 107 WEB | Read the Bible Online"
 linkTitle: "107"
-description: "Read Psalm 107 Online | Give thanks to Yahweh,[^455] for he is good, for his loving kindness endures forever..."
+description: >
+  Read Psalm 107 Online | Give thanks to Yahweh, for he is good, for his loving kindness endures forever...
 weight: 107
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Deuteronomy 20 WEB | Read the Bible Online"
 linkTitle: "20"
-description: "Read Deuteronomy 20 Online | When you go out to battle against your enemies, and see horses, chariots, and a people more numerous than you, you shall not be afraid of them; for Yahweh your God, who brought you up out of the land of Egypt, is with you..."
+description: >
+  Read Deuteronomy 20 Online | When you go out to battle against your enemies, and see horses, chariots, and a people more numerous than you, you shall not be afraid of them; for Yahweh your God, who brought you up out of the land of Egypt, is with you...
 weight: 20
 ---
 

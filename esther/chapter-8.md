@@ -1,7 +1,8 @@
 ---
 title: "Esther 8 WEB | Read the Bible Online"
 linkTitle: "8"
-description: "Read Esther 8 Online | On that day, King Ahasuerus gave the house of Haman, the Jews’ enemy, to Esther the queen. Mordecai came before the king; for Esther had told what he was to her..."
+description: >
+  Read Esther 8 Online | On that day, King Ahasuerus gave the house of Haman, the Jews’ enemy, to Esther the queen. Mordecai came before the king; for Esther had told what he was to her...
 weight: 8
 ---
 

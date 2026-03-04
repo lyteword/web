@@ -1,7 +1,8 @@
 ---
 title: "Micah 6 WEB | Read the Bible Online"
 linkTitle: "6"
-description: "Read Micah 6 Online | Listen now to what Yahweh says: “Arise, plead your case before the mountains, and let the hills hear what you have to say..."
+description: >
+  Read Micah 6 Online | Listen now to what Yahweh says: “Arise, plead your case before the mountains, and let the hills hear what you have to say...
 weight: 6
 ---
 

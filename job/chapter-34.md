@@ -1,7 +1,8 @@
 ---
 title: "Job 34 WEB | Read the Bible Online"
 linkTitle: "34"
-description: "Read Job 34 Online | Moreover Elihu answered..."
+description: >
+  Read Job 34 Online | Moreover Elihu answered...
 weight: 34
 ---
 

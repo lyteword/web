@@ -1,7 +1,8 @@
 ---
 title: "1 Samuel 14 WEB | Read the Bible Online"
 linkTitle: "14"
-description: "Read 1 Samuel 14 Online | Now it happened on a day that Jonathan the son of Saul said to the young man who bore his armor, “Come! Let’s go over to the Philistines’ garrison that is on the other side.” But he didn’t tell his father..."
+description: >
+  Read 1 Samuel 14 Online | Now it happened on a day that Jonathan the son of Saul said to the young man who bore his armor, “Come! Let’s go over to the Philistines’ garrison that is on the other side.” But he didn’t tell his father...
 weight: 14
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Joel 3 WEB | Read the Bible Online"
 linkTitle: "3"
-description: "Read Joel 3 Online | “For, behold, in those days, and in that time, when I restore the fortunes of Judah and Jerusalem..."
+description: >
+  Read Joel 3 Online | “For, behold, in those days, and in that time, when I restore the fortunes of Judah and Jerusalem...
 weight: 3
 ---
 

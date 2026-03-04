@@ -1,7 +1,8 @@
 ---
 title: "Numbers 24 WEB | Read the Bible Online"
 linkTitle: "24"
-description: "Read Numbers 24 Online | When Balaam saw that it pleased Yahweh to bless Israel, he didn’t go, as at the other times, to use divination, but he set his face toward the wilderness..."
+description: >
+  Read Numbers 24 Online | When Balaam saw that it pleased Yahweh to bless Israel, he didn’t go, as at the other times, to use divination, but he set his face toward the wilderness...
 weight: 24
 ---
 

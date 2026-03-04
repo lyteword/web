@@ -1,7 +1,8 @@
 ---
 title: "1 Kings 10 WEB | Read the Bible Online"
 linkTitle: "10"
-description: "Read 1 Kings 10 Online | When the queen of Sheba heard of the fame of Solomon concerning Yahweh’s name, she came to test him with hard questions..."
+description: >
+  Read 1 Kings 10 Online | When the queen of Sheba heard of the fame of Solomon concerning Yahweh’s name, she came to test him with hard questions...
 weight: 10
 ---
 

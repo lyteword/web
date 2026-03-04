@@ -1,7 +1,8 @@
 ---
 title: "Psalm 136 WEB | Read the Bible Online"
 linkTitle: "136"
-description: "Read Psalm 136 Online | Give thanks to Yahweh, for he is good, for his loving kindness endures forever..."
+description: >
+  Read Psalm 136 Online | Give thanks to Yahweh, for he is good, for his loving kindness endures forever...
 weight: 136
 ---
 

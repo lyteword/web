@@ -1,7 +1,8 @@
 ---
 title: "Psalm 38 WEB | Read the Bible Online"
 linkTitle: "38"
-description: "Read Psalm 38 Online | Yahweh, don’t rebuke me in your wrath, neither chasten me in your hot displeasure..."
+description: >
+  Read Psalm 38 Online | Yahweh, don’t rebuke me in your wrath, neither chasten me in your hot displeasure...
 weight: 38
 ---
 

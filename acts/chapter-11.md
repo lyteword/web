@@ -1,7 +1,8 @@
 ---
 title: "Acts 11 WEB | Read the Bible Online"
 linkTitle: "11"
-description: "Read Acts 11 Online | Now the apostles and the brothers[^1065] who were in Judea heard that the Gentiles had also received the word of God..."
+description: >
+  Read Acts 11 Online | Now the apostles and the brothers who were in Judea heard that the Gentiles had also received the word of God...
 weight: 11
 ---
 

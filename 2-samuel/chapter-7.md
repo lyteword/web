@@ -1,7 +1,8 @@
 ---
 title: "2 Samuel 7 WEB | Read the Bible Online"
 linkTitle: "7"
-description: "Read 2 Samuel 7 Online | When the king lived in his house, and Yahweh had given him rest from all his enemies all around..."
+description: >
+  Read 2 Samuel 7 Online | When the king lived in his house, and Yahweh had given him rest from all his enemies all around...
 weight: 7
 ---
 

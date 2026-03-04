@@ -1,7 +1,8 @@
 ---
 title: "Habakkuk 1 WEB | Read the Bible Online"
 linkTitle: "1"
-description: "Read Habakkuk 1 Online | The revelation which Habakkuk the prophet saw..."
+description: >
+  Read Habakkuk 1 Online | The revelation which Habakkuk the prophet saw...
 weight: 1
 ---
 

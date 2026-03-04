@@ -1,7 +1,8 @@
 ---
 title: "Genesis 14 WEB | Read the Bible Online"
 linkTitle: "14"
-description: "Read Genesis 14 Online | In the days of Amraphel, king of Shinar; Arioch, king of Ellasar; Chedorlaomer, king of Elam; and Tidal, king of Goiim..."
+description: >
+  Read Genesis 14 Online | In the days of Amraphel, king of Shinar; Arioch, king of Ellasar; Chedorlaomer, king of Elam; and Tidal, king of Goiim...
 weight: 14
 ---
 

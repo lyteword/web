@@ -1,7 +1,8 @@
 ---
 title: "Revelation 15 WEB | Read the Bible Online"
 linkTitle: "15"
-description: "Read Revelation 15 Online | I saw another great and marvelous sign in the sky: seven angels having the seven last plagues, for in them God’s wrath is finished..."
+description: >
+  Read Revelation 15 Online | I saw another great and marvelous sign in the sky: seven angels having the seven last plagues, for in them God’s wrath is finished...
 weight: 15
 ---
 

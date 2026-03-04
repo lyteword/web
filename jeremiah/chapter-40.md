@@ -1,7 +1,8 @@
 ---
 title: "Jeremiah 40 WEB | Read the Bible Online"
 linkTitle: "40"
-description: "Read Jeremiah 40 Online | The word which came to Jeremiah from Yahweh, after Nebuzaradan the captain of the guard had let him go from Ramah, when he had taken him being bound in chains among all the captives of Jerusalem and Judah who were carried away captive to Babylon..."
+description: >
+  Read Jeremiah 40 Online | The word which came to Jeremiah from Yahweh, after Nebuzaradan the captain of the guard had let him go from Ramah, when he had taken him being bound in chains among all the captives of Jerusalem and Judah who were carried away captive to Babylon...
 weight: 40
 ---
 

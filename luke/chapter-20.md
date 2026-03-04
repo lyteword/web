@@ -1,7 +1,8 @@
 ---
 title: "Luke 20 WEB | Read the Bible Online"
 linkTitle: "20"
-description: "Read Luke 20 Online | On one of those days, as he was teaching the people in the temple and preaching the Good News, the[^924] priests and scribes came to him with the elders..."
+description: >
+  Read Luke 20 Online | On one of those days, as he was teaching the people in the temple and preaching the Good News, the priests and scribes came to him with the elders...
 weight: 20
 ---
 

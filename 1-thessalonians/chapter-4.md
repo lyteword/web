@@ -1,7 +1,8 @@
 ---
 title: "1 Thessalonians 4 WEB | Read the Bible Online"
 linkTitle: "4"
-description: "Read 1 Thessalonians 4 Online | Finally then, brothers, we beg and exhort you in the Lord Jesus, that as you received from us how you ought to walk and to please God, that you abound more and more..."
+description: >
+  Read 1 Thessalonians 4 Online | Finally then, brothers, we beg and exhort you in the Lord Jesus, that as you received from us how you ought to walk and to please God, that you abound more and more...
 weight: 4
 ---
 

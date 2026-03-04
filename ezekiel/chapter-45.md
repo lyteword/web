@@ -1,7 +1,8 @@
 ---
 title: "Ezekiel 45 WEB | Read the Bible Online"
 linkTitle: "45"
-description: "Read Ezekiel 45 Online | “‘“Moreover, when you divide by lot the land for inheritance, you shall offer an offering to Yahweh, a holy portion of the land. The length shall be the length of twenty-five thousand reeds, and the width shall be ten thousand. It shall be holy in all its border all around..."
+description: >
+  Read Ezekiel 45 Online | “‘“Moreover, when you divide by lot the land for inheritance, you shall offer an offering to Yahweh, a holy portion of the land. The length shall be the length of twenty-five thousand reeds, and the width shall be ten thousand. It shall be holy in all its border all around...
 weight: 45
 ---
 

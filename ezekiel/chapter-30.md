@@ -1,7 +1,8 @@
 ---
 title: "Ezekiel 30 WEB | Read the Bible Online"
 linkTitle: "30"
-description: "Read Ezekiel 30 Online | Yahweh’s word came again to me, saying..."
+description: >
+  Read Ezekiel 30 Online | Yahweh’s word came again to me, saying...
 weight: 30
 ---
 

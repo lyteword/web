@@ -1,7 +1,8 @@
 ---
 title: "Psalm 55 WEB | Read the Bible Online"
 linkTitle: "55"
-description: "Read Psalm 55 Online | Listen to my prayer, God. Don’t hide yourself from my supplication..."
+description: >
+  Read Psalm 55 Online | Listen to my prayer, God. Don’t hide yourself from my supplication...
 weight: 55
 ---
 

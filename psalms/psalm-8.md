@@ -1,7 +1,8 @@
 ---
 title: "Psalm 8 WEB | Read the Bible Online"
 linkTitle: "8"
-description: "Read Psalm 8 Online | Yahweh, our Lord, how majestic is your name in all the earth! You have set your glory above the heavens..."
+description: >
+  Read Psalm 8 Online | Yahweh, our Lord, how majestic is your name in all the earth! You have set your glory above the heavens...
 weight: 8
 ---
 

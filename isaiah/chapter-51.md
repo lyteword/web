@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 51 WEB | Read the Bible Online"
 linkTitle: "51"
-description: "Read Isaiah 51 Online | “Listen to me, you who follow after righteousness, you who seek Yahweh. Look to the rock you were cut from, and to the quarry you were dug from..."
+description: >
+  Read Isaiah 51 Online | “Listen to me, you who follow after righteousness, you who seek Yahweh. Look to the rock you were cut from, and to the quarry you were dug from...
 weight: 51
 ---
 

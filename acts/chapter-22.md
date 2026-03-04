@@ -1,7 +1,8 @@
 ---
 title: "Acts 22 WEB | Read the Bible Online"
 linkTitle: "22"
-description: "Read Acts 22 Online | “Brothers and fathers, listen to the defense which I now make to you...."
+description: >
+  Read Acts 22 Online | “Brothers and fathers, listen to the defense which I now make to you....
 weight: 22
 ---
 

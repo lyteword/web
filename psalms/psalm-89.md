@@ -1,7 +1,8 @@
 ---
 title: "Psalm 89 WEB | Read the Bible Online"
 linkTitle: "89"
-description: "Read Psalm 89 Online | I will sing of the loving kindness of Yahweh forever. With my mouth, I will make known your faithfulness to all generations..."
+description: >
+  Read Psalm 89 Online | I will sing of the loving kindness of Yahweh forever. With my mouth, I will make known your faithfulness to all generations...
 weight: 89
 ---
 

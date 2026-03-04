@@ -1,7 +1,8 @@
 ---
 title: "Romans 10 WEB | Read the Bible Online"
 linkTitle: "10"
-description: "Read Romans 10 Online | Brothers, my heart’s desire and my prayer to God is for Israel, that they may be saved..."
+description: >
+  Read Romans 10 Online | Brothers, my heart’s desire and my prayer to God is for Israel, that they may be saved...
 weight: 10
 ---
 

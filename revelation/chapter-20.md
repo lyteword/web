@@ -1,7 +1,8 @@
 ---
 title: "Revelation 20 WEB | Read the Bible Online"
 linkTitle: "20"
-description: "Read Revelation 20 Online | I saw an angel coming down out of heaven, having the key of the abyss and a great chain in his hand..."
+description: >
+  Read Revelation 20 Online | I saw an angel coming down out of heaven, having the key of the abyss and a great chain in his hand...
 weight: 20
 ---
 

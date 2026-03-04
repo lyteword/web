@@ -1,7 +1,8 @@
 ---
 title: "1 Chronicles 7 WEB | Read the Bible Online"
 linkTitle: "7"
-description: "Read 1 Chronicles 7 Online | Of the sons of Issachar: Tola, Puah, Jashub, and Shimron, four..."
+description: >
+  Read 1 Chronicles 7 Online | Of the sons of Issachar: Tola, Puah, Jashub, and Shimron, four...
 weight: 7
 ---
 

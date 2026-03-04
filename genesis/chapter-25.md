@@ -1,7 +1,8 @@
 ---
 title: "Genesis 25 WEB | Read the Bible Online"
 linkTitle: "25"
-description: "Read Genesis 25 Online | Abraham took another wife, and her name was Keturah..."
+description: >
+  Read Genesis 25 Online | Abraham took another wife, and her name was Keturah...
 weight: 25
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Proverbs 9 WEB | Read the Bible Online"
 linkTitle: "9"
-description: "Read Proverbs 9 Online | Wisdom has built her house. She has carved out her seven pillars..."
+description: >
+  Read Proverbs 9 Online | Wisdom has built her house. She has carved out her seven pillars...
 weight: 9
 ---
 

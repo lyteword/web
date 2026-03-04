@@ -1,7 +1,8 @@
 ---
 title: "Psalm 1 WEB | Read the Bible Online"
 linkTitle: "1"
-description: "Read Psalm 1 Online | Blessed is the man who doesn’t walk in the counsel of the wicked, nor stand on the path of sinners, nor sit in the seat of scoffers..."
+description: >
+  Read Psalm 1 Online | Blessed is the man who doesn’t walk in the counsel of the wicked, nor stand on the path of sinners, nor sit in the seat of scoffers...
 weight: 1
 ---
 

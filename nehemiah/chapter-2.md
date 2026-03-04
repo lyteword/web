@@ -1,7 +1,8 @@
 ---
 title: "Nehemiah 2 WEB | Read the Bible Online"
 linkTitle: "2"
-description: "Read Nehemiah 2 Online | In the month Nisan, in the twentieth year of Artaxerxes the king, when wine was before him, I picked up the wine, and gave it to the king. Now I had not been sad before in his presence..."
+description: >
+  Read Nehemiah 2 Online | In the month Nisan, in the twentieth year of Artaxerxes the king, when wine was before him, I picked up the wine, and gave it to the king. Now I had not been sad before in his presence...
 weight: 2
 ---
 

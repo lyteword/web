@@ -1,7 +1,8 @@
 ---
 title: "Psalm 71 WEB | Read the Bible Online"
 linkTitle: "71"
-description: "Read Psalm 71 Online | In you, Yahweh, I take refuge. Never let me be disappointed..."
+description: >
+  Read Psalm 71 Online | In you, Yahweh, I take refuge. Never let me be disappointed...
 weight: 71
 ---
 
