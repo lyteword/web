@@ -1,7 +1,8 @@
 ---
 title: "Psalm 100 WEB | Read the Bible Online"
 linkTitle: "100"
-description: "Read Psalm 100 Online | Shout for joy to Yahweh, all you lands..."
+description: >
+  Read Psalm 100 Online | Shout for joy to Yahweh, all you lands...
 weight: 100
 ---
 

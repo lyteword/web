@@ -1,7 +1,8 @@
 ---
 title: "1 Corinthians 5 WEB | Read the Bible Online"
 linkTitle: "5"
-description: "Read 1 Corinthians 5 Online | It is actually reported that there is sexual immorality among you, and such sexual immorality as is not even named among the Gentiles, that one has his father’s wife..."
+description: >
+  Read 1 Corinthians 5 Online | It is actually reported that there is sexual immorality among you, and such sexual immorality as is not even named among the Gentiles, that one has his father’s wife...
 weight: 5
 ---
 

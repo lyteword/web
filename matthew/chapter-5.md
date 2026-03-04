@@ -1,7 +1,8 @@
 ---
 title: "Matthew 5 WEB | Read the Bible Online"
 linkTitle: "5"
-description: "Read Matthew 5 Online | Seeing the multitudes, he went up onto the mountain. When he had sat down, his disciples came to him..."
+description: >
+  Read Matthew 5 Online | Seeing the multitudes, he went up onto the mountain. When he had sat down, his disciples came to him...
 weight: 5
 ---
 

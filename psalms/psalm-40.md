@@ -1,7 +1,8 @@
 ---
 title: "Psalm 40 WEB | Read the Bible Online"
 linkTitle: "40"
-description: "Read Psalm 40 Online | I waited patiently for Yahweh. He turned to me, and heard my cry..."
+description: >
+  Read Psalm 40 Online | I waited patiently for Yahweh. He turned to me, and heard my cry...
 weight: 40
 ---
 

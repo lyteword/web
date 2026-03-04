@@ -1,7 +1,8 @@
 ---
 title: "Proverbs 13 WEB | Read the Bible Online"
 linkTitle: "13"
-description: "Read Proverbs 13 Online | A wise son listens to his father’s instruction, but a scoffer doesn’t listen to rebuke..."
+description: >
+  Read Proverbs 13 Online | A wise son listens to his father’s instruction, but a scoffer doesn’t listen to rebuke...
 weight: 13
 ---
 

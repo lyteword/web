@@ -1,7 +1,8 @@
 ---
 title: "Jeremiah 45 WEB | Read the Bible Online"
 linkTitle: "45"
-description: "Read Jeremiah 45 Online | The message that Jeremiah the prophet spoke to Baruch the son of Neriah, when he wrote these words in a book at the mouth of Jeremiah, in the fourth year of Jehoiakim the son of Josiah, king of Judah, saying..."
+description: >
+  Read Jeremiah 45 Online | The message that Jeremiah the prophet spoke to Baruch the son of Neriah, when he wrote these words in a book at the mouth of Jeremiah, in the fourth year of Jehoiakim the son of Josiah, king of Judah, saying...
 weight: 45
 ---
 

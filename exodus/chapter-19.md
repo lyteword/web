@@ -1,7 +1,8 @@
 ---
 title: "Exodus 19 WEB | Read the Bible Online"
 linkTitle: "19"
-description: "Read Exodus 19 Online | In the third month after the children of Israel had gone out of the land of Egypt, on that same day they came into the wilderness of Sinai..."
+description: >
+  Read Exodus 19 Online | In the third month after the children of Israel had gone out of the land of Egypt, on that same day they came into the wilderness of Sinai...
 weight: 19
 ---
 

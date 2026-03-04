@@ -1,7 +1,8 @@
 ---
 title: "Revelation 2 WEB | Read the Bible Online"
 linkTitle: "2"
-description: "Read Revelation 2 Online | “To the angel of the assembly in Ephesus write:  “He who holds the seven stars in his right hand, he who walks among the seven golden lamp stands says these things..."
+description: >
+  Read Revelation 2 Online | “To the angel of the assembly in Ephesus write: “He who holds the seven stars in his right hand, he who walks among the seven golden lamp stands says these things...
 weight: 2
 ---
 

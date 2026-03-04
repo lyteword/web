@@ -1,7 +1,8 @@
 ---
 title: "Psalm 52 WEB | Read the Bible Online"
 linkTitle: "52"
-description: "Read Psalm 52 Online | Why do you boast of mischief, mighty man? God’s loving kindness endures continually..."
+description: >
+  Read Psalm 52 Online | Why do you boast of mischief, mighty man? God’s loving kindness endures continually...
 weight: 52
 ---
 

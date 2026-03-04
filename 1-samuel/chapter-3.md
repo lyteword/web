@@ -1,7 +1,8 @@
 ---
 title: "1 Samuel 3 WEB | Read the Bible Online"
 linkTitle: "3"
-description: "Read 1 Samuel 3 Online | The child Samuel ministered to Yahweh before Eli. Yahweh’s word was rare in those days. There were not many visions, then..."
+description: >
+  Read 1 Samuel 3 Online | The child Samuel ministered to Yahweh before Eli. Yahweh’s word was rare in those days. There were not many visions, then...
 weight: 3
 ---
 

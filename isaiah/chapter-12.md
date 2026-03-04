@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 12 WEB | Read the Bible Online"
 linkTitle: "12"
-description: "Read Isaiah 12 Online | In that day you will say, “I will give thanks to you, Yahweh; for though you were angry with me, your anger has turned away and you comfort me..."
+description: >
+  Read Isaiah 12 Online | In that day you will say, “I will give thanks to you, Yahweh; for though you were angry with me, your anger has turned away and you comfort me...
 weight: 12
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Ezekiel 3 WEB | Read the Bible Online"
 linkTitle: "3"
-description: "Read Ezekiel 3 Online | He said to me, “Son of man, eat what you find. Eat this scroll, and go, speak to the house of Israel...."
+description: >
+  Read Ezekiel 3 Online | He said to me, “Son of man, eat what you find. Eat this scroll, and go, speak to the house of Israel....
 weight: 3
 ---
 

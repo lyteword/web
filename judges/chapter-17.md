@@ -1,7 +1,8 @@
 ---
 title: "Judges 17 WEB | Read the Bible Online"
 linkTitle: "17"
-description: "Read Judges 17 Online | There was a man of the hill country of Ephraim, whose name was Micah..."
+description: >
+  Read Judges 17 Online | There was a man of the hill country of Ephraim, whose name was Micah...
 weight: 17
 ---
 

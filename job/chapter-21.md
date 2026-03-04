@@ -1,7 +1,8 @@
 ---
 title: "Job 21 WEB | Read the Bible Online"
 linkTitle: "21"
-description: "Read Job 21 Online | Then Job answered..."
+description: >
+  Read Job 21 Online | Then Job answered...
 weight: 21
 ---
 

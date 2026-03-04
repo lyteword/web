@@ -1,7 +1,8 @@
 ---
 title: "2 Corinthians 6 WEB | Read the Bible Online"
 linkTitle: "6"
-description: "Read 2 Corinthians 6 Online | Working together, we entreat also that you do not receive the grace of God in vain..."
+description: >
+  Read 2 Corinthians 6 Online | Working together, we entreat also that you do not receive the grace of God in vain...
 weight: 6
 ---
 

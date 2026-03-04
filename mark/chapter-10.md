@@ -1,7 +1,8 @@
 ---
 title: "Mark 10 WEB | Read the Bible Online"
 linkTitle: "10"
-description: "Read Mark 10 Online | He arose from there and came into the borders of Judea and beyond the Jordan. Multitudes came together to him again. As he usually did, he was again teaching them..."
+description: >
+  Read Mark 10 Online | He arose from there and came into the borders of Judea and beyond the Jordan. Multitudes came together to him again. As he usually did, he was again teaching them...
 weight: 10
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Daniel 11 WEB | Read the Bible Online"
 linkTitle: "11"
-description: "Read Daniel 11 Online | “As for me, in the first year of Darius the Mede, I stood up to confirm and strengthen him..."
+description: >
+  Read Daniel 11 Online | “As for me, in the first year of Darius the Mede, I stood up to confirm and strengthen him...
 weight: 11
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Ezekiel 38 WEB | Read the Bible Online"
 linkTitle: "38"
-description: "Read Ezekiel 38 Online | Yahweh’s word came to me, saying..."
+description: >
+  Read Ezekiel 38 Online | Yahweh’s word came to me, saying...
 weight: 38
 ---
 

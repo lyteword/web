@@ -1,7 +1,8 @@
 ---
 title: "2 Kings 19 WEB | Read the Bible Online"
 linkTitle: "19"
-description: "Read 2 Kings 19 Online | When King Hezekiah heard it, he tore his clothes, covered himself with sackcloth, and went into Yahweh’s house..."
+description: >
+  Read 2 Kings 19 Online | When King Hezekiah heard it, he tore his clothes, covered himself with sackcloth, and went into Yahweh’s house...
 weight: 19
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "2 Corinthians 12 WEB | Read the Bible Online"
 linkTitle: "12"
-description: "Read 2 Corinthians 12 Online | It is doubtless not profitable for me to boast, but I will come to visions and revelations of the Lord..."
+description: >
+  Read 2 Corinthians 12 Online | It is doubtless not profitable for me to boast, but I will come to visions and revelations of the Lord...
 weight: 12
 ---
 

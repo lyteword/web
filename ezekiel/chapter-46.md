@@ -1,7 +1,8 @@
 ---
 title: "Ezekiel 46 WEB | Read the Bible Online"
 linkTitle: "46"
-description: "Read Ezekiel 46 Online | “‘The Lord Yahweh says: “The gate of the inner court that looks toward the east shall be shut the six working days; but on the Sabbath day it shall be opened, and on the day of the new moon it shall be opened..."
+description: >
+  Read Ezekiel 46 Online | “‘The Lord Yahweh says: “The gate of the inner court that looks toward the east shall be shut the six working days; but on the Sabbath day it shall be opened, and on the day of the new moon it shall be opened...
 weight: 46
 ---
 

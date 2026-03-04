@@ -1,7 +1,8 @@
 ---
 title: "Psalm 67 WEB | Read the Bible Online"
 linkTitle: "67"
-description: "Read Psalm 67 Online | May God be merciful to us, bless us, and cause his face to shine on us. *Selah.*..."
+description: >
+  Read Psalm 67 Online | May God be merciful to us, bless us, and cause his face to shine on us. *Selah.*...
 weight: 67
 ---
 

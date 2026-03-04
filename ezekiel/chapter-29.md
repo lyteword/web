@@ -1,7 +1,8 @@
 ---
 title: "Ezekiel 29 WEB | Read the Bible Online"
 linkTitle: "29"
-description: "Read Ezekiel 29 Online | In the tenth year, in the tenth month, on the twelfth day of the month, Yahweh’s word came to me, saying..."
+description: >
+  Read Ezekiel 29 Online | In the tenth year, in the tenth month, on the twelfth day of the month, Yahweh’s word came to me, saying...
 weight: 29
 ---
 

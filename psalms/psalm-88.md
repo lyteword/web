@@ -1,7 +1,8 @@
 ---
 title: "Psalm 88 WEB | Read the Bible Online"
 linkTitle: "88"
-description: "Read Psalm 88 Online | Yahweh, the God of my salvation, I have cried day and night before you..."
+description: >
+  Read Psalm 88 Online | Yahweh, the God of my salvation, I have cried day and night before you...
 weight: 88
 ---
 

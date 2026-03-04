@@ -1,7 +1,8 @@
 ---
 title: "Psalm 76 WEB | Read the Bible Online"
 linkTitle: "76"
-description: "Read Psalm 76 Online | In Judah, God is known. His name is great in Israel..."
+description: >
+  Read Psalm 76 Online | In Judah, God is known. His name is great in Israel...
 weight: 76
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Psalm 103 WEB | Read the Bible Online"
 linkTitle: "103"
-description: "Read Psalm 103 Online | Praise Yahweh, my soul! All that is within me, praise his holy name..."
+description: >
+  Read Psalm 103 Online | Praise Yahweh, my soul! All that is within me, praise his holy name...
 weight: 103
 ---
 

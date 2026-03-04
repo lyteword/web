@@ -1,7 +1,8 @@
 ---
 title: "Deuteronomy 17 WEB | Read the Bible Online"
 linkTitle: "17"
-description: "Read Deuteronomy 17 Online | You shall not sacrifice to Yahweh your God an ox or a sheep in which is a defect or anything evil; for that is an abomination to Yahweh your God..."
+description: >
+  Read Deuteronomy 17 Online | You shall not sacrifice to Yahweh your God an ox or a sheep in which is a defect or anything evil; for that is an abomination to Yahweh your God...
 weight: 17
 ---
 

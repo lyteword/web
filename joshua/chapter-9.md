@@ -1,7 +1,8 @@
 ---
 title: "Joshua 9 WEB | Read the Bible Online"
 linkTitle: "9"
-description: "Read Joshua 9 Online | When all the kings who were beyond the Jordan, in the hill country, and in the lowland, and on all the shore of the great sea in front of Lebanon, the Hittite, the Amorite, the Canaanite, the Perizzite, the Hivite, and the Jebusite, heard of it..."
+description: >
+  Read Joshua 9 Online | When all the kings who were beyond the Jordan, in the hill country, and in the lowland, and on all the shore of the great sea in front of Lebanon, the Hittite, the Amorite, the Canaanite, the Perizzite, the Hivite, and the Jebusite, heard of it...
 weight: 9
 ---
 

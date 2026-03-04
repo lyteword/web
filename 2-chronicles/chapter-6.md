@@ -1,7 +1,8 @@
 ---
 title: "2 Chronicles 6 WEB | Read the Bible Online"
 linkTitle: "6"
-description: "Read 2 Chronicles 6 Online | Then Solomon said, “Yahweh has said that he would dwell in the thick darkness..."
+description: >
+  Read 2 Chronicles 6 Online | Then Solomon said, “Yahweh has said that he would dwell in the thick darkness...
 weight: 6
 ---
 

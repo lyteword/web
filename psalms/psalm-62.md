@@ -1,7 +1,8 @@
 ---
 title: "Psalm 62 WEB | Read the Bible Online"
 linkTitle: "62"
-description: "Read Psalm 62 Online | My soul rests in God alone. My salvation is from him..."
+description: >
+  Read Psalm 62 Online | My soul rests in God alone. My salvation is from him...
 weight: 62
 ---
 

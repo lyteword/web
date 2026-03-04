@@ -1,7 +1,8 @@
 ---
 title: "Deuteronomy 23 WEB | Read the Bible Online"
 linkTitle: "23"
-description: "Read Deuteronomy 23 Online | He who is emasculated by crushing or cutting shall not enter into Yahweh’s assembly..."
+description: >
+  Read Deuteronomy 23 Online | He who is emasculated by crushing or cutting shall not enter into Yahweh’s assembly...
 weight: 23
 ---
 

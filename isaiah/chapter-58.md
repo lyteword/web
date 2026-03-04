@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 58 WEB | Read the Bible Online"
 linkTitle: "58"
-description: "Read Isaiah 58 Online | “Cry aloud! Don’t spare! Lift up your voice like a trumpet! Declare to my people their disobedience, and to the house of Jacob their sins..."
+description: >
+  Read Isaiah 58 Online | “Cry aloud! Don’t spare! Lift up your voice like a trumpet! Declare to my people their disobedience, and to the house of Jacob their sins...
 weight: 58
 ---
 

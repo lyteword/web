@@ -1,7 +1,8 @@
 ---
 title: "Ezekiel 6 WEB | Read the Bible Online"
 linkTitle: "6"
-description: "Read Ezekiel 6 Online | Yahweh’s word came to me, saying..."
+description: >
+  Read Ezekiel 6 Online | Yahweh’s word came to me, saying...
 weight: 6
 ---
 

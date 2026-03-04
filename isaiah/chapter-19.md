@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 19 WEB | Read the Bible Online"
 linkTitle: "19"
-description: "Read Isaiah 19 Online | The burden of Egypt. “Behold, Yahweh rides on a swift cloud, and comes to Egypt. The idols of Egypt will tremble at his presence; and the heart of Egypt will melt within it..."
+description: >
+  Read Isaiah 19 Online | The burden of Egypt. “Behold, Yahweh rides on a swift cloud, and comes to Egypt. The idols of Egypt will tremble at his presence; and the heart of Egypt will melt within it...
 weight: 19
 ---
 

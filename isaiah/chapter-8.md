@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 8 WEB | Read the Bible Online"
 linkTitle: "8"
-description: "Read Isaiah 8 Online | Yahweh said to me, “Take a large tablet, and write on it with a man’s pen, ‘For Maher Shalal Hash Baz’;[^501..."
+description: >
+  Read Isaiah 8 Online | Yahweh said to me, “Take a large tablet, and write on it with a man’s pen, ‘For Maher Shalal Hash Baz’;[^501...
 weight: 8
 ---
 

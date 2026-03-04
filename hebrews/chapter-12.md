@@ -1,7 +1,8 @@
 ---
 title: "Hebrews 12 WEB | Read the Bible Online"
 linkTitle: "12"
-description: "Read Hebrews 12 Online | Therefore let’s also, seeing we are surrounded by so great a cloud of witnesses, lay aside every weight and the sin which so easily entangles us, and let’s run with perseverance the race that is set before us..."
+description: >
+  Read Hebrews 12 Online | Therefore let’s also, seeing we are surrounded by so great a cloud of witnesses, lay aside every weight and the sin which so easily entangles us, and let’s run with perseverance the race that is set before us...
 weight: 12
 ---
 

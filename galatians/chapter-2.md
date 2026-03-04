@@ -1,7 +1,8 @@
 ---
 title: "Galatians 2 WEB | Read the Bible Online"
 linkTitle: "2"
-description: "Read Galatians 2 Online | Then after a period of fourteen years I went up again to Jerusalem with Barnabas, taking Titus also with me..."
+description: >
+  Read Galatians 2 Online | Then after a period of fourteen years I went up again to Jerusalem with Barnabas, taking Titus also with me...
 weight: 2
 ---
 

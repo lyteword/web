@@ -1,7 +1,8 @@
 ---
 title: "Psalm 39 WEB | Read the Bible Online"
 linkTitle: "39"
-description: "Read Psalm 39 Online | I said, “I will watch my ways, so that I don’t sin with my tongue. I will keep my mouth with a bridle while the wicked is before me...."
+description: >
+  Read Psalm 39 Online | I said, “I will watch my ways, so that I don’t sin with my tongue. I will keep my mouth with a bridle while the wicked is before me....
 weight: 39
 ---
 

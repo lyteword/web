@@ -1,7 +1,8 @@
 ---
 title: "Proverbs 23 WEB | Read the Bible Online"
 linkTitle: "23"
-description: "Read Proverbs 23 Online | When you sit to eat with a ruler, consider diligently what is before you..."
+description: >
+  Read Proverbs 23 Online | When you sit to eat with a ruler, consider diligently what is before you...
 weight: 23
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Jeremiah 2 WEB | Read the Bible Online"
 linkTitle: "2"
-description: "Read Jeremiah 2 Online | Yahweh’s word came to me, saying..."
+description: >
+  Read Jeremiah 2 Online | Yahweh’s word came to me, saying...
 weight: 2
 ---
 

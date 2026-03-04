@@ -1,7 +1,8 @@
 ---
 title: "Jeremiah 26 WEB | Read the Bible Online"
 linkTitle: "26"
-description: "Read Jeremiah 26 Online | In the beginning of the reign of Jehoiakim the son of Josiah, king of Judah, this word came from Yahweh..."
+description: >
+  Read Jeremiah 26 Online | In the beginning of the reign of Jehoiakim the son of Josiah, king of Judah, this word came from Yahweh...
 weight: 26
 ---
 

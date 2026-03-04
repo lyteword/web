@@ -1,7 +1,8 @@
 ---
 title: "Deuteronomy 25 WEB | Read the Bible Online"
 linkTitle: "25"
-description: "Read Deuteronomy 25 Online | If there is a controversy between men, and they come to judgment and the judges judge them, then they shall justify the righteous and condemn the wicked..."
+description: >
+  Read Deuteronomy 25 Online | If there is a controversy between men, and they come to judgment and the judges judge them, then they shall justify the righteous and condemn the wicked...
 weight: 25
 ---
 

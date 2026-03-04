@@ -1,7 +1,8 @@
 ---
 title: "Genesis 9 WEB | Read the Bible Online"
 linkTitle: "9"
-description: "Read Genesis 9 Online | God blessed Noah and his sons, and said to them, “Be fruitful, multiply, and replenish the earth..."
+description: >
+  Read Genesis 9 Online | God blessed Noah and his sons, and said to them, “Be fruitful, multiply, and replenish the earth...
 weight: 9
 ---
 

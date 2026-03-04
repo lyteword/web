@@ -1,7 +1,8 @@
 ---
 title: "Psalm 50 WEB | Read the Bible Online"
 linkTitle: "50"
-description: "Read Psalm 50 Online | The Mighty One, God, Yahweh, speaks, and calls the earth from sunrise to sunset..."
+description: >
+  Read Psalm 50 Online | The Mighty One, God, Yahweh, speaks, and calls the earth from sunrise to sunset...
 weight: 50
 ---
 

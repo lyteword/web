@@ -1,7 +1,8 @@
 ---
 title: "Revelation 12 WEB | Read the Bible Online"
 linkTitle: "12"
-description: "Read Revelation 12 Online | A great sign was seen in heaven: a woman clothed with the sun, and the moon under her feet, and on her head a crown of twelve stars..."
+description: >
+  Read Revelation 12 Online | A great sign was seen in heaven: a woman clothed with the sun, and the moon under her feet, and on her head a crown of twelve stars...
 weight: 12
 ---
 

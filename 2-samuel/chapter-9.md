@@ -1,7 +1,8 @@
 ---
 title: "2 Samuel 9 WEB | Read the Bible Online"
 linkTitle: "9"
-description: "Read 2 Samuel 9 Online | David said, “Is there yet any who is left of Saul’s house, that I may show him kindness for Jonathan’s sake?..."
+description: >
+  Read 2 Samuel 9 Online | David said, “Is there yet any who is left of Saul’s house, that I may show him kindness for Jonathan’s sake?...
 weight: 9
 ---
 

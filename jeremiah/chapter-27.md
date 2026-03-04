@@ -1,7 +1,8 @@
 ---
 title: "Jeremiah 27 WEB | Read the Bible Online"
 linkTitle: "27"
-description: "Read Jeremiah 27 Online | In the beginning of the reign of Jehoiakim the son of Josiah, king of Judah, this word came to Jeremiah from Yahweh, saying..."
+description: >
+  Read Jeremiah 27 Online | In the beginning of the reign of Jehoiakim the son of Josiah, king of Judah, this word came to Jeremiah from Yahweh, saying...
 weight: 27
 ---
 

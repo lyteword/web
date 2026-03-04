@@ -1,7 +1,8 @@
 ---
 title: "Job 42 WEB | Read the Bible Online"
 linkTitle: "42"
-description: "Read Job 42 Online | Then Job answered Yahweh..."
+description: >
+  Read Job 42 Online | Then Job answered Yahweh...
 weight: 42
 ---
 

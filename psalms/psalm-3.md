@@ -1,7 +1,8 @@
 ---
 title: "Psalm 3 WEB | Read the Bible Online"
 linkTitle: "3"
-description: "Read Psalm 3 Online | Yahweh, how my adversaries have increased! Many are those who rise up against me..."
+description: >
+  Read Psalm 3 Online | Yahweh, how my adversaries have increased! Many are those who rise up against me...
 weight: 3
 ---
 

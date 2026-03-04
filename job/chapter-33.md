@@ -1,7 +1,8 @@
 ---
 title: "Job 33 WEB | Read the Bible Online"
 linkTitle: "33"
-description: "Read Job 33 Online | “However, Job, please hear my speech, and listen to all my words..."
+description: >
+  Read Job 33 Online | “However, Job, please hear my speech, and listen to all my words...
 weight: 33
 ---
 

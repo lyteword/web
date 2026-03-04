@@ -1,7 +1,8 @@
 ---
 title: "Jeremiah 14 WEB | Read the Bible Online"
 linkTitle: "14"
-description: "Read Jeremiah 14 Online | This is Yahweh’s word that came to Jeremiah concerning the drought..."
+description: >
+  Read Jeremiah 14 Online | This is Yahweh’s word that came to Jeremiah concerning the drought...
 weight: 14
 ---
 

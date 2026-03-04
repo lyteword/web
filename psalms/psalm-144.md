@@ -1,7 +1,8 @@
 ---
 title: "Psalm 144 WEB | Read the Bible Online"
 linkTitle: "144"
-description: "Read Psalm 144 Online | Blessed be Yahweh, my rock, who trains my hands to war, and my fingers to battle..."
+description: >
+  Read Psalm 144 Online | Blessed be Yahweh, my rock, who trains my hands to war, and my fingers to battle...
 weight: 144
 ---
 

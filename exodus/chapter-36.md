@@ -1,7 +1,8 @@
 ---
 title: "Exodus 36 WEB | Read the Bible Online"
 linkTitle: "36"
-description: "Read Exodus 36 Online | “Bezalel and Oholiab shall work with every wise-hearted man, in whom Yahweh has put wisdom and understanding to know how to do all the work for the service of the sanctuary, according to all that Yahweh has commanded...."
+description: >
+  Read Exodus 36 Online | “Bezalel and Oholiab shall work with every wise-hearted man, in whom Yahweh has put wisdom and understanding to know how to do all the work for the service of the sanctuary, according to all that Yahweh has commanded....
 weight: 36
 ---
 

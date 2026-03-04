@@ -1,7 +1,8 @@
 ---
 title: "Ezekiel 27 WEB | Read the Bible Online"
 linkTitle: "27"
-description: "Read Ezekiel 27 Online | Yahweh’s word came again to me, saying..."
+description: >
+  Read Ezekiel 27 Online | Yahweh’s word came again to me, saying...
 weight: 27
 ---
 

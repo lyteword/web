@@ -1,7 +1,8 @@
 ---
 title: "Luke 16 WEB | Read the Bible Online"
 linkTitle: "16"
-description: "Read Luke 16 Online | He also said to his disciples,  “There was a certain rich man who had a manager. An accusation was made to him that this man was wasting his possessions..."
+description: >
+  Read Luke 16 Online | He also said to his disciples, “There was a certain rich man who had a manager. An accusation was made to him that this man was wasting his possessions...
 weight: 16
 ---
 

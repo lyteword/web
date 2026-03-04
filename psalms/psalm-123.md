@@ -1,7 +1,8 @@
 ---
 title: "Psalm 123 WEB | Read the Bible Online"
 linkTitle: "123"
-description: "Read Psalm 123 Online | I lift up my eyes to you, you who sit in the heavens..."
+description: >
+  Read Psalm 123 Online | I lift up my eyes to you, you who sit in the heavens...
 weight: 123
 ---
 

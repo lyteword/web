@@ -1,7 +1,8 @@
 ---
 title: "1 Chronicles 3 WEB | Read the Bible Online"
 linkTitle: "3"
-description: "Read 1 Chronicles 3 Online | Now these were the sons of David, who were born to him in Hebron: the firstborn, Amnon, of Ahinoam the Jezreelitess; the second, Daniel, of Abigail the Carmelitess..."
+description: >
+  Read 1 Chronicles 3 Online | Now these were the sons of David, who were born to him in Hebron: the firstborn, Amnon, of Ahinoam the Jezreelitess; the second, Daniel, of Abigail the Carmelitess...
 weight: 3
 ---
 

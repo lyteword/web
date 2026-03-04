@@ -1,7 +1,8 @@
 ---
 title: "Numbers 13 WEB | Read the Bible Online"
 linkTitle: "13"
-description: "Read Numbers 13 Online | Yahweh spoke to Moses, saying..."
+description: >
+  Read Numbers 13 Online | Yahweh spoke to Moses, saying...
 weight: 13
 ---
 

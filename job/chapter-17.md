@@ -1,7 +1,8 @@
 ---
 title: "Job 17 WEB | Read the Bible Online"
 linkTitle: "17"
-description: "Read Job 17 Online | “My spirit is consumed. My days are extinct and the grave is ready for me..."
+description: >
+  Read Job 17 Online | “My spirit is consumed. My days are extinct and the grave is ready for me...
 weight: 17
 ---
 

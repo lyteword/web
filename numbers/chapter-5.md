@@ -1,7 +1,8 @@
 ---
 title: "Numbers 5 WEB | Read the Bible Online"
 linkTitle: "5"
-description: "Read Numbers 5 Online | Yahweh spoke to Moses, saying..."
+description: >
+  Read Numbers 5 Online | Yahweh spoke to Moses, saying...
 weight: 5
 ---
 

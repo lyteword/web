@@ -1,7 +1,8 @@
 ---
 title: "Psalm 128 WEB | Read the Bible Online"
 linkTitle: "128"
-description: "Read Psalm 128 Online | Blessed is everyone who fears Yahweh, who walks in his ways..."
+description: >
+  Read Psalm 128 Online | Blessed is everyone who fears Yahweh, who walks in his ways...
 weight: 128
 ---
 

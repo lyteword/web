@@ -1,7 +1,8 @@
 ---
 title: "1 Samuel 21 WEB | Read the Bible Online"
 linkTitle: "21"
-description: "Read 1 Samuel 21 Online | Then David came to Nob to Ahimelech the priest. Ahimelech came to meet David trembling, and said to him, “Why are you alone, and no man with you?..."
+description: >
+  Read 1 Samuel 21 Online | Then David came to Nob to Ahimelech the priest. Ahimelech came to meet David trembling, and said to him, “Why are you alone, and no man with you?...
 weight: 21
 ---
 

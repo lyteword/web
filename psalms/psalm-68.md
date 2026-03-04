@@ -1,7 +1,8 @@
 ---
 title: "Psalm 68 WEB | Read the Bible Online"
 linkTitle: "68"
-description: "Read Psalm 68 Online | Let God arise! Let his enemies be scattered! Let them who hate him also flee before him..."
+description: >
+  Read Psalm 68 Online | Let God arise! Let his enemies be scattered! Let them who hate him also flee before him...
 weight: 68
 ---
 

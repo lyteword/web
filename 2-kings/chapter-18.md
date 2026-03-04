@@ -1,7 +1,8 @@
 ---
 title: "2 Kings 18 WEB | Read the Bible Online"
 linkTitle: "18"
-description: "Read 2 Kings 18 Online | Now in the third year of Hoshea son of Elah king of Israel, Hezekiah the son of Ahaz king of Judah began to reign..."
+description: >
+  Read 2 Kings 18 Online | Now in the third year of Hoshea son of Elah king of Israel, Hezekiah the son of Ahaz king of Judah began to reign...
 weight: 18
 ---
 

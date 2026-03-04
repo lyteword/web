@@ -1,7 +1,8 @@
 ---
 title: "2 Chronicles 14 WEB | Read the Bible Online"
 linkTitle: "14"
-description: "Read 2 Chronicles 14 Online | So Abijah slept with his fathers, and they buried him in David’s city; and Asa his son reigned in his place. In his days, the land was quiet ten years..."
+description: >
+  Read 2 Chronicles 14 Online | So Abijah slept with his fathers, and they buried him in David’s city; and Asa his son reigned in his place. In his days, the land was quiet ten years...
 weight: 14
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Leviticus 21 WEB | Read the Bible Online"
 linkTitle: "21"
-description: "Read Leviticus 21 Online | Yahweh said to Moses, “Speak to the priests, the sons of Aaron, and say to them, ‘A priest shall not defile himself for the dead among his people..."
+description: >
+  Read Leviticus 21 Online | Yahweh said to Moses, “Speak to the priests, the sons of Aaron, and say to them, ‘A priest shall not defile himself for the dead among his people...
 weight: 21
 ---
 

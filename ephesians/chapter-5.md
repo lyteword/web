@@ -1,7 +1,8 @@
 ---
 title: "Ephesians 5 WEB | Read the Bible Online"
 linkTitle: "5"
-description: "Read Ephesians 5 Online | Be therefore imitators of God, as beloved children..."
+description: >
+  Read Ephesians 5 Online | Be therefore imitators of God, as beloved children...
 weight: 5
 ---
 

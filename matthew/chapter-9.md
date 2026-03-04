@@ -1,7 +1,8 @@
 ---
 title: "Matthew 9 WEB | Read the Bible Online"
 linkTitle: "9"
-description: "Read Matthew 9 Online | He entered into a boat and crossed over, and came into his own city..."
+description: >
+  Read Matthew 9 Online | He entered into a boat and crossed over, and came into his own city...
 weight: 9
 ---
 

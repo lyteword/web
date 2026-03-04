@@ -1,7 +1,8 @@
 ---
 title: "Judges 16 WEB | Read the Bible Online"
 linkTitle: "16"
-description: "Read Judges 16 Online | Samson went to Gaza, and saw there a prostitute, and went in to her..."
+description: >
+  Read Judges 16 Online | Samson went to Gaza, and saw there a prostitute, and went in to her...
 weight: 16
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Genesis 30 WEB | Read the Bible Online"
 linkTitle: "30"
-description: "Read Genesis 30 Online | When Rachel saw that she bore Jacob no children, Rachel envied her sister. She said to Jacob, “Give me children, or else I will die...."
+description: >
+  Read Genesis 30 Online | When Rachel saw that she bore Jacob no children, Rachel envied her sister. She said to Jacob, “Give me children, or else I will die....
 weight: 30
 ---
 

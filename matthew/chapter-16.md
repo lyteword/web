@@ -1,7 +1,8 @@
 ---
 title: "Matthew 16 WEB | Read the Bible Online"
 linkTitle: "16"
-description: "Read Matthew 16 Online | The Pharisees and Sadducees came, and testing him, asked him to show them a sign from heaven..."
+description: >
+  Read Matthew 16 Online | The Pharisees and Sadducees came, and testing him, asked him to show them a sign from heaven...
 weight: 16
 ---
 

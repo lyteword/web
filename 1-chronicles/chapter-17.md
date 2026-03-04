@@ -1,7 +1,8 @@
 ---
 title: "1 Chronicles 17 WEB | Read the Bible Online"
 linkTitle: "17"
-description: "Read 1 Chronicles 17 Online | When David was living in his house, David said to Nathan the prophet, “Behold, I live in a cedar house, but the ark of Yahweh’s covenant is in a tent...."
+description: >
+  Read 1 Chronicles 17 Online | When David was living in his house, David said to Nathan the prophet, “Behold, I live in a cedar house, but the ark of Yahweh’s covenant is in a tent....
 weight: 17
 ---
 

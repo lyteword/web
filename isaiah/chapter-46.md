@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 46 WEB | Read the Bible Online"
 linkTitle: "46"
-description: "Read Isaiah 46 Online | Bel bows down. Nebo stoops. Their idols are carried by animals, and on the livestock. The things that you carried around are heavy loads, a burden for the weary..."
+description: >
+  Read Isaiah 46 Online | Bel bows down. Nebo stoops. Their idols are carried by animals, and on the livestock. The things that you carried around are heavy loads, a burden for the weary...
 weight: 46
 ---
 

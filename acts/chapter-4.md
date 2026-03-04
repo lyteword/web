@@ -1,7 +1,8 @@
 ---
 title: "Acts 4 WEB | Read the Bible Online"
 linkTitle: "4"
-description: "Read Acts 4 Online | As they spoke to the people, the priests and the captain of the temple and the Sadducees came to them..."
+description: >
+  Read Acts 4 Online | As they spoke to the people, the priests and the captain of the temple and the Sadducees came to them...
 weight: 4
 ---
 

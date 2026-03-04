@@ -1,7 +1,8 @@
 ---
 title: "2 Timothy 3 WEB | Read the Bible Online"
 linkTitle: "3"
-description: "Read 2 Timothy 3 Online | But know this: that in the last days, grievous times will come..."
+description: >
+  Read 2 Timothy 3 Online | But know this: that in the last days, grievous times will come...
 weight: 3
 ---
 

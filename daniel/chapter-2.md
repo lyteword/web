@@ -1,7 +1,8 @@
 ---
 title: "Daniel 2 WEB | Read the Bible Online"
 linkTitle: "2"
-description: "Read Daniel 2 Online | In the second year of the reign of Nebuchadnezzar, Nebuchadnezzar dreamed dreams; and his spirit was troubled, and his sleep went from him..."
+description: >
+  Read Daniel 2 Online | In the second year of the reign of Nebuchadnezzar, Nebuchadnezzar dreamed dreams; and his spirit was troubled, and his sleep went from him...
 weight: 2
 ---
 

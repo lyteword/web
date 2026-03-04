@@ -1,7 +1,8 @@
 ---
 title: "Jeremiah 21 WEB | Read the Bible Online"
 linkTitle: "21"
-description: "Read Jeremiah 21 Online | The word which came to Jeremiah from Yahweh, when King Zedekiah sent to him Pashhur the son of Malchijah, and Zephaniah the son of Maaseiah, the priest, saying..."
+description: >
+  Read Jeremiah 21 Online | The word which came to Jeremiah from Yahweh, when King Zedekiah sent to him Pashhur the son of Malchijah, and Zephaniah the son of Maaseiah, the priest, saying...
 weight: 21
 ---
 

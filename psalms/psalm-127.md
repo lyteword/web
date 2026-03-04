@@ -1,7 +1,8 @@
 ---
 title: "Psalm 127 WEB | Read the Bible Online"
 linkTitle: "127"
-description: "Read Psalm 127 Online | Unless Yahweh builds the house, they who build it labor in vain. Unless Yahweh watches over the city, the watchman guards it in vain..."
+description: >
+  Read Psalm 127 Online | Unless Yahweh builds the house, they who build it labor in vain. Unless Yahweh watches over the city, the watchman guards it in vain...
 weight: 127
 ---
 

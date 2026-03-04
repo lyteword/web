@@ -1,7 +1,8 @@
 ---
 title: "Matthew 26 WEB | Read the Bible Online"
 linkTitle: "26"
-description: "Read Matthew 26 Online | When Jesus had finished all these words, he said to his disciples..."
+description: >
+  Read Matthew 26 Online | When Jesus had finished all these words, he said to his disciples...
 weight: 26
 ---
 

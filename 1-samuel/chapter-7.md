@@ -1,7 +1,8 @@
 ---
 title: "1 Samuel 7 WEB | Read the Bible Online"
 linkTitle: "7"
-description: "Read 1 Samuel 7 Online | The men of Kiriath Jearim came and took Yahweh’s ark, and brought it into Abinadab’s house on the hill, and consecrated Eleazar his son to keep Yahweh’s ark..."
+description: >
+  Read 1 Samuel 7 Online | The men of Kiriath Jearim came and took Yahweh’s ark, and brought it into Abinadab’s house on the hill, and consecrated Eleazar his son to keep Yahweh’s ark...
 weight: 7
 ---
 

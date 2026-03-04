@@ -1,7 +1,8 @@
 ---
 title: "Micah 5 WEB | Read the Bible Online"
 linkTitle: "5"
-description: "Read Micah 5 Online | Now you shall gather yourself in troops, daughter of troops. He has laid siege against us. They will strike the judge of Israel with a rod on the cheek..."
+description: >
+  Read Micah 5 Online | Now you shall gather yourself in troops, daughter of troops. He has laid siege against us. They will strike the judge of Israel with a rod on the cheek...
 weight: 5
 ---
 

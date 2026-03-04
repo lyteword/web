@@ -1,7 +1,8 @@
 ---
 title: "Psalm 65 WEB | Read the Bible Online"
 linkTitle: "65"
-description: "Read Psalm 65 Online | Praise waits for you, God, in Zion. Vows shall be performed to you..."
+description: >
+  Read Psalm 65 Online | Praise waits for you, God, in Zion. Vows shall be performed to you...
 weight: 65
 ---
 

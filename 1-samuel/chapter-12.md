@@ -1,7 +1,8 @@
 ---
 title: "1 Samuel 12 WEB | Read the Bible Online"
 linkTitle: "12"
-description: "Read 1 Samuel 12 Online | Samuel said to all Israel, “Behold, I have listened to your voice in all that you said to me, and have made a king over you..."
+description: >
+  Read 1 Samuel 12 Online | Samuel said to all Israel, “Behold, I have listened to your voice in all that you said to me, and have made a king over you...
 weight: 12
 ---
 

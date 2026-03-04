@@ -1,7 +1,8 @@
 ---
 title: "Numbers 25 WEB | Read the Bible Online"
 linkTitle: "25"
-description: "Read Numbers 25 Online | Israel stayed in Shittim; and the people began to play the prostitute with the daughters of Moab..."
+description: >
+  Read Numbers 25 Online | Israel stayed in Shittim; and the people began to play the prostitute with the daughters of Moab...
 weight: 25
 ---
 

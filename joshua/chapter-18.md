@@ -1,7 +1,8 @@
 ---
 title: "Joshua 18 WEB | Read the Bible Online"
 linkTitle: "18"
-description: "Read Joshua 18 Online | The whole congregation of the children of Israel assembled themselves together at Shiloh, and set up the Tent of Meeting there. The land was subdued before them..."
+description: >
+  Read Joshua 18 Online | The whole congregation of the children of Israel assembled themselves together at Shiloh, and set up the Tent of Meeting there. The land was subdued before them...
 weight: 18
 ---
 

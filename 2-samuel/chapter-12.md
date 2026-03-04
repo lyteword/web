@@ -1,7 +1,8 @@
 ---
 title: "2 Samuel 12 WEB | Read the Bible Online"
 linkTitle: "12"
-description: "Read 2 Samuel 12 Online | Yahweh sent Nathan to David. He came to him, and said to him, “There were two men in one city: the one rich, and the other poor..."
+description: >
+  Read 2 Samuel 12 Online | Yahweh sent Nathan to David. He came to him, and said to him, “There were two men in one city: the one rich, and the other poor...
 weight: 12
 ---
 

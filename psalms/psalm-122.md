@@ -1,7 +1,8 @@
 ---
 title: "Psalm 122 WEB | Read the Bible Online"
 linkTitle: "122"
-description: "Read Psalm 122 Online | I was glad when they said to me, “Let’s go to Yahweh’s house!..."
+description: >
+  Read Psalm 122 Online | I was glad when they said to me, “Let’s go to Yahweh’s house!...
 weight: 122
 ---
 

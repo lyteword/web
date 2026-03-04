@@ -1,7 +1,8 @@
 ---
 title: "Daniel 4 WEB | Read the Bible Online"
 linkTitle: "4"
-description: "Read Daniel 4 Online | Nebuchadnezzar the king, to all the peoples, nations, and languages, who dwell in all the earth: Peace be multiplied to you..."
+description: >
+  Read Daniel 4 Online | Nebuchadnezzar the king, to all the peoples, nations, and languages, who dwell in all the earth: Peace be multiplied to you...
 weight: 4
 ---
 

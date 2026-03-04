@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 62 WEB | Read the Bible Online"
 linkTitle: "62"
-description: "Read Isaiah 62 Online | For Zion’s sake I will not hold my peace, and for Jerusalem’s sake I will not rest, until her righteousness shines out like the dawn, and her salvation like a burning lamp..."
+description: >
+  Read Isaiah 62 Online | For Zion’s sake I will not hold my peace, and for Jerusalem’s sake I will not rest, until her righteousness shines out like the dawn, and her salvation like a burning lamp...
 weight: 62
 ---
 

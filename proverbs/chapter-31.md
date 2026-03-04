@@ -1,7 +1,8 @@
 ---
 title: "Proverbs 31 WEB | Read the Bible Online"
 linkTitle: "31"
-description: "Read Proverbs 31 Online | The words of King Lemuel—the revelation which his mother taught him..."
+description: >
+  Read Proverbs 31 Online | The words of King Lemuel—the revelation which his mother taught him...
 weight: 31
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Luke 8 WEB | Read the Bible Online"
 linkTitle: "8"
-description: "Read Luke 8 Online | Soon afterwards, he went about through cities and villages, preaching and bringing the good news of God’s Kingdom. With him were the twelve..."
+description: >
+  Read Luke 8 Online | Soon afterwards, he went about through cities and villages, preaching and bringing the good news of God’s Kingdom. With him were the twelve...
 weight: 8
 ---
 

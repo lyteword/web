@@ -1,7 +1,8 @@
 ---
 title: "Revelation 19 WEB | Read the Bible Online"
 linkTitle: "19"
-description: "Read Revelation 19 Online | After these things I heard something like a loud voice of a great multitude in heaven, saying, “Hallelujah! Salvation, power, and glory belong to our God..."
+description: >
+  Read Revelation 19 Online | After these things I heard something like a loud voice of a great multitude in heaven, saying, “Hallelujah! Salvation, power, and glory belong to our God...
 weight: 19
 ---
 

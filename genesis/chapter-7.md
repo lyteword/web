@@ -1,7 +1,8 @@
 ---
 title: "Genesis 7 WEB | Read the Bible Online"
 linkTitle: "7"
-description: "Read Genesis 7 Online | Yahweh said to Noah, “Come with all of your household into the ship, for I have seen your righteousness before me in this generation..."
+description: >
+  Read Genesis 7 Online | Yahweh said to Noah, “Come with all of your household into the ship, for I have seen your righteousness before me in this generation...
 weight: 7
 ---
 

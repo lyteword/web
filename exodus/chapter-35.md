@@ -1,7 +1,8 @@
 ---
 title: "Exodus 35 WEB | Read the Bible Online"
 linkTitle: "35"
-description: "Read Exodus 35 Online | Moses assembled all the congregation of the children of Israel, and said to them, “These are the words which Yahweh has commanded, that you should do them..."
+description: >
+  Read Exodus 35 Online | Moses assembled all the congregation of the children of Israel, and said to them, “These are the words which Yahweh has commanded, that you should do them...
 weight: 35
 ---
 

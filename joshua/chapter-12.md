@@ -1,7 +1,8 @@
 ---
 title: "Joshua 12 WEB | Read the Bible Online"
 linkTitle: "12"
-description: "Read Joshua 12 Online | Now these are the kings of the land, whom the children of Israel struck, and possessed their land beyond the Jordan toward the sunrise, from the valley of the Arnon to Mount Hermon, and all the Arabah eastward..."
+description: >
+  Read Joshua 12 Online | Now these are the kings of the land, whom the children of Israel struck, and possessed their land beyond the Jordan toward the sunrise, from the valley of the Arnon to Mount Hermon, and all the Arabah eastward...
 weight: 12
 ---
 

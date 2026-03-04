@@ -1,7 +1,8 @@
 ---
 title: "Psalm 72 WEB | Read the Bible Online"
 linkTitle: "72"
-description: "Read Psalm 72 Online | God, give the king your justice; your righteousness to the royal son..."
+description: >
+  Read Psalm 72 Online | God, give the king your justice; your righteousness to the royal son...
 weight: 72
 ---
 

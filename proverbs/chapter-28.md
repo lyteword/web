@@ -1,7 +1,8 @@
 ---
 title: "Proverbs 28 WEB | Read the Bible Online"
 linkTitle: "28"
-description: "Read Proverbs 28 Online | The wicked flee when no one pursues; but the righteous are as bold as a lion..."
+description: >
+  Read Proverbs 28 Online | The wicked flee when no one pursues; but the righteous are as bold as a lion...
 weight: 28
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Proverbs 4 WEB | Read the Bible Online"
 linkTitle: "4"
-description: "Read Proverbs 4 Online | Listen, sons, to a father’s instruction. Pay attention and know understanding..."
+description: >
+  Read Proverbs 4 Online | Listen, sons, to a father’s instruction. Pay attention and know understanding...
 weight: 4
 ---
 

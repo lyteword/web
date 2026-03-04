@@ -1,7 +1,8 @@
 ---
 title: "Luke 2 WEB | Read the Bible Online"
 linkTitle: "2"
-description: "Read Luke 2 Online | Now in those days, a decree went out from Caesar Augustus that all the world should be enrolled..."
+description: >
+  Read Luke 2 Online | Now in those days, a decree went out from Caesar Augustus that all the world should be enrolled...
 weight: 2
 ---
 

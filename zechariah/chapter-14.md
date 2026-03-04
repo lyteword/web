@@ -1,7 +1,8 @@
 ---
 title: "Zechariah 14 WEB | Read the Bible Online"
 linkTitle: "14"
-description: "Read Zechariah 14 Online | Behold, a day of Yahweh comes, when your plunder will be divided within you..."
+description: >
+  Read Zechariah 14 Online | Behold, a day of Yahweh comes, when your plunder will be divided within you...
 weight: 14
 ---
 

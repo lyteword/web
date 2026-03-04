@@ -1,7 +1,8 @@
 ---
 title: "Nehemiah 1 WEB | Read the Bible Online"
 linkTitle: "1"
-description: "Read Nehemiah 1 Online | The words of Nehemiah the son of Hacaliah. Now in the month Chislev, in the twentieth year, as I was in Susa the palace..."
+description: >
+  Read Nehemiah 1 Online | The words of Nehemiah the son of Hacaliah. Now in the month Chislev, in the twentieth year, as I was in Susa the palace...
 weight: 1
 ---
 

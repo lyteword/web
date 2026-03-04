@@ -1,7 +1,8 @@
 ---
 title: "Nehemiah 10 WEB | Read the Bible Online"
 linkTitle: "10"
-description: "Read Nehemiah 10 Online | Now those who sealed were: Nehemiah the governor, the son of Hacaliah, and Zedekiah..."
+description: >
+  Read Nehemiah 10 Online | Now those who sealed were: Nehemiah the governor, the son of Hacaliah, and Zedekiah...
 weight: 10
 ---
 

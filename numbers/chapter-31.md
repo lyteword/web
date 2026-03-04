@@ -1,7 +1,8 @@
 ---
 title: "Numbers 31 WEB | Read the Bible Online"
 linkTitle: "31"
-description: "Read Numbers 31 Online | Yahweh spoke to Moses, saying..."
+description: >
+  Read Numbers 31 Online | Yahweh spoke to Moses, saying...
 weight: 31
 ---
 

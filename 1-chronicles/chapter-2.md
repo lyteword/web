@@ -1,7 +1,8 @@
 ---
 title: "1 Chronicles 2 WEB | Read the Bible Online"
 linkTitle: "2"
-description: "Read 1 Chronicles 2 Online | These are the sons of Israel: Reuben, Simeon, Levi, Judah, Issachar, Zebulun..."
+description: >
+  Read 1 Chronicles 2 Online | These are the sons of Israel: Reuben, Simeon, Levi, Judah, Issachar, Zebulun...
 weight: 2
 ---
 

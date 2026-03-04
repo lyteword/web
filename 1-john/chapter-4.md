@@ -1,7 +1,8 @@
 ---
 title: "1 John 4 WEB | Read the Bible Online"
 linkTitle: "4"
-description: "Read 1 John 4 Online | Beloved, don’t believe every spirit, but test the spirits, whether they are of God, because many false prophets have gone out into the world..."
+description: >
+  Read 1 John 4 Online | Beloved, don’t believe every spirit, but test the spirits, whether they are of God, because many false prophets have gone out into the world...
 weight: 4
 ---
 

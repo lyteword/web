@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 13 WEB | Read the Bible Online"
 linkTitle: "13"
-description: "Read Isaiah 13 Online | The burden of Babylon, which Isaiah the son of Amoz saw..."
+description: >
+  Read Isaiah 13 Online | The burden of Babylon, which Isaiah the son of Amoz saw...
 weight: 13
 ---
 

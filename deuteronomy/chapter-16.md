@@ -1,7 +1,8 @@
 ---
 title: "Deuteronomy 16 WEB | Read the Bible Online"
 linkTitle: "16"
-description: "Read Deuteronomy 16 Online | Observe the month of Abib, and keep the Passover to Yahweh your God; for in the month of Abib Yahweh your God brought you out of Egypt by night..."
+description: >
+  Read Deuteronomy 16 Online | Observe the month of Abib, and keep the Passover to Yahweh your God; for in the month of Abib Yahweh your God brought you out of Egypt by night...
 weight: 16
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "James 5 WEB | Read the Bible Online"
 linkTitle: "5"
-description: "Read James 5 Online | Come now, you rich, weep and howl for your miseries that are coming on you..."
+description: >
+  Read James 5 Online | Come now, you rich, weep and howl for your miseries that are coming on you...
 weight: 5
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Ezekiel 44 WEB | Read the Bible Online"
 linkTitle: "44"
-description: "Read Ezekiel 44 Online | Then he brought me back by the way of the outer gate of the sanctuary, which looks toward the east; and it was shut..."
+description: >
+  Read Ezekiel 44 Online | Then he brought me back by the way of the outer gate of the sanctuary, which looks toward the east; and it was shut...
 weight: 44
 ---
 

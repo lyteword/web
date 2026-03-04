@@ -1,7 +1,8 @@
 ---
 title: "Exodus 40 WEB | Read the Bible Online"
 linkTitle: "40"
-description: "Read Exodus 40 Online | Yahweh spoke to Moses, saying..."
+description: >
+  Read Exodus 40 Online | Yahweh spoke to Moses, saying...
 weight: 40
 ---
 

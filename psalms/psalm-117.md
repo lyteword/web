@@ -1,7 +1,8 @@
 ---
 title: "Psalm 117 WEB | Read the Bible Online"
 linkTitle: "117"
-description: "Read Psalm 117 Online | Praise Yahweh, all you nations! Extol him, all you peoples..."
+description: >
+  Read Psalm 117 Online | Praise Yahweh, all you nations! Extol him, all you peoples...
 weight: 117
 ---
 

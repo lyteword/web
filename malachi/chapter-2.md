@@ -1,7 +1,8 @@
 ---
 title: "Malachi 2 WEB | Read the Bible Online"
 linkTitle: "2"
-description: "Read Malachi 2 Online | “Now, you priests, this commandment is for you..."
+description: >
+  Read Malachi 2 Online | “Now, you priests, this commandment is for you...
 weight: 2
 ---
 

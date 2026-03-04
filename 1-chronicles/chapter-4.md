@@ -1,7 +1,8 @@
 ---
 title: "1 Chronicles 4 WEB | Read the Bible Online"
 linkTitle: "4"
-description: "Read 1 Chronicles 4 Online | The sons of Judah: Perez, Hezron, Carmi, Hur, and Shobal..."
+description: >
+  Read 1 Chronicles 4 Online | The sons of Judah: Perez, Hezron, Carmi, Hur, and Shobal...
 weight: 4
 ---
 

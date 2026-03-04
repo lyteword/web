@@ -1,7 +1,8 @@
 ---
 title: "Numbers 30 WEB | Read the Bible Online"
 linkTitle: "30"
-description: "Read Numbers 30 Online | Moses spoke to the heads of the tribes of the children of Israel, saying, “This is the thing which Yahweh has commanded..."
+description: >
+  Read Numbers 30 Online | Moses spoke to the heads of the tribes of the children of Israel, saying, “This is the thing which Yahweh has commanded...
 weight: 30
 ---
 

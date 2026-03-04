@@ -1,7 +1,8 @@
 ---
 title: "Hebrews 8 WEB | Read the Bible Online"
 linkTitle: "8"
-description: "Read Hebrews 8 Online | Now in the things which we are saying, the main point is this: we have such a high priest, who sat down on the right hand of the throne of the Majesty in the heavens..."
+description: >
+  Read Hebrews 8 Online | Now in the things which we are saying, the main point is this: we have such a high priest, who sat down on the right hand of the throne of the Majesty in the heavens...
 weight: 8
 ---
 

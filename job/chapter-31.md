@@ -1,7 +1,8 @@
 ---
 title: "Job 31 WEB | Read the Bible Online"
 linkTitle: "31"
-description: "Read Job 31 Online | “I made a covenant with my eyes; how then should I look lustfully at a young woman..."
+description: >
+  Read Job 31 Online | “I made a covenant with my eyes; how then should I look lustfully at a young woman...
 weight: 31
 ---
 

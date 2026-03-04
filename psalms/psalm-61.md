@@ -1,7 +1,8 @@
 ---
 title: "Psalm 61 WEB | Read the Bible Online"
 linkTitle: "61"
-description: "Read Psalm 61 Online | Hear my cry, God. Listen to my prayer..."
+description: >
+  Read Psalm 61 Online | Hear my cry, God. Listen to my prayer...
 weight: 61
 ---
 

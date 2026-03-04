@@ -1,7 +1,8 @@
 ---
 title: "Ecclesiastes 6 WEB | Read the Bible Online"
 linkTitle: "6"
-description: "Read Ecclesiastes 6 Online | There is an evil which I have seen under the sun, and it is heavy on men..."
+description: >
+  Read Ecclesiastes 6 Online | There is an evil which I have seen under the sun, and it is heavy on men...
 weight: 6
 ---
 

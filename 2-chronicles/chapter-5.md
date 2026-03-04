@@ -1,7 +1,8 @@
 ---
 title: "2 Chronicles 5 WEB | Read the Bible Online"
 linkTitle: "5"
-description: "Read 2 Chronicles 5 Online | Thus all the work that Solomon did for Yahweh’s house was finished. Solomon brought in the things that David his father had dedicated, even the silver, the gold, and all the vessels, and put them in the treasuries of God’s house..."
+description: >
+  Read 2 Chronicles 5 Online | Thus all the work that Solomon did for Yahweh’s house was finished. Solomon brought in the things that David his father had dedicated, even the silver, the gold, and all the vessels, and put them in the treasuries of God’s house...
 weight: 5
 ---
 

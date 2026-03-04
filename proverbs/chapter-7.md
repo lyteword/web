@@ -1,7 +1,8 @@
 ---
 title: "Proverbs 7 WEB | Read the Bible Online"
 linkTitle: "7"
-description: "Read Proverbs 7 Online | My son, keep my words. Lay up my commandments within you..."
+description: >
+  Read Proverbs 7 Online | My son, keep my words. Lay up my commandments within you...
 weight: 7
 ---
 

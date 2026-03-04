@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 52 WEB | Read the Bible Online"
 linkTitle: "52"
-description: "Read Isaiah 52 Online | Awake, awake! Put on your strength, Zion. Put on your beautiful garments, Jerusalem, the holy city, for from now on the uncircumcised and the unclean will no more come into you..."
+description: >
+  Read Isaiah 52 Online | Awake, awake! Put on your strength, Zion. Put on your beautiful garments, Jerusalem, the holy city, for from now on the uncircumcised and the unclean will no more come into you...
 weight: 52
 ---
 

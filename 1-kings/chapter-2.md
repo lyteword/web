@@ -1,7 +1,8 @@
 ---
 title: "1 Kings 2 WEB | Read the Bible Online"
 linkTitle: "2"
-description: "Read 1 Kings 2 Online | Now the days of David came near that he should die; and he commanded Solomon his son, saying..."
+description: >
+  Read 1 Kings 2 Online | Now the days of David came near that he should die; and he commanded Solomon his son, saying...
 weight: 2
 ---
 

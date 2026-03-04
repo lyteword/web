@@ -1,7 +1,8 @@
 ---
 title: "John 20 WEB | Read the Bible Online"
 linkTitle: "20"
-description: "Read John 20 Online | Now on the first day of the week, Mary Magdalene went early, while it was still dark, to the tomb, and saw that the stone had been taken away from the tomb..."
+description: >
+  Read John 20 Online | Now on the first day of the week, Mary Magdalene went early, while it was still dark, to the tomb, and saw that the stone had been taken away from the tomb...
 weight: 20
 ---
 

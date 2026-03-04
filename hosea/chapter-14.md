@@ -1,7 +1,8 @@
 ---
 title: "Hosea 14 WEB | Read the Bible Online"
 linkTitle: "14"
-description: "Read Hosea 14 Online | Israel, return to Yahweh your God; for you have fallen because of your sin..."
+description: >
+  Read Hosea 14 Online | Israel, return to Yahweh your God; for you have fallen because of your sin...
 weight: 14
 ---
 

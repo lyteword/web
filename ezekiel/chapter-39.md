@@ -1,7 +1,8 @@
 ---
 title: "Ezekiel 39 WEB | Read the Bible Online"
 linkTitle: "39"
-description: "Read Ezekiel 39 Online | “You, son of man, prophesy against Gog, and say, ‘The Lord Yahweh says: “Behold, I am against you, Gog, prince of Rosh, Meshech, and Tubal..."
+description: >
+  Read Ezekiel 39 Online | “You, son of man, prophesy against Gog, and say, ‘The Lord Yahweh says: “Behold, I am against you, Gog, prince of Rosh, Meshech, and Tubal...
 weight: 39
 ---
 

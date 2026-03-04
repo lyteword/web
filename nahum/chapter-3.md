@@ -1,7 +1,8 @@
 ---
 title: "Nahum 3 WEB | Read the Bible Online"
 linkTitle: "3"
-description: "Read Nahum 3 Online | Woe to the bloody city! It is all full of lies and robbery—no end to the prey..."
+description: >
+  Read Nahum 3 Online | Woe to the bloody city! It is all full of lies and robbery—no end to the prey...
 weight: 3
 ---
 

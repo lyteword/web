@@ -1,7 +1,8 @@
 ---
 title: "Ezekiel 15 WEB | Read the Bible Online"
 linkTitle: "15"
-description: "Read Ezekiel 15 Online | Yahweh’s word came to me, saying..."
+description: >
+  Read Ezekiel 15 Online | Yahweh’s word came to me, saying...
 weight: 15
 ---
 

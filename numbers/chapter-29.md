@@ -1,7 +1,8 @@
 ---
 title: "Numbers 29 WEB | Read the Bible Online"
 linkTitle: "29"
-description: "Read Numbers 29 Online | “‘In the seventh month, on the first day of the month, you shall have a holy convocation; you shall do no regular work. It is a day of blowing of trumpets to you..."
+description: >
+  Read Numbers 29 Online | “‘In the seventh month, on the first day of the month, you shall have a holy convocation; you shall do no regular work. It is a day of blowing of trumpets to you...
 weight: 29
 ---
 

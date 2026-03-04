@@ -1,7 +1,8 @@
 ---
 title: "Luke 24 WEB | Read the Bible Online"
 linkTitle: "24"
-description: "Read Luke 24 Online | But on the first day of the week, at early dawn, they and some others came to the tomb, bringing the spices which they had prepared..."
+description: >
+  Read Luke 24 Online | But on the first day of the week, at early dawn, they and some others came to the tomb, bringing the spices which they had prepared...
 weight: 24
 ---
 

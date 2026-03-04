@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 24 WEB | Read the Bible Online"
 linkTitle: "24"
-description: "Read Isaiah 24 Online | Behold, Yahweh makes the earth empty, makes it waste, turns it upside down, and scatters its inhabitants..."
+description: >
+  Read Isaiah 24 Online | Behold, Yahweh makes the earth empty, makes it waste, turns it upside down, and scatters its inhabitants...
 weight: 24
 ---
 

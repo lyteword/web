@@ -1,7 +1,8 @@
 ---
 title: "Job 3 WEB | Read the Bible Online"
 linkTitle: "3"
-description: "Read Job 3 Online | After this Job opened his mouth, and cursed the day of his birth..."
+description: >
+  Read Job 3 Online | After this Job opened his mouth, and cursed the day of his birth...
 weight: 3
 ---
 

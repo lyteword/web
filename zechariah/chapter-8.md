@@ -1,7 +1,8 @@
 ---
 title: "Zechariah 8 WEB | Read the Bible Online"
 linkTitle: "8"
-description: "Read Zechariah 8 Online | The word of Yahweh of Armies came to me..."
+description: >
+  Read Zechariah 8 Online | The word of Yahweh of Armies came to me...
 weight: 8
 ---
 

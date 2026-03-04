@@ -1,7 +1,8 @@
 ---
 title: "Psalm 120 WEB | Read the Bible Online"
 linkTitle: "120"
-description: "Read Psalm 120 Online | In my distress, I cried to Yahweh. He answered me..."
+description: >
+  Read Psalm 120 Online | In my distress, I cried to Yahweh. He answered me...
 weight: 120
 ---
 

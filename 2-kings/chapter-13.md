@@ -1,7 +1,8 @@
 ---
 title: "2 Kings 13 WEB | Read the Bible Online"
 linkTitle: "13"
-description: "Read 2 Kings 13 Online | In the twenty-third year of Joash the son of Ahaziah, king of Judah, Jehoahaz the son of Jehu began to reign over Israel in Samaria for seventeen years..."
+description: >
+  Read 2 Kings 13 Online | In the twenty-third year of Joash the son of Ahaziah, king of Judah, Jehoahaz the son of Jehu began to reign over Israel in Samaria for seventeen years...
 weight: 13
 ---
 

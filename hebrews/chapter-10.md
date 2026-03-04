@@ -1,7 +1,8 @@
 ---
 title: "Hebrews 10 WEB | Read the Bible Online"
 linkTitle: "10"
-description: "Read Hebrews 10 Online | For the law, having a shadow of the good to come, not the very image of the things, can never with the same sacrifices year by year, which they offer continually, make perfect those who draw near..."
+description: >
+  Read Hebrews 10 Online | For the law, having a shadow of the good to come, not the very image of the things, can never with the same sacrifices year by year, which they offer continually, make perfect those who draw near...
 weight: 10
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Luke 11 WEB | Read the Bible Online"
 linkTitle: "11"
-description: "Read Luke 11 Online | When he finished praying in a certain place, one of his disciples said to him, “Lord, teach us to pray, just as John also taught his disciples...."
+description: >
+  Read Luke 11 Online | When he finished praying in a certain place, one of his disciples said to him, “Lord, teach us to pray, just as John also taught his disciples....
 weight: 11
 ---
 

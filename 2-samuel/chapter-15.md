@@ -1,7 +1,8 @@
 ---
 title: "2 Samuel 15 WEB | Read the Bible Online"
 linkTitle: "15"
-description: "Read 2 Samuel 15 Online | After this, Absalom prepared a chariot and horses for himself, and fifty men to run before him..."
+description: >
+  Read 2 Samuel 15 Online | After this, Absalom prepared a chariot and horses for himself, and fifty men to run before him...
 weight: 15
 ---
 

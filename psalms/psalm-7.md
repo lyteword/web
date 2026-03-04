@@ -1,7 +1,8 @@
 ---
 title: "Psalm 7 WEB | Read the Bible Online"
 linkTitle: "7"
-description: "Read Psalm 7 Online | Yahweh, my God, I take refuge in you. Save me from all those who pursue me, and deliver me..."
+description: >
+  Read Psalm 7 Online | Yahweh, my God, I take refuge in you. Save me from all those who pursue me, and deliver me...
 weight: 7
 ---
 

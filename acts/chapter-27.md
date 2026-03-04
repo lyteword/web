@@ -1,7 +1,8 @@
 ---
 title: "Acts 27 WEB | Read the Bible Online"
 linkTitle: "27"
-description: "Read Acts 27 Online | When it was determined that we should sail for Italy, they delivered Paul and certain other prisoners to a centurion named Julius, of the Augustan band..."
+description: >
+  Read Acts 27 Online | When it was determined that we should sail for Italy, they delivered Paul and certain other prisoners to a centurion named Julius, of the Augustan band...
 weight: 27
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Genesis 45 WEB | Read the Bible Online"
 linkTitle: "45"
-description: "Read Genesis 45 Online | Then Joseph couldn’t control himself before all those who stood before him, and he called out, “Cause everyone to go out from me!” No one else stood with him, while Joseph made himself known to his brothers..."
+description: >
+  Read Genesis 45 Online | Then Joseph couldn’t control himself before all those who stood before him, and he called out, “Cause everyone to go out from me!” No one else stood with him, while Joseph made himself known to his brothers...
 weight: 45
 ---
 

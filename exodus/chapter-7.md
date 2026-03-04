@@ -1,7 +1,8 @@
 ---
 title: "Exodus 7 WEB | Read the Bible Online"
 linkTitle: "7"
-description: "Read Exodus 7 Online | Yahweh said to Moses, “Behold, I have made you as God to Pharaoh; and Aaron your brother shall be your prophet..."
+description: >
+  Read Exodus 7 Online | Yahweh said to Moses, “Behold, I have made you as God to Pharaoh; and Aaron your brother shall be your prophet...
 weight: 7
 ---
 

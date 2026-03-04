@@ -1,7 +1,8 @@
 ---
 title: "Philippians 4 WEB | Read the Bible Online"
 linkTitle: "4"
-description: "Read Philippians 4 Online | Therefore, my brothers, beloved and longed for, my joy and crown, stand firm in the Lord in this way, my beloved..."
+description: >
+  Read Philippians 4 Online | Therefore, my brothers, beloved and longed for, my joy and crown, stand firm in the Lord in this way, my beloved...
 weight: 4
 ---
 

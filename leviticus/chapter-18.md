@@ -1,7 +1,8 @@
 ---
 title: "Leviticus 18 WEB | Read the Bible Online"
 linkTitle: "18"
-description: "Read Leviticus 18 Online | Yahweh said to Moses..."
+description: >
+  Read Leviticus 18 Online | Yahweh said to Moses...
 weight: 18
 ---
 

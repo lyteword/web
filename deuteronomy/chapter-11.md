@@ -1,7 +1,8 @@
 ---
 title: "Deuteronomy 11 WEB | Read the Bible Online"
 linkTitle: "11"
-description: "Read Deuteronomy 11 Online | Therefore you shall love Yahweh your God, and keep his instructions, his statutes, his ordinances, and his commandments, always..."
+description: >
+  Read Deuteronomy 11 Online | Therefore you shall love Yahweh your God, and keep his instructions, his statutes, his ordinances, and his commandments, always...
 weight: 11
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "2 Thessalonians 2 WEB | Read the Bible Online"
 linkTitle: "2"
-description: "Read 2 Thessalonians 2 Online | Now, brothers, concerning the coming of our Lord Jesus Christ and our gathering together to him, we ask you..."
+description: >
+  Read 2 Thessalonians 2 Online | Now, brothers, concerning the coming of our Lord Jesus Christ and our gathering together to him, we ask you...
 weight: 2
 ---
 

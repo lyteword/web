@@ -1,7 +1,8 @@
 ---
 title: "Psalm 63 WEB | Read the Bible Online"
 linkTitle: "63"
-description: "Read Psalm 63 Online | God, you are my God. I will earnestly seek you. My soul thirsts for you. My flesh longs for you, in a dry and weary land, where there is no water..."
+description: >
+  Read Psalm 63 Online | God, you are my God. I will earnestly seek you. My soul thirsts for you. My flesh longs for you, in a dry and weary land, where there is no water...
 weight: 63
 ---
 

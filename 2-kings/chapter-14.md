@@ -1,7 +1,8 @@
 ---
 title: "2 Kings 14 WEB | Read the Bible Online"
 linkTitle: "14"
-description: "Read 2 Kings 14 Online | In the second year of Joash, son of Joahaz, king of Israel, Amaziah the son of Joash king of Judah began to reign..."
+description: >
+  Read 2 Kings 14 Online | In the second year of Joash, son of Joahaz, king of Israel, Amaziah the son of Joash king of Judah began to reign...
 weight: 14
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Deuteronomy 28 WEB | Read the Bible Online"
 linkTitle: "28"
-description: "Read Deuteronomy 28 Online | It shall happen, if you shall listen diligently to Yahweh your God’s voice, to observe to do all his commandments which I command you today, that Yahweh your God will set you high above all the nations of the earth..."
+description: >
+  Read Deuteronomy 28 Online | It shall happen, if you shall listen diligently to Yahweh your God’s voice, to observe to do all his commandments which I command you today, that Yahweh your God will set you high above all the nations of the earth...
 weight: 28
 ---
 

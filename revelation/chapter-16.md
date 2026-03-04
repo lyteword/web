@@ -1,7 +1,8 @@
 ---
 title: "Revelation 16 WEB | Read the Bible Online"
 linkTitle: "16"
-description: "Read Revelation 16 Online | I heard a loud voice out of the temple, saying to the seven angels, “Go and pour out the seven bowls of the wrath of God on the earth!..."
+description: >
+  Read Revelation 16 Online | I heard a loud voice out of the temple, saying to the seven angels, “Go and pour out the seven bowls of the wrath of God on the earth!...
 weight: 16
 ---
 

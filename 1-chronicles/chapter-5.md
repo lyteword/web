@@ -1,7 +1,8 @@
 ---
 title: "1 Chronicles 5 WEB | Read the Bible Online"
 linkTitle: "5"
-description: "Read 1 Chronicles 5 Online | The sons of Reuben the firstborn of Israel (for he was the firstborn, but because he defiled his father’s couch, his birthright was given to the sons of Joseph the son of Israel; and the genealogy is not to be listed according to the birthright..."
+description: >
+  Read 1 Chronicles 5 Online | The sons of Reuben the firstborn of Israel (for he was the firstborn, but because he defiled his father’s couch, his birthright was given to the sons of Joseph the son of Israel; and the genealogy is not to be listed according to the birthright...
 weight: 5
 ---
 

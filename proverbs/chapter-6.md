@@ -1,7 +1,8 @@
 ---
 title: "Proverbs 6 WEB | Read the Bible Online"
 linkTitle: "6"
-description: "Read Proverbs 6 Online | My son, if you have become collateral for your neighbor, if you have struck your hands in pledge for a stranger..."
+description: >
+  Read Proverbs 6 Online | My son, if you have become collateral for your neighbor, if you have struck your hands in pledge for a stranger...
 weight: 6
 ---
 

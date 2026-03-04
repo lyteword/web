@@ -1,7 +1,8 @@
 ---
 title: "Deuteronomy 31 WEB | Read the Bible Online"
 linkTitle: "31"
-description: "Read Deuteronomy 31 Online | Moses went and spoke these words to all Israel..."
+description: >
+  Read Deuteronomy 31 Online | Moses went and spoke these words to all Israel...
 weight: 31
 ---
 

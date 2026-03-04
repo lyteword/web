@@ -1,7 +1,8 @@
 ---
 title: "Numbers 32 WEB | Read the Bible Online"
 linkTitle: "32"
-description: "Read Numbers 32 Online | Now the children of Reuben and the children of Gad had a very great multitude of livestock. They saw the land of Jazer, and the land of Gilead. Behold, the place was a place for livestock..."
+description: >
+  Read Numbers 32 Online | Now the children of Reuben and the children of Gad had a very great multitude of livestock. They saw the land of Jazer, and the land of Gilead. Behold, the place was a place for livestock...
 weight: 32
 ---
 

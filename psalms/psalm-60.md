@@ -1,7 +1,8 @@
 ---
 title: "Psalm 60 WEB | Read the Bible Online"
 linkTitle: "60"
-description: "Read Psalm 60 Online | God, you have rejected us. You have broken us down. You have been angry. Restore us, again..."
+description: >
+  Read Psalm 60 Online | God, you have rejected us. You have broken us down. You have been angry. Restore us, again...
 weight: 60
 ---
 

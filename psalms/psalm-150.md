@@ -1,7 +1,8 @@
 ---
 title: "Psalm 150 WEB | Read the Bible Online"
 linkTitle: "150"
-description: "Read Psalm 150 Online | Praise Yah! Praise God in his sanctuary! Praise him in his heavens for his acts of power..."
+description: >
+  Read Psalm 150 Online | Praise Yah! Praise God in his sanctuary! Praise him in his heavens for his acts of power...
 weight: 150
 ---
 

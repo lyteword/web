@@ -1,7 +1,8 @@
 ---
 title: "Genesis 43 WEB | Read the Bible Online"
 linkTitle: "43"
-description: "Read Genesis 43 Online | The famine was severe in the land..."
+description: >
+  Read Genesis 43 Online | The famine was severe in the land...
 weight: 43
 ---
 

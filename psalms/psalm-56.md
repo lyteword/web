@@ -1,7 +1,8 @@
 ---
 title: "Psalm 56 WEB | Read the Bible Online"
 linkTitle: "56"
-description: "Read Psalm 56 Online | Be merciful to me, God, for man wants to swallow me up. All day long, he attacks and oppresses me..."
+description: >
+  Read Psalm 56 Online | Be merciful to me, God, for man wants to swallow me up. All day long, he attacks and oppresses me...
 weight: 56
 ---
 

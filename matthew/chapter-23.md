@@ -1,7 +1,8 @@
 ---
 title: "Matthew 23 WEB | Read the Bible Online"
 linkTitle: "23"
-description: "Read Matthew 23 Online | Then Jesus spoke to the multitudes and to his disciples..."
+description: >
+  Read Matthew 23 Online | Then Jesus spoke to the multitudes and to his disciples...
 weight: 23
 ---
 

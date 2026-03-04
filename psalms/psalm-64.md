@@ -1,7 +1,8 @@
 ---
 title: "Psalm 64 WEB | Read the Bible Online"
 linkTitle: "64"
-description: "Read Psalm 64 Online | Hear my voice, God, in my complaint. Preserve my life from fear of the enemy..."
+description: >
+  Read Psalm 64 Online | Hear my voice, God, in my complaint. Preserve my life from fear of the enemy...
 weight: 64
 ---
 

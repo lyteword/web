@@ -1,7 +1,8 @@
 ---
 title: "Exodus 28 WEB | Read the Bible Online"
 linkTitle: "28"
-description: "Read Exodus 28 Online | “Bring Aaron your brother, and his sons with him, near to you from among the children of Israel, that he may minister to me in the priest’s office: Aaron, with Nadab, Abihu, Eleazar, and Ithamar, Aaron’s sons..."
+description: >
+  Read Exodus 28 Online | “Bring Aaron your brother, and his sons with him, near to you from among the children of Israel, that he may minister to me in the priest’s office: Aaron, with Nadab, Abihu, Eleazar, and Ithamar, Aaron’s sons...
 weight: 28
 ---
 

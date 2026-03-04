@@ -1,7 +1,8 @@
 ---
 title: "1 Kings 9 WEB | Read the Bible Online"
 linkTitle: "9"
-description: "Read 1 Kings 9 Online | When Solomon had finished the building of Yahweh’s house, the king’s house, and all Solomon’s desire which he was pleased to do..."
+description: >
+  Read 1 Kings 9 Online | When Solomon had finished the building of Yahweh’s house, the king’s house, and all Solomon’s desire which he was pleased to do...
 weight: 9
 ---
 

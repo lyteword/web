@@ -1,7 +1,8 @@
 ---
 title: "2 Chronicles 4 WEB | Read the Bible Online"
 linkTitle: "4"
-description: "Read 2 Chronicles 4 Online | Then he made an altar of bronze, twenty cubits[^345] long, twenty cubits wide, and ten cubits high..."
+description: >
+  Read 2 Chronicles 4 Online | Then he made an altar of bronze, twenty cubits long, twenty cubits wide, and ten cubits high...
 weight: 4
 ---
 

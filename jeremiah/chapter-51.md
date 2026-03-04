@@ -1,7 +1,8 @@
 ---
 title: "Jeremiah 51 WEB | Read the Bible Online"
 linkTitle: "51"
-description: "Read Jeremiah 51 Online | Yahweh says: “Behold, I will raise up against Babylon, and against those who dwell in Lebkamai, a destroying wind..."
+description: >
+  Read Jeremiah 51 Online | Yahweh says: “Behold, I will raise up against Babylon, and against those who dwell in Lebkamai, a destroying wind...
 weight: 51
 ---
 

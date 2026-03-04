@@ -1,7 +1,8 @@
 ---
 title: "Micah 1 WEB | Read the Bible Online"
 linkTitle: "1"
-description: "Read Micah 1 Online | Yahweh’s[^609] word that came to Micah of Morasheth in the days of Jotham, Ahaz, and Hezekiah, kings of Judah, which he saw concerning Samaria and Jerusalem..."
+description: >
+  Read Micah 1 Online | Yahweh’s word that came to Micah of Morasheth in the days of Jotham, Ahaz, and Hezekiah, kings of Judah, which he saw concerning Samaria and Jerusalem...
 weight: 1
 ---
 

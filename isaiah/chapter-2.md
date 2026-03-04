@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 2 WEB | Read the Bible Online"
 linkTitle: "2"
-description: "Read Isaiah 2 Online | This is what Isaiah the son of Amoz saw concerning Judah and Jerusalem..."
+description: >
+  Read Isaiah 2 Online | This is what Isaiah the son of Amoz saw concerning Judah and Jerusalem...
 weight: 2
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Romans 8 WEB | Read the Bible Online"
 linkTitle: "8"
-description: "Read Romans 8 Online | There is therefore now no condemnation to those who are in Christ Jesus, who don’t walk according to the flesh, but according to the Spirit.[^1126..."
+description: >
+  Read Romans 8 Online | There is therefore now no condemnation to those who are in Christ Jesus, who don’t walk according to the flesh, but according to the Spirit.[^1126...
 weight: 8
 ---
 

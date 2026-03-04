@@ -1,7 +1,8 @@
 ---
 title: "Acts 24 WEB | Read the Bible Online"
 linkTitle: "24"
-description: "Read Acts 24 Online | After five days, the high priest, Ananias, came down with certain elders and an orator, one Tertullus. They informed the governor against Paul..."
+description: >
+  Read Acts 24 Online | After five days, the high priest, Ananias, came down with certain elders and an orator, one Tertullus. They informed the governor against Paul...
 weight: 24
 ---
 

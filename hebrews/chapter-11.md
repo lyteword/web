@@ -1,7 +1,8 @@
 ---
 title: "Hebrews 11 WEB | Read the Bible Online"
 linkTitle: "11"
-description: "Read Hebrews 11 Online | Now faith is assurance of things hoped for, proof of things not seen..."
+description: >
+  Read Hebrews 11 Online | Now faith is assurance of things hoped for, proof of things not seen...
 weight: 11
 ---
 

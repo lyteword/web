@@ -1,7 +1,8 @@
 ---
 title: "Jonah 4 WEB | Read the Bible Online"
 linkTitle: "4"
-description: "Read Jonah 4 Online | But it displeased Jonah exceedingly, and he was angry..."
+description: >
+  Read Jonah 4 Online | But it displeased Jonah exceedingly, and he was angry...
 weight: 4
 ---
 

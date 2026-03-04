@@ -1,7 +1,8 @@
 ---
 title: "Luke 15 WEB | Read the Bible Online"
 linkTitle: "15"
-description: "Read Luke 15 Online | Now all the tax collectors and sinners were coming close to him to hear him..."
+description: >
+  Read Luke 15 Online | Now all the tax collectors and sinners were coming close to him to hear him...
 weight: 15
 ---
 

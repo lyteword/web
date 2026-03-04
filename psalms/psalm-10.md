@@ -1,7 +1,8 @@
 ---
 title: "Psalm 10 WEB | Read the Bible Online"
 linkTitle: "10"
-description: "Read Psalm 10 Online | Why do you stand far off, Yahweh? Why do you hide yourself in times of trouble..."
+description: >
+  Read Psalm 10 Online | Why do you stand far off, Yahweh? Why do you hide yourself in times of trouble...
 weight: 10
 ---
 

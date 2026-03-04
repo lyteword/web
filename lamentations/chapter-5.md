@@ -1,7 +1,8 @@
 ---
 title: "Lamentations 5 WEB | Read the Bible Online"
 linkTitle: "5"
-description: "Read Lamentations 5 Online | Remember, Yahweh, what has come on us. Look, and see our reproach..."
+description: >
+  Read Lamentations 5 Online | Remember, Yahweh, what has come on us. Look, and see our reproach...
 weight: 5
 ---
 

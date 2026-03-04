@@ -1,7 +1,8 @@
 ---
 title: "Psalm 42 WEB | Read the Bible Online"
 linkTitle: "42"
-description: "Read Psalm 42 Online | As the deer pants for the water brooks, so my soul pants after you, God.[^435..."
+description: >
+  Read Psalm 42 Online | As the deer pants for the water brooks, so my soul pants after you, God.[^435...
 weight: 42
 ---
 

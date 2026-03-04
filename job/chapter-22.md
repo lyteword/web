@@ -1,7 +1,8 @@
 ---
 title: "Job 22 WEB | Read the Bible Online"
 linkTitle: "22"
-description: "Read Job 22 Online | Then Eliphaz the Temanite answered..."
+description: >
+  Read Job 22 Online | Then Eliphaz the Temanite answered...
 weight: 22
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Psalm 18 WEB | Read the Bible Online"
 linkTitle: "18"
-description: "Read Psalm 18 Online | I love you, Yahweh, my strength..."
+description: >
+  Read Psalm 18 Online | I love you, Yahweh, my strength...
 weight: 18
 ---
 

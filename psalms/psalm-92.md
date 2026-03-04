@@ -1,7 +1,8 @@
 ---
 title: "Psalm 92 WEB | Read the Bible Online"
 linkTitle: "92"
-description: "Read Psalm 92 Online | It is a good thing to give thanks to Yahweh, to sing praises to your name, Most High..."
+description: >
+  Read Psalm 92 Online | It is a good thing to give thanks to Yahweh, to sing praises to your name, Most High...
 weight: 92
 ---
 

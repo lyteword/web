@@ -1,7 +1,8 @@
 ---
 title: "Luke 1 WEB | Read the Bible Online"
 linkTitle: "1"
-description: "Read Luke 1 Online | Since many have undertaken to set in order a narrative concerning those matters which have been fulfilled among us..."
+description: >
+  Read Luke 1 Online | Since many have undertaken to set in order a narrative concerning those matters which have been fulfilled among us...
 weight: 1
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 22 WEB | Read the Bible Online"
 linkTitle: "22"
-description: "Read Isaiah 22 Online | The burden of the valley of vision. What ails you now, that you have all gone up to the housetops..."
+description: >
+  Read Isaiah 22 Online | The burden of the valley of vision. What ails you now, that you have all gone up to the housetops...
 weight: 22
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Hosea 4 WEB | Read the Bible Online"
 linkTitle: "4"
-description: "Read Hosea 4 Online | Hear Yahweh’s word, you children of Israel, for Yahweh has a charge against the inhabitants of the land: “Indeed there is no truth, nor goodness, nor knowledge of God in the land..."
+description: >
+  Read Hosea 4 Online | Hear Yahweh’s word, you children of Israel, for Yahweh has a charge against the inhabitants of the land: “Indeed there is no truth, nor goodness, nor knowledge of God in the land...
 weight: 4
 ---
 

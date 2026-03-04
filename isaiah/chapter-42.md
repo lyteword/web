@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 42 WEB | Read the Bible Online"
 linkTitle: "42"
-description: "Read Isaiah 42 Online | “Behold, my servant, whom I uphold, my chosen, in whom my soul delights: I have put my Spirit on him. He will bring justice to the nations..."
+description: >
+  Read Isaiah 42 Online | “Behold, my servant, whom I uphold, my chosen, in whom my soul delights: I have put my Spirit on him. He will bring justice to the nations...
 weight: 42
 ---
 

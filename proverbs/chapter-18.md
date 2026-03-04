@@ -1,7 +1,8 @@
 ---
 title: "Proverbs 18 WEB | Read the Bible Online"
 linkTitle: "18"
-description: "Read Proverbs 18 Online | A man who isolates himself pursues selfishness, and defies all sound judgment..."
+description: >
+  Read Proverbs 18 Online | A man who isolates himself pursues selfishness, and defies all sound judgment...
 weight: 18
 ---
 

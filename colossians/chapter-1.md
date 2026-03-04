@@ -1,7 +1,8 @@
 ---
 title: "Colossians 1 WEB | Read the Bible Online"
 linkTitle: "1"
-description: "Read Colossians 1 Online | Paul, an apostle of Christ[^1266] Jesus through the will of God, and Timothy our brother..."
+description: >
+  Read Colossians 1 Online | Paul, an apostle of Christ Jesus through the will of God, and Timothy our brother...
 weight: 1
 ---
 

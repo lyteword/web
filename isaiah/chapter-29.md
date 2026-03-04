@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 29 WEB | Read the Bible Online"
 linkTitle: "29"
-description: "Read Isaiah 29 Online | Woe to Ariel! Ariel, the city where David encamped! Add year to year; let the feasts come around..."
+description: >
+  Read Isaiah 29 Online | Woe to Ariel! Ariel, the city where David encamped! Add year to year; let the feasts come around...
 weight: 29
 ---
 

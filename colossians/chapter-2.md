@@ -1,7 +1,8 @@
 ---
 title: "Colossians 2 WEB | Read the Bible Online"
 linkTitle: "2"
-description: "Read Colossians 2 Online | For I desire to have you know how greatly I struggle for you and for those at Laodicea, and for as many as have not seen my face in the flesh..."
+description: >
+  Read Colossians 2 Online | For I desire to have you know how greatly I struggle for you and for those at Laodicea, and for as many as have not seen my face in the flesh...
 weight: 2
 ---
 

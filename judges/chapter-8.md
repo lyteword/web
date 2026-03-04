@@ -1,7 +1,8 @@
 ---
 title: "Judges 8 WEB | Read the Bible Online"
 linkTitle: "8"
-description: "Read Judges 8 Online | The men of Ephraim said to him, “Why have you treated us this way, that you didn’t call us when you went to fight with Midian?” They rebuked him sharply..."
+description: >
+  Read Judges 8 Online | The men of Ephraim said to him, “Why have you treated us this way, that you didn’t call us when you went to fight with Midian?” They rebuked him sharply...
 weight: 8
 ---
 

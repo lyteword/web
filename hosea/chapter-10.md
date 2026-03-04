@@ -1,7 +1,8 @@
 ---
 title: "Hosea 10 WEB | Read the Bible Online"
 linkTitle: "10"
-description: "Read Hosea 10 Online | Israel is a luxuriant vine that produces his fruit. According to the abundance of his fruit he has multiplied his altars. As their land has prospered, they have adorned their sacred stones..."
+description: >
+  Read Hosea 10 Online | Israel is a luxuriant vine that produces his fruit. According to the abundance of his fruit he has multiplied his altars. As their land has prospered, they have adorned their sacred stones...
 weight: 10
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "2 Samuel 8 WEB | Read the Bible Online"
 linkTitle: "8"
-description: "Read 2 Samuel 8 Online | After this, David struck the Philistines and subdued them; and David took the bridle of the mother city out of the hand of the Philistines..."
+description: >
+  Read 2 Samuel 8 Online | After this, David struck the Philistines and subdued them; and David took the bridle of the mother city out of the hand of the Philistines...
 weight: 8
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Hosea 5 WEB | Read the Bible Online"
 linkTitle: "5"
-description: "Read Hosea 5 Online | “Listen to this, you priests! Listen, house of Israel, and give ear, house of the king! For the judgment is against you; for you have been a snare at Mizpah, and a net spread on Tabor..."
+description: >
+  Read Hosea 5 Online | “Listen to this, you priests! Listen, house of Israel, and give ear, house of the king! For the judgment is against you; for you have been a snare at Mizpah, and a net spread on Tabor...
 weight: 5
 ---
 

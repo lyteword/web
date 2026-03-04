@@ -1,7 +1,8 @@
 ---
 title: "Ezekiel 41 WEB | Read the Bible Online"
 linkTitle: "41"
-description: "Read Ezekiel 41 Online | He brought me to the nave and measured the posts, six cubits wide on the one side and six cubits wide on the other side, which was the width of the tent..."
+description: >
+  Read Ezekiel 41 Online | He brought me to the nave and measured the posts, six cubits wide on the one side and six cubits wide on the other side, which was the width of the tent...
 weight: 41
 ---
 

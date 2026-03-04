@@ -1,7 +1,8 @@
 ---
 title: "John 18 WEB | Read the Bible Online"
 linkTitle: "18"
-description: "Read John 18 Online | When Jesus had spoken these words, he went out with his disciples over the brook Kidron, where there was a garden, into which he and his disciples entered..."
+description: >
+  Read John 18 Online | When Jesus had spoken these words, he went out with his disciples over the brook Kidron, where there was a garden, into which he and his disciples entered...
 weight: 18
 ---
 

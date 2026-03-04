@@ -1,7 +1,8 @@
 ---
 title: "Zechariah 12 WEB | Read the Bible Online"
 linkTitle: "12"
-description: "Read Zechariah 12 Online | A revelation of Yahweh’s word concerning Israel: Yahweh, who stretches out the heavens and lays the foundation of the earth, and forms the spirit of man within him says..."
+description: >
+  Read Zechariah 12 Online | A revelation of Yahweh’s word concerning Israel: Yahweh, who stretches out the heavens and lays the foundation of the earth, and forms the spirit of man within him says...
 weight: 12
 ---
 

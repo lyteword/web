@@ -1,7 +1,8 @@
 ---
 title: "Hebrews 1 WEB | Read the Bible Online"
 linkTitle: "1"
-description: "Read Hebrews 1 Online | God, having in the past spoken to the fathers through the prophets at many times and in various ways..."
+description: >
+  Read Hebrews 1 Online | God, having in the past spoken to the fathers through the prophets at many times and in various ways...
 weight: 1
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Proverbs 14 WEB | Read the Bible Online"
 linkTitle: "14"
-description: "Read Proverbs 14 Online | Every wise woman builds her house, but the foolish one tears it down with her own hands..."
+description: >
+  Read Proverbs 14 Online | Every wise woman builds her house, but the foolish one tears it down with her own hands...
 weight: 14
 ---
 

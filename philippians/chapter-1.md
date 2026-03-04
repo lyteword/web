@@ -1,7 +1,8 @@
 ---
 title: "Philippians 1 WEB | Read the Bible Online"
 linkTitle: "1"
-description: "Read Philippians 1 Online | Paul and Timothy, servants of Jesus Christ,[^1259] to all the saints in Christ Jesus who are at Philippi, with the overseers[^1260] and servants:[^1261..."
+description: >
+  Read Philippians 1 Online | Paul and Timothy, servants of Jesus Christ, to all the saints in Christ Jesus who are at Philippi, with the overseers and servants:[^1261...
 weight: 1
 ---
 

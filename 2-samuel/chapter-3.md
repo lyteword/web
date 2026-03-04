@@ -1,7 +1,8 @@
 ---
 title: "2 Samuel 3 WEB | Read the Bible Online"
 linkTitle: "3"
-description: "Read 2 Samuel 3 Online | Now there was long war between Saul’s house and David’s house. David grew stronger and stronger, but Saul’s house grew weaker and weaker..."
+description: >
+  Read 2 Samuel 3 Online | Now there was long war between Saul’s house and David’s house. David grew stronger and stronger, but Saul’s house grew weaker and weaker...
 weight: 3
 ---
 

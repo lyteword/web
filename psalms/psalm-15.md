@@ -1,7 +1,8 @@
 ---
 title: "Psalm 15 WEB | Read the Bible Online"
 linkTitle: "15"
-description: "Read Psalm 15 Online | Yahweh, who shall dwell in your sanctuary? Who shall live on your holy hill..."
+description: >
+  Read Psalm 15 Online | Yahweh, who shall dwell in your sanctuary? Who shall live on your holy hill...
 weight: 15
 ---
 

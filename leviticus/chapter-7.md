@@ -1,7 +1,8 @@
 ---
 title: "Leviticus 7 WEB | Read the Bible Online"
 linkTitle: "7"
-description: "Read Leviticus 7 Online | “‘This is the law of the trespass offering: It is most holy..."
+description: >
+  Read Leviticus 7 Online | “‘This is the law of the trespass offering: It is most holy...
 weight: 7
 ---
 

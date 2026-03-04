@@ -1,7 +1,8 @@
 ---
 title: "2 Chronicles 35 WEB | Read the Bible Online"
 linkTitle: "35"
-description: "Read 2 Chronicles 35 Online | Josiah kept a Passover to Yahweh in Jerusalem. They killed the Passover on the fourteenth day of the first month..."
+description: >
+  Read 2 Chronicles 35 Online | Josiah kept a Passover to Yahweh in Jerusalem. They killed the Passover on the fourteenth day of the first month...
 weight: 35
 ---
 

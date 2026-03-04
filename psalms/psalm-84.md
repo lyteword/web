@@ -1,7 +1,8 @@
 ---
 title: "Psalm 84 WEB | Read the Bible Online"
 linkTitle: "84"
-description: "Read Psalm 84 Online | How lovely are your dwellings, Yahweh of Armies..."
+description: >
+  Read Psalm 84 Online | How lovely are your dwellings, Yahweh of Armies...
 weight: 84
 ---
 

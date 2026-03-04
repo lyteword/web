@@ -1,7 +1,8 @@
 ---
 title: "1 Timothy 5 WEB | Read the Bible Online"
 linkTitle: "5"
-description: "Read 1 Timothy 5 Online | Don’t rebuke an older man, but exhort him as a father; the younger men as brothers..."
+description: >
+  Read 1 Timothy 5 Online | Don’t rebuke an older man, but exhort him as a father; the younger men as brothers...
 weight: 5
 ---
 

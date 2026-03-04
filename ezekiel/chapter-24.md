@@ -1,7 +1,8 @@
 ---
 title: "Ezekiel 24 WEB | Read the Bible Online"
 linkTitle: "24"
-description: "Read Ezekiel 24 Online | Again, in the ninth year, in the tenth month, in the tenth day of the month, Yahweh’s word came to me, saying..."
+description: >
+  Read Ezekiel 24 Online | Again, in the ninth year, in the tenth month, in the tenth day of the month, Yahweh’s word came to me, saying...
 weight: 24
 ---
 

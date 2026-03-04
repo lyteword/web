@@ -1,7 +1,8 @@
 ---
 title: "Job 20 WEB | Read the Bible Online"
 linkTitle: "20"
-description: "Read Job 20 Online | Then Zophar the Naamathite answered..."
+description: >
+  Read Job 20 Online | Then Zophar the Naamathite answered...
 weight: 20
 ---
 
