@@ -1,11 +1,19 @@
 ---
-title: World English Bible
-linkTitle: WEB
+title: "World English Bible (WEB) | Read the Bible Online"
+linkTitle: "WEB"
+description: >
+  A modernized update of the American Standard Version that uses contemporary English while preserving accuracy.
 sidebar:
   exclude: true
 cascade:
   toc: true
 ---
+
+The World English Bible (WEB) is a modern public-domain translation of the Bible based primarily on the American Standard Version (ASV) of 1901. Created with the goal of providing a freely accessible English Bible without copyright restrictions, the WEB project began in the late 20th century and was completed in the early 2000s. It was developed by volunteers and scholars who sought to update the language of the ASV while maintaining fidelity to the original Hebrew, Aramaic, and Greek texts.
+
+A modernized update of the American Standard Version that uses contemporary English while preserving accuracy. The translation keeps many of the ASV’s strengths—such as careful attention to literal meaning—while replacing archaic wording and grammar that might be difficult for modern readers. The translators also aimed to maintain consistency in how key terms were rendered, helping readers follow themes and concepts throughout the biblical text.
+
+Because it is in the public domain, the World English Bible is widely used in digital applications, websites, and printed materials without licensing fees. This openness has made it particularly valuable for ministries, educators, and developers who want to distribute Scripture freely. As a result, the WEB has become a popular option for readers who want a modern English Bible that remains close to the wording and structure of earlier literal translations.
 
 ## The Old Testament
 
