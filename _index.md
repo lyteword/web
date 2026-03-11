@@ -7,7 +7,10 @@ sidebar:
   exclude: true
 cascade:
   toc: true
+layout: single-section
 ---
+
+# World English Bible
 
 The World English Bible (WEB) is a modern public-domain translation of the Bible based primarily on the American Standard Version (ASV) of 1901. Created with the goal of providing a freely accessible English Bible without copyright restrictions, the WEB project began in the late 20th century and was completed in the early 2000s. It was developed by volunteers and scholars who sought to update the language of the ASV while maintaining fidelity to the original Hebrew, Aramaic, and Greek texts.
 
