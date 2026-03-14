@@ -1,7 +1,13 @@
 ---
-title: Psalms
+title: "Psalms WEB | Read the Bible Online"
+linkTitle: "Psalms"
 weight: 19
+description: >
+  Read Psalms from the World English Bible (WEB) Online
+layout: single-section
 ---
+
+# Psalms
 
 {{< cards >}}
 {{< card link="./psalm-1" title="Psalm 1" icon="book-open" >}}

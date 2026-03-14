@@ -1,7 +1,13 @@
 ---
-title: Isaiah
+title: "Isaiah WEB | Read the Bible Online"
+linkTitle: "Isaiah"
 weight: 23
+description: >
+  Read Isaiah from the World English Bible (WEB) Online
+layout: single-section
 ---
+
+# Isaiah
 
 {{< cards >}}
 {{< card link="./chapter-1" title="Chapter 1" icon="book-open" >}}

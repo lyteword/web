@@ -1,7 +1,13 @@
 ---
-title: Exodus
+title: "Exodus WEB | Read the Bible Online"
+linkTitle: "Exodus"
 weight: 2
+description: >
+  Read Exodus from the World English Bible (WEB) Online
+layout: single-section
 ---
+
+# Exodus
 
 {{< cards >}}
 {{< card link="./chapter-1" title="Chapter 1" icon="book-open" >}}

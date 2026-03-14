@@ -1,7 +1,13 @@
 ---
-title: Lamentations
+title: "Lamentations WEB | Read the Bible Online"
+linkTitle: "Lamentations"
 weight: 25
+description: >
+  Read Lamentations from the World English Bible (WEB) Online
+layout: single-section
 ---
+
+# Lamentations
 
 {{< cards >}}
 {{< card link="./chapter-1" title="Chapter 1" icon="book-open" >}}

@@ -1,7 +1,13 @@
 ---
-title: Joshua
+title: "Joshua WEB | Read the Bible Online"
+linkTitle: "Joshua"
 weight: 6
+description: >
+  Read Joshua from the World English Bible (WEB) Online
+layout: single-section
 ---
+
+# Joshua
 
 {{< cards >}}
 {{< card link="./chapter-1" title="Chapter 1" icon="book-open" >}}

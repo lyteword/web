@@ -1,7 +1,13 @@
 ---
-title: 1 Corinthians
+title: "1 Corinthians WEB | Read the Bible Online"
+linkTitle: "1 Corinthians"
 weight: 46
+description: >
+  Read 1 Corinthians from the World English Bible (WEB) Online
+layout: single-section
 ---
+
+# 1 Corinthians
 
 {{< cards >}}
 {{< card link="./chapter-1" title="Chapter 1" icon="book-open" >}}

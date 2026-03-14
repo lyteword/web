@@ -1,7 +1,13 @@
 ---
-title: Numbers
+title: "Numbers WEB | Read the Bible Online"
+linkTitle: "Numbers"
 weight: 4
+description: >
+  Read Numbers from the World English Bible (WEB) Online
+layout: single-section
 ---
+
+# Numbers
 
 {{< cards >}}
 {{< card link="./chapter-1" title="Chapter 1" icon="book-open" >}}

@@ -1,7 +1,13 @@
 ---
-title: 1 Peter
+title: "1 Peter WEB | Read the Bible Online"
+linkTitle: "1 Peter"
 weight: 60
+description: >
+  Read 1 Peter from the World English Bible (WEB) Online
+layout: single-section
 ---
+
+# 1 Peter
 
 {{< cards >}}
 {{< card link="./chapter-1" title="Chapter 1" icon="book-open" >}}
