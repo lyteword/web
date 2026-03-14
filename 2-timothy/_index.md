@@ -1,7 +1,13 @@
 ---
-title: 2 Timothy
+title: "2 Timothy WEB | Read the Bible Online"
+linkTitle: "2 Timothy"
 weight: 55
+description: >
+  Read 2 Timothy from the World English Bible (WEB) Online
+layout: single-section
 ---
+
+# 2 Timothy
 
 {{< cards >}}
 {{< card link="./chapter-1" title="Chapter 1" icon="book-open" >}}

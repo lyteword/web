@@ -1,7 +1,13 @@
 ---
-title: Job
+title: "Job WEB | Read the Bible Online"
+linkTitle: "Job"
 weight: 18
+description: >
+  Read Job from the World English Bible (WEB) Online
+layout: single-section
 ---
+
+# Job
 
 {{< cards >}}
 {{< card link="./chapter-1" title="Chapter 1" icon="book-open" >}}

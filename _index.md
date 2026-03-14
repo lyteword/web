@@ -1,5 +1,5 @@
 ---
-title: "World English Bible (WEB) | Read the Bible Online"
+title: "World English Bible (WEB) | Read the Bible Online WEB | Read the Bible Online"
 linkTitle: "WEB"
 description: >
   A modernized update of the American Standard Version that uses contemporary English while preserving accuracy.

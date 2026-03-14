@@ -1,7 +1,13 @@
 ---
-title: Amos
+title: "Amos WEB | Read the Bible Online"
+linkTitle: "Amos"
 weight: 30
+description: >
+  Read Amos from the World English Bible (WEB) Online
+layout: single-section
 ---
+
+# Amos
 
 {{< cards >}}
 {{< card link="./chapter-1" title="Chapter 1" icon="book-open" >}}

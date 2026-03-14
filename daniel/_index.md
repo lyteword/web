@@ -1,7 +1,13 @@
 ---
-title: Daniel
+title: "Daniel WEB | Read the Bible Online"
+linkTitle: "Daniel"
 weight: 27
+description: >
+  Read Daniel from the World English Bible (WEB) Online
+layout: single-section
 ---
+
+# Daniel
 
 {{< cards >}}
 {{< card link="./chapter-1" title="Chapter 1" icon="book-open" >}}

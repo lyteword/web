@@ -1,7 +1,13 @@
 ---
-title: Esther
+title: "Esther WEB | Read the Bible Online"
+linkTitle: "Esther"
 weight: 17
+description: >
+  Read Esther from the World English Bible (WEB) Online
+layout: single-section
 ---
+
+# Esther
 
 {{< cards >}}
 {{< card link="./chapter-1" title="Chapter 1" icon="book-open" >}}

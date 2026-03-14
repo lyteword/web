@@ -1,7 +1,13 @@
 ---
-title: 1 Samuel
+title: "1 Samuel WEB | Read the Bible Online"
+linkTitle: "1 Samuel"
 weight: 9
+description: >
+  Read 1 Samuel from the World English Bible (WEB) Online
+layout: single-section
 ---
+
+# 1 Samuel
 
 {{< cards >}}
 {{< card link="./chapter-1" title="Chapter 1" icon="book-open" >}}

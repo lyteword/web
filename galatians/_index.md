@@ -1,7 +1,13 @@
 ---
-title: Galatians
+title: "Galatians WEB | Read the Bible Online"
+linkTitle: "Galatians"
 weight: 48
+description: >
+  Read Galatians from the World English Bible (WEB) Online
+layout: single-section
 ---
+
+# Galatians
 
 {{< cards >}}
 {{< card link="./chapter-1" title="Chapter 1" icon="book-open" >}}

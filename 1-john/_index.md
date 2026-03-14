@@ -1,7 +1,13 @@
 ---
-title: 1 John
+title: "1 John WEB | Read the Bible Online"
+linkTitle: "1 John"
 weight: 62
+description: >
+  Read 1 John from the World English Bible (WEB) Online
+layout: single-section
 ---
+
+# 1 John
 
 {{< cards >}}
 {{< card link="./chapter-1" title="Chapter 1" icon="book-open" >}}

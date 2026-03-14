@@ -1,7 +1,13 @@
 ---
-title: 1 Chronicles
+title: "1 Chronicles WEB | Read the Bible Online"
+linkTitle: "1 Chronicles"
 weight: 13
+description: >
+  Read 1 Chronicles from the World English Bible (WEB) Online
+layout: single-section
 ---
+
+# 1 Chronicles
 
 {{< cards >}}
 {{< card link="./chapter-1" title="Chapter 1" icon="book-open" >}}

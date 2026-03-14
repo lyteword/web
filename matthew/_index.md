@@ -1,7 +1,13 @@
 ---
-title: Matthew
+title: "Matthew WEB | Read the Bible Online"
+linkTitle: "Matthew"
 weight: 40
+description: >
+  Read Matthew from the World English Bible (WEB) Online
+layout: single-section
 ---
+
+# Matthew
 
 {{< cards >}}
 {{< card link="./chapter-1" title="Chapter 1" icon="book-open" >}}

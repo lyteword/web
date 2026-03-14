@@ -1,7 +1,13 @@
 ---
-title: Genesis
+title: "Genesis WEB | Read the Bible Online"
+linkTitle: "Genesis"
 weight: 1
+description: >
+  Read Genesis from the World English Bible (WEB) Online
+layout: single-section
 ---
+
+# Genesis
 
 {{< cards >}}
 {{< card link="./chapter-1" title="Chapter 1" icon="book-open" >}}

@@ -1,7 +1,13 @@
 ---
-title: 1 Thessalonians
+title: "1 Thessalonians WEB | Read the Bible Online"
+linkTitle: "1 Thessalonians"
 weight: 52
+description: >
+  Read 1 Thessalonians from the World English Bible (WEB) Online
+layout: single-section
 ---
+
+# 1 Thessalonians
 
 {{< cards >}}
 {{< card link="./chapter-1" title="Chapter 1" icon="book-open" >}}

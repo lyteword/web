@@ -1,7 +1,13 @@
 ---
-title: 1 Timothy
+title: "1 Timothy WEB | Read the Bible Online"
+linkTitle: "1 Timothy"
 weight: 54
+description: >
+  Read 1 Timothy from the World English Bible (WEB) Online
+layout: single-section
 ---
+
+# 1 Timothy
 
 {{< cards >}}
 {{< card link="./chapter-1" title="Chapter 1" icon="book-open" >}}

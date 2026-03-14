@@ -1,7 +1,13 @@
 ---
-title: Revelation
+title: "Revelation WEB | Read the Bible Online"
+linkTitle: "Revelation"
 weight: 66
+description: >
+  Read Revelation from the World English Bible (WEB) Online
+layout: single-section
 ---
+
+# Revelation
 
 {{< cards >}}
 {{< card link="./chapter-1" title="Chapter 1" icon="book-open" >}}
